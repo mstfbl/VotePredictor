@@ -1,0 +1,255 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18d35b330">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Immigration and Nationality Act to promote innovation, investment, and research in the United States, and for other purposes.;H.R. 3370 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-08-07</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Immigration and Nationality Act to promote innovation, investment, and research in the United States, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 3370 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-07-29</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>57 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18d35b330</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3370ih</identifier>
+<identifier type="preferred citation">H.R. 3370</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h3370_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3370ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3370ih/html/BILLS-114hr3370ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3370ih/pdf/BILLS-114hr3370ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3370ih/xml/BILLS-114hr3370ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-08-07</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-11</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr3370ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Zoe Lofgren</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Luis V. Gutierrez</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Education and the Workforce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on the Judiciary</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Rules</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 8 Section 1101(a)(27)(C)(ii)</partNumber>
+  <partNumber>Title 8 Section 1151(b)(1)</partNumber>
+  <partNumber>Title 8 Section 1153(b)</partNumber>
+  <partNumber>Title 8 Section 1153(b)(5)</partNumber>
+  <partNumber>Title 8 Section 1153(b)(5)(A)</partNumber>
+  <partNumber>Title 8 Section 1153(b)(5)(B)</partNumber>
+  <partNumber>Title 8 Section 1153(b)(5)(C)</partNumber>
+  <partNumber>Title 8 Section 1153(b)(5)(D)</partNumber>
+  <partNumber>Title 8 Section 1153(b)(5)(E)</partNumber>
+  <partNumber>Title 8 Section 1153(b)(6)</partNumber>
+  <partNumber>Title 8 Section 1153note</partNumber>
+  <partNumber>Title 8 Section 1154(a)(1)(H)</partNumber>
+  <partNumber>Title 8 Section 1182note</partNumber>
+  <partNumber>Title 8 Section 1186a</partNumber>
+  <partNumber>Title 8 Section 1186b</partNumber>
+  <partNumber>Title 8 Section 1186b(d)(2)(A)</partNumber>
+  <partNumber>Title 8 Section 1255</partNumber>
+  <partNumber>Title 8 Section 1324anote</partNumber>
+  <partNumber>Title 8 Section 1356</partNumber>
+  <partNumber>Title 8 Section 1356(m)</partNumber>
+  <partNumber>Title 8 Section 1356(u)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">8 U.S.C. 1101(a)(27)(C)(ii)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1151(b)(1)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1153(b)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1153(b)(5)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1153(b)(5)(A)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1153(b)(5)(B)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1153(b)(5)(C)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1153(b)(5)(D)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1153(b)(5)(E)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1153(b)(6)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1153note</identifier>
+ <identifier type="USC citation">8 U.S.C. 1154(a)(1)(H)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1182note</identifier>
+ <identifier type="USC citation">8 U.S.C. 1186a</identifier>
+ <identifier type="USC citation">8 U.S.C. 1186b</identifier>
+ <identifier type="USC citation">8 U.S.C. 1186b(d)(2)(A)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1255</identifier>
+ <identifier type="USC citation">8 U.S.C. 1324anote</identifier>
+ <identifier type="USC citation">8 U.S.C. 1356</identifier>
+ <identifier type="USC citation">8 U.S.C. 1356(m)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1356(u)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 101(a)(17)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 101(a)(17)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 80b-2(a)(11)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 80b-2(a)(11)</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr3370ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>3370</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <officialTitle>To amend the Immigration and Nationality Act to promote innovation, investment, and research in the United States, and for other purposes.</officialTitle>
+ <action date="2015-07-29">Ms. Lofgren (for herself and Mr. Gutiérrez) introduced the following bill; which was referred to the Committee on the Judiciary, and in addition to the Committees on Education and the Workforce and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <congCommittee authorityId="hsed00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Education and the Workforce</name>
+                      <name type="authority-short">Education and the Workforce</name>
+                </congCommittee>
+ <congCommittee authorityId="hsju00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on the Judiciary</name>
+                      <name type="authority-short">Judiciary</name>
+                </congCommittee>
+ <congCommittee authorityId="hsru00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Rules</name>
+                      <name type="authority-short">Rules</name>
+                </congCommittee>
+ <congMember authorityId="701" bioGuideId="L000397" chamber="H" congress="114" gpoId="7821" party="D" role="SPONSOR" state="CA">
+                      <name type="parsed">Ms. Lofgren</name>
+                      <name type="authority-fnf">Zoe Lofgren</name>
+                      <name type="authority-lnf">Lofgren, Zoe</name>
+                </congMember>
+ <congMember authorityId="478" bioGuideId="G000535" chamber="H" congress="114" gpoId="7924" party="D" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Gutiérrez</name>
+                      <name type="authority-fnf">Luis V. Gutierrez</name>
+                      <name type="authority-lnf">Gutierrez, Luis V.</name>
+                      <name type="authority-other">Luis Gutierrez</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="8">
+                      <section detail="(a)(27)(C)(ii)" number="1101"></section>
+                      <section detail="(b)(1)" number="1151"></section>
+                      <section detail="(b)" number="1153"></section>
+                      <section detail="(b)(5)" number="1153"></section>
+                      <section detail="(b)(5)(A)" number="1153"></section>
+                      <section detail="(b)(5)(B)" number="1153"></section>
+                      <section detail="(b)(5)(C)" number="1153"></section>
+                      <section detail="(b)(5)(D)" number="1153"></section>
+                      <section detail="(b)(5)(E)" number="1153"></section>
+                      <section detail="(b)(6)" number="1153"></section>
+                      <section detail="note" number="1153"></section>
+                      <section detail="(a)(1)(H)" number="1154"></section>
+                      <section detail="note" number="1182"></section>
+                      <section number="1186a"></section>
+                      <section number="1186b"></section>
+                      <section detail="(d)(2)(A)" number="1186b"></section>
+                      <section number="1255"></section>
+                      <section detail="note" number="1324a"></section>
+                      <section number="1356"></section>
+                      <section detail="(m)" number="1356"></section>
+                      <section detail="(u)" number="1356"></section>
+                </USCode>
+ <USCode title="10">
+                      <section detail="(a)(17)" number="101"></section>
+                </USCode>
+ <USCode title="15">
+                      <section detail="(a)(11)" number="80b-2"></section>
+                </USCode>
+</extension>
+</mods>

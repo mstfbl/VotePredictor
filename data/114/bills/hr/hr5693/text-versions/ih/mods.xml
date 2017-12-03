@@ -1,0 +1,407 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1904524d2">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend title VII of the Civil Rights Act of 1964 and other statutes to clarify appropriate liability standards for Federal antidiscrimination claims.;
+   		Fair Employment Protection Act of 2016;H.R. 5693 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-07-15</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend title VII of the Civil Rights Act of 1964 and other statutes to clarify appropriate liability standards for Federal antidiscrimination claims.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Fair Employment Protection Act of 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 5693 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-07-08</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>21 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee1904524d2</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5693ih</identifier>
+<identifier type="preferred citation">H.R. 5693</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h5693_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5693ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5693ih/html/BILLS-114hr5693ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5693ih/pdf/BILLS-114hr5693ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5693ih/xml/BILLS-114hr5693ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-07-15</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-07-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr5693ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Rosa L. DeLauro</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Sam Farr</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Eleanor Holmes Norton</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Suzan K. DelBene</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael E. Capuano</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Barbara Lee</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jim McDermott</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>James R. Langevin</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Pocan</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Takano</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Eric Swalwell</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gene Green</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael M. Honda</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Education and the Workforce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Oversight and Government Reform</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on House Administration</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on the Judiciary</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 2 Section 1311</partNumber>
+</titleInfo>
+ <identifier type="USC citation">2 U.S.C. 1311</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 3 Section 411</partNumber>
+</titleInfo>
+ <identifier type="USC citation">3 U.S.C. 411</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 29 Section 623</partNumber>
+  <partNumber>Title 29 Section 633a</partNumber>
+  <partNumber>Title 29 Section 791</partNumber>
+  <partNumber>Title 29 Section 794a</partNumber>
+  <partNumber>Title 29 Section 794</partNumber>
+</titleInfo>
+ <identifier type="USC citation">29 U.S.C. 623</identifier>
+ <identifier type="USC citation">29 U.S.C. 633a</identifier>
+ <identifier type="USC citation">29 U.S.C. 791</identifier>
+ <identifier type="USC citation">29 U.S.C. 794a</identifier>
+ <identifier type="USC citation">29 U.S.C. 794</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 12112</partNumber>
+  <partNumber>Title 42 Section 12203</partNumber>
+  <partNumber>Title 42 Section 1981</partNumber>
+  <partNumber>Title 42 Section 2000e-16b</partNumber>
+  <partNumber>Title 42 Section 2000e-16</partNumber>
+  <partNumber>Title 42 Section 2000e-2</partNumber>
+  <partNumber>Title 42 Section 2000e-3</partNumber>
+  <partNumber>Title 42 Section 2000ff-1</partNumber>
+  <partNumber>Title 42 Section 2000ff-6(f)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 12112</identifier>
+ <identifier type="USC citation">42 U.S.C. 12203</identifier>
+ <identifier type="USC citation">42 U.S.C. 1981</identifier>
+ <identifier type="USC citation">42 U.S.C. 2000e-16b</identifier>
+ <identifier type="USC citation">42 U.S.C. 2000e-16</identifier>
+ <identifier type="USC citation">42 U.S.C. 2000e-2</identifier>
+ <identifier type="USC citation">42 U.S.C. 2000e-3</identifier>
+ <identifier type="USC citation">42 U.S.C. 2000ff-1</identifier>
+ <identifier type="USC citation">42 U.S.C. 2000ff-6(f)</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr5693ih</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>5693</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle>Fair Employment Protection Act of 2016</shortTitle>
+ <action date="2016-07-08">Ms. DeLauro (for herself, Mr. Farr, Ms. Norton, Ms. DelBene, Mr. Capuano, Ms. Lee, Mr. McDermott, Mr. Langevin, Mr. Pocan, Mr. Takano, Mr. Swalwell of California, Mr. Gene Green of Texas, and Mr. Honda) introduced the following bill; which was referred to the Committee on Education and the Workforce, and in addition to the Committees on House Administration, the Judiciary, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <congCommittee authorityId="hsed00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Education and the Workforce</name>
+                      <name type="authority-short">Education and the Workforce</name>
+                </congCommittee>
+ <congCommittee authorityId="hsgo00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Oversight and Government Reform</name>
+                      <name type="authority-short">Oversight and Government Reform</name>
+                </congCommittee>
+ <congCommittee authorityId="hsha00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on House Administration</name>
+                      <name type="authority-short">House Administration</name>
+                </congCommittee>
+ <congCommittee authorityId="hsju00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on the Judiciary</name>
+                      <name type="authority-short">Judiciary</name>
+                </congCommittee>
+ <congMember authorityId="281" bioGuideId="D000216" chamber="H" congress="114" gpoId="7868" party="D" role="SPONSOR" state="CT">
+                      <name type="parsed">Ms. DeLauro</name>
+                      <name type="authority-fnf">Rosa L. DeLauro</name>
+                      <name type="authority-lnf">DeLauro, Rosa L.</name>
+                      <name type="authority-other">Rosa Delauro</name>
+                </congMember>
+ <congMember authorityId="368" bioGuideId="F000030" chamber="H" congress="114" gpoId="7822" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Farr</name>
+                      <name type="authority-fnf">Sam Farr</name>
+                      <name type="authority-lnf">Farr, Sam</name>
+                </congMember>
+ <congMember authorityId="868" bioGuideId="N000147" chamber="H" congress="114" gpoId="7871" party="D" role="COSPONSOR" state="DC">
+                      <name type="parsed">Ms. Norton</name>
+                      <name type="authority-fnf">Eleanor Holmes Norton</name>
+                      <name type="authority-lnf">Norton, Eleanor Holmes</name>
+                      <name type="authority-other">Eleanor Norton</name>
+                </congMember>
+ <congMember authorityId="2096" bioGuideId="D000617" chamber="H" congress="114" gpoId="8374" party="D" role="COSPONSOR" state="WA">
+                      <name type="parsed">Ms. DelBene</name>
+                      <name type="authority-fnf">Suzan K. DelBene</name>
+                      <name type="authority-lnf">DelBene, Suzan K.</name>
+                      <name type="authority-other">Ms. Suzan Delbene</name>
+                </congMember>
+ <congMember authorityId="1564" bioGuideId="C001037" chamber="H" congress="114" gpoId="7973" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Mr. Capuano</name>
+                      <name type="authority-fnf">Michael E. Capuano</name>
+                      <name type="authority-lnf">Capuano, Michael E.</name>
+                      <name type="authority-other">Michael Capuano</name>
+                </congMember>
+ <congMember authorityId="1501" bioGuideId="L000551" chamber="H" congress="114" gpoId="7814" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Lee</name>
+                      <name type="authority-fnf">Barbara Lee</name>
+                      <name type="authority-lnf">Lee, Barbara</name>
+                </congMember>
+ <congMember authorityId="766" bioGuideId="M000404" chamber="H" congress="114" gpoId="8211" party="D" role="COSPONSOR" state="WA">
+                      <name type="parsed">Mr. McDermott</name>
+                      <name type="authority-fnf">Jim McDermott</name>
+                      <name type="authority-lnf">McDermott, Jim</name>
+                </congMember>
+ <congMember authorityId="1668" bioGuideId="L000559" chamber="H" congress="114" gpoId="8140" party="D" role="COSPONSOR" state="RI">
+                      <name type="parsed">Mr. Langevin</name>
+                      <name type="authority-fnf">James R. Langevin</name>
+                      <name type="authority-lnf">Langevin, James R.</name>
+                      <name type="authority-other">James Langevin</name>
+                </congMember>
+ <congMember authorityId="2171" bioGuideId="P000607" chamber="H" congress="114" party="D" role="COSPONSOR" state="WI">
+                      <name type="parsed">Mr. Pocan</name>
+                      <name type="authority-fnf">Mark Pocan</name>
+                      <name type="authority-lnf">Pocan, Mark</name>
+                </congMember>
+ <congMember authorityId="2110" bioGuideId="T000472" chamber="H" congress="114" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Takano</name>
+                      <name type="authority-fnf">Mark Takano</name>
+                      <name type="authority-lnf">Takano, Mark</name>
+                </congMember>
+ <congMember authorityId="2104" bioGuideId="S001193" chamber="H" congress="114" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Swalwell of California</name>
+                      <name type="authority-fnf">Eric Swalwell</name>
+                      <name type="authority-lnf">Swalwell, Eric</name>
+                </congMember>
+ <congMember authorityId="462" bioGuideId="G000410" chamber="H" congress="114" gpoId="8185" party="D" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Gene Green of Texas</name>
+                      <name type="authority-fnf">Gene Green</name>
+                      <name type="authority-lnf">Green, Gene</name>
+                </congMember>
+ <congMember authorityId="1634" bioGuideId="H001034" chamber="H" congress="114" gpoId="7820" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Honda</name>
+                      <name type="authority-fnf">Michael M. Honda</name>
+                      <name type="authority-lnf">Honda, Michael M.</name>
+                      <name type="authority-other">Michael Honda</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="2">
+                      <section number="1311"></section>
+                </USCode>
+ <USCode title="3">
+                      <section number="411"></section>
+                </USCode>
+ <USCode title="29">
+                      <section number="623"></section>
+                      <section number="633a"></section>
+                      <section number="791"></section>
+                      <section number="794a"></section>
+                      <section number="794"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="12112"></section>
+                      <section number="12203"></section>
+                      <section number="1981"></section>
+                      <section number="2000e-16b"></section>
+                      <section number="2000e-16"></section>
+                      <section number="2000e-2"></section>
+                      <section number="2000e-3"></section>
+                      <section number="2000ff-1"></section>
+                      <section detail="(f)" number="2000ff-6"></section>
+                </USCode>
+</extension>
+</mods>

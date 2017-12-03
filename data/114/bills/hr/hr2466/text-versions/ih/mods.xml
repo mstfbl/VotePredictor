@@ -1,0 +1,153 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18c7de517">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To require the President to submit a plan for resolving all outstanding claims relating to property confiscated by the Government of Cuba before taking action to ease restrictions on travel to or trade with Cuba, and for other purposes.;Cuba Normalization Accountability Act of 2015;H.R. 2466 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-05-28</dateIngested>
+</extension>
+<titleInfo>
+ <title>To require the President to submit a plan for resolving all outstanding claims relating to property confiscated by the Government of Cuba before taking action to ease restrictions on travel to or trade with Cuba, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Cuba Normalization Accountability Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2466 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-05-20</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>7 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18c7de517</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2466ih</identifier>
+<identifier type="preferred citation">H.R. 2466</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2466_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2466ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2466ih/html/BILLS-114hr2466ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2466ih/pdf/BILLS-114hr2466ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2466ih/xml/BILLS-114hr2466ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-05-28</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-12</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr2466ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Thomas J. Rooney</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Foreign Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 22 Section 6023</partNumber>
+  <partNumber>Title 22 Section 6033</partNumber>
+  <partNumber>Title 22 Section 6065(b)(2)(D)</partNumber>
+  <partNumber>Title 22 Section 6066</partNumber>
+  <partNumber>Title 22 Section 6091</partNumber>
+  <partNumber>Title 22 Section 7201et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">22 U.S.C. 6023</identifier>
+ <identifier type="USC citation">22 U.S.C. 6033</identifier>
+ <identifier type="USC citation">22 U.S.C. 6065(b)(2)(D)</identifier>
+ <identifier type="USC citation">22 U.S.C. 6066</identifier>
+ <identifier type="USC citation">22 U.S.C. 6091</identifier>
+ <identifier type="USC citation">22 U.S.C. 7201et seq.</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr2466ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>2466</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Cuba Normalization Accountability Act of 2015</shortTitle>
+ <officialTitle>To require the President to submit a plan for resolving all outstanding claims relating to property confiscated by the Government of Cuba before taking action to ease restrictions on travel to or trade with Cuba, and for other purposes.</officialTitle>
+ <action date="2015-05-20">Mr. Rooney of Florida introduced the following bill; which was referred to the Committee on Foreign Affairs</action>
+ <congCommittee authorityId="hsfa00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Foreign Affairs</name>
+                      <name type="authority-short">Foreign Affairs</name>
+                </congCommittee>
+ <congMember authorityId="1916" bioGuideId="R000583" chamber="H" congress="114" gpoId="7888" party="R" role="SPONSOR" state="FL">
+                      <name type="parsed">Mr. Rooney of Florida</name>
+                      <name type="authority-fnf">Thomas J. Rooney</name>
+                      <name type="authority-lnf">Rooney, Thomas J.</name>
+                      <name type="authority-other">Mr. Thomas Rooney</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="22">
+                      <section number="6023"></section>
+                      <section number="6033"></section>
+                      <section detail="(b)(2)(D)" number="6065"></section>
+                      <section number="6066"></section>
+                      <section number="6091"></section>
+                      <section detail="et seq." number="7201"></section>
+                </USCode>
+</extension>
+</mods>

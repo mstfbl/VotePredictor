@@ -1,0 +1,179 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18bbc0844">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend titles 10 and 32, United States Code, to require congressional approval before any change may be made to the oaths required for appointment as an officer in the Armed Forces, enlistment in the Armed Forces, or appointment as a cadet or midshipman at a military service academy, and for other purposes.;Preserve and Protect God in Military Oaths Act of 2015;H.R. 1425 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-03-21</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend titles 10 and 32, United States Code, to require congressional approval before any change may be made to the oaths required for appointment as an officer in the Armed Forces, enlistment in the Armed Forces, or appointment as a cadet or midshipman at a military service academy, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Preserve and Protect God in Military Oaths Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 1425 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-03-18</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>4 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18bbc0844</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1425ih</identifier>
+<identifier type="preferred citation">H.R. 1425</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h1425_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1425ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1425ih/html/BILLS-114hr1425ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1425ih/pdf/BILLS-114hr1425ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1425ih/xml/BILLS-114hr1425ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-03-21</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-13</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr1425ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Sam Johnson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Pete Olson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Doug Lamborn</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Armed Services</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 4346(d)</partNumber>
+  <partNumber>Title 10 Section 502</partNumber>
+  <partNumber>Title 10 Section 532</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 4346(d)</identifier>
+ <identifier type="USC citation">10 U.S.C. 502</identifier>
+ <identifier type="USC citation">10 U.S.C. 532</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 32 Section 304</partNumber>
+</titleInfo>
+ <identifier type="USC citation">32 U.S.C. 304</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr1425ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>1425</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Preserve and Protect God in Military Oaths Act of 2015</shortTitle>
+ <officialTitle>To amend titles 10 and 32, United States Code, to require congressional approval before any change may be made to the oaths required for appointment as an officer in the Armed Forces, enlistment in the Armed Forces, or appointment as a cadet or midshipman at a military service academy, and for other purposes.</officialTitle>
+ <action date="2015-03-18">Mr. Sam Johnson of Texas (for himself, Mr. Olson, and Mr. Lamborn) introduced the following bill; which was referred to the Committee on Armed Services</action>
+ <congCommittee authorityId="hsas00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Armed Services</name>
+                      <name type="authority-short">Armed Services</name>
+                </congCommittee>
+ <congMember authorityId="603" bioGuideId="J000174" chamber="H" congress="114" gpoId="8159" party="R" role="SPONSOR" state="TX">
+                      <name type="parsed">Mr. Sam Johnson of Texas</name>
+                      <name type="authority-fnf">Sam Johnson</name>
+                      <name type="authority-lnf">Johnson, Sam</name>
+                </congMember>
+ <congMember authorityId="1955" bioGuideId="O000168" chamber="H" congress="114" gpoId="8178" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Olson</name>
+                      <name type="authority-fnf">Pete Olson</name>
+                      <name type="authority-lnf">Olson, Pete</name>
+                </congMember>
+ <congMember authorityId="1834" bioGuideId="L000564" chamber="H" congress="114" gpoId="7863" party="R" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Lamborn</name>
+                      <name type="authority-fnf">Doug Lamborn</name>
+                      <name type="authority-lnf">Lamborn, Doug</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="10">
+                      <section detail="(d)" number="4346"></section>
+                      <section number="502"></section>
+                      <section number="532"></section>
+                </USCode>
+ <USCode title="32">
+                      <section number="304"></section>
+                </USCode>
+</extension>
+</mods>

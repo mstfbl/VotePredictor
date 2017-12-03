@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2013-01-24T07:00:55Z</createDate>
+    <originChamber>Senate</originChamber>
+    <cosponsors />
+    <title>A bill to prohibit authorized committees and leadership PAC's from employing the spouse or immediate family members of any candidate or Federal office holder connected to the committee.</title>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-01-23</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Rules and Administration.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-01-23</actionDate>
+        <actionCode>B00100</actionCode>
+        <text>Sponsor introductory remarks on measure. (CR S201-202)</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S201-202</url>
+            <name>S201-202</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-01-23</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <placeholderTextForB>1</placeholderTextForB>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <committeeReports />
+    <updateDate>2016-10-25T16:19:56Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional elections</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Public participation and lobbying</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+      <actionDate>2013-01-23</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>V000127</bioguideId>
+        <state>LA</state>
+        <fullName>Sen. Vitter, David [R-LA]</fullName>
+        <firstName>David</firstName>
+        <party>R</party>
+        <lastName>Vitter</lastName>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <lisID>1609</lisID>
+          <bioguideId>V000127</bioguideId>
+          <gpoId>8267</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <relatedBills />
+    <laws />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-01-23T15:35:56Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Rules and Administration Committee</name>
+          <subcommittees />
+          <systemCode>ssra00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-02-07T19:27:26Z</lastSummaryUpdateDate>
+          <updateDate>2013-01-23T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2013-01-23</actionDate>
+          <text><![CDATA[<p>Amends the Federal Election Campaign Act of 1971 to prohibit any authorized committee of a candidate or any other political committee established, maintained, or controlled by a candidate or person who holds a federal office from employing the spouse or any immediate family member of such candidate or federal office holder.</p> <p>Amends the federal criminal code to subject to specified criminal and civil penalties any spouse of a Member of Congress who: (1) was not a registered lobbyist at least one year before the Member's election to Congress; and (2) knowingly lobbies, after the election of such Member, any Member on behalf of a client for compensation or is associated with any such lobbying activity by his or her employer.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <introducedDate>2013-01-23</introducedDate>
+    <billType>S</billType>
+    <congress>113</congress>
+    <billNumber>64</billNumber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to prohibit authorized committees and leadership PAC's from employing the spouse or immediate family members of any candidate or Federal office holder connected to the committee.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>A bill to prohibit authorized committees and leadership PAC's from employing the spouse or immediate family members of any candidate or Federal office holder connected to the committee.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

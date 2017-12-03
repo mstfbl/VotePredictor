@@ -1,0 +1,254 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18d18c0c8">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Homeland Security Act of 2002 to require certain maintenance of security-related technology at airports, and for other purposes.;Keeping our Travelers Safe and Secure Act;H.R. 2770 (RH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-07-23</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Homeland Security Act of 2002 to require certain maintenance of security-related technology at airports, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Keeping our Travelers Safe and Secure Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2770 (RH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-07-22</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>8 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18d18c0c8</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2770rh</identifier>
+<identifier type="preferred citation">H.R. 2770</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2770_rh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2770rh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2770rh/html/BILLS-114hr2770rh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2770rh/pdf/BILLS-114hr2770rh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2770rh/xml/BILLS-114hr2770rh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-07-23</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-11</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr2770rh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Kathleen M. Rice</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bennie G. Thompson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Katko</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Donald M. Payne, Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>William R. Keating</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Peter T. King</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Cedric L. Richmond</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Brian Higgins</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Daniel M. Donovan Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Homeland Security</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 6 Section 561et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">6 U.S.C. 561et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Union Calendar No. 164</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr2770rh</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>2770</billNumber>
+ <billVersion reprint="false">rh</billVersion>
+ <fileSuffix>rh</fileSuffix>
+ <shortTitle type="measure">Keeping our Travelers Safe and Secure Act</shortTitle>
+ <officialTitle>To amend the Homeland Security Act of 2002 to require certain maintenance of security-related technology at airports, and for other purposes.</officialTitle>
+ <action date="2015-06-15">Miss Rice of New York (for herself, Mr. Thompson of Mississippi, Mr. Katko, and Mr. Payne) introduced the following bill; which was referred to the Committee on Homeland Security</action>
+ <action date="2015-07-22">Additional sponsors: Mr. Keating, Mr. King of New York, Mr. Richmond, Mr. Higgins, and Mr. Donovan</action>
+ <action date="2015-07-22">Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action>
+ <congCommittee authorityId="hshm00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Homeland Security</name>
+                      <name type="authority-short">Homeland Security</name>
+                </congCommittee>
+ <congMember authorityId="2262" bioGuideId="R000602" chamber="H" congress="114" party="D" role="SPONSOR" state="NY">
+                      <name type="parsed">Miss Rice of New York</name>
+                      <name type="authority-fnf">Kathleen M. Rice</name>
+                      <name type="authority-lnf">Rice, Kathleen M.</name>
+                      <name type="authority-other">Miss Kathleen Rice</name>
+                </congMember>
+ <congMember authorityId="1151" bioGuideId="T000193" chamber="H" congress="114" gpoId="8020" party="D" role="COSPONSOR" state="MS">
+                      <name type="parsed">Mr. Thompson of Mississippi</name>
+                      <name type="authority-fnf">Bennie G. Thompson</name>
+                      <name type="authority-lnf">Thompson, Bennie G.</name>
+                      <name type="authority-other">Bennie Thompson</name>
+                </congMember>
+ <congMember authorityId="2264" bioGuideId="K000386" chamber="H" congress="114" party="R" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Katko</name>
+                      <name type="authority-fnf">John Katko</name>
+                      <name type="authority-lnf">Katko, John</name>
+                </congMember>
+ <congMember authorityId="2097" bioGuideId="P000604" chamber="H" congress="114" gpoId="8373" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Payne</name>
+                      <name type="authority-fnf">Donald M. Payne, Jr.</name>
+                      <name type="authority-lnf">Payne, Donald M., Jr.</name>
+                      <name type="authority-other">Mr. Donald Payne Jr.</name>
+                </congMember>
+ <congMember authorityId="2025" bioGuideId="K000375" chamber="H" congress="114" gpoId="7975" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Mr. Keating</name>
+                      <name type="authority-fnf">William R. Keating</name>
+                      <name type="authority-lnf">Keating, William R.</name>
+                      <name type="authority-other">Mr. William Keating</name>
+                </congMember>
+ <congMember authorityId="635" bioGuideId="K000210" chamber="H" congress="114" gpoId="8064" party="R" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. King of New York</name>
+                      <name type="authority-fnf">Peter T. King</name>
+                      <name type="authority-lnf">King, Peter T.</name>
+                      <name type="authority-other">Peter King</name>
+                </congMember>
+ <congMember authorityId="2023" bioGuideId="R000588" chamber="H" congress="114" gpoId="7960" party="D" role="COSPONSOR" state="LA">
+                      <name type="parsed">Mr. Richmond</name>
+                      <name type="authority-fnf">Cedric L. Richmond</name>
+                      <name type="authority-lnf">Richmond, Cedric L.</name>
+                      <name type="authority-other">Mr. Cedric Richmond</name>
+                </congMember>
+ <congMember authorityId="1794" bioGuideId="H001038" chamber="H" congress="114" gpoId="8088" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Higgins</name>
+                      <name type="authority-fnf">Brian Higgins</name>
+                      <name type="authority-lnf">Higgins, Brian</name>
+                </congMember>
+ <congMember authorityId="2293" bioGuideId="D000625" chamber="H" congress="114" party="R" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Donovan</name>
+                      <name type="authority-fnf">Daniel M. Donovan Jr.</name>
+                      <name type="authority-lnf">Donovan, Daniel M., Jr.</name>
+                      <name type="authority-other">Mr. Daniel Donovan Jr.</name>
+                </congMember>
+ <congCalendar congress="114" number="164" type="UNION"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="6">
+                      <section detail="et seq." number="561"></section>
+                </USCode>
+</extension>
+</mods>

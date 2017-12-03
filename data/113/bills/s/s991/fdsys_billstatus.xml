@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <updateDate>2016-10-25T16:24:35Z</updateDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 to prevent the avoidance of tax by insurance companies through reinsurance with non-taxed affiliates.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 to prevent the avoidance of tax by insurance companies through reinsurance with non-taxed affiliates.</title>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <lastName>MENENDEZ</lastName>
+        <firstName>ROBERT</firstName>
+        <bioguideId>M000639</bioguideId>
+        <middleName />
+        <state>NJ</state>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <party>D</party>
+        <byRequestType />
+        <identifiers>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <introducedDate>2013-05-20</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-05-30T19:54:15Z</lastSummaryUpdateDate>
+          <updateDate>2013-05-20T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2013-05-20</actionDate>
+          <text><![CDATA[<p>Amends the Internal Revenue Code to exclude from the taxable income of a life insurance company or other insurance company: (1) any non-taxed reinsurance premium; (2) any additional amount paid by an insurance company with respect to the reinsurance for which such non-taxed reinsurance premium is paid; and (3) any return premium, ceding commission, reinsurance recovered, or other amount received by an insurance company with respect to the reinsurance for which such non-taxed reinsurance premium is paid. </p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billType>S</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Insurance industry and regulation</name>
+          </item>
+          <item>
+            <name>Life, casualty, property insurance</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors />
+    <actions>
+      <item>
+        <actionDate>2013-05-20</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2013-05-20</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <title>A bill to amend the Internal Revenue Code of 1986 to prevent the avoidance of tax by insurance companies through reinsurance with non-taxed affiliates.</title>
+    <createDate>2013-05-21T07:02:05Z</createDate>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <actionDate>2013-05-20</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <billNumber>991</billNumber>
+    <laws />
+    <congress>113</congress>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>2054</number>
+        <type>HR</type>
+        <latestTitle>To amend the Internal Revenue Code of 1986 to prevent the avoidance of tax by insurance companies through reinsurance with non-taxed affiliates.</latestTitle>
+        <latestAction>
+          <actionDate>2013-05-20</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>505</number>
+        <type>HR</type>
+        <latestTitle>Balancing Act</latestTitle>
+        <latestAction>
+          <actionDate>2013-04-23</actionDate>
+          <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-05-20T21:36:11Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <committeeReports />
+    <notes />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

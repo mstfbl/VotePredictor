@@ -1,0 +1,152 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee19300a878">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To amend the Foreign Assistance Act of 1961 to provide assistance for developing countries to promote quality basic education and to establish the goal of all children in school and learning as an objective of the United States foreign assistance policy, and for other purposes.;Education for All Act of 2016;H.R. 4481 (RS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-12-08</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To amend the Foreign Assistance Act of 1961 to provide assistance for developing countries to promote quality basic education and to establish the goal of all children in school and learning as an objective of the United States foreign assistance policy, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Education for All Act of 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 4481 (RS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-12-07</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>42 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee19300a878</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4481rs</identifier>
+<identifier type="preferred citation">H.R. 4481</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h4481_rs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4481rs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4481rs/html/BILLS-114hr4481rs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4481rs/pdf/BILLS-114hr4481rs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4481rs/xml/BILLS-114hr4481rs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-12-08</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-12-09</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr4481rs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Bob Corker</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Foreign Relations</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 22 Section 2151c</partNumber>
+</titleInfo>
+ <identifier type="USC citation">22 U.S.C. 2151c</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 712</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr4481rs</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>4481</billNumber>
+ <billVersion reprint="false">rs</billVersion>
+ <fileSuffix>rs</fileSuffix>
+ <shortTitle type="measure">Education for All Act of 2016</shortTitle>
+ <officialTitle>To amend the Foreign Assistance Act of 1961 to provide assistance for developing countries to promote quality basic education and to establish the goal of all children in school and learning as an objective of the United States foreign assistance policy, and for other purposes.</officialTitle>
+ <action date="2016-12-07">Reported by Mr. Corker, with an amendment</action>
+ <action date="2016-09-08">Received; read twice and referred to the Committee on Foreign Relations</action>
+ <congCommittee authorityId="ssfr00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Foreign Relations</name>
+                      <name type="authority-short">Foreign Relations</name>
+                </congCommittee>
+ <congMember authorityId="1825" bioGuideId="C001071" chamber="S" congress="114" gpoId="8294" party="R" role="SPONSOR" state="TN">
+                      <name type="parsed">Mr. Corker</name>
+                      <name type="authority-fnf">Bob Corker</name>
+                      <name type="authority-lnf">Corker, Bob</name>
+                </congMember>
+ <congCalendar congress="114" number="712" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="22">
+                      <section number="2151c"></section>
+                </USCode>
+</extension>
+</mods>

@@ -1,0 +1,123 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18c699558">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To provide Capitol-flown flags to the immediate family of fire fighters, law enforcement officers, members of rescue squads or ambulance crews, and public safety officers who are killed in the line of duty.;Fallen Heroes Flag Act of 2015;H.R. 723 (RFS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-05-15</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To provide Capitol-flown flags to the immediate family of fire fighters, law enforcement officers, members of rescue squads or ambulance crews, and public safety officers who are killed in the line of duty.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Fallen Heroes Flag Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 723 (RFS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-05-13</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>4 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18c699558</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr723rfs</identifier>
+<identifier type="preferred citation">H.R. 723</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h723_rfs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr723rfs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr723rfs/html/BILLS-114hr723rfs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr723rfs/pdf/BILLS-114hr723rfs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr723rfs/xml/BILLS-114hr723rfs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-05-15</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-12</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr723rfs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Rules and Administration</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr723rfs</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>723</billNumber>
+ <billVersion reprint="false">rfs</billVersion>
+ <fileSuffix>rfs</fileSuffix>
+ <shortTitle type="measure">Fallen Heroes Flag Act of 2015</shortTitle>
+ <officialTitle>To provide Capitol-flown flags to the immediate family of fire fighters, law enforcement officers, members of rescue squads or ambulance crews, and public safety officers who are killed in the line of duty.</officialTitle>
+ <action date="2015-05-13">Received; read twice and referred to the Committee on Rules and Administration</action>
+ <congCommittee authorityId="ssra00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Rules and Administration</name>
+                      <name type="authority-short">Rules and Administration</name>
+                </congCommittee>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

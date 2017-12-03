@@ -1,0 +1,391 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee180ba81cf">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>Amending the Rules of the House of Representatives to require that general appropriations for military construction and veterans’ affairs be considered as stand-alone measures.;H. Res. 15 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>112_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2011-01-07</dateIngested>
+</extension>
+<titleInfo>
+ <title>Amending the Rules of the House of Representatives to require that general appropriations for military construction and veterans’ affairs be considered as stand-alone measures.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H. Res. 15 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2011-01-05</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>2 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/7:</classification>
+<identifier type="local">P0b002ee180ba81cf</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-112hres15ih</identifier>
+<identifier type="preferred citation">H. Res. 15</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325574</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House resolutions</identifier>
+<identifier type="former package identifier">f:hr15_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-112hres15ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-112hres15ih/html/BILLS-112hres15ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-112hres15ih/pdf/BILLS-112hres15ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-112hres15ih/xml/BILLS-112hres15ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2011-01-07</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2017-08-04</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-112hres15ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Phil Gingrey</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lynn A. Westmoreland</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Marsha Blackburn</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael T. McCaul</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Brian P. Bilbray</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bill Posey</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Donald A. Manzullo</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Walter B. Jones Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dan Burton</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Paul C. Broun</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Cathy McMorris Rodgers</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michele Bachmann</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Rob Bishop</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gregg Harper</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Sam Johnson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Doug Lamborn</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Scott Garrett</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tom McClintock</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David P. Roe</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Shimkus</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ted Poe</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Rules</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<extension>
+ <docClass>hres</docClass>
+ <accessId>BILLS-112hres15ih</accessId>
+ <congress>112</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>15</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <officialTitle>Amending the Rules of the House of Representatives to require that general appropriations for military construction and veterans’ affairs be considered as stand-alone measures.</officialTitle>
+ <action date="2011-01-05">Mr. Gingrey of Georgia (for himself, Mr. Westmoreland, Mrs. Blackburn, Mr. McCaul, Mr. Bilbray, Mr. Posey, Mr. Manzullo, Mr. Jones, Mr. Burton of Indiana, Mr. Broun of Georgia, Mrs. McMorris Rodgers, Mrs. Bachmann, Mr. Bishop of Utah, Mr. Harper, Mr. Sam Johnson of Texas, Mr. Lamborn, Mr. Garrett, Mr. McClintock, Mr. Roe of Tennessee, Mr. Shimkus, and Mr. Poe of Texas) submitted the following resolution; which was referred to the Committee on Rules</action>
+ <congCommittee authorityId="hsru00" chamber="H" congress="112" type="S">
+                      <name type="authority-standard">Committee on Rules</name>
+                      <name type="authority-short">Rules</name>
+                </congCommittee>
+ <congMember authorityId="1720" bioGuideId="G000550" chamber="H" congress="112" gpoId="7908" party="R" role="SPONSOR" state="GA">
+                      <name type="parsed">Mr. Gingrey of Georgia</name>
+                      <name type="authority-fnf">Phil Gingrey</name>
+                      <name type="authority-lnf">Gingrey, Phil</name>
+                </congMember>
+ <congMember authorityId="1779" bioGuideId="W000796" chamber="H" congress="112" gpoId="7900" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Westmoreland</name>
+                      <name type="authority-fnf">Lynn A. Westmoreland</name>
+                      <name type="authority-lnf">Westmoreland, Lynn A.</name>
+                      <name type="authority-other">Mr. Lynn Westmoreland</name>
+                </congMember>
+ <congMember authorityId="1748" bioGuideId="B001243" chamber="H" congress="112" gpoId="8154" party="R" role="COSPONSOR" state="TN">
+                      <name type="parsed">Mrs. Blackburn</name>
+                      <name type="authority-fnf">Marsha Blackburn</name>
+                      <name type="authority-lnf">Blackburn, Marsha</name>
+                </congMember>
+ <congMember authorityId="1804" bioGuideId="M001157" chamber="H" congress="112" gpoId="8166" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. McCaul</name>
+                      <name type="authority-fnf">Michael T. McCaul</name>
+                      <name type="authority-lnf">McCaul, Michael T.</name>
+                      <name type="authority-other">Mr. Michael Mccaul</name>
+                </congMember>
+ <congMember authorityId="87" bioGuideId="B000461" chamber="H" congress="112" gpoId="7855" party="R" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Bilbray</name>
+                      <name type="authority-fnf">Brian P. Bilbray</name>
+                      <name type="authority-lnf">Bilbray, Brian P.</name>
+                      <name type="authority-other">Brian Bilbray</name>
+                </congMember>
+ <congMember authorityId="1915" bioGuideId="P000599" chamber="H" congress="112" gpoId="7887" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Posey</name>
+                      <name type="authority-fnf">Bill Posey</name>
+                      <name type="authority-lnf">Posey, Bill</name>
+                </congMember>
+ <congMember authorityId="733" bioGuideId="M001138" chamber="H" congress="112" gpoId="7936" party="R" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Manzullo</name>
+                      <name type="authority-fnf">Donald A. Manzullo</name>
+                      <name type="authority-lnf">Manzullo, Donald A.</name>
+                      <name type="authority-other">Donald Manzullo</name>
+                </congMember>
+ <congMember authorityId="612" bioGuideId="J000255" chamber="H" congress="112" gpoId="8026" party="R" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. Jones</name>
+                      <name type="authority-fnf">Walter B. Jones Jr.</name>
+                      <name type="authority-lnf">Jones, Walter B., Jr.</name>
+                      <name type="authority-other">Walter Jones Jr.</name>
+                </congMember>
+ <congMember authorityId="154" bioGuideId="B001149" chamber="H" congress="112" gpoId="7944" party="R" role="COSPONSOR" state="IN">
+                      <name type="parsed">Mr. Burton of Indiana</name>
+                      <name type="authority-fnf">Dan Burton</name>
+                      <name type="authority-lnf">Burton, Dan</name>
+                </congMember>
+ <congMember authorityId="1882" bioGuideId="B001262" chamber="H" congress="112" gpoId="7907" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Broun of Georgia</name>
+                      <name type="authority-fnf">Paul C. Broun</name>
+                      <name type="authority-lnf">Broun, Paul C.</name>
+                      <name type="authority-other">Mr. Paul Broun</name>
+                </congMember>
+ <congMember authorityId="1809" bioGuideId="M001159" chamber="H" congress="112" gpoId="8209" party="R" role="COSPONSOR" state="WA">
+                      <name type="parsed">Mrs. McMorris Rodgers</name>
+                      <name type="authority-fnf">Cathy McMorris Rodgers</name>
+                      <name type="authority-lnf">McMorris Rodgers, Cathy</name>
+                </congMember>
+ <congMember authorityId="1858" bioGuideId="B001256" chamber="H" congress="112" gpoId="8006" party="R" role="COSPONSOR" state="MN">
+                      <name type="parsed">Mrs. Bachmann</name>
+                      <name type="authority-fnf">Michele Bachmann</name>
+                      <name type="authority-lnf">Bachmann, Michele</name>
+                </congMember>
+ <congMember authorityId="1753" bioGuideId="B001250" chamber="H" congress="112" gpoId="8189" party="R" role="COSPONSOR" state="UT">
+                      <name type="parsed">Mr. Bishop of Utah</name>
+                      <name type="authority-fnf">Rob Bishop</name>
+                      <name type="authority-lnf">Bishop, Rob</name>
+                </congMember>
+ <congMember authorityId="1933" bioGuideId="H001045" chamber="H" congress="112" gpoId="8021" party="R" role="COSPONSOR" state="MS">
+                      <name type="parsed">Mr. Harper</name>
+                      <name type="authority-fnf">Gregg Harper</name>
+                      <name type="authority-lnf">Harper, Gregg</name>
+                </congMember>
+ <congMember authorityId="603" bioGuideId="J000174" chamber="H" congress="112" gpoId="8159" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Sam Johnson of Texas</name>
+                      <name type="authority-fnf">Sam Johnson</name>
+                      <name type="authority-lnf">Johnson, Sam</name>
+                </congMember>
+ <congMember authorityId="1834" bioGuideId="L000564" chamber="H" congress="112" gpoId="7863" party="R" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Lamborn</name>
+                      <name type="authority-fnf">Doug Lamborn</name>
+                      <name type="authority-lnf">Lamborn, Doug</name>
+                </congMember>
+ <congMember authorityId="1737" bioGuideId="G000548" chamber="H" congress="112" gpoId="8047" party="R" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Garrett</name>
+                      <name type="authority-fnf">Scott Garrett</name>
+                      <name type="authority-lnf">Garrett, Scott</name>
+                </congMember>
+ <congMember authorityId="1908" bioGuideId="M001177" chamber="H" congress="112" gpoId="7809" party="R" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. McClintock</name>
+                      <name type="authority-fnf">Tom McClintock</name>
+                      <name type="authority-lnf">McClintock, Tom</name>
+                </congMember>
+ <congMember authorityId="1954" bioGuideId="R000582" chamber="H" congress="112" gpoId="8148" party="R" role="COSPONSOR" state="TN">
+                      <name type="parsed">Mr. Roe of Tennessee</name>
+                      <name type="authority-fnf">David P. Roe</name>
+                      <name type="authority-lnf">Roe, David P.</name>
+                      <name type="authority-other">Mr. David Roe</name>
+                </congMember>
+ <congMember authorityId="1527" bioGuideId="S000364" chamber="H" congress="112" gpoId="7939" party="R" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Shimkus</name>
+                      <name type="authority-fnf">John Shimkus</name>
+                      <name type="authority-lnf">Shimkus, John</name>
+                      <name type="authority-other">John M. Shimkus</name>
+                </congMember>
+ <congMember authorityId="1802" bioGuideId="P000592" chamber="H" congress="112" gpoId="8158" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Poe of Texas</name>
+                      <name type="authority-fnf">Ted Poe</name>
+                      <name type="authority-lnf">Poe, Ted</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

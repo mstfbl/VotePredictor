@@ -1,0 +1,271 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1916c3c75">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To improve surface transportation and maritime security.;
+   		S. 3379 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-09-26</dateIngested>
+</extension>
+<titleInfo>
+ <title>To improve surface transportation and maritime security.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 3379 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-09-21</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>43 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee1916c3c75</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s3379is</identifier>
+<identifier type="preferred citation">S. 3379</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s3379_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s3379is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s3379is/html/BILLS-114s3379is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s3379is/pdf/BILLS-114s3379is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s3379is/xml/BILLS-114s3379is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-09-26</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-09-27</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s3379is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>John Thune</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bill Nelson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Deb Fischer</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Cory A. Booker</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Commerce, Science, and Transportation</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 552b</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 552b</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 6 Section 1111</partNumber>
+  <partNumber>Title 6 Section 1111et seq.</partNumber>
+  <partNumber>Title 6 Section 1113</partNumber>
+  <partNumber>Title 6 Section 1163(b)</partNumber>
+  <partNumber>Title 6 Section 1164(a)(3)</partNumber>
+  <partNumber>Title 6 Section 201et seq.</partNumber>
+  <partNumber>Title 6 Section 469</partNumber>
+  <partNumber>Title 6 Section 982</partNumber>
+</titleInfo>
+ <identifier type="USC citation">6 U.S.C. 1111</identifier>
+ <identifier type="USC citation">6 U.S.C. 1111et seq.</identifier>
+ <identifier type="USC citation">6 U.S.C. 1113</identifier>
+ <identifier type="USC citation">6 U.S.C. 1163(b)</identifier>
+ <identifier type="USC citation">6 U.S.C. 1164(a)(3)</identifier>
+ <identifier type="USC citation">6 U.S.C. 201et seq.</identifier>
+ <identifier type="USC citation">6 U.S.C. 469</identifier>
+ <identifier type="USC citation">6 U.S.C. 982</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 1105</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 1105</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 46 Section 70105</partNumber>
+</titleInfo>
+ <identifier type="USC citation">46 U.S.C. 70105</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 49 Section 114</partNumber>
+  <partNumber>Title 49 Section 114(s)(3)(B)</partNumber>
+  <partNumber>Title 49 Section 114(u)(7)</partNumber>
+  <partNumber>Title 49 Section 114note</partNumber>
+  <partNumber>Title 49 Section 44946</partNumber>
+  <partNumber>Title 49 Section 5103a</partNumber>
+  <partNumber>Title 49 Section 5103a(d)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">49 U.S.C. 114</identifier>
+ <identifier type="USC citation">49 U.S.C. 114(s)(3)(B)</identifier>
+ <identifier type="USC citation">49 U.S.C. 114(u)(7)</identifier>
+ <identifier type="USC citation">49 U.S.C. 114note</identifier>
+ <identifier type="USC citation">49 U.S.C. 44946</identifier>
+ <identifier type="USC citation">49 U.S.C. 5103a</identifier>
+ <identifier type="USC citation">49 U.S.C. 5103a(d)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 116 Page 2135</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">116 Stat. 2135</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 107-296</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 107-296</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s3379is</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>3379</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <action date="2016-09-21">Mr. Thune (for himself, Mr. Nelson, Mrs. Fischer, and Mr. Booker) introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation</action>
+ <congCommittee authorityId="sscm00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Commerce, Science, and Transportation</name>
+                      <name type="authority-short">Commerce</name>
+                </congCommittee>
+ <congMember authorityId="1534" bioGuideId="T000250" chamber="S" congress="114" gpoId="8257" party="R" role="SPONSOR" state="SD">
+                      <name type="parsed">Mr. Thune</name>
+                      <name type="authority-fnf">John Thune</name>
+                      <name type="authority-lnf">Thune, John</name>
+                      <name type="authority-other">John R. Thune</name>
+                </congMember>
+ <congMember authorityId="859" bioGuideId="N000032" chamber="S" congress="114" gpoId="8236" party="D" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Nelson</name>
+                      <name type="authority-fnf">Bill Nelson</name>
+                      <name type="authority-lnf">Nelson, Bill</name>
+                      <name type="authority-other">Clarence William Nelson</name>
+                </congMember>
+ <congMember authorityId="2179" bioGuideId="F000463" chamber="S" congress="114" party="R" role="COSPONSOR" state="NE">
+                      <name type="parsed">Mrs. Fischer</name>
+                      <name type="authority-fnf">Deb Fischer</name>
+                      <name type="authority-lnf">Fischer, Deb</name>
+                </congMember>
+ <congMember authorityId="2194" bioGuideId="B001288" chamber="S" congress="114" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Booker</name>
+                      <name type="authority-fnf">Cory A. Booker</name>
+                      <name type="authority-lnf">Booker, Cory A.</name>
+                      <name type="authority-other">Mr. Cory Booker</name>
+                </congMember>
+ <law congress="107" isPrivate="false" number="296"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="552b"></section>
+                </USCode>
+ <USCode title="6">
+                      <section number="1111"></section>
+                      <section detail="et seq." number="1111"></section>
+                      <section number="1113"></section>
+                      <section detail="(b)" number="1163"></section>
+                      <section detail="(a)(3)" number="1164"></section>
+                      <section detail="et seq." number="201"></section>
+                      <section number="469"></section>
+                      <section number="982"></section>
+                </USCode>
+ <USCode title="31">
+                      <section number="1105"></section>
+                </USCode>
+ <USCode title="46">
+                      <section number="70105"></section>
+                </USCode>
+ <USCode title="49">
+                      <section number="114"></section>
+                      <section detail="(s)(3)(B)" number="114"></section>
+                      <section detail="(u)(7)" number="114"></section>
+                      <section detail="note" number="114"></section>
+                      <section number="44946"></section>
+                      <section number="5103a"></section>
+                      <section detail="(d)" number="5103a"></section>
+                </USCode>
+ <statuteAtLarge volume="116">
+                      <pages pages="2135"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

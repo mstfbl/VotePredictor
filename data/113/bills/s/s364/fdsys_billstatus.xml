@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2013-02-15T07:00:53Z</createDate>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000464</bioguideId>
+        <identifiers>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-02-14</sponsorshipDate>
+        <lastName>Tester</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>MT</state>
+        <firstName>Jon</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Walsh, John E. [D-MT]</fullName>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000818</bioguideId>
+        <identifiers>
+          <lisID>2198</lisID>
+          <gpoId />
+          <bioguideId>W000818</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-03-05</sponsorshipDate>
+        <lastName>Walsh</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>MT</state>
+        <firstName>John</firstName>
+      </item>
+    </cosponsors>
+    <title>Rocky Mountain Front Heritage Act of 2013</title>
+    <actions>
+      <item>
+        <actionDate>2014-06-02</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 404.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2014-06-02</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 113-177</name>
+            <url>https://www.congress.gov/congressional-report/113th-congress/senate-report/177</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-177.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>14000</actionCode>
+        <type>Committee</type>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <actionDate>2014-06-02</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>report No. 113-177</name>
+            <url>https://www.congress.gov/congressional-report/113th-congress/senate-report/177</url>
+          </link>
+        </links>
+        <text>Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-177.</text>
+      </item>
+      <item>
+        <actionDate>2013-11-21</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-07-30</actionDate>
+        <committee>
+          <systemCode>sseg03</systemCode>
+          <name>Public Lands, Forests, and Mining Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 113-85.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-02-14</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2013-02-14</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>7</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <hearingsHeld>1</hearingsHeld>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 113-177</citation>
+      </committeeReport>
+    </committeeReports>
+    <updateDate>2016-10-25T16:21:05Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Ecology</name>
+          </item>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Montana</name>
+          </item>
+          <item>
+            <name>Outdoor recreation</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+          <item>
+            <name>Pedestrians and bicycling</name>
+          </item>
+          <item>
+            <name>Roads and highways</name>
+          </item>
+          <item>
+            <name>Wilderness and natural areas, wildlife refuges, wild rivers, habitats</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes>
+      <item>
+        <text><![CDATA[For further action, see H.R.3979, which became Public Law 113-291 on 12/19/2014.]]></text>
+        <links>
+          <link>
+            <name>H.R.3979</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/3979</url>
+          </link>
+        </links>
+      </item>
+    </notes>
+    <latestAction>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 404.</text>
+      <actionDate>2014-06-02</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>B000243</bioguideId>
+        <state>MT</state>
+        <fullName>Sen. Baucus, Max [D-MT]</fullName>
+        <firstName>MAX</firstName>
+        <party>D</party>
+        <lastName>BAUCUS</lastName>
+        <middleName>SIEBEN</middleName>
+        <byRequestType />
+        <identifiers>
+          <lisID>66</lisID>
+          <gpoId>8298</gpoId>
+          <bioguideId>B000243</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <number>3979</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-12-19</actionDate>
+          <text>Became Public Law No: 113-291.</text>
+        </latestAction>
+        <latestTitle>Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015</latestTitle>
+      </item>
+    </relatedBills>
+    <laws />
+    <cboCostEstimates>
+      <item>
+        <pubDate>2014-02-11T17:06:00Z</pubDate>
+        <title>S. 364, Rocky Mountain Front Heritage Act of 2013</title>
+        <url>http://www.cbo.gov/publication/45100</url>
+      </item>
+      <item>
+        <pubDate>2014-02-11T17:06:00Z</pubDate>
+        <title>S. 364, Rocky Mountain Front Heritage Act of 2013</title>
+        <url>https://www.cbo.gov/publication/45100</url>
+      </item>
+    </cboCostEstimates>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sseg00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>sseg03</systemCode>
+              <activities>
+                <item>
+                  <date>2013-07-30T18:27:38Z</date>
+                  <name>Hearings by</name>
+                </item>
+              </activities>
+              <name>Public Lands, Forests, and Mining Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Energy and Natural Resources Committee</name>
+          <activities>
+            <item>
+              <date>2014-06-02T21:19:25Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2013-11-21T16:44:35Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2013-02-14T22:44:59Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0404</number>
+      </item>
+    </calendarNumbers>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2013-03-11T20:05:31Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Rocky Mountain Front Heritage Act of 2013 - Establishes the Rocky Mountain Front Conservation Management Area in Montana. </p> <p>Designates specified land within the Lewis and Clark National Forest in Montana as wilderness and as additions to existing components of the National Wilderness Preservation System. </p> <p> Directs the Secretary of Agriculture (USDA) to prepare a comprehensive management strategy for the prevention, control, and eradication of noxious weeds in the Rocky Mountain Ranger District of Lewis and Clark National Forest. </p> <p>Authorizes such Secretary to conduct a study for improving nonmotorized recreation trail opportunities, including mountain bicycling, on land within the District that is not designated as wilderness. </p>]]></text>
+          <updateDate>2013-02-14T05:00:00Z</updateDate>
+          <actionDate>2013-02-14</actionDate>
+        </item>
+        <item>
+          <versionCode>80</versionCode>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <name>Reported to Senate without amendment</name>
+          <lastSummaryUpdateDate>2014-10-14T16:26:24Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. <strong><strong>The</strong> <strong>summary</strong> <strong>has</strong> <strong>been</strong> <strong>expanded</strong> because action occurred on <strong>the</strong> measure.</strong>)</b></p> <p>Rocky Mountain Front Heritage Act of 2013 - (Sec. 3) Establishes the Rocky Mountain Front Conservation Management Area in Montana consisting of approximately 195,073 acres of federal land managed by Forest Service and 13,087 acres of federal land managed by the Bureau of Land Management (BLM).</p> <p>Permits the Secretary of Agriculture with respect to Forest Service land or the Secretary of the Interior with respect to BLM land (the Secretary concerned) to only allow uses of the Conservation Management Area that would conserve, protect, and enhance the benefit and enjoyment of present and future generations of the recreational, scenic, historical, cultural, fish, wildlife, roadless, and ecological values of the Area. <p>Sets forth provisions for the management of the Conservation Management Area regarding motorized vehicles and vegetation management projects. <p>Allows the Secretary concerned to permit grazing within the Conservation Management Area if it was established before enactment of this Act. </p> <p>(Sec. 4) Designates specified land within the Lewis and Clark National Forest in Montana as wilderness. Adds the land to the National Wilderness Preservation System. </p> <p>Permits livestock grazing and the maintenance of existing grazing facilities to continue if it was established before enactment of this Act.</p> <p>Authorizes the Secretary concerned to take necessary measures to control fires, insects, and diseases.</p> <p>(Sec. 6) Directs the Department of Agriculture (USDA) to prepare a comprehensive management strategy for the prevention, control, and eradication of noxious weeds in the Rocky Mountain Ranger District of the Lewis and Clark National Forest. </p> <p>(Sec. 7) Authorizes USDA to conduct a study for improving nonmotorized recreation trail opportunities, including mountain bicycling, on land within the District that is not designated as wilderness. </p> <p>(Sec. 8) States that nothing in this Act affects Montana's jurisdiction over fish and wildlife management, including the regulation of hunting and fishing. </p> <p>(Sec. 9) States that nothing in this Act affects the jurisdiction of the Federal Aviation Administration (FAA) respecting the airspace above the wilderness or the Conservation Management Area nor the continued use, maintenance, and repair of the Benchmark (3U7) airstrip. </p>]]></text>
+          <updateDate>2014-06-02T12:40:43Z</updateDate>
+          <actionDate>2014-06-02</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <introducedDate>2013-02-14</introducedDate>
+    <billType>S</billType>
+    <congress>113</congress>
+    <billNumber>364</billNumber>
+    <titles>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Rocky Mountain Front Heritage Act of 2013</title>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Rocky Mountain Front Heritage Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to establish the Rocky Mountain Front Conservation Management Area, to designate certain Federal land as wilderness, and to improve the management of noxious weeds in the Lewis and Clark National Forest, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Rocky Mountain Front Heritage Act of 2013</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

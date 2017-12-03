@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-03-27</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2014-03-27</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2014-03-27</introducedDate>
+    <updateDate>2016-10-25T16:29:29Z</updateDate>
+    <createDate>2014-03-28T07:21:31Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <type>Standing</type>
+          <systemCode>sshr00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-03-27T21:32:18Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <middleName>B.</middleName>
+        <state>WY</state>
+        <firstName>MICHAEL</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000285</bioguideId>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <lastName>ENZI</lastName>
+        <party>R</party>
+        <sponsorshipDate>2014-03-27</sponsorshipDate>
+        <identifiers>
+          <bioguideId>E000285</bioguideId>
+          <gpoId>8328</gpoId>
+          <lisID>1542</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <state>GA</state>
+        <firstName>Johnny</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>I000055</bioguideId>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <lastName>Isakson</lastName>
+        <party>R</party>
+        <sponsorshipDate>2014-03-27</sponsorshipDate>
+        <identifiers>
+          <bioguideId>I000055</bioguideId>
+          <gpoId>8323</gpoId>
+          <lisID>1608</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>GRANT</middleName>
+        <state>UT</state>
+        <firstName>ORRIN</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H000338</bioguideId>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <lastName>HATCH</lastName>
+        <party>R</party>
+        <sponsorshipDate>2014-03-27</sponsorshipDate>
+        <identifiers>
+          <lisID>1351</lisID>
+          <gpoId>8314</gpoId>
+          <bioguideId>H000338</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <state>SC</state>
+        <firstName>Tim</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001184</bioguideId>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <lastName>Scott</lastName>
+        <party>R</party>
+        <sponsorshipDate>2014-03-27</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S001184</bioguideId>
+          <gpoId>8141</gpoId>
+          <lisID>2056</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <state>WY</state>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001261</bioguideId>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <lastName>Barrasso</lastName>
+        <party>R</party>
+        <sponsorshipDate>2014-03-27</sponsorshipDate>
+        <identifiers>
+          <lisID>1881</lisID>
+          <gpoId>8300</gpoId>
+          <bioguideId>B001261</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <state>KY</state>
+        <firstName>MITCH</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000355</bioguideId>
+        <fullName>Sen. McConnell, Mitch [R-KY]</fullName>
+        <lastName>MCCONNELL</lastName>
+        <party>R</party>
+        <sponsorshipDate>2014-04-01</sponsorshipDate>
+        <identifiers>
+          <lisID>1395</lisID>
+          <bioguideId>M000355</bioguideId>
+          <gpoId>8254</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <state>KS</state>
+        <firstName>PAT</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000307</bioguideId>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <lastName>ROBERTS</lastName>
+        <party>R</party>
+        <sponsorshipDate>2014-04-01</sponsorshipDate>
+        <identifiers>
+          <lisID>968</lisID>
+          <gpoId>8275</gpoId>
+          <bioguideId>R000307</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <state>NC</state>
+        <firstName>RICHARD</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001135</bioguideId>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <lastName>BURR</lastName>
+        <party>R</party>
+        <sponsorshipDate>2014-04-01</sponsorshipDate>
+        <identifiers>
+          <lisID>153</lisID>
+          <gpoId>8286</gpoId>
+          <bioguideId>B001135</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <state>FL</state>
+        <firstName>Marco</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000595</bioguideId>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <lastName>Rubio</lastName>
+        <party>R</party>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <state>TX</state>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001056</bioguideId>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <lastName>Cornyn</lastName>
+        <party>R</party>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <identifiers>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <state>AL</state>
+        <firstName>Jeff</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001141</bioguideId>
+        <fullName>Sen. Sessions, Jeff [R-AL]</fullName>
+        <lastName>Sessions</lastName>
+        <party>R</party>
+        <sponsorshipDate>2014-05-01</sponsorshipDate>
+        <identifiers>
+          <lisID>1548</lisID>
+          <bioguideId>S001141</bioguideId>
+          <gpoId>8281</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>R.</middleName>
+        <state>SD</state>
+        <firstName>JOHN</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000250</bioguideId>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <lastName>THUNE</lastName>
+        <party>R</party>
+        <sponsorshipDate>2014-05-01</sponsorshipDate>
+        <identifiers>
+          <lisID>1534</lisID>
+          <gpoId>8257</gpoId>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Workforce Democracy and Fairness Act</title>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Workforce Democracy and Fairness Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to amend the National Labor Relations Act with respect to the timing of elections and pre-election hearings and the identification of pre-election issues, and to require that lists of employees eligible to vote in organizing elections be provided to the National Labor Relations Board.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Workforce Democracy and Fairness Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Workforce Democracy and Fairness Act - Amends the National Labor Relations Act to require the National Labor Relations Board (NLRB) to require that no investigative hearing take place until at least 14 days after the filing of an election petition regarding collective bargaining representation when the NLRB has reasonable cause to believe that the petition raises a question of representation affecting commerce. Requires such hearings to be non-adversarial, and the hearing officer, in collaboration with the parties, to identify any relevant and material pre-election issues.</p> <p>Requires the NLRB, in cases where it finds that a question of representation exists, to: (1) direct an election by secret ballot as soon as practicable but not before 35 calendar days after the filing of the election petition, and (2) certify election results only after it has ruled on each pre-election issue not resolved before the election and any additional issue pertaining to the conduct or results of that election.</p> <p>Requires the Board also, not earlier than seven days after a final determination of the appropriate bargaining unit, to acquire from the employer a list of all employees eligible to vote in the election, which shall: (1) be made available to all parties, and (2) include the employees' names as well as one additional form of personal contact information (such as telephone number, email address, or mailing address) chosen by the employee in writing.</p>]]></text>
+          <updateDate>2014-03-27T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2014-05-13T18:30:47Z</lastSummaryUpdateDate>
+          <actionDate>2014-03-27</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <latestTitle>Workforce Democracy and Fairness Act</latestTitle>
+        <number>4320</number>
+        <latestAction>
+          <text>Placed on the Union Calendar, Calendar No. 491.</text>
+          <actionDate>2014-12-09</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Employee Privacy Protection Act</latestTitle>
+        <number>4321</number>
+        <latestAction>
+          <text>Placed on the Union Calendar, Calendar No. 432.</text>
+          <actionDate>2014-09-09</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Labor-management relations</name>
+          </item>
+          <item>
+            <name>National Labor Relations Board (NLRB)</name>
+          </item>
+          <item>
+            <name>Personnel records</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2014-03-27</actionDate>
+    </latestAction>
+    <billNumber>2178</billNumber>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Lamar</firstName>
+        <party>R</party>
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <bioguideId>A000360</bioguideId>
+        <identifiers>
+          <lisID>1695</lisID>
+          <gpoId>8304</gpoId>
+          <bioguideId>A000360</bioguideId>
+        </identifiers>
+        <lastName>Alexander</lastName>
+        <middleName />
+        <state>TN</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

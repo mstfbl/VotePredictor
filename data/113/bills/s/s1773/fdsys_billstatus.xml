@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2013-11-21</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors />
+    <recordedVotes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <links />
+      <actionDate>2013-11-21</actionDate>
+    </latestAction>
+    <relatedBills />
+    <updateDate>2016-10-25T16:27:51Z</updateDate>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionDate>2013-11-21</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2013-11-21</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-11-21</actionDate>
+          <updateDate>2013-11-21T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2014-01-23T18:53:38Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Andrew Prior Act or Andrew's Law - Amends the Truth in Lending Act to discharge the repayment obligations of the estate of a borrower and any cosigner of a private educational loan if the borrower dies or is totally and permanently disabled.</p> <p>Requires the Director of the Consumer Financial Protection Bureau (CFPB) to develop necessary and appropriate safeguards to prevent fraud and abuse in the discharge of those obligations. </p> <p>Authorizes the Director to promulgate regulations to reinstate those obligations in any case in which the Director determines that doing so is necessary to protect the public interest.</p>]]></text>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Consumer Financial Protection Bureau</name>
+          </item>
+          <item>
+            <name>Consumer credit</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Andrew's Law</title>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <lastName>SCHUMER</lastName>
+        <bioguideId>S000148</bioguideId>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <identifiers>
+          <lisID>1036</lisID>
+          <gpoId>8279</gpoId>
+          <bioguideId>S000148</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>CHARLES</firstName>
+        <middleName>E.</middleName>
+        <state>NY</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2013-11-22T07:01:10Z</createDate>
+    <billNumber>1773</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sshr00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <activities>
+            <item>
+              <date>2013-11-21T22:54:17Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Andrew's Law</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Andrew Prior Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Truth in Lending Act to provide for the discharge of student loan obligations upon the death or disability of the student borrower, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Andrew's Law</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

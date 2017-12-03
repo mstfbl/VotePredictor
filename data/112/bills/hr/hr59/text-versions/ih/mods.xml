@@ -1,0 +1,308 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee180bab990">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To define advisors often characterized as Czars and to provide that appropriated funds may not be used to pay for any salaries and expenses associated with such advisors.;H.R. 59 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>112_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2011-01-08</dateIngested>
+</extension>
+<titleInfo>
+ <title>To define advisors often characterized as Czars and to provide that appropriated funds may not be used to pay for any salaries and expenses associated with such advisors.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 59 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2011-01-05</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>3 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee180bab990</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-112hr59ih</identifier>
+<identifier type="preferred citation">H.R. 59</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h59_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-112hr59ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-112hr59ih/html/BILLS-112hr59ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-112hr59ih/pdf/BILLS-112hr59ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-112hr59ih/xml/BILLS-112hr59ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2011-01-08</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2017-08-04</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-112hr59ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Steve Scalise</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Pete Olson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Scott Garrett</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jason Chaffetz</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John R. Carter</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Paul C. Broun</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lynn Jenkins</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Donald A. Manzullo</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Harold Rogers</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Joe Barton</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Walter B. Jones Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Marsha Blackburn</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Phil Gingrey</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Joseph R. Pitts</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Oversight and Government Reform</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 2102</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 2102</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-112hr59ih</accessId>
+ <congress>112</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>59</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <officialTitle>To define advisors often characterized as Czars and to provide that appropriated funds may not be used to pay for any salaries and expenses associated with such advisors.</officialTitle>
+ <action date="2011-01-05">Mr. Scalise (for himself, Mr. Olson, Mr. Garrett, Mr. Chaffetz, Mr. Carter, Mr. Broun of Georgia, Ms. Jenkins, Mr. Manzullo, Mr. Rogers of Kentucky, Mr. Barton of Texas, Mr. Jones, Mrs. Blackburn, Mr. Gingrey of Georgia, and Mr. Pitts) introduced the following bill; which was referred to the Committee on Oversight and Government Reform</action>
+ <congCommittee authorityId="hsgo00" chamber="H" congress="112" type="S">
+                      <name type="authority-standard">Committee on Oversight and Government Reform</name>
+                      <name type="authority-short">Oversight and Government Reform</name>
+                </congCommittee>
+ <congMember authorityId="1892" bioGuideId="S001176" chamber="H" congress="112" gpoId="7959" party="R" role="SPONSOR" state="LA">
+                      <name type="parsed">Mr. Scalise</name>
+                      <name type="authority-fnf">Steve Scalise</name>
+                      <name type="authority-lnf">Scalise, Steve</name>
+                </congMember>
+ <congMember authorityId="1955" bioGuideId="O000168" chamber="H" congress="112" gpoId="8178" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Olson</name>
+                      <name type="authority-fnf">Pete Olson</name>
+                      <name type="authority-lnf">Olson, Pete</name>
+                </congMember>
+ <congMember authorityId="1737" bioGuideId="G000548" chamber="H" congress="112" gpoId="8047" party="R" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Garrett</name>
+                      <name type="authority-fnf">Scott Garrett</name>
+                      <name type="authority-lnf">Garrett, Scott</name>
+                </congMember>
+ <congMember authorityId="1956" bioGuideId="C001076" chamber="H" congress="112" gpoId="8191" party="R" role="COSPONSOR" state="UT">
+                      <name type="parsed">Mr. Chaffetz</name>
+                      <name type="authority-fnf">Jason Chaffetz</name>
+                      <name type="authority-lnf">Chaffetz, Jason</name>
+                </congMember>
+ <congMember authorityId="1752" bioGuideId="C001051" chamber="H" congress="112" gpoId="8187" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Carter</name>
+                      <name type="authority-fnf">John R. Carter</name>
+                      <name type="authority-lnf">Carter, John R.</name>
+                      <name type="authority-other">Mr. John Carter</name>
+                </congMember>
+ <congMember authorityId="1882" bioGuideId="B001262" chamber="H" congress="112" gpoId="7907" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Broun of Georgia</name>
+                      <name type="authority-fnf">Paul C. Broun</name>
+                      <name type="authority-lnf">Broun, Paul C.</name>
+                      <name type="authority-other">Mr. Paul Broun</name>
+                </congMember>
+ <congMember authorityId="1921" bioGuideId="J000290" chamber="H" congress="112" gpoId="7950" party="R" role="COSPONSOR" state="KS">
+                      <name type="parsed">Ms. Jenkins</name>
+                      <name type="authority-fnf">Lynn Jenkins</name>
+                      <name type="authority-lnf">Jenkins, Lynn</name>
+                </congMember>
+ <congMember authorityId="733" bioGuideId="M001138" chamber="H" congress="112" gpoId="7936" party="R" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Manzullo</name>
+                      <name type="authority-fnf">Donald A. Manzullo</name>
+                      <name type="authority-lnf">Manzullo, Donald A.</name>
+                      <name type="authority-other">Donald Manzullo</name>
+                </congMember>
+ <congMember authorityId="977" bioGuideId="R000395" chamber="H" congress="112" gpoId="7957" party="R" role="COSPONSOR" state="KY">
+                      <name type="parsed">Mr. Rogers of Kentucky</name>
+                      <name type="authority-fnf">Harold Rogers</name>
+                      <name type="authority-lnf">Rogers, Harold</name>
+                </congMember>
+ <congMember authorityId="62" bioGuideId="B000213" chamber="H" congress="112" gpoId="8162" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Barton of Texas</name>
+                      <name type="authority-fnf">Joe Barton</name>
+                      <name type="authority-lnf">Barton, Joe</name>
+                      <name type="authority-other">Joe L. Barton</name>
+                </congMember>
+ <congMember authorityId="612" bioGuideId="J000255" chamber="H" congress="112" gpoId="8026" party="R" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. Jones</name>
+                      <name type="authority-fnf">Walter B. Jones Jr.</name>
+                      <name type="authority-lnf">Jones, Walter B., Jr.</name>
+                      <name type="authority-other">Walter Jones Jr.</name>
+                </congMember>
+ <congMember authorityId="1748" bioGuideId="B001243" chamber="H" congress="112" gpoId="8154" party="R" role="COSPONSOR" state="TN">
+                      <name type="parsed">Mrs. Blackburn</name>
+                      <name type="authority-fnf">Marsha Blackburn</name>
+                      <name type="authority-lnf">Blackburn, Marsha</name>
+                </congMember>
+ <congMember authorityId="1720" bioGuideId="G000550" chamber="H" congress="112" gpoId="7908" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Gingrey of Georgia</name>
+                      <name type="authority-fnf">Phil Gingrey</name>
+                      <name type="authority-lnf">Gingrey, Phil</name>
+                </congMember>
+ <congMember authorityId="1514" bioGuideId="P000373" chamber="H" congress="112" gpoId="8134" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Pitts</name>
+                      <name type="authority-fnf">Joseph R. Pitts</name>
+                      <name type="authority-lnf">Pitts, Joseph R.</name>
+                      <name type="authority-other">Joseph Pitts</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="2102"></section>
+                </USCode>
+</extension>
+</mods>

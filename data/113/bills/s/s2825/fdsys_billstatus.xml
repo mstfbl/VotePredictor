@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <bioguideId>C001056</bioguideId>
+        <state>TX</state>
+        <sponsorshipDate>2014-09-16</sponsorshipDate>
+        <middleName />
+        <firstName>John</firstName>
+        <party>R</party>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <lastName>Cornyn</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+          <gpoId>8295</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <updateDate>2016-10-25T16:32:18Z</updateDate>
+    <recordedVotes />
+    <calendarNumbers />
+    <createDate>2014-09-17T04:56:54Z</createDate>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2015-01-22T19:26:11Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2014-09-16T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <actionDate>2014-09-16</actionDate>
+          <text><![CDATA[<p>Ensuring Safe Access to Prescription Medication Act of 2014 - Amends the Controlled Substances Act to modify the definition of &quot;dispense&quot; to include the delivery of a controlled substance by a pharmacy to a practitioner, if: (1) such delivery is pursuant to a patient-specific prescription of the practitioner; and (2) the practitioner has deemed that it is medically necessary, acting in the usual course of professional practice, for the controlled substance to be administered by the practitioner to the patient.</p> <ul> <ul> </ul> </ul>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <actions>
+      <item>
+        <actionDate>2014-09-16</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+        <actionDate>2014-09-16</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <congress>113</congress>
+    <relatedBills />
+    <title>Ensuring Safe Access to Prescription Medication Act of 2014</title>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <billNumber>2825</billNumber>
+    <billType>S</billType>
+    <introducedDate>2014-09-16</introducedDate>
+    <latestAction>
+      <actionDate>2014-09-16</actionDate>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-09-16T21:33:11Z</date>
+            </item>
+          </activities>
+          <systemCode>ssju00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <state>OH</state>
+        <bioguideId>B000944</bioguideId>
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <firstName>SHERROD</firstName>
+        <lastName>BROWN</lastName>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Ensuring Safe Access to Prescription Medication Act of 2014</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Controlled Substances Act to treat as dispensing the delivery of a controlled substance by a pharmacy to a practitioner, pursuant to a patient-specific prescription of the practitioner, under certain circumstances.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Ensuring Safe Access to Prescription Medication Act of 2014</title>
+      </item>
+    </titles>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

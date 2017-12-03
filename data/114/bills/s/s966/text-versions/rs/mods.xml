@@ -1,0 +1,238 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18ca6c86b">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To extend the low-interest refinancing provisions under the Local Development Business Loan Program of the Small Business Administration.;CREED Act of 2015;S. 966 (RS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-06-11</dateIngested>
+</extension>
+<titleInfo>
+ <title>To extend the low-interest refinancing provisions under the Local Development Business Loan Program of the Small Business Administration.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>CREED Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 966 (RS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-06-10</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>4 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18ca6c86b</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s966rs</identifier>
+<identifier type="preferred citation">S. 966</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s966_rs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s966rs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s966rs/html/BILLS-114s966rs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s966rs/pdf/BILLS-114s966rs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s966rs/xml/BILLS-114s966rs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-06-11</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-11</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s966rs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Jeanne Shaheen</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Johnny Isakson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Maria Cantwell</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kelly Ayotte</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Deb Fischer</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mazie K. Hirono</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Christopher A. Coons</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Al Franken</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Small Business and Entrepreneurship</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 696(7)</partNumber>
+  <partNumber>Title 15 Section 696note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 696(7)</identifier>
+ <identifier type="USC citation">15 U.S.C. 696note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 107</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s966rs</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>966</billNumber>
+ <billVersion reprint="false">rs</billVersion>
+ <fileSuffix>rs</fileSuffix>
+ <shortTitle type="measure">CREED Act of 2015</shortTitle>
+ <officialTitle>To extend the low-interest refinancing provisions under the Local Development Business Loan Program of the Small Business Administration.</officialTitle>
+ <action date="2015-04-15">Mrs. Shaheen (for herself, Mr. Isakson, Ms. Cantwell, Ms. Ayotte, Mrs. Fischer, Ms. Hirono, Mr. Coons, and Mr. Franken) introduced the following bill; which was read twice and referred to the Committee on Small Business and Entrepreneurship</action>
+ <action date="2015-06-10">Reported by Mr. Vitter, with an amendment</action>
+ <congCommittee authorityId="sssb00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Small Business and Entrepreneurship</name>
+                      <name type="authority-short">Small Business</name>
+                </congCommittee>
+ <congMember authorityId="1901" bioGuideId="S001181" chamber="S" congress="114" gpoId="8276" party="D" role="SPONSOR" state="NH">
+                      <name type="parsed">Mrs. Shaheen</name>
+                      <name type="authority-fnf">Jeanne Shaheen</name>
+                      <name type="authority-lnf">Shaheen, Jeanne</name>
+                </congMember>
+ <congMember authorityId="1608" bioGuideId="I000055" chamber="S" congress="114" gpoId="8323" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Isakson</name>
+                      <name type="authority-fnf">Johnny Isakson</name>
+                      <name type="authority-lnf">Isakson, Johnny</name>
+                </congMember>
+ <congMember authorityId="172" bioGuideId="C000127" chamber="S" congress="114" gpoId="8288" party="D" role="COSPONSOR" state="WA">
+                      <name type="parsed">Ms. Cantwell</name>
+                      <name type="authority-fnf">Maria Cantwell</name>
+                      <name type="authority-lnf">Cantwell, Maria</name>
+                </congMember>
+ <congMember authorityId="2075" bioGuideId="A000368" chamber="S" congress="114" gpoId="8315" party="R" role="COSPONSOR" state="NH">
+                      <name type="parsed">Ms. Ayotte</name>
+                      <name type="authority-fnf">Kelly Ayotte</name>
+                      <name type="authority-lnf">Ayotte, Kelly</name>
+                </congMember>
+ <congMember authorityId="2179" bioGuideId="F000463" chamber="S" congress="114" party="R" role="COSPONSOR" state="NE">
+                      <name type="parsed">Mrs. Fischer</name>
+                      <name type="authority-fnf">Deb Fischer</name>
+                      <name type="authority-lnf">Fischer, Deb</name>
+                </congMember>
+ <congMember authorityId="1844" bioGuideId="H001042" chamber="S" congress="114" gpoId="7913" party="D" role="COSPONSOR" state="HI">
+                      <name type="parsed">Ms. Hirono</name>
+                      <name type="authority-fnf">Mazie K. Hirono</name>
+                      <name type="authority-lnf">Hirono, Mazie K.</name>
+                      <name type="authority-other">Ms. Mazie Hirono</name>
+                </congMember>
+ <congMember authorityId="1984" bioGuideId="C001088" chamber="S" congress="114" gpoId="8297" party="D" role="COSPONSOR" state="DE">
+                      <name type="parsed">Mr. Coons</name>
+                      <name type="authority-fnf">Christopher A. Coons</name>
+                      <name type="authority-lnf">Coons, Christopher A.</name>
+                      <name type="authority-other">Mr. Christopher Coons</name>
+                </congMember>
+ <congMember authorityId="1969" bioGuideId="F000457" chamber="S" congress="114" gpoId="8339" party="D" role="COSPONSOR" state="MN">
+                      <name type="parsed">Mr. Franken</name>
+                      <name type="authority-fnf">Al Franken</name>
+                      <name type="authority-lnf">Franken, Al</name>
+                </congMember>
+ <congCalendar congress="114" number="107" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="15">
+                      <section detail="(7)" number="696"></section>
+                      <section detail="note" number="696"></section>
+                </USCode>
+</extension>
+</mods>

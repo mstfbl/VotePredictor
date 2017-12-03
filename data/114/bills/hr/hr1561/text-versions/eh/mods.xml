@@ -1,0 +1,111 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18c72c9ec">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To improve the National Oceanic and Atmospheric Administration’s weather research through a focused program of investment on affordable and attainable advances in observational, computing, and modeling capabilities to support substantial improvement in weather forecasting and prediction of high impact weather events, to expand commercial opportunities for the provision of weather data, and for other purposes.;Weather Research and Forecasting Innovation Act of 2015;H.R. 1561 (EH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-05-20</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To improve the National Oceanic and Atmospheric Administration’s weather research through a focused program of investment on affordable and attainable advances in observational, computing, and modeling capabilities to support substantial improvement in weather forecasting and prediction of high impact weather events, to expand commercial opportunities for the provision of weather data, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Weather Research and Forecasting Innovation Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 1561 (EH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-05-19</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>26 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18c72c9ec</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1561eh</identifier>
+<identifier type="preferred citation">H.R. 1561</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h1561_eh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1561eh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1561eh/html/BILLS-114hr1561eh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1561eh/pdf/BILLS-114hr1561eh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1561eh/xml/BILLS-114hr1561eh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-05-20</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-12</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr1561eh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 51 Section 50503</partNumber>
+  <partNumber>Title 51 Section 60161</partNumber>
+</titleInfo>
+ <identifier type="USC citation">51 U.S.C. 50503</identifier>
+ <identifier type="USC citation">51 U.S.C. 60161</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr1561eh</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>1561</billNumber>
+ <billVersion reprint="false">eh</billVersion>
+ <fileSuffix>eh</fileSuffix>
+ <shortTitle type="measure">Weather Research and Forecasting Innovation Act of 2015</shortTitle>
+ <officialTitle>To improve the National Oceanic and Atmospheric Administration’s weather research through a focused program of investment on affordable and attainable advances in observational, computing, and modeling capabilities to support substantial improvement in weather forecasting and prediction of high impact weather events, to expand commercial opportunities for the provision of weather data, and for other purposes.</officialTitle>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="51">
+                      <section number="50503"></section>
+                      <section number="60161"></section>
+                </USCode>
+</extension>
+</mods>

@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-02-03</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2014-02-03</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-02-03</introducedDate>
+    <updateDate>2016-10-25T16:28:41Z</updateDate>
+    <createDate>2014-02-04T07:02:02Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <type>Standing</type>
+          <systemCode>sscm00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-02-03T20:34:55Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <state>NM</state>
+        <bioguideId>U000039</bioguideId>
+        <sponsorshipDate>2014-02-03</sponsorshipDate>
+        <identifiers>
+          <lisID>1567</lisID>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <firstName>TOM</firstName>
+        <lastName>UDALL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>CT</state>
+        <bioguideId>B001277</bioguideId>
+        <sponsorshipDate>2014-02-03</sponsorshipDate>
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MN</state>
+        <bioguideId>F000457</bioguideId>
+        <sponsorshipDate>2014-02-03</sponsorshipDate>
+        <identifiers>
+          <lisID>1969</lisID>
+          <bioguideId>F000457</bioguideId>
+          <gpoId>8339</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <firstName>Al</firstName>
+        <lastName>Franken</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>OR</state>
+        <bioguideId>W000779</bioguideId>
+        <sponsorshipDate>2014-02-03</sponsorshipDate>
+        <identifiers>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <firstName>RON</firstName>
+        <lastName>WYDEN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>OR</state>
+        <bioguideId>M001176</bioguideId>
+        <sponsorshipDate>2014-02-03</sponsorshipDate>
+        <identifiers>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <firstName>Jeff</firstName>
+        <lastName>Merkley</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MA</state>
+        <bioguideId>W000817</bioguideId>
+        <sponsorshipDate>2014-02-12</sponsorshipDate>
+        <identifiers>
+          <lisID>2182</lisID>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <firstName>Elizabeth</firstName>
+        <lastName>Warren</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Open Internet Preservation Act of 2014</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Open Internet Preservation Act of 2014</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to provide that the rules of the Federal Communications Commission relating to preserving the open Internet and broadband industry practices shall be restored to effect until the date when the Commission takes final action in the proceedings on such rules that were remanded to the Commission by the United States Court of Appeals for the District of Columbia Circuit.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Open Internet Preservation Act of 2014</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2014-02-22T16:18:49Z</lastSummaryUpdateDate>
+          <updateDate>2014-02-03T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2014-02-03</actionDate>
+          <text><![CDATA[<p>Open Internet Preservation Act of 2014 - Restores rules adopted by the Federal Communications Commission (FCC) in the Report and Order in the matter of preserving the open Internet and broadband industry practices (adopted on December 21, 2010) that were vacated by the U.S. Court of Appeals for the D.C. Circuit in <i>Verizon v. Federal Communications Commission</i> (decided on January 14, 2014).</p> <p>Requires such rules to remain in effect until the FCC takes final action in the proceedings remanded to the FCC in such D.C. Circuit decision.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2014-09-11</actionDate>
+          <text>Referred to the Subcommittee on Communications and Technology.</text>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Open Internet Act of 2014</latestTitle>
+        <number>5429</number>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2014-02-07</actionDate>
+          <text>Referred to the Subcommittee on Communications and Technology.</text>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Open Internet Preservation Act of 2014</latestTitle>
+        <number>3982</number>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Federal Communications Commission (FCC)</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <actionDate>2014-02-03</actionDate>
+    </latestAction>
+    <billNumber>1981</billNumber>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>EDWARD</firstName>
+        <party>D</party>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <bioguideId>M000133</bioguideId>
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <lastName>MARKEY</lastName>
+        <middleName>J.</middleName>
+        <state>MA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

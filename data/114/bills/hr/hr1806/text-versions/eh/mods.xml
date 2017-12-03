@@ -1,0 +1,338 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18c72d99a">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To provide for technological innovation through the prioritization of Federal investment in basic research, fundamental scientific discovery, and development to improve the competitiveness of the United States, and for other purposes.;America COMPETES Reauthorization Act of 2015;H.R. 1806 (EH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-05-21</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To provide for technological innovation through the prioritization of Federal investment in basic research, fundamental scientific discovery, and development to improve the competitiveness of the United States, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>America COMPETES Reauthorization Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 1806 (EH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-05-20</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>204 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18c72d99a</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1806eh</identifier>
+<identifier type="preferred citation">H.R. 1806</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h1806_eh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1806eh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1806eh/html/BILLS-114hr1806eh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1806eh/pdf/BILLS-114hr1806eh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1806eh/xml/BILLS-114hr1806eh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-05-21</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-12</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr1806eh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 552</partNumber>
+  <partNumber>Title 5 Section 5703</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 552</identifier>
+ <identifier type="USC citation">5 U.S.C. 5703</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 271et seq.</partNumber>
+  <partNumber>Title 15 Section 272</partNumber>
+  <partNumber>Title 15 Section 278</partNumber>
+  <partNumber>Title 15 Section 278e</partNumber>
+  <partNumber>Title 15 Section 278g-3(c)(1)</partNumber>
+  <partNumber>Title 15 Section 278I</partNumber>
+  <partNumber>Title 15 Section 278i(d)</partNumber>
+  <partNumber>Title 15 Section 278j</partNumber>
+  <partNumber>Title 15 Section 278k</partNumber>
+  <partNumber>Title 15 Section 278n</partNumber>
+  <partNumber>Title 15 Section 278s</partNumber>
+  <partNumber>Title 15 Section 3703</partNumber>
+  <partNumber>Title 15 Section 3706(a)</partNumber>
+  <partNumber>Title 15 Section 3710a</partNumber>
+  <partNumber>Title 15 Section 3719</partNumber>
+  <partNumber>Title 15 Section 5541</partNumber>
+  <partNumber>Title 15 Section 5542</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 271et seq.</identifier>
+ <identifier type="USC citation">15 U.S.C. 272</identifier>
+ <identifier type="USC citation">15 U.S.C. 278</identifier>
+ <identifier type="USC citation">15 U.S.C. 278e</identifier>
+ <identifier type="USC citation">15 U.S.C. 278g-3(c)(1)</identifier>
+ <identifier type="USC citation">15 U.S.C. 278I</identifier>
+ <identifier type="USC citation">15 U.S.C. 278i(d)</identifier>
+ <identifier type="USC citation">15 U.S.C. 278j</identifier>
+ <identifier type="USC citation">15 U.S.C. 278k</identifier>
+ <identifier type="USC citation">15 U.S.C. 278n</identifier>
+ <identifier type="USC citation">15 U.S.C. 278s</identifier>
+ <identifier type="USC citation">15 U.S.C. 3703</identifier>
+ <identifier type="USC citation">15 U.S.C. 3706(a)</identifier>
+ <identifier type="USC citation">15 U.S.C. 3710a</identifier>
+ <identifier type="USC citation">15 U.S.C. 3719</identifier>
+ <identifier type="USC citation">15 U.S.C. 5541</identifier>
+ <identifier type="USC citation">15 U.S.C. 5542</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1001(a)</partNumber>
+  <partNumber>Title 20 Section 1101a</partNumber>
+  <partNumber>Title 20 Section 2302</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1001(a)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1101a</identifier>
+ <identifier type="USC citation">20 U.S.C. 2302</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 1345</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 1345</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 41 Section 4712</partNumber>
+</titleInfo>
+ <identifier type="USC citation">41 U.S.C. 4712</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 10222(c)</partNumber>
+  <partNumber>Title 42 Section 15801</partNumber>
+  <partNumber>Title 42 Section 16191</partNumber>
+  <partNumber>Title 42 Section 16192</partNumber>
+  <partNumber>Title 42 Section 16194</partNumber>
+  <partNumber>Title 42 Section 16195</partNumber>
+  <partNumber>Title 42 Section 16197</partNumber>
+  <partNumber>Title 42 Section 16211</partNumber>
+  <partNumber>Title 42 Section 16215</partNumber>
+  <partNumber>Title 42 Section 16231</partNumber>
+  <partNumber>Title 42 Section 16232</partNumber>
+  <partNumber>Title 42 Section 16234</partNumber>
+  <partNumber>Title 42 Section 16235</partNumber>
+  <partNumber>Title 42 Section 16271</partNumber>
+  <partNumber>Title 42 Section 16271et seq.</partNumber>
+  <partNumber>Title 42 Section 16272</partNumber>
+  <partNumber>Title 42 Section 16273</partNumber>
+  <partNumber>Title 42 Section 16291</partNumber>
+  <partNumber>Title 42 Section 16292</partNumber>
+  <partNumber>Title 42 Section 16293</partNumber>
+  <partNumber>Title 42 Section 16317(e)</partNumber>
+  <partNumber>Title 42 Section 16318</partNumber>
+  <partNumber>Title 42 Section 16352</partNumber>
+  <partNumber>Title 42 Section 16352(b)</partNumber>
+  <partNumber>Title 42 Section 16357</partNumber>
+  <partNumber>Title 42 Section 16358</partNumber>
+  <partNumber>Title 42 Section 16391</partNumber>
+  <partNumber>Title 42 Section 16538</partNumber>
+  <partNumber>Title 42 Section 1861</partNumber>
+  <partNumber>Title 42 Section 1861et seq.</partNumber>
+  <partNumber>Title 42 Section 1862n--1a</partNumber>
+  <partNumber>Title 42 Section 1862n-1(i)(5)</partNumber>
+  <partNumber>Title 42 Section 1862n-4(a)(2)</partNumber>
+  <partNumber>Title 42 Section 1862o-12</partNumber>
+  <partNumber>Title 42 Section 1862p-15</partNumber>
+  <partNumber>Title 42 Section 2053</partNumber>
+  <partNumber>Title 42 Section 4701note</partNumber>
+  <partNumber>Title 42 Section 6611et seq.</partNumber>
+  <partNumber>Title 42 Section 6621</partNumber>
+  <partNumber>Title 42 Section 6621(b)(5)</partNumber>
+  <partNumber>Title 42 Section 7139</partNumber>
+  <partNumber>Title 42 Section 7139(c)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 10222(c)</identifier>
+ <identifier type="USC citation">42 U.S.C. 15801</identifier>
+ <identifier type="USC citation">42 U.S.C. 16191</identifier>
+ <identifier type="USC citation">42 U.S.C. 16192</identifier>
+ <identifier type="USC citation">42 U.S.C. 16194</identifier>
+ <identifier type="USC citation">42 U.S.C. 16195</identifier>
+ <identifier type="USC citation">42 U.S.C. 16197</identifier>
+ <identifier type="USC citation">42 U.S.C. 16211</identifier>
+ <identifier type="USC citation">42 U.S.C. 16215</identifier>
+ <identifier type="USC citation">42 U.S.C. 16231</identifier>
+ <identifier type="USC citation">42 U.S.C. 16232</identifier>
+ <identifier type="USC citation">42 U.S.C. 16234</identifier>
+ <identifier type="USC citation">42 U.S.C. 16235</identifier>
+ <identifier type="USC citation">42 U.S.C. 16271</identifier>
+ <identifier type="USC citation">42 U.S.C. 16271et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 16272</identifier>
+ <identifier type="USC citation">42 U.S.C. 16273</identifier>
+ <identifier type="USC citation">42 U.S.C. 16291</identifier>
+ <identifier type="USC citation">42 U.S.C. 16292</identifier>
+ <identifier type="USC citation">42 U.S.C. 16293</identifier>
+ <identifier type="USC citation">42 U.S.C. 16317(e)</identifier>
+ <identifier type="USC citation">42 U.S.C. 16318</identifier>
+ <identifier type="USC citation">42 U.S.C. 16352</identifier>
+ <identifier type="USC citation">42 U.S.C. 16352(b)</identifier>
+ <identifier type="USC citation">42 U.S.C. 16357</identifier>
+ <identifier type="USC citation">42 U.S.C. 16358</identifier>
+ <identifier type="USC citation">42 U.S.C. 16391</identifier>
+ <identifier type="USC citation">42 U.S.C. 16538</identifier>
+ <identifier type="USC citation">42 U.S.C. 1861</identifier>
+ <identifier type="USC citation">42 U.S.C. 1861et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 1862n--1a</identifier>
+ <identifier type="USC citation">42 U.S.C. 1862n-1(i)(5)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1862n-4(a)(2)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1862o-12</identifier>
+ <identifier type="USC citation">42 U.S.C. 1862p-15</identifier>
+ <identifier type="USC citation">42 U.S.C. 2053</identifier>
+ <identifier type="USC citation">42 U.S.C. 4701note</identifier>
+ <identifier type="USC citation">42 U.S.C. 6611et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 6621</identifier>
+ <identifier type="USC citation">42 U.S.C. 6621(b)(5)</identifier>
+ <identifier type="USC citation">42 U.S.C. 7139</identifier>
+ <identifier type="USC citation">42 U.S.C. 7139(c)</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr1806eh</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>1806</billNumber>
+ <billVersion reprint="false">eh</billVersion>
+ <fileSuffix>eh</fileSuffix>
+ <shortTitle type="measure">America COMPETES Reauthorization Act of 2015</shortTitle>
+ <officialTitle>To provide for technological innovation through the prioritization of Federal investment in basic research, fundamental scientific discovery, and development to improve the competitiveness of the United States, and for other purposes.</officialTitle>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="552"></section>
+                      <section number="5703"></section>
+                </USCode>
+ <USCode title="15">
+                      <section detail="et seq." number="271"></section>
+                      <section number="272"></section>
+                      <section number="278"></section>
+                      <section number="278e"></section>
+                      <section detail="(c)(1)" number="278g-3"></section>
+                      <section number="278I"></section>
+                      <section detail="(d)" number="278i"></section>
+                      <section number="278j"></section>
+                      <section number="278k"></section>
+                      <section number="278n"></section>
+                      <section number="278s"></section>
+                      <section number="3703"></section>
+                      <section detail="(a)" number="3706"></section>
+                      <section number="3710a"></section>
+                      <section number="3719"></section>
+                      <section number="5541"></section>
+                      <section number="5542"></section>
+                </USCode>
+ <USCode title="20">
+                      <section detail="(a)" number="1001"></section>
+                      <section number="1101a"></section>
+                      <section number="2302"></section>
+                </USCode>
+ <USCode title="31">
+                      <section number="1345"></section>
+                </USCode>
+ <USCode title="41">
+                      <section number="4712"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="(c)" number="10222"></section>
+                      <section number="15801"></section>
+                      <section number="16191"></section>
+                      <section number="16192"></section>
+                      <section number="16194"></section>
+                      <section number="16195"></section>
+                      <section number="16197"></section>
+                      <section number="16211"></section>
+                      <section number="16215"></section>
+                      <section number="16231"></section>
+                      <section number="16232"></section>
+                      <section number="16234"></section>
+                      <section number="16235"></section>
+                      <section number="16271"></section>
+                      <section detail="et seq." number="16271"></section>
+                      <section number="16272"></section>
+                      <section number="16273"></section>
+                      <section number="16291"></section>
+                      <section number="16292"></section>
+                      <section number="16293"></section>
+                      <section detail="(e)" number="16317"></section>
+                      <section number="16318"></section>
+                      <section number="16352"></section>
+                      <section detail="(b)" number="16352"></section>
+                      <section number="16357"></section>
+                      <section number="16358"></section>
+                      <section number="16391"></section>
+                      <section number="16538"></section>
+                      <section number="1861"></section>
+                      <section detail="et seq." number="1861"></section>
+                      <section number="1862n--1a"></section>
+                      <section detail="(i)(5)" number="1862n-1"></section>
+                      <section detail="(a)(2)" number="1862n-4"></section>
+                      <section number="1862o-12"></section>
+                      <section number="1862p-15"></section>
+                      <section number="2053"></section>
+                      <section detail="note" number="4701"></section>
+                      <section detail="et seq." number="6611"></section>
+                      <section number="6621"></section>
+                      <section detail="(b)(5)" number="6621"></section>
+                      <section number="7139"></section>
+                      <section detail="(c)" number="7139"></section>
+                </USCode>
+</extension>
+</mods>

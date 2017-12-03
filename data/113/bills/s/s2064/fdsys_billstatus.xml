@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2014-02-27</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors />
+    <recordedVotes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+      <actionDate>2014-02-27</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <number>133</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>PATIENTS Act of 2013</latestTitle>
+        <type>S</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+          <actionDate>2013-01-24</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <updateDate>2016-10-25T16:29:03Z</updateDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-02-27</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>B00100</actionCode>
+        <actionDate>2014-02-27</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S1235-1236</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S1235-1236</url>
+          </link>
+        </links>
+        <text>Sponsor introductory remarks on measure. (CR S1235-1236)</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2014-02-27</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2014-05-05T21:27:37Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Four Rationers Repeal Act of 2014 - Repeals sections of the Patient Protection and Affordable Care (PPACA) (and restores provisions of law amended by such sections) related to the establishment of an Independent Payment Advisory Board to develop and submit detailed proposals to reduce the per capita rate of growth in Medicare spending to the President for Congress to consider.</p> <p>Amends title XI of the Social Security Act to repeal provisions establishing the Center for Medicare and Medicaid Innovation.</p> <p>Amends the Public Health Service Act, with respect to coverage of preventive health services by a group health plan or health insurance issuer, to repeal provisions that prohibit cost sharing requirements for evidence-based items or services that have in effect a rating of &quot;A&quot; or &quot;B&quot; in the current recommendations of the United States Preventive Services Task Force. (Such ratings are based upon determinations of net benefit by the Task Force.)</p> <p>Repeals PPACA requirements that: (1) the Director of the Agency for Healthcare Research and Quality convene an independent Preventive Services Task Force, and (2) the Director of the Centers for Disease Control and Prevention (CDC) convene an independent Community Preventive Services Task Force. Restores provisions of law amended by such provisions.</p> <p>Prohibits the Secretary of Health and Human Services (HHS) from using data obtained from comparative effectiveness research, including any conducted or supported using funds appropriated under the American Recovery and Reinvestment Act of 2009 (ARRA) or authorized or appropriated under the Patient Protection and Affordable Care Act, to deny or delay coverage of an item or service under a federal health care program. Requires the Secretary to ensure that comparative effectiveness research conducted or supported by the federal government accounts for factors contributing to differences in the treatment response and preferences of patients, including patient-reported outcomes, genomics and personalized medicine, the unique needs of health disparity populations, and indirect patient benefits.</p>]]></text>
+          <updateDate>2014-02-27T05:00:00Z</updateDate>
+          <actionDate>2014-02-27</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Genetics</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Minority health</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Four Rationers Repeal Act of 2014</title>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <lastName>ROBERTS</lastName>
+        <bioguideId>R000307</bioguideId>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <identifiers>
+          <lisID>968</lisID>
+          <bioguideId>R000307</bioguideId>
+          <gpoId>8275</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>PAT</firstName>
+        <middleName />
+        <state>KS</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2014-02-28T07:01:08Z</createDate>
+    <billNumber>2064</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <date>2014-02-27T22:22:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Finance Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Four Rationers Repeal Act of 2014</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to provide for the repeal of certain provisions of the Patient Protection and Affordable Care Act that have the effect of rationing health care.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Four Rationers Repeal Act of 2014</title>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

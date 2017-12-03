@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <updateDate>2016-10-25T16:32:02Z</updateDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Airport Public-Private Partnership Act of 2014</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to encourage investments in airports through public-private partnerships, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Airport Public-Private Partnership Act of 2014</title>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <lastName>KIRK</lastName>
+        <firstName>MARK</firstName>
+        <bioguideId>K000360</bioguideId>
+        <middleName>STEVEN</middleName>
+        <state>IL</state>
+        <fullName>Sen. Kirk, Mark Steven [R-IL]</fullName>
+        <party>R</party>
+        <byRequestType />
+        <identifiers>
+          <lisID>1647</lisID>
+          <gpoId>8285</gpoId>
+          <bioguideId>K000360</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <introducedDate>2014-07-31</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2015-01-09T20:11:03Z</lastSummaryUpdateDate>
+          <updateDate>2014-07-31T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2014-07-31</actionDate>
+          <text><![CDATA[<p>Airport Public-Private Partnership Act of 2014 - Revises provisions regarding a pilot program on airport privatization to delete provisions: (1) limiting the number of airports in the pilot program to not more than 10; (2) requiring that if applications are approved with respect to 5 airports, 1 of the airports must be a general aviation airport; and (3) prohibiting the approval of more than 1 application submitted by an airport that had 1% or more of the total passenger boardings in the United States in the preceding calendar year.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billType>S</billType>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Transportation programs funding</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cosponsors />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-07-31</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2014-07-31</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <title>Airport Public-Private Partnership Act of 2014</title>
+    <createDate>2014-08-01T10:29:47Z</createDate>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <actionDate>2014-07-31</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </latestAction>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <billNumber>2750</billNumber>
+    <laws />
+    <congress>113</congress>
+    <relatedBills />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>sscm00</systemCode>
+          <activities>
+            <item>
+              <date>2014-07-31T20:46:19Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Commerce, Science, and Transportation Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <committeeReports />
+    <notes />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

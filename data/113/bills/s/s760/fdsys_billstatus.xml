@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2013-04-18</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <firstName>Ron</firstName>
+        <party>R</party>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>J000293</bioguideId>
+        <identifiers>
+          <lisID>2086</lisID>
+          <bioguideId>J000293</bioguideId>
+          <gpoId>8355</gpoId>
+        </identifiers>
+        <lastName>Johnson</lastName>
+        <sponsorshipWithdrawnDate>2014-07-23</sponsorshipWithdrawnDate>
+        <state>WI</state>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <middleName />
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <links />
+      <actionDate>2013-04-18</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2013-08-01</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Government Customer Service Improvement Act of 2013</latestTitle>
+        <number>1660</number>
+      </item>
+    </relatedBills>
+    <updateDate>2016-10-25T16:23:37Z</updateDate>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionDate>2013-04-18</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+        <actionDate>2013-04-18</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Government Customer Service Improvement Act of 2013 - Requires the Director of the Office of Management and Budget (OMB) to develop government-wide standards for customer service delivery, which shall be included in the Federal Government Performance Plan. Requires such standards to include: (1) government-wide goals for continuous service improvements and efforts to modernize service delivery; and (2) government-wide target response times for telephone calls, electronic mail, mail, benefit processing, and payments. </p> <p>Directs: (1) the Chief Performance Officer for each executive agency to establish customer service standards in accordance with such government-wide standards, which shall be included in Agency Performance Plans; (2) the Performance Improvement Officer for each agency to collect information from customers of the agency regarding the quality of customer service provided; and (3) the Director to include agency achievements in meeting such standards and customer service performance measures in each required update on agency performance.</p> <p>Requires: (1) the Director to establish a two-year Service Improvement Unit Pilot Program to provide assistance to agencies that do not meet such government-wide standards, and (2) the Administrator of General Services (GSA) to provide administrative and other support to implement such Program.</p> <p>Requires the Director of the Office of Personnel Management (OPM) to: (1) submit to Congress and the Comptroller General (GAO) and issue publicly every month a report on information submitted by each federal agency regarding its employees who are retiring and pending applications for retirement benefits, (2) establish a timetable for completion of OPM's retirement systems modernization project and a deadline by which all federal payroll processing entities will electronically transmit all personnel data to OPM, and (3) include in each annual budget request a statement on OPM's progress in completing such project and resources needed to implement it.</p>]]></text>
+          <actionDate>2013-04-18</actionDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2013-04-18T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-06-26T15:12:45Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Office of Management and Budget (OMB)</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Government Customer Service Improvement Act of 2013</title>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <lastName>Warner</lastName>
+        <bioguideId>W000805</bioguideId>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <identifiers>
+          <bioguideId>W000805</bioguideId>
+          <gpoId>8269</gpoId>
+          <lisID>1897</lisID>
+        </identifiers>
+        <party>D</party>
+        <firstName>Mark</firstName>
+        <middleName>R.</middleName>
+        <state>VA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2013-04-19T07:02:11Z</createDate>
+    <billNumber>760</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-04-18T18:19:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Government Customer Service Improvement Act of 2013</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to require the establishment of Federal customer service standards and to improve the service provided by Federal agencies.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Government Customer Service Improvement Act of 2013</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,161 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18f6e92fa">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To require studies and reports examining the use of, and opportunities to use, technology-enabled collaborative learning and capacity building models to improve programs of the Department of Health and Human Services, and for other purposes.;
+   		Expanding Capacity for Health Outcomes Act;ECHO Act;S. 2873 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-05-12</dateIngested>
+</extension>
+<titleInfo>
+ <title>To require studies and reports examining the use of, and opportunities to use, technology-enabled collaborative learning and capacity building models to improve programs of the Department of Health and Human Services, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Expanding Capacity for Health Outcomes Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>ECHO Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 2873 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-04-28</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>8 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18f6e92fa</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s2873is</identifier>
+<identifier type="preferred citation">S. 2873</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s2873_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s2873is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2873is/html/BILLS-114s2873is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2873is/pdf/BILLS-114s2873is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2873is/xml/BILLS-114s2873is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-05-12</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-05-12</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s2873is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Orrin G. Hatch</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Brian Schatz</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Health, Education, Labor, and Pensions</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 254b(b)</partNumber>
+  <partNumber>Title 42 Section 254e</partNumber>
+  <partNumber>Title 42 Section 295p</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 254b(b)</identifier>
+ <identifier type="USC citation">42 U.S.C. 254e</identifier>
+ <identifier type="USC citation">42 U.S.C. 295p</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s2873is</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2873</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle>Expanding Capacity for Health Outcomes Act</shortTitle>
+ <shortTitle>ECHO Act</shortTitle>
+ <action date="2016-04-28">Mr. Hatch (for himself and Mr. Schatz) introduced the following bill; which was read twice and referred to the Committee on Health, Education, Labor, and Pensions</action>
+ <congCommittee authorityId="sshr00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Health, Education, Labor, and Pensions</name>
+                      <name type="authority-short">HELP</name>
+                </congCommittee>
+ <congMember authorityId="1351" bioGuideId="H000338" chamber="S" congress="114" gpoId="8314" party="R" role="SPONSOR" state="UT">
+                      <name type="parsed">Mr. Hatch</name>
+                      <name type="authority-fnf">Orrin G. Hatch</name>
+                      <name type="authority-lnf">Hatch, Orrin G.</name>
+                      <name type="authority-other">Orrin Grant Hatch</name>
+                </congMember>
+ <congMember authorityId="2173" bioGuideId="S001194" chamber="S" congress="114" party="D" role="COSPONSOR" state="HI">
+                      <name type="parsed">Mr. Schatz</name>
+                      <name type="authority-fnf">Brian Schatz</name>
+                      <name type="authority-lnf">Schatz, Brian</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="42">
+                      <section detail="(b)" number="254b"></section>
+                      <section number="254e"></section>
+                      <section number="295p"></section>
+                </USCode>
+</extension>
+</mods>

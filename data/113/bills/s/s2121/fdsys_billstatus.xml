@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <introducedDate>2014-03-12</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Repeal REAL ID Act - Repeals title II (Improved Security for Driver's Licenses and Personal Identification Cards) of the REAL ID Act of 2005. </p>]]></text>
+          <updateDate>2014-03-12T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2014-03-21T21:50:07Z</lastSummaryUpdateDate>
+          <actionDate>2014-03-12</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2014-03-12T21:41:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <updateDate>2016-10-25T16:29:16Z</updateDate>
+    <amendments />
+    <title>A bill to repeal title II of the REAL ID Act of 2005.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Motor vehicles</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <links />
+      <actionDate>2014-03-12</actionDate>
+    </latestAction>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <congress>113</congress>
+    <createDate>2014-03-13T07:19:05Z</createDate>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <number>4073</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-03-20</actionDate>
+          <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        </latestAction>
+        <latestTitle>Repeal ID Act of 2014</latestTitle>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2014-03-12</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2014-03-12</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <billNumber>2121</billNumber>
+    <cosponsors>
+      <item>
+        <middleName />
+        <state>AK</state>
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001265</bioguideId>
+        <fullName>Sen. Begich, Mark [D-AK]</fullName>
+        <lastName>Begich</lastName>
+        <party>D</party>
+        <sponsorshipDate>2014-03-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001265</bioguideId>
+          <lisID>1898</lisID>
+          <gpoId>8301</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <state>MT</state>
+        <firstName>Jon</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000464</bioguideId>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <lastName>Tester</lastName>
+        <party>D</party>
+        <sponsorshipDate>2014-03-12</sponsorshipDate>
+        <identifiers>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <state>AK</state>
+        <firstName>Lisa</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001153</bioguideId>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <lastName>Murkowski</lastName>
+        <party>R</party>
+        <sponsorshipDate>2014-03-31</sponsorshipDate>
+        <identifiers>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <notes />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <billType>S</billType>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to repeal title II of the REAL ID Act of 2005.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to repeal title II of the REAL ID Act of 2005.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <bioguideId>W000818</bioguideId>
+        <state>MT</state>
+        <byRequestType />
+        <firstName>John</firstName>
+        <identifiers>
+          <lisID>2198</lisID>
+          <gpoId />
+          <bioguideId>W000818</bioguideId>
+        </identifiers>
+        <fullName>Sen. Walsh, John E. [D-MT]</fullName>
+        <lastName>Walsh</lastName>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

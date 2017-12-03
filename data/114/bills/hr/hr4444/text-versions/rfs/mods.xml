@@ -1,0 +1,149 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1904e607d">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To amend the Energy Policy and Conservation Act to exclude power supply circuits, drivers, and devices designed to be connected to, and power, light-emitting diodes or organic light-emitting diodes providing illumination from energy conservation standards for external power supplies, and for other purposes.;
+   		EPS Improvement Act of 2016;H.R. 4444 (RFS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-07-18</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To amend the Energy Policy and Conservation Act to exclude power supply circuits, drivers, and devices designed to be connected to, and power, light-emitting diodes or organic light-emitting diodes providing illumination from energy conservation standards for external power supplies, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>EPS Improvement Act of 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 4444 (RFS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-07-14</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>4 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee1904e607d</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4444rfs</identifier>
+<identifier type="preferred citation">H.R. 4444</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h4444_rfs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4444rfs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4444rfs/html/BILLS-114hr4444rfs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4444rfs/pdf/BILLS-114hr4444rfs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4444rfs/xml/BILLS-114hr4444rfs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-07-18</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-07-19</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr4444rfs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Energy and Natural Resources</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 6291(36)(A)</partNumber>
+  <partNumber>Title 42 Section 6291(6)(B)</partNumber>
+  <partNumber>Title 42 Section 6294</partNumber>
+  <partNumber>Title 42 Section 6295(l)</partNumber>
+  <partNumber>Title 42 Section 6311(2)(B)</partNumber>
+  <partNumber>Title 42 Section 6313</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 6291(36)(A)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6291(6)(B)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6294</identifier>
+ <identifier type="USC citation">42 U.S.C. 6295(l)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6311(2)(B)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6313</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr4444rfs</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>4444</billNumber>
+ <billVersion reprint="false">rfs</billVersion>
+ <fileSuffix>rfs</fileSuffix>
+ <shortTitle>EPS Improvement Act of 2016</shortTitle>
+ <action date="2016-07-14">Read twice and referred to the Committee on Energy and Natural Resources</action>
+ <action date="2016-03-01">Received</action>
+ <congCommittee authorityId="sseg00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Energy and Natural Resources</name>
+                      <name type="authority-short">Energy and Natural Resources</name>
+                </congCommittee>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="42">
+                      <section detail="(36)(A)" number="6291"></section>
+                      <section detail="(6)(B)" number="6291"></section>
+                      <section number="6294"></section>
+                      <section detail="(l)" number="6295"></section>
+                      <section detail="(2)(B)" number="6311"></section>
+                      <section number="6313"></section>
+                </USCode>
+</extension>
+</mods>

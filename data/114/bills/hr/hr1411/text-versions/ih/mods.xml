@@ -1,0 +1,141 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18bbbe3fc">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To provide for a grants program to develop and enhance integrated nutrition and physical activity curricula in medical schools.;Expanding Nutrition’s Role in Curricula and Healthcare Act;H.R. 1411 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-03-20</dateIngested>
+</extension>
+<titleInfo>
+ <title>To provide for a grants program to develop and enhance integrated nutrition and physical activity curricula in medical schools.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Expanding Nutrition’s Role in Curricula and Healthcare Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 1411 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-03-17</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>10 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18bbbe3fc</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1411ih</identifier>
+<identifier type="preferred citation">H.R. 1411</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h1411_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1411ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1411ih/html/BILLS-114hr1411ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1411ih/pdf/BILLS-114hr1411ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1411ih/xml/BILLS-114hr1411ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-03-20</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-13</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr1411ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Tim Ryan</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Patrick J. Tiberi</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Energy and Commerce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr1411ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>1411</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Expanding Nutrition’s Role in Curricula and Healthcare Act</shortTitle>
+ <officialTitle>To provide for a grants program to develop and enhance integrated nutrition and physical activity curricula in medical schools.</officialTitle>
+ <action date="2015-03-17">Mr. Ryan of Ohio (for himself and Mr. Tiberi) introduced the following bill; which was referred to the Committee on Energy and Commerce</action>
+ <congCommittee authorityId="hsif00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Energy and Commerce</name>
+                      <name type="authority-short">Energy and Commerce</name>
+                </congCommittee>
+ <congMember authorityId="1756" bioGuideId="R000577" chamber="H" congress="114" gpoId="8107" party="D" role="SPONSOR" state="OH">
+                      <name type="parsed">Mr. Ryan of Ohio</name>
+                      <name type="authority-fnf">Tim Ryan</name>
+                      <name type="authority-lnf">Ryan, Tim</name>
+                </congMember>
+ <congMember authorityId="1664" bioGuideId="T000462" chamber="H" congress="114" gpoId="8102" party="R" role="COSPONSOR" state="OH">
+                      <name type="parsed">Mr. Tiberi</name>
+                      <name type="authority-fnf">Patrick J. Tiberi</name>
+                      <name type="authority-lnf">Tiberi, Patrick J.</name>
+                      <name type="authority-other">Patrick Tiberi</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

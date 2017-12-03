@@ -1,0 +1,223 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18c00368a">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Intermodal Surface Transportation Efficiency Act of 1991 to extend Interstate Route 11.;Intermountain West Corridor Development Act of 2015;H.R. 1612 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-04-01</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Intermodal Surface Transportation Efficiency Act of 1991 to extend Interstate Route 11.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Intermountain West Corridor Development Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 1612 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-03-25</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>4 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18c00368a</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1612ih</identifier>
+<identifier type="preferred citation">H.R. 1612</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h1612_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1612ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1612ih/html/BILLS-114hr1612ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1612ih/pdf/BILLS-114hr1612ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1612ih/xml/BILLS-114hr1612ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-04-01</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-13</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr1612ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Paul A. Gosar</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Cresent Hardy</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dina Titus</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ann Kirkpatrick</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Transportation and Infrastructure</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 105 Page 2031</partNumber>
+  <partNumber>Volume 105 Page 2032</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">105 Stat. 2031</identifier>
+ <identifier type="Statute citation">105 Stat. 2032</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 109 Page 597</partNumber>
+  <partNumber>Volume 109 Page 598</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">109 Stat. 597</identifier>
+ <identifier type="Statute citation">109 Stat. 598</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 118 Page 293</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">118 Stat. 293</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 119 Page 1213</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">119 Stat. 1213</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 126 Page 427</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">126 Stat. 427</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr1612ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>1612</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Intermountain West Corridor Development Act of 2015</shortTitle>
+ <officialTitle>To amend the Intermodal Surface Transportation Efficiency Act of 1991 to extend Interstate Route 11.</officialTitle>
+ <action date="2015-03-25">Mr. Gosar (for himself, Mr. Hardy, Ms. Titus, and Mrs. Kirkpatrick) introduced the following bill; which was referred to the Committee on Transportation and Infrastructure</action>
+ <congCommittee authorityId="hspw00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Transportation and Infrastructure</name>
+                      <name type="authority-short">Transportation</name>
+                </congCommittee>
+ <congMember authorityId="1992" bioGuideId="G000565" chamber="H" congress="114" gpoId="7798" party="R" role="SPONSOR" state="AZ">
+                      <name type="parsed">Mr. Gosar</name>
+                      <name type="authority-fnf">Paul A. Gosar</name>
+                      <name type="authority-lnf">Gosar, Paul A.</name>
+                      <name type="authority-other">Mr. Paul Gosar</name>
+                </congMember>
+ <congMember authorityId="2260" bioGuideId="H001070" chamber="H" congress="114" party="R" role="COSPONSOR" state="NV">
+                      <name type="parsed">Mr. Hardy</name>
+                      <name type="authority-fnf">Cresent Hardy</name>
+                      <name type="authority-lnf">Hardy, Cresent</name>
+                </congMember>
+ <congMember authorityId="1940" bioGuideId="T000468" chamber="H" congress="114" gpoId="7493" party="D" role="COSPONSOR" state="NV">
+                      <name type="parsed">Ms. Titus</name>
+                      <name type="authority-fnf">Dina Titus</name>
+                      <name type="authority-lnf">Titus, Dina</name>
+                </congMember>
+ <congMember authorityId="1907" bioGuideId="K000368" chamber="H" congress="114" gpoId="7220" party="D" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mrs. Kirkpatrick</name>
+                      <name type="authority-fnf">Ann Kirkpatrick</name>
+                      <name type="authority-lnf">Kirkpatrick, Ann</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <statuteAtLarge volume="105">
+                      <pages pages="2031"></pages>
+                      <pages pages="2032"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="109">
+                      <pages pages="597"></pages>
+                      <pages pages="598"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="118">
+                      <pages pages="293"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="119">
+                      <pages pages="1213"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="126">
+                      <pages pages="427"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

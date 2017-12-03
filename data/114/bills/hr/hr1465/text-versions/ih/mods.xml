@@ -1,0 +1,197 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18bdca729">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend title 10, United States Code, to provide an individual with a mental health screening before the individual enlists in the Armed Forces or is commissioned as an officer in the Armed Forces, and for other purposes.;Medical Evaluation Parity for Servicemembers Act of 2015;H.R. 1465 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-03-26</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend title 10, United States Code, to provide an individual with a mental health screening before the individual enlists in the Armed Forces or is commissioned as an officer in the Armed Forces, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Medical Evaluation Parity for Servicemembers Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 1465 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-03-19</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>6 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18bdca729</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1465ih</identifier>
+<identifier type="preferred citation">H.R. 1465</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h1465_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1465ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1465ih/html/BILLS-114hr1465ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1465ih/pdf/BILLS-114hr1465ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1465ih/xml/BILLS-114hr1465ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-03-26</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-13</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr1465ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Glenn Thompson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tim Ryan</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kevin Cramer</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael T. McCaul</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bobby L. Rush</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Armed Services</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 1145(a)</partNumber>
+  <partNumber>Title 10 Section 520d(a)</partNumber>
+  <partNumber>Title 10 Chapter 31</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 1145(a)</identifier>
+ <identifier type="USC citation">10 U.S.C. 520d(a)</identifier>
+ <identifier type="USC citation">10 U.S.C. Chapter 31</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr1465ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>1465</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Medical Evaluation Parity for Servicemembers Act of 2015</shortTitle>
+ <officialTitle>To amend title 10, United States Code, to provide an individual with a mental health screening before the individual enlists in the Armed Forces or is commissioned as an officer in the Armed Forces, and for other purposes.</officialTitle>
+ <action date="2015-03-19">Mr. Thompson of Pennsylvania (for himself, Mr. Ryan of Ohio, Mr. Cramer, Mr. McCaul, and Mr. Rush) introduced the following bill; which was referred to the Committee on Armed Services</action>
+ <congCommittee authorityId="hsas00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Armed Services</name>
+                      <name type="authority-short">Armed Services</name>
+                </congCommittee>
+ <congMember authorityId="1952" bioGuideId="T000467" chamber="H" congress="114" gpoId="8123" party="R" role="SPONSOR" state="PA">
+                      <name type="parsed">Mr. Thompson of Pennsylvania</name>
+                      <name type="authority-fnf">Glenn Thompson</name>
+                      <name type="authority-lnf">Thompson, Glenn</name>
+                </congMember>
+ <congMember authorityId="1756" bioGuideId="R000577" chamber="H" congress="114" gpoId="8107" party="D" role="COSPONSOR" state="OH">
+                      <name type="parsed">Mr. Ryan of Ohio</name>
+                      <name type="authority-fnf">Tim Ryan</name>
+                      <name type="authority-lnf">Ryan, Tim</name>
+                </congMember>
+ <congMember authorityId="2144" bioGuideId="C001096" chamber="H" congress="114" party="R" role="COSPONSOR" state="ND">
+                      <name type="parsed">Mr. Cramer</name>
+                      <name type="authority-fnf">Kevin Cramer</name>
+                      <name type="authority-lnf">Cramer, Kevin</name>
+                </congMember>
+ <congMember authorityId="1804" bioGuideId="M001157" chamber="H" congress="114" gpoId="8166" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. McCaul</name>
+                      <name type="authority-fnf">Michael T. McCaul</name>
+                      <name type="authority-lnf">McCaul, Michael T.</name>
+                      <name type="authority-other">Mr. Michael Mccaul</name>
+                </congMember>
+ <congMember authorityId="1003" bioGuideId="R000515" chamber="H" congress="114" gpoId="7921" party="D" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Rush</name>
+                      <name type="authority-fnf">Bobby L. Rush</name>
+                      <name type="authority-lnf">Rush, Bobby L.</name>
+                      <name type="authority-other">Bobby Rush</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="10">
+                      <section detail="(a)" number="1145"></section>
+                      <section detail="(a)" number="520d"></section>
+                      <chapter number="31"></chapter>
+                </USCode>
+</extension>
+</mods>

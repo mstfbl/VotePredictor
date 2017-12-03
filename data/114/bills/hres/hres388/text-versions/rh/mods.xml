@@ -1,0 +1,126 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18d23e7b6">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>Providing for consideration of the bill (H.R. 1994) to amend title 38, United States Code, to provide for the removal or demotion of employees of the Department of Veterans Affairs based on performance or misconduct, and for other purposes, and providing for consideration of the bill (H.R. 3236) to provide an extension of Federal-aid highway, highway safety, motor carrier safety, transit, and other programs funded out of the Highway Trust Fund, to provide resource flexibility to the Department of Veterans Affairs for health care services, and for other purposes.;H. Res. 388 (RH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-07-29</dateIngested>
+</extension>
+<titleInfo>
+ <title>Providing for consideration of the bill (H.R. 1994) to amend title 38, United States Code, to provide for the removal or demotion of employees of the Department of Veterans Affairs based on performance or misconduct, and for other purposes, and providing for consideration of the bill (H.R. 3236) to provide an extension of Federal-aid highway, highway safety, motor carrier safety, transit, and other programs funded out of the Highway Trust Fund, to provide resource flexibility to the Department of Veterans Affairs for health care services, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H. Res. 388 (RH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-07-28</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>6 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/7:</classification>
+<identifier type="local">P0b002ee18d23e7b6</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hres388rh</identifier>
+<identifier type="preferred citation">H. Res. 388</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325574</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House resolutions</identifier>
+<identifier type="former package identifier">f:hr388_rh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hres388rh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hres388rh/html/BILLS-114hres388rh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hres388rh/pdf/BILLS-114hres388rh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hres388rh/xml/BILLS-114hres388rh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-07-29</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-11</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hres388rh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Pete Sessions</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Rules</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">House Calendar No. 52</identifier>
+</relatedItem>
+<extension>
+ <docClass>hres</docClass>
+ <accessId>BILLS-114hres388rh</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>388</billNumber>
+ <billVersion reprint="false">rh</billVersion>
+ <fileSuffix>rh</fileSuffix>
+ <officialTitle>Providing for consideration of the bill (H.R. 1994) to amend title 38, United States Code, to provide for the removal or demotion of employees of the Department of Veterans Affairs based on performance or misconduct, and for other purposes, and providing for consideration of the bill (H.R. 3236) to provide an extension of Federal-aid highway, highway safety, motor carrier safety, transit, and other programs funded out of the Highway Trust Fund, to provide resource flexibility to the Department of Veterans Affairs for health care services, and for other purposes.</officialTitle>
+ <action date="2015-07-28">Mr. Sessions, from the Committee on Rules, reported the following resolution; which was referred to the House Calendar and ordered to be printed</action>
+ <congCommittee authorityId="hsru00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Rules</name>
+                      <name type="authority-short">Rules</name>
+                </congCommittee>
+ <congMember authorityId="1525" bioGuideId="S000250" chamber="H" congress="114" gpoId="8188" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Sessions</name>
+                      <name type="authority-fnf">Pete Sessions</name>
+                      <name type="authority-lnf">Sessions, Pete</name>
+                </congMember>
+ <congCalendar congress="114" number="52" type="HOUSE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

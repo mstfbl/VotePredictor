@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-07-22</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Sponsor introductory remarks on measure. (CR S4713-4714)</text>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S4713-4714</url>
+            <name>S4713-4714</name>
+          </link>
+        </links>
+        <type>IntroReferral</type>
+        <actionDate>2014-07-22</actionDate>
+        <actionCode>B00100</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2014-07-22</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-07-22</introducedDate>
+    <updateDate>2016-10-25T16:31:36Z</updateDate>
+    <createDate>2014-07-23T05:05:44Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <subcommittees />
+          <systemCode>sscm00</systemCode>
+          <activities>
+            <item>
+              <date>2014-07-22T21:50:44Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>F000463</bioguideId>
+        <identifiers>
+          <lisID>2179</lisID>
+          <bioguideId>F000463</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <firstName>Deb</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2014-07-22</sponsorshipDate>
+        <lastName>Fischer</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>NE</state>
+      </item>
+      <item>
+        <bioguideId>C000141</bioguideId>
+        <identifiers>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+          <bioguideId>C000141</bioguideId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <firstName>BENJAMIN</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-09-09</sponsorshipDate>
+        <lastName>CARDIN</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>MD</state>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>A bill to require a report by the Federal Communications Commission on designated market areas.</title>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to require a report by the Federal Communications Commission on designated market areas.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>A bill to require a report by the Federal Communications Commission on designated market areas.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2014-07-22T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Directs the Federal Communications Commission (FCC) to submit to Congress a report containing an analysis of: (1) the extent to which consumers in each local market have access to broadcast programming from television broadcast stations located outside their local market; (2) whether there are alternatives to the use of designated market areas to define markets that would provide consumers with more local programming options; and (3) the potential impact that such alternatives could have on localism and on broadcast television locally, regionally, and nationally.</p> <p>Requires such report to include recommendations on how to foster increased localism in states served by out-of-state designated market areas. </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2014-07-22</actionDate>
+          <lastSummaryUpdateDate>2014-08-14T18:49:35Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>Television and film</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <actionDate>2014-07-22</actionDate>
+    </latestAction>
+    <billNumber>2643</billNumber>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Cory</firstName>
+        <party>D</party>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <bioguideId>B001288</bioguideId>
+        <identifiers>
+          <lisID>2194</lisID>
+          <gpoId />
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <lastName>Booker</lastName>
+        <middleName>A.</middleName>
+        <state>NJ</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

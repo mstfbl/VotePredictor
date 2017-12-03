@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-12-12</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2014-12-12</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-12-12</introducedDate>
+    <updateDate>2016-10-25T16:33:00Z</updateDate>
+    <createDate>2014-12-13T01:51:57Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Veterans' Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-12-12T20:09:55Z</date>
+            </item>
+          </activities>
+          <systemCode>ssva00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>NH</state>
+        <sponsorshipDate>2014-12-12</sponsorshipDate>
+        <bioguideId>S001181</bioguideId>
+        <firstName>Jeanne</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <party>D</party>
+        <lastName>Shaheen</lastName>
+        <identifiers>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Veterans Traumatic Brain Injury Care Improvement Act of 2014</title>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Veterans Traumatic Brain Injury Care Improvement Act of 2014</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to extend and modify a pilot program on assisted living services for veterans with traumatic brain injury, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Veterans Traumatic Brain Injury Care Improvement Act of 2014</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Veterans Traumatic Brain Injury Care Improvement Act of 2014 - Amends the National Defense Authorization Act for Fiscal Year 2008 to alter the reporting requirements under the pilot program to assess the effectiveness of providing assistance to eligible veterans with traumatic brain injury to enhance their rehabilitation, quality of life, and community integration.</p> <p>Directs the Secretary of Veterans Affairs (VA) to submit reports to the congressional veterans committees on the pilot program for each quarter occurring between January 1, 2015, and September 30, 2017. Requires each quarterly report to include for the preceding quarter: </p> <ul> <li>the number of individuals who participated in the pilot program,</li> <li>the number of individuals who successfully completed the program,</li> <li>the degree to which pilot program participants and their family members were satisfied with the program, and</li> <li>the interim findings and conclusions of the Secretary regarding the success of the program and recommendations for improving it.</li></ul> <p>Requires the Secretary to include in the report the Secretary submits to the congressional veterans committees after the completion of the pilot program: </p> <ul> <li> an evaluation of the pilot program in light of the VA's independent living programs, including an assessment of whether&nbsp; the pilot program should be incorporated into such independent living programs; and </li> <li> recommendations for improving the pilot program.</li></ul> <p>Replaces references to "assisted living" with the term "community-based brain injury residential rehabilitative care," including rehabilitation services within the meaning of such care.</p> <p>Requires this Act and its amendments to be carried out using funds already available for such purposes. </p>]]></text>
+          <updateDate>2014-12-12T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2014-12-31T16:43:06Z</lastSummaryUpdateDate>
+          <actionDate>2014-12-12</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes>
+      <item>
+        <links>
+          <link>
+            <name>H.R.4276</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/4276</url>
+          </link>
+        </links>
+        <text><![CDATA[For further action, see H.R.4276, which became Public Law 113-257 on 12/18/2014.]]></text>
+      </item>
+    </notes>
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <type>HR</type>
+        <number>4276</number>
+        <latestAction>
+          <text>Became Public Law No: 113-257.</text>
+          <actionDate>2014-12-18</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Veterans Traumatic Brain Injury Care Improvement Act of 2014</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Housing for the elderly and disabled</name>
+          </item>
+          <item>
+            <name>Neurological disorders</name>
+          </item>
+          <item>
+            <name>Veterans' loans, housing, homeless programs</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <actionDate>2014-12-12</actionDate>
+    </latestAction>
+    <billNumber>3014</billNumber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Kelly</firstName>
+        <party>R</party>
+        <fullName>Sen. Ayotte, Kelly [R-NH]</fullName>
+        <bioguideId>A000368</bioguideId>
+        <identifiers>
+          <bioguideId>A000368</bioguideId>
+          <lisID>2075</lisID>
+          <gpoId>8315</gpoId>
+        </identifiers>
+        <lastName>Ayotte</lastName>
+        <middleName />
+        <state>NH</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

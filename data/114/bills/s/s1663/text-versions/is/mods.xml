@@ -1,0 +1,182 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18ccb99bb">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To better protect, serve, and advance the rights of victims of elder abuse and financial exploitation by encouraging States and other qualified entities to hold offenders accountable, enhance the capacity of the justice system to investigate, pursue, and prosecute elder abuse cases, identify existing resources to leverage to the extent possible, and assure data collection, research, and evaluation to promote the efficacy and efficiency of the activities described in this Act.;Robert Matava Elder Abuse Victims Act of 2015;S. 1663 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-07-01</dateIngested>
+</extension>
+<titleInfo>
+ <title>To better protect, serve, and advance the rights of victims of elder abuse and financial exploitation by encouraging States and other qualified entities to hold offenders accountable, enhance the capacity of the justice system to investigate, pursue, and prosecute elder abuse cases, identify existing resources to leverage to the extent possible, and assure data collection, research, and evaluation to promote the efficacy and efficiency of the activities described in this Act.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Robert Matava Elder Abuse Victims Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1663 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-06-24</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>23 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18ccb99bb</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s1663is</identifier>
+<identifier type="preferred citation">S. 1663</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1663_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s1663is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1663is/html/BILLS-114s1663is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1663is/pdf/BILLS-114s1663is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1663is/xml/BILLS-114s1663is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-07-01</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-11</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s1663is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Richard Blumenthal</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kelly Ayotte</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Judiciary</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 12 Section 1752</partNumber>
+  <partNumber>Title 12 Section 1813(c)(1)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">12 U.S.C. 1752</identifier>
+ <identifier type="USC citation">12 U.S.C. 1813(c)(1)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Chapter 113A</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. Chapter 113A</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 10602(b)</partNumber>
+  <partNumber>Title 42 Section 1320a-7b</partNumber>
+  <partNumber>Title 42 Section 1397j</partNumber>
+  <partNumber>Title 42 Section 1397k</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 10602(b)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1320a-7b</identifier>
+ <identifier type="USC citation">42 U.S.C. 1397j</identifier>
+ <identifier type="USC citation">42 U.S.C. 1397k</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s1663is</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1663</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle type="measure">Robert Matava Elder Abuse Victims Act of 2015</shortTitle>
+ <officialTitle>To better protect, serve, and advance the rights of victims of elder abuse and financial exploitation by encouraging States and other qualified entities to hold offenders accountable, enhance the capacity of the justice system to investigate, pursue, and prosecute elder abuse cases, identify existing resources to leverage to the extent possible, and assure data collection, research, and evaluation to promote the efficacy and efficiency of the activities described in this Act.</officialTitle>
+ <action date="2015-06-24">Mr. Blumenthal (for himself and Ms. Ayotte) introduced the following bill; which was read twice and referred to the Committee on the Judiciary</action>
+ <congCommittee authorityId="ssju00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Judiciary</name>
+                      <name type="authority-short">Judiciary</name>
+                </congCommittee>
+ <congMember authorityId="2076" bioGuideId="B001277" chamber="S" congress="114" gpoId="8332" party="D" role="SPONSOR" state="CT">
+                      <name type="parsed">Mr. Blumenthal</name>
+                      <name type="authority-fnf">Richard Blumenthal</name>
+                      <name type="authority-lnf">Blumenthal, Richard</name>
+                </congMember>
+ <congMember authorityId="2075" bioGuideId="A000368" chamber="S" congress="114" gpoId="8315" party="R" role="COSPONSOR" state="NH">
+                      <name type="parsed">Ms. Ayotte</name>
+                      <name type="authority-fnf">Kelly Ayotte</name>
+                      <name type="authority-lnf">Ayotte, Kelly</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="12">
+                      <section number="1752"></section>
+                      <section detail="(c)(1)" number="1813"></section>
+                </USCode>
+ <USCode title="18">
+                      <chapter number="113A"></chapter>
+                </USCode>
+ <USCode title="42">
+                      <section detail="(b)" number="10602"></section>
+                      <section number="1320a-7b"></section>
+                      <section number="1397j"></section>
+                      <section number="1397k"></section>
+                </USCode>
+</extension>
+</mods>

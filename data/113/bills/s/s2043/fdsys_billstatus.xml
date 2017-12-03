@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-02-26</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2014-02-26</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-02-26</introducedDate>
+    <updateDate>2016-10-25T16:28:57Z</updateDate>
+    <createDate>2014-02-27T07:01:03Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssfi00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-02-26T17:49:29Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <firstName>JIM</firstName>
+        <party>R</party>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>I000024</bioguideId>
+        <identifiers>
+          <lisID>583</lisID>
+          <bioguideId>I000024</bioguideId>
+          <gpoId>8322</gpoId>
+        </identifiers>
+        <lastName>INHOFE</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>OK</state>
+        <sponsorshipDate>2014-02-26</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <fullName>Sen. Johanns, Mike [R-NE]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>J000291</bioguideId>
+        <identifiers>
+          <lisID>1899</lisID>
+          <bioguideId>J000291</bioguideId>
+          <gpoId>8325</gpoId>
+        </identifiers>
+        <lastName>Johanns</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>NE</state>
+        <sponsorshipDate>2014-02-26</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>MICHAEL</firstName>
+        <party>R</party>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C000880</bioguideId>
+        <identifiers>
+          <lisID>250</lisID>
+          <bioguideId>C000880</bioguideId>
+          <gpoId>8289</gpoId>
+        </identifiers>
+        <lastName>CRAPO</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>ID</state>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName>D.</middleName>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <party>R</party>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001236</bioguideId>
+        <identifiers>
+          <lisID>1687</lisID>
+          <gpoId>8247</gpoId>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+        <lastName>Boozman</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>AR</state>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <party>R</party>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001056</bioguideId>
+        <identifiers>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <lastName>Cornyn</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>JOHN</firstName>
+        <party>R</party>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000250</bioguideId>
+        <identifiers>
+          <lisID>1534</lisID>
+          <gpoId>8257</gpoId>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+        <lastName>THUNE</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>SD</state>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <middleName>R.</middleName>
+      </item>
+      <item>
+        <firstName>MICHAEL</firstName>
+        <party>R</party>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>E000285</bioguideId>
+        <identifiers>
+          <lisID>1542</lisID>
+          <gpoId>8328</gpoId>
+          <bioguideId>E000285</bioguideId>
+        </identifiers>
+        <lastName>ENZI</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>WY</state>
+        <sponsorshipDate>2014-05-08</sponsorshipDate>
+        <middleName>B.</middleName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Stop IRS Overreach Act</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Stop IRS Overreach Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to prohibit the Internal Revenue Service from asking taxpayers questions regarding religious, political, or social beliefs.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Stop IRS Overreach Act</title>
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Stop IRS Overreach Act - Prohibits the Internal Revenue Service (IRS) from asking any taxpayer any question regarding religious, political, or social beliefs. </p> <p>Expresses the sense of Congress that: (1) any exceptions to such prohibition should identify the specific questions authorized, the class of taxpayers to whom such questions may be asked, and the circumstances under which such questions may be asked; and (2) if the IRS Commissioner determines that asking such questions would aid in the efficient administration of the tax laws, the Commissioner should submit a report to Congress that includes such questions in verbatim form and describes such class of taxpayers and the circumstances under which such questions would be asked. </p>]]></text>
+          <lastSummaryUpdateDate>2014-03-26T18:59:08Z</lastSummaryUpdateDate>
+          <updateDate>2014-02-26T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2014-02-26</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2014-02-27</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Protecting Taxpayers from Intrusive IRS Requests Act</latestTitle>
+        <number>2531</number>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Political movements and philosophies</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2014-02-26</actionDate>
+    </latestAction>
+    <billNumber>2043</billNumber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Deb</firstName>
+        <party>R</party>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <bioguideId>F000463</bioguideId>
+        <identifiers>
+          <lisID>2179</lisID>
+          <bioguideId>F000463</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Fischer</lastName>
+        <middleName />
+        <state>NE</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

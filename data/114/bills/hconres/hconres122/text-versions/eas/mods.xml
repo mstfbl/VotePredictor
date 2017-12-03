@@ -1,0 +1,135 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee192ebf592">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>Concurrent resolution supporting efforts to stop the theft, illegal possession or sale, transfer, and export of tribal cultural items of American Indians, Alaska Natives, and Native Hawaiians in the United States and internationally.;Protection of the Right of Tribes to stop the Export of Cultural and Traditional Patrimony Resolution;PROTECT Patrimony Resolution;H. Con. Res. 122 (EAS)</searchTitle>
+ <starprintNumber>1</starprintNumber>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-12-01</dateIngested>
+</extension>
+<titleInfo>
+ <title>Concurrent resolution supporting efforts to stop the theft, illegal possession or sale, transfer, and export of tribal cultural items of American Indians, Alaska Natives, and Native Hawaiians in the United States and internationally.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Protection of the Right of Tribes to stop the Export of Cultural and Traditional Patrimony Resolution</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>PROTECT Patrimony Resolution</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H. Con. Res. 122 (EAS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-11-30</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>10 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/9:</classification>
+<identifier type="local">P0b002ee192ebf592</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hconres122eas</identifier>
+<identifier type="preferred citation">H. Con. Res. 122</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325575</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House concurrent resolutions</identifier>
+<identifier type="former package identifier">f:hc122_eas.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hconres122eas/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hconres122eas/html/BILLS-114hconres122eas.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hconres122eas/pdf/BILLS-114hconres122eas.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hconres122eas/xml/BILLS-114hconres122eas.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-12-01</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-12-01</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hconres122eas</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 470aaet seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 470aaet seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 3001</partNumber>
+  <partNumber>Title 25 Section 3001et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 3001</identifier>
+ <identifier type="USC citation">25 U.S.C. 3001et seq.</identifier>
+</relatedItem>
+<extension>
+ <docClass>hconres</docClass>
+ <accessId>BILLS-114hconres122eas</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>122</billNumber>
+ <billVersion reprint="false">eas</billVersion>
+ <fileSuffix>eas</fileSuffix>
+ <shortTitle type="measure">Protection of the Right of Tribes to stop the Export of Cultural and Traditional Patrimony Resolution</shortTitle>
+ <shortTitle type="measure">PROTECT Patrimony Resolution</shortTitle>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="16">
+                      <section detail="et seq." number="470aa"></section>
+                </USCode>
+ <USCode title="25">
+                      <section number="3001"></section>
+                      <section detail="et seq." number="3001"></section>
+                </USCode>
+</extension>
+</mods>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-06-02</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2014-06-02</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-06-02</introducedDate>
+    <updateDate>2016-10-25T16:30:36Z</updateDate>
+    <createDate>2014-06-03T07:22:02Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-06-02T23:15:32Z</date>
+            </item>
+          </activities>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <type>Standing</type>
+          <systemCode>ssbk00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <lastName>LEAHY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1383</lisID>
+          <gpoId>8244</gpoId>
+          <bioguideId>L000174</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>PATRICK</firstName>
+        <sponsorshipDate>2014-06-02</sponsorshipDate>
+        <middleName>JOSEPH</middleName>
+        <bioguideId>L000174</bioguideId>
+        <state>VT</state>
+      </item>
+      <item>
+        <lastName>BROWN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>SHERROD</firstName>
+        <sponsorshipDate>2014-06-02</sponsorshipDate>
+        <middleName />
+        <bioguideId>B000944</bioguideId>
+        <state>OH</state>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>United States Employee Ownership Bank Act</title>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>United States Employee Ownership Bank Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to provide for the establishment of the United States Employee Ownership Bank, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>United States Employee Ownership Bank Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2014-08-27T16:00:04Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>United States Employee Ownership Bank Act - Directs the Secretary of the Treasury to establish the United States Employee Ownership Bank to foster increased employee ownership and greater employee participation in company decisionmaking throughout the United States.</p> <p>Authorizes the Bank to make loans to employees, on a direct or guaranteed basis (which may be subordinated to the interests of all other creditors), to purchase a company through an employee stock ownership plan or eligible worker-owned cooperative which is at least 51% employee owned, or will become so as a result of Bank assistance.</p> <p>Authorizes the Bank also to allow: (1) a company that is less than 51% employee owned to become at least 51% employee owned; and (2) allow a company that is already at least 51% employee owned to increase the level of employee ownership, expand operations, and increase or preserve employment. </p> <p>Amends the Worker Adjustment and Retraining Notification Act to require the employer, if it orders a plant or facility closing in connection with the termination of its operations there, to offer its employees an opportunity to purchase that plant or facility through an employee stock ownership plan or an eligible worker-owned cooperative that is at least 51% employee owned. </p> <p>Exempts from such requirement an employer that orders a plant closing if the employer: (1) will retain the plant assets to continue or begin a business within the United States; or (2) intends to continue the business conducted at such plant at another plant within the United States.</p> <p>Amends the Community Reinvestment Act of 1977 to authorize the appropriate federal financial supervisory agency, in assessing and taking into account the record of a financial institution during an examination, to consider capital investments, loans, loan participation, technical assistance, financial advice, grants, and other ventures undertaken by the institution to support or enable employees to establish employee stock ownership plans or eligible worker-owned cooperatives that are at least 51% employee-owned.</p> <p><br> </p>]]></text>
+          <updateDate>2014-06-02T04:00:00Z</updateDate>
+          <actionDate>2014-06-02</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Bank accounts, deposits, capital</name>
+          </item>
+          <item>
+            <name>Banking and financial institutions regulation</name>
+          </item>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Department of the Treasury</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Employment discrimination and employee rights</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Labor-management relations</name>
+          </item>
+          <item>
+            <name>Unemployment</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <actionDate>2014-06-02</actionDate>
+    </latestAction>
+    <billNumber>2411</billNumber>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>BERNARD</firstName>
+        <party>I</party>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <bioguideId>S000033</bioguideId>
+        <identifiers>
+          <lisID>1010</lisID>
+          <gpoId>8270</gpoId>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+        <lastName>SANDERS</lastName>
+        <middleName />
+        <state>VT</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

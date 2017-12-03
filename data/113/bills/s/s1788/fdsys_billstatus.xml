@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <middleName />
+        <state>OR</state>
+        <firstName>RON</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000779</bioguideId>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <lastName>WYDEN</lastName>
+        <party>D</party>
+        <sponsorshipDate>2013-12-10</sponsorshipDate>
+        <identifiers>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <state>NE</state>
+        <firstName>Deb</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000463</bioguideId>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <lastName>Fischer</lastName>
+        <party>R</party>
+        <sponsorshipDate>2014-01-13</sponsorshipDate>
+        <identifiers>
+          <lisID>2179</lisID>
+          <gpoId />
+          <bioguideId>F000463</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Foreign Trade and International Finance</name>
+    </policyArea>
+    <updateDate>2016-10-25T16:27:55Z</updateDate>
+    <recordedVotes />
+    <calendarNumbers />
+    <createDate>2013-12-11T10:01:36Z</createDate>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Digital Trade Act of 2013 - Expresses the sense of Congress that: (1) executive branch agencies, including the Office of the United States Trade Representative, should be staffed with experts and leaders to promote an open, global Internet that facilitates commerce and digital trade; and (2) private sector stakeholders should have the opportunity to inform executive agency efforts related to digital trade. </p> <p>States that it shall be a U.S. negotiating principle in negotiations for a bilateral, plurilateral, or multilateral agreement, and in multi-stakeholder fora, to seek the inclusion of binding provisions that promote and enhance Internet-enabled commerce and digital trade.</p>]]></text>
+          <lastSummaryUpdateDate>2013-12-16T21:37:47Z</lastSummaryUpdateDate>
+          <updateDate>2013-12-10T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2013-12-10</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Foreign Trade and International Finance</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Digital media</name>
+          </item>
+          <item>
+            <name>Free trade and trade barriers</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Office of the U.S. Trade Representative</name>
+          </item>
+          <item>
+            <name>Tariffs</name>
+          </item>
+          <item>
+            <name>Trade agreements and negotiations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <actions>
+      <item>
+        <actionDate>2013-12-10</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2013-12-10</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <congress>113</congress>
+    <relatedBills />
+    <title>Digital Trade Act of 2013</title>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <billNumber>1788</billNumber>
+    <billType>S</billType>
+    <introducedDate>2013-12-10</introducedDate>
+    <latestAction>
+      <actionDate>2013-12-10</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <date>2013-12-10T21:14:42Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Finance Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <state>SD</state>
+        <bioguideId>T000250</bioguideId>
+        <identifiers>
+          <lisID>1534</lisID>
+          <bioguideId>T000250</bioguideId>
+          <gpoId>8257</gpoId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <firstName>JOHN</firstName>
+        <lastName>THUNE</lastName>
+        <middleName>R.</middleName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Digital Trade Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to make it a negotiating principle of the United States in negotiations for bilateral, plurilateral, or multilateral agreements to seek the inclusion of provisions that promote Internet-enabled commerce and digital trade.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Digital Trade Act of 2013</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

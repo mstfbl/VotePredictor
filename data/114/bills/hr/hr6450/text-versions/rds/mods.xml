@@ -1,0 +1,221 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee19309da39">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To amend the Inspector General Act of 1978 to strengthen the independence of the Inspectors General, and for other purposes.;Inspector General Empowerment Act of 2016;H.R. 6450 (RDS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-12-13</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To amend the Inspector General Act of 1978 to strengthen the independence of the Inspectors General, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Inspector General Empowerment Act of 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 6450 (RDS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-12-08</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>34 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee19309da39</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6450rds</identifier>
+<identifier type="preferred citation">H.R. 6450</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h6450_rds.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6450rds/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6450rds/html/BILLS-114hr6450rds.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6450rds/pdf/BILLS-114hr6450rds.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6450rds/xml/BILLS-114hr6450rds.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-12-13</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-12-14</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr6450rds</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 1211(b)</partNumber>
+  <partNumber>Title 5 Section 1211note</partNumber>
+  <partNumber>Title 5 Section 552a</partNumber>
+  <partNumber>Title 5 Section 552a(a)</partNumber>
+  <partNumber>Title 5 Section 7701</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 1211(b)</identifier>
+ <identifier type="USC citation">5 U.S.C. 1211note</identifier>
+ <identifier type="USC citation">5 U.S.C. 552a</identifier>
+ <identifier type="USC citation">5 U.S.C. 552a(a)</identifier>
+ <identifier type="USC citation">5 U.S.C. 7701</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Section 202</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. 202</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 501note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 501note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 2161et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 2161et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 44 Chapter 35</partNumber>
+</titleInfo>
+ <identifier type="USC citation">44 U.S.C. Chapter 35</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 50 Section 3003</partNumber>
+  <partNumber>Title 50 Section 3033</partNumber>
+</titleInfo>
+ <identifier type="USC citation">50 U.S.C. 3003</identifier>
+ <identifier type="USC citation">50 U.S.C. 3033</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 122 Page 4312</partNumber>
+  <partNumber>Volume 122 Page 4313</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">122 Stat. 4312</identifier>
+ <identifier type="Statute citation">122 Stat. 4313</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 123 Page 693</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">123 Stat. 693</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 110-409</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 110-409</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-8</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-8</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr6450rds</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>6450</billNumber>
+ <billVersion reprint="false">rds</billVersion>
+ <fileSuffix>rds</fileSuffix>
+ <shortTitle type="measure">Inspector General Empowerment Act of 2016</shortTitle>
+ <officialTitle>To amend the Inspector General Act of 1978 to strengthen the independence of the Inspectors General, and for other purposes.</officialTitle>
+ <action date="2016-12-08">Received</action>
+ <law congress="110" isPrivate="false" number="409"></law>
+ <law congress="111" isPrivate="false" number="8"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section detail="(b)" number="1211"></section>
+                      <section detail="note" number="1211"></section>
+                      <section number="552a"></section>
+                      <section detail="(a)" number="552a"></section>
+                      <section number="7701"></section>
+                </USCode>
+ <USCode title="18">
+                      <section number="202"></section>
+                </USCode>
+ <USCode title="31">
+                      <section detail="note" number="501"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="et seq." number="2161"></section>
+                </USCode>
+ <USCode title="44">
+                      <chapter number="35"></chapter>
+                </USCode>
+ <USCode title="50">
+                      <section number="3003"></section>
+                      <section number="3033"></section>
+                </USCode>
+ <statuteAtLarge volume="122">
+                      <pages pages="4312"></pages>
+                      <pages pages="4313"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="123">
+                      <pages pages="693"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

@@ -1,0 +1,148 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18ddca516">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend title 23, United States Code, with respect to the territorial highway program, and for other purposes.;H.R. 3877 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-11-03</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend title 23, United States Code, with respect to the territorial highway program, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 3877 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-11-02</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>2 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18ddca516</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3877ih</identifier>
+<identifier type="preferred citation">H.R. 3877</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h3877_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3877ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3877ih/html/BILLS-114hr3877ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3877ih/pdf/BILLS-114hr3877ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3877ih/xml/BILLS-114hr3877ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-11-03</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr3877ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Gregorio Kilili Camacho Sablan</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Aumua Amata Coleman Radewagen</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Transportation and Infrastructure</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 23 Section 165(c)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">23 U.S.C. 165(c)</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr3877ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>3877</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <officialTitle>To amend title 23, United States Code, with respect to the territorial highway program, and for other purposes.</officialTitle>
+ <action date="2015-11-02">Mr. Sablan (for himself and Mrs. Radewagen) introduced the following bill; which was referred to the Committee on Transportation and Infrastructure</action>
+ <congCommittee authorityId="hspw00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Transportation and Infrastructure</name>
+                      <name type="authority-short">Transportation</name>
+                </congCommittee>
+ <congMember authorityId="1962" bioGuideId="S001177" chamber="H" congress="114" gpoId="8018" party="D" role="SPONSOR" state="MP">
+                      <name type="parsed">Mr. Sablan</name>
+                      <name type="authority-fnf">Gregorio Kilili Camacho Sablan</name>
+                      <name type="authority-lnf">Sablan, Gregorio Kilili Camacho</name>
+                      <name type="authority-other">Gregorio Sablan</name>
+                </congMember>
+ <congMember authorityId="2222" bioGuideId="R000600" chamber="H" congress="114" party="R" role="COSPONSOR" state="AS">
+                      <name type="parsed">Mrs. Radewagen</name>
+                      <name type="authority-fnf">Aumua Amata Coleman Radewagen</name>
+                      <name type="authority-lnf">Radewagen, Aumua Amata Coleman</name>
+                      <name type="authority-other">Mrs. Aumua Amata Radewagen</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="23">
+                      <section detail="(c)" number="165"></section>
+                </USCode>
+</extension>
+</mods>

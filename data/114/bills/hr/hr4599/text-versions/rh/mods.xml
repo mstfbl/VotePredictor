@@ -1,0 +1,391 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18f6842ee">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Controlled Substances Act to permit certain partial fillings of prescriptions.;
+   		Reducing Unused Medications Act of 2016;H.R. 4599 (RH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-05-11</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Controlled Substances Act to permit certain partial fillings of prescriptions.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Reducing Unused Medications Act of 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 4599 (RH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-05-10</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>6 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18f6842ee</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4599rh</identifier>
+<identifier type="preferred citation">H.R. 4599</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h4599_rh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4599rh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4599rh/html/BILLS-114hr4599rh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4599rh/pdf/BILLS-114hr4599rh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4599rh/xml/BILLS-114hr4599rh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-05-11</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-05-11</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr4599rh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Katherine M. Clark</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Steve Stivers</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Paul Tonko</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Niki Tsongas</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Marcy Kaptur</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Joe Courtney</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Alexander X. Mooney</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Stephen F. Lynch</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bill Foster</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Harold Rogers</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Seth Moulton</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Frank C. Guinta</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Doris O. Matsui</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>James P. McGovern</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>William R. Keating</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Vicky Hartzler</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Todd Rokita</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael R. Turner</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Martha McSally</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Energy and Commerce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 21 Section 801et seq.</partNumber>
+  <partNumber>Title 21 Section 812(c)</partNumber>
+  <partNumber>Title 21 Section 829</partNumber>
+</titleInfo>
+ <identifier type="USC citation">21 U.S.C. 801et seq.</identifier>
+ <identifier type="USC citation">21 U.S.C. 812(c)</identifier>
+ <identifier type="USC citation">21 U.S.C. 829</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Union Calendar No. 430</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr4599rh</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>4599</billNumber>
+ <billVersion reprint="false">rh</billVersion>
+ <fileSuffix>rh</fileSuffix>
+ <shortTitle>Reducing Unused Medications Act of 2016</shortTitle>
+ <action date="2016-02-24">Ms. Clark of Massachusetts (for herself and Mr. Stivers) introduced the following bill; which was referred to the Committee on Energy and Commerce</action>
+ <action date="2016-05-10">Additional sponsors: Mr. Tonko, Ms. Tsongas, Ms. Kaptur, Mr. Courtney, Mr. Mooney of West Virginia, Mr. Lynch, Mr. Foster, Mr. Rogers of Kentucky, Mr. Moulton, Mr. Guinta, Ms. Matsui, Mr. McGovern, Mr. Keating, Mrs. Hartzler, Mr. Rokita, Mr. Turner, and Ms. McSally</action>
+ <action date="2016-05-10">Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action>
+ <congCommittee authorityId="hsif00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Energy and Commerce</name>
+                      <name type="authority-short">Energy and Commerce</name>
+                </congCommittee>
+ <congMember authorityId="2196" bioGuideId="C001101" chamber="H" congress="114" party="D" role="SPONSOR" state="MA">
+                      <name type="parsed">Ms. Clark of Massachusetts</name>
+                      <name type="authority-fnf">Katherine M. Clark</name>
+                      <name type="authority-lnf">Clark, Katherine M.</name>
+                      <name type="authority-other">Ms. Katherine Clark</name>
+                </congMember>
+ <congMember authorityId="2047" bioGuideId="S001187" chamber="H" congress="114" gpoId="8105" party="R" role="COSPONSOR" state="OH">
+                      <name type="parsed">Mr. Stivers</name>
+                      <name type="authority-fnf">Steve Stivers</name>
+                      <name type="authority-lnf">Stivers, Steve</name>
+                </congMember>
+ <congMember authorityId="1942" bioGuideId="T000469" chamber="H" congress="114" gpoId="8082" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Tonko</name>
+                      <name type="authority-fnf">Paul Tonko</name>
+                      <name type="authority-lnf">Tonko, Paul</name>
+                </congMember>
+ <congMember authorityId="1884" bioGuideId="T000465" chamber="H" congress="114" gpoId="7970" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Ms. Tsongas</name>
+                      <name type="authority-fnf">Niki Tsongas</name>
+                      <name type="authority-lnf">Tsongas, Niki</name>
+                </congMember>
+ <congMember authorityId="616" bioGuideId="K000009" chamber="H" congress="114" gpoId="8099" party="D" role="COSPONSOR" state="OH">
+                      <name type="parsed">Ms. Kaptur</name>
+                      <name type="authority-fnf">Marcy Kaptur</name>
+                      <name type="authority-lnf">Kaptur, Marcy</name>
+                </congMember>
+ <congMember authorityId="1836" bioGuideId="C001069" chamber="H" congress="114" gpoId="7867" party="D" role="COSPONSOR" state="CT">
+                      <name type="parsed">Mr. Courtney</name>
+                      <name type="authority-fnf">Joe Courtney</name>
+                      <name type="authority-lnf">Courtney, Joe</name>
+                </congMember>
+ <congMember authorityId="2277" bioGuideId="M001195" chamber="H" congress="114" party="R" role="COSPONSOR" state="WV">
+                      <name type="parsed">Mr. Mooney of West Virginia</name>
+                      <name type="authority-fnf">Alexander X. Mooney</name>
+                      <name type="authority-lnf">Mooney, Alexander X.</name>
+                      <name type="authority-other">Mr. Alexander Mooney</name>
+                </congMember>
+ <congMember authorityId="1686" bioGuideId="L000562" chamber="H" congress="114" gpoId="7974" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Mr. Lynch</name>
+                      <name type="authority-fnf">Stephen F. Lynch</name>
+                      <name type="authority-lnf">Lynch, Stephen F.</name>
+                      <name type="authority-other">Mr. Stephen Lynch</name>
+                </congMember>
+ <congMember authorityId="1888" bioGuideId="F000454" chamber="H" congress="114" gpoId="7355" party="D" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Foster</name>
+                      <name type="authority-fnf">Bill Foster</name>
+                      <name type="authority-lnf">Foster, Bill</name>
+                </congMember>
+ <congMember authorityId="977" bioGuideId="R000395" chamber="H" congress="114" gpoId="7957" party="R" role="COSPONSOR" state="KY">
+                      <name type="parsed">Mr. Rogers of Kentucky</name>
+                      <name type="authority-fnf">Harold Rogers</name>
+                      <name type="authority-lnf">Rogers, Harold</name>
+                </congMember>
+ <congMember authorityId="2246" bioGuideId="M001196" chamber="H" congress="114" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Mr. Moulton</name>
+                      <name type="authority-fnf">Seth Moulton</name>
+                      <name type="authority-lnf">Moulton, Seth</name>
+                </congMember>
+ <congMember authorityId="2038" bioGuideId="G000570" chamber="H" congress="114" gpoId="8041" party="R" role="COSPONSOR" state="NH">
+                      <name type="parsed">Mr. Guinta</name>
+                      <name type="authority-fnf">Frank C. Guinta</name>
+                      <name type="authority-lnf">Guinta, Frank C.</name>
+                      <name type="authority-other">Mr. Frank Guinta</name>
+                </congMember>
+ <congMember authorityId="1814" bioGuideId="M001163" chamber="H" congress="114" gpoId="7810" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Matsui</name>
+                      <name type="authority-fnf">Doris O. Matsui</name>
+                      <name type="authority-lnf">Matsui, Doris O.</name>
+                      <name type="authority-other">Ms. Doris Matsui</name>
+                </congMember>
+ <congMember authorityId="1504" bioGuideId="M000312" chamber="H" congress="114" gpoId="7968" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Mr. McGovern</name>
+                      <name type="authority-fnf">James P. McGovern</name>
+                      <name type="authority-lnf">McGovern, James P.</name>
+                      <name type="authority-other">James Mcgovern</name>
+                </congMember>
+ <congMember authorityId="2025" bioGuideId="K000375" chamber="H" congress="114" gpoId="7975" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Mr. Keating</name>
+                      <name type="authority-fnf">William R. Keating</name>
+                      <name type="authority-lnf">Keating, William R.</name>
+                      <name type="authority-other">Mr. William Keating</name>
+                </congMember>
+ <congMember authorityId="2032" bioGuideId="H001053" chamber="H" congress="114" gpoId="8012" party="R" role="COSPONSOR" state="MO">
+                      <name type="parsed">Mrs. Hartzler</name>
+                      <name type="authority-fnf">Vicky Hartzler</name>
+                      <name type="authority-lnf">Hartzler, Vicky</name>
+                </congMember>
+ <congMember authorityId="2017" bioGuideId="R000592" chamber="H" congress="114" gpoId="7943" party="R" role="COSPONSOR" state="IN">
+                      <name type="parsed">Mr. Rokita</name>
+                      <name type="authority-fnf">Todd Rokita</name>
+                      <name type="authority-lnf">Rokita, Todd</name>
+                </congMember>
+ <congMember authorityId="1741" bioGuideId="T000463" chamber="H" congress="114" gpoId="8093" party="R" role="COSPONSOR" state="OH">
+                      <name type="parsed">Mr. Turner</name>
+                      <name type="authority-fnf">Michael R. Turner</name>
+                      <name type="authority-lnf">Turner, Michael R.</name>
+                      <name type="authority-other">Mr. Michael Turner</name>
+                </congMember>
+ <congMember authorityId="2225" bioGuideId="M001197" chamber="H" congress="114" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Ms. McSally</name>
+                      <name type="authority-fnf">Martha McSally</name>
+                      <name type="authority-lnf">McSally, Martha</name>
+                </congMember>
+ <congCalendar congress="114" number="430" type="UNION"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="21">
+                      <section detail="et seq." number="801"></section>
+                      <section detail="(c)" number="812"></section>
+                      <section number="829"></section>
+                </USCode>
+</extension>
+</mods>

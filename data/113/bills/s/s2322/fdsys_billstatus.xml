@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-05-15</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works. Ordered to be reported with amendments favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-05-12</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-05-12</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <orderedReported>1</orderedReported>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-05-12</introducedDate>
+    <updateDate>2016-10-25T16:30:05Z</updateDate>
+    <createDate>2014-05-13T07:28:21Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Environment and Public Works Committee</name>
+          <activities>
+            <item>
+              <name>Markup by</name>
+              <date>2014-05-15T18:35:08Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2014-05-12T23:49:06Z</date>
+            </item>
+          </activities>
+          <systemCode>ssev00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Vitter, David [R-LA]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>V000127</bioguideId>
+        <identifiers>
+          <lisID>1609</lisID>
+          <bioguideId>V000127</bioguideId>
+          <gpoId>8267</gpoId>
+        </identifiers>
+        <sponsorshipDate>2014-05-12</sponsorshipDate>
+        <lastName>Vitter</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>LA</state>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000174</bioguideId>
+        <identifiers>
+          <lisID>179</lisID>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+        </identifiers>
+        <sponsorshipDate>2014-05-12</sponsorshipDate>
+        <lastName>CARPER</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>DE</state>
+        <firstName>THOMAS</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001261</bioguideId>
+        <identifiers>
+          <lisID>1881</lisID>
+          <gpoId>8300</gpoId>
+          <bioguideId>B001261</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-05-12</sponsorshipDate>
+        <lastName>Barrasso</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>WY</state>
+        <firstName>John</firstName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>MAP-21 Reauthorization Act</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>MAP-21 Reauthorization Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to reauthorize Federal-aid highway and highway safety construction programs, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>MAP-21 Reauthorization Act</title>
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>MAP-21 Reauthorization Act - Authorizes appropriations out of the Highway Trust Fund (HTF) (other than the Mass Transit Account) for FY2015-FY2020 for: (1) certain core federal-aid highway programs, and (2) Federal Highway Administration (FHWA) administrative expenses.</p> <p>Prescribes obligation ceilings for certain federal-aid highway and highway safety construction programs.</p> <p>Makes eligible for the national highway performance program any projects for replacement or rehabilitation of bridges on federal-aid highways.</p> <p>Extends through FY2020 funding for highway use tax evasion projects.</p> <p>Prescribes requirements to allow a state to bundle two or more similar projects for the replacement or repair of structurally deficient bridge projects.</p> <p>Requires each contractor and subcontractor who contracts for a bridge construction, replacement, or repair project to be certified as meeting certain eligibility requirements.</p> <p>Revises formulae for certain allocations of funds to states for construction of ferry boats and ferry terminal facilities.</p> <p>Makes certain funds available for the National Ferry Database.</p> <p>Revises congestion mitigation and air quality improvement (CMAQ) program requirements. Requires states and metropolitan planning organizations (MPOs) to use PM2.5 priority funding on the most cost-effective CMAQ projects and programs proven to reduce directly emitted fine particulate matter.</p> <p>Revises national freight program requirements.</p> <p>Requires a state to obligate its apportionment of national freight program funds for projects to improve the movement of freight on the national highway freight network. Requires states that have not met or made significant progress toward meeting certain state performance targets for freight movement on the network to submit to the Secretary of Transportation (DOT), biennially, a freight performance improvement plan.</p> <p>Amends MAP-21 to revise requirements for state freight plans. Requires a state to develop a comprehensive 10-year freight plan, updated every 5 years.</p> <p>Directs the Secretary to establish a grant program for projects of national and regional significance.</p> <p>Revises and makes permanent the reservation of transportation enhancements program funds apportioned to a state for surface transportation alternatives, recreational trails program, and safe routes to school program projects.</p> <p>Directs the Secretary to: (1) carry out a research and innovation program to explore alternative transportation revenue mechanisms that preserve a user fee structure to maintain the long-term solvency of the HTF, and (2) establish a Surface Transportation Revenue Alternatives Advisory Council.</p> <p>Extends through FY2020 the availability of a specified amount of FHWA administrative funds for: (1) certain safety-related activities, and (2) operation of certain safety-related clearinghouses.</p> <p>Directs the Secretary to issue guidance on working with state departments of transportation that request assistance from Federal Highway Administration division offices to: (1) review principal arterials within a state that were added to the National Highway System as of October 1, 2012, and (2) identify any functional classification changes needed to rural and urban principal arterials.</p> <p>Directs the Secretary to establish a competitive grant program for best practices that promote progress, innovation, and efficiency for surface transportation programs within state transportation departments and MPOs.</p> <p>Directs the Secretary to compile, update regularly, and make available on the DOT website data on amounts made available under this Act for each fiscal for federal-aid projects.</p> <p>Directs the Comptroller General (GAO) to report to Congress on Federal Highway Administration administrative expenses funded from the HTF during the three most recently completed fiscal years.</p> <p>Prescribes procedures for accelerating the project delivery decisionmaking process with respect to environmental review of projects.</p> <p>Revises requirements for application of categorical exclusions for multimodal projects.</p> <p>(A &quot;categorical exclusion&quot; under the National Environmental Policy Act of 1969 is a category of actions which do not individually or cumulatively have a significant effect on the human environment and which have been found to have no such effect in procedures adopted by a federal agency in implementing environmental regulations and for which, therefore, neither an Environmental Assessment nor an Environmental Impact Statement is required.)</p> <p>Revises and reauthorizes the state infrastructure bank program for FY2015-FY2020.</p> <p>Amends the Transportation Infrastructure Finance and Innovation Act (TIFIA) to authorize the Secretary to set-aside up to 10% of TIFIA program funds to provide credit assistance (loans) for the capitalization of state infrastructure banks.</p>]]></text>
+          <lastSummaryUpdateDate>2014-07-23T14:12:59Z</lastSummaryUpdateDate>
+          <updateDate>2014-05-12T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2014-05-12</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Energy storage, supplies, demand</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Historic sites and heritage areas</name>
+          </item>
+          <item>
+            <name>Infrastructure development</name>
+          </item>
+          <item>
+            <name>Marine and inland water transportation</name>
+          </item>
+          <item>
+            <name>Motor carriers</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Railroads</name>
+          </item>
+          <item>
+            <name>Roads and highways</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+          <item>
+            <name>Transportation programs funding</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Committee on Environment and Public Works. Ordered to be reported with amendments favorably.</text>
+      <actionDate>2014-05-15</actionDate>
+    </latestAction>
+    <billNumber>2322</billNumber>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>BARBARA</firstName>
+        <party>D</party>
+        <fullName>Sen. Boxer, Barbara [D-CA]</fullName>
+        <bioguideId>B000711</bioguideId>
+        <identifiers>
+          <lisID>116</lisID>
+          <bioguideId>B000711</bioguideId>
+          <gpoId>8306</gpoId>
+        </identifiers>
+        <lastName>BOXER</lastName>
+        <middleName />
+        <state>CA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

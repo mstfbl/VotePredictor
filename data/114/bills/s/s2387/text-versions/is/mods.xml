@@ -1,0 +1,256 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18e23775d">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To restore protections for Social Security, Railroad retirement, and Black Lung benefits from administrative offset.;Protection of Social Security Benefits Restoration Act;S. 2387 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-12-14</dateIngested>
+</extension>
+<titleInfo>
+ <title>To restore protections for Social Security, Railroad retirement, and Black Lung benefits from administrative offset.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Protection of Social Security Benefits Restoration Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 2387 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-12-10</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>3 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18e23775d</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s2387is</identifier>
+<identifier type="preferred citation">S. 2387</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s2387_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s2387is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2387is/html/BILLS-114s2387is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2387is/pdf/BILLS-114s2387is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2387is/xml/BILLS-114s2387is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-12-14</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s2387is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Ron Wyden</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Sherrod Brown</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Sheldon Whitehouse</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kirsten E. Gillibrand</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Amy Klobuchar</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bernard Sanders</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Elizabeth Warren</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jeff Merkley</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Finance</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 3716(c)</partNumber>
+  <partNumber>Title 31 Section 3716(c)(3)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 3716(c)</identifier>
+ <identifier type="USC citation">31 U.S.C. 3716(c)(3)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 407</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 407</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 45 Section 231m(a)</partNumber>
+  <partNumber>Title 45 Section 352(e)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">45 U.S.C. 231m(a)</identifier>
+ <identifier type="USC citation">45 U.S.C. 352(e)</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s2387is</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2387</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle type="measure">Protection of Social Security Benefits Restoration Act</shortTitle>
+ <officialTitle>To restore protections for Social Security, Railroad retirement, and Black Lung benefits from administrative offset.</officialTitle>
+ <action date="2015-12-10">Mr. Wyden (for himself, Mr. Brown, Mr. Whitehouse, Mrs. Gillibrand, Ms. Klobuchar, Mr. Sanders, Ms. Warren, and Mr. Merkley) introduced the following bill; which was read twice and referred to the Committee on Finance</action>
+ <congCommittee authorityId="ssfi00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Finance</name>
+                      <name type="authority-short">Finance</name>
+                </congCommittee>
+ <congMember authorityId="1247" bioGuideId="W000779" chamber="S" congress="114" gpoId="8265" party="D" role="SPONSOR" state="OR">
+                      <name type="parsed">Mr. Wyden</name>
+                      <name type="authority-fnf">Ron Wyden</name>
+                      <name type="authority-lnf">Wyden, Ron</name>
+                </congMember>
+ <congMember authorityId="136" bioGuideId="B000944" chamber="S" congress="114" gpoId="8309" party="D" role="COSPONSOR" state="OH">
+                      <name type="parsed">Mr. Brown</name>
+                      <name type="authority-fnf">Sherrod Brown</name>
+                      <name type="authority-lnf">Brown, Sherrod</name>
+                </congMember>
+ <congMember authorityId="1823" bioGuideId="W000802" chamber="S" congress="114" gpoId="8264" party="D" role="COSPONSOR" state="RI">
+                      <name type="parsed">Mr. Whitehouse</name>
+                      <name type="authority-fnf">Sheldon Whitehouse</name>
+                      <name type="authority-lnf">Whitehouse, Sheldon</name>
+                </congMember>
+ <congMember authorityId="1866" bioGuideId="G000555" chamber="S" congress="114" gpoId="8336" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mrs. Gillibrand</name>
+                      <name type="authority-fnf">Kirsten E. Gillibrand</name>
+                      <name type="authority-lnf">Gillibrand, Kirsten E.</name>
+                      <name type="authority-other">Mrs. Kirsten Gillibrand</name>
+                </congMember>
+ <congMember authorityId="1826" bioGuideId="K000367" chamber="S" congress="114" gpoId="8249" party="D" role="COSPONSOR" state="MN">
+                      <name type="parsed">Ms. Klobuchar</name>
+                      <name type="authority-fnf">Amy Klobuchar</name>
+                      <name type="authority-lnf">Klobuchar, Amy</name>
+                </congMember>
+ <congMember authorityId="1010" bioGuideId="S000033" chamber="S" congress="114" gpoId="8270" party="I" role="COSPONSOR" state="VT">
+                      <name type="parsed">Mr. Sanders</name>
+                      <name type="authority-fnf">Bernard Sanders</name>
+                      <name type="authority-lnf">Sanders, Bernard</name>
+                </congMember>
+ <congMember authorityId="2182" bioGuideId="W000817" chamber="S" congress="114" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Ms. Warren</name>
+                      <name type="authority-fnf">Elizabeth Warren</name>
+                      <name type="authority-lnf">Warren, Elizabeth</name>
+                      <name type="authority-other">Ms. Elizabeth A. Warren</name>
+                </congMember>
+ <congMember authorityId="1900" bioGuideId="M001176" chamber="S" congress="114" gpoId="8238" party="D" role="COSPONSOR" state="OR">
+                      <name type="parsed">Mr. Merkley</name>
+                      <name type="authority-fnf">Jeff Merkley</name>
+                      <name type="authority-lnf">Merkley, Jeff</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="31">
+                      <section detail="(c)" number="3716"></section>
+                      <section detail="(c)(3)" number="3716"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="407"></section>
+                </USCode>
+ <USCode title="45">
+                      <section detail="(a)" number="231m"></section>
+                      <section detail="(e)" number="352"></section>
+                </USCode>
+</extension>
+</mods>

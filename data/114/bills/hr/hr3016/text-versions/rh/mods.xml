@@ -1,0 +1,559 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18e0a2cb3">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend title 38, United States Code, to clarify the role of podiatrists in the Department of Veterans Affairs.;Veterans Employment, Education, and Healthcare Improvement Act;H.R. 3016 (RH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-12-01</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend title 38, United States Code, to clarify the role of podiatrists in the Department of Veterans Affairs.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Veterans Employment, Education, and Healthcare Improvement Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 3016 (RH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-12-01</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>90 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18e0a2cb3</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3016rh</identifier>
+<identifier type="preferred citation">H.R. 3016</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h3016_rh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3016rh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3016rh/html/BILLS-114hr3016rh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3016rh/pdf/BILLS-114hr3016rh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3016rh/xml/BILLS-114hr3016rh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-12-01</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr3016rh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Brad R. Wenstrup</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dan Benishek</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David P. Roe</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ralph Lee Abraham</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Raul Ruiz</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Julia Brownley</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Joe Wilson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ryan A. Costello</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Aumua Amata Coleman Radewagen</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mike Coffman</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Adam B. Schiff</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Grace F. Napolitano</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lamar Smith</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Earl Blumenauer</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David Young</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Steve Israel</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Veterans&apos; Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 1144</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 1144</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 644(k)</partNumber>
+  <partNumber>Title 15 Section 645(g)(1)</partNumber>
+  <partNumber>Title 15 Section 645(g)(2)</partNumber>
+  <partNumber>Title 15 Section 657s</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 644(k)</identifier>
+ <identifier type="USC citation">15 U.S.C. 645(g)(1)</identifier>
+ <identifier type="USC citation">15 U.S.C. 645(g)(2)</identifier>
+ <identifier type="USC citation">15 U.S.C. 657s</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 29 Section 3113</partNumber>
+  <partNumber>Title 29 Section 3141</partNumber>
+</titleInfo>
+ <identifier type="USC citation">29 U.S.C. 3113</identifier>
+ <identifier type="USC citation">29 U.S.C. 3141</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 1105</partNumber>
+  <partNumber>Title 31 Section 3901(a)</partNumber>
+  <partNumber>Title 31 Section 3902</partNumber>
+  <partNumber>Title 31 Section 3903(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 1105</identifier>
+ <identifier type="USC citation">31 U.S.C. 3901(a)</identifier>
+ <identifier type="USC citation">31 U.S.C. 3902</identifier>
+ <identifier type="USC citation">31 U.S.C. 3903(a)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 38 Section 1705(a)</partNumber>
+  <partNumber>Title 38 Section 1786</partNumber>
+  <partNumber>Title 38 Section 306A</partNumber>
+  <partNumber>Title 38 Section 3104</partNumber>
+  <partNumber>Title 38 Section 3104(b)</partNumber>
+  <partNumber>Title 38 Section 3301(1)(B)</partNumber>
+  <partNumber>Title 38 Section 3301note</partNumber>
+  <partNumber>Title 38 Section 3311</partNumber>
+  <partNumber>Title 38 Section 3311(f)</partNumber>
+  <partNumber>Title 38 Section 3311(f)(2)</partNumber>
+  <partNumber>Title 38 Section 3311note</partNumber>
+  <partNumber>Title 38 Section 3313</partNumber>
+  <partNumber>Title 38 Section 3313(c)(1)(A)(ii)(II)</partNumber>
+  <partNumber>Title 38 Section 3319</partNumber>
+  <partNumber>Title 38 Section 3485(a)(4)</partNumber>
+  <partNumber>Title 38 Section 3672(b)(2)(A)</partNumber>
+  <partNumber>Title 38 Section 3676</partNumber>
+  <partNumber>Title 38 Section 3676(c)(14)</partNumber>
+  <partNumber>Title 38 Section 3679(c)(2)(B)</partNumber>
+  <partNumber>Title 38 Section 3684(a)</partNumber>
+  <partNumber>Title 38 Section 3703(a)(1)</partNumber>
+  <partNumber>Title 38 Section 3710</partNumber>
+  <partNumber>Title 38 Section 4102A</partNumber>
+  <partNumber>Title 38 Section 8001</partNumber>
+  <partNumber>Title 38 Section 8002</partNumber>
+  <partNumber>Title 38 Section 8127</partNumber>
+  <partNumber>Title 38 Chapter 17</partNumber>
+  <partNumber>Title 38 Chapter 20</partNumber>
+  <partNumber>Title 38 Chapter 3</partNumber>
+  <partNumber>Title 38 Chapter 31</partNumber>
+  <partNumber>Title 38 Chapter 33</partNumber>
+  <partNumber>Title 38 Chapter 36</partNumber>
+  <partNumber>Title 38 Chapter 41</partNumber>
+  <partNumber>Title 38 Chapter 42</partNumber>
+  <partNumber>Title 38 Chapter 43</partNumber>
+  <partNumber>Title 38 Chapter 73</partNumber>
+  <partNumber>Title 38 Chapter 74</partNumber>
+  <partNumber>Title 38 Chapter 80</partNumber>
+</titleInfo>
+ <identifier type="USC citation">38 U.S.C. 1705(a)</identifier>
+ <identifier type="USC citation">38 U.S.C. 1786</identifier>
+ <identifier type="USC citation">38 U.S.C. 306A</identifier>
+ <identifier type="USC citation">38 U.S.C. 3104</identifier>
+ <identifier type="USC citation">38 U.S.C. 3104(b)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3301(1)(B)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3301note</identifier>
+ <identifier type="USC citation">38 U.S.C. 3311</identifier>
+ <identifier type="USC citation">38 U.S.C. 3311(f)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3311(f)(2)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3311note</identifier>
+ <identifier type="USC citation">38 U.S.C. 3313</identifier>
+ <identifier type="USC citation">38 U.S.C. 3313(c)(1)(A)(ii)(II)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3319</identifier>
+ <identifier type="USC citation">38 U.S.C. 3485(a)(4)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3672(b)(2)(A)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3676</identifier>
+ <identifier type="USC citation">38 U.S.C. 3676(c)(14)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3679(c)(2)(B)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3684(a)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3703(a)(1)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3710</identifier>
+ <identifier type="USC citation">38 U.S.C. 4102A</identifier>
+ <identifier type="USC citation">38 U.S.C. 8001</identifier>
+ <identifier type="USC citation">38 U.S.C. 8002</identifier>
+ <identifier type="USC citation">38 U.S.C. 8127</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 17</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 20</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 3</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 31</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 33</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 36</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 41</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 42</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 43</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 73</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 74</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 80</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 653a(h)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 653a(h)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 128 Page 1796</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">128 Stat. 1796</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 110-252</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 110-252</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 113-128</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 113-128</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 113-146</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 113-146</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Union Calendar No. 274</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr3016rh</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>3016</billNumber>
+ <billVersion reprint="false">rh</billVersion>
+ <fileSuffix>rh</fileSuffix>
+ <shortTitle type="measure">Veterans Employment, Education, and Healthcare Improvement Act</shortTitle>
+ <officialTitle>To amend title 38, United States Code, to clarify the role of podiatrists in the Department of Veterans Affairs.</officialTitle>
+ <officialTitleAmendment>A bill to amend title 38, United States Code, to make certain improvements in the laws administered by the Secretary of Veterans Affairs relating to health care, educational assistance, and vocational rehabilitation, to establish the Veterans Economic Opportunity and Transition Administration, and for other purposes.</officialTitleAmendment>
+ <action date="2015-07-09">Mr. Wenstrup (for himself, Mr. Benishek, Mr. Roe of Tennessee, Mr. Abraham, Mr. Ruiz, and Ms. Brownley of California) introduced the following bill; which was referred to the Committee on Veterans&apos; Affairs</action>
+ <action date="2015-12-01">Additional sponsors: Mr. Wilson of South Carolina, Mr. Costello of Pennsylvania, Mrs. Radewagen, Mr. Coffman, Mr. Schiff, Mrs. Napolitano, Mr. Smith of Texas, Mr. Blumenauer, Mr. Young of Iowa, and Mr. Israel</action>
+ <action date="2015-12-01">Reported with amendments, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action>
+ <congCommittee authorityId="hsvr00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Veterans&apos; Affairs</name>
+                      <name type="authority-short">Veterans&apos; Affairs</name>
+                </congCommittee>
+ <congMember authorityId="2152" bioGuideId="W000815" chamber="H" congress="114" party="R" role="SPONSOR" state="OH">
+                      <name type="parsed">Mr. Wenstrup</name>
+                      <name type="authority-fnf">Brad R. Wenstrup</name>
+                      <name type="authority-lnf">Wenstrup, Brad R.</name>
+                      <name type="authority-other">Mr. Brad Wenstrup</name>
+                </congMember>
+ <congMember authorityId="2027" bioGuideId="B001271" chamber="H" congress="114" gpoId="7986" party="R" role="COSPONSOR" state="MI">
+                      <name type="parsed">Mr. Benishek</name>
+                      <name type="authority-fnf">Dan Benishek</name>
+                      <name type="authority-lnf">Benishek, Dan</name>
+                </congMember>
+ <congMember authorityId="1954" bioGuideId="R000582" chamber="H" congress="114" gpoId="8148" party="R" role="COSPONSOR" state="TN">
+                      <name type="parsed">Mr. Roe of Tennessee</name>
+                      <name type="authority-fnf">David P. Roe</name>
+                      <name type="authority-lnf">Roe, David P.</name>
+                      <name type="authority-other">Mr. David Roe</name>
+                </congMember>
+ <congMember authorityId="2244" bioGuideId="A000374" chamber="H" congress="114" party="R" role="COSPONSOR" state="LA">
+                      <name type="parsed">Mr. Abraham</name>
+                      <name type="authority-fnf">Ralph Lee Abraham</name>
+                      <name type="authority-lnf">Abraham, Ralph Lee</name>
+                      <name type="authority-other">Mr. Ralph Abraham</name>
+                </congMember>
+ <congMember authorityId="2109" bioGuideId="R000599" chamber="H" congress="114" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Ruiz</name>
+                      <name type="authority-fnf">Raul Ruiz</name>
+                      <name type="authority-lnf">Ruiz, Raul</name>
+                </congMember>
+ <congMember authorityId="2106" bioGuideId="B001285" chamber="H" congress="114" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Brownley of California</name>
+                      <name type="authority-fnf">Julia Brownley</name>
+                      <name type="authority-lnf">Brownley, Julia</name>
+                </congMember>
+ <congMember authorityId="1688" bioGuideId="W000795" chamber="H" congress="114" gpoId="8142" party="R" role="COSPONSOR" state="SC">
+                      <name type="parsed">Mr. Wilson of South Carolina</name>
+                      <name type="authority-fnf">Joe Wilson</name>
+                      <name type="authority-lnf">Wilson, Joe</name>
+                </congMember>
+ <congMember authorityId="2266" bioGuideId="C001106" chamber="H" congress="114" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Costello of Pennsylvania</name>
+                      <name type="authority-fnf">Ryan A. Costello</name>
+                      <name type="authority-lnf">Costello, Ryan A.</name>
+                      <name type="authority-other">Mr. Ryan Costello</name>
+                </congMember>
+ <congMember authorityId="2222" bioGuideId="R000600" chamber="H" congress="114" party="R" role="COSPONSOR" state="AS">
+                      <name type="parsed">Mrs. Radewagen</name>
+                      <name type="authority-fnf">Aumua Amata Coleman Radewagen</name>
+                      <name type="authority-lnf">Radewagen, Aumua Amata Coleman</name>
+                      <name type="authority-other">Mrs. Aumua Amata Radewagen</name>
+                </congMember>
+ <congMember authorityId="1912" bioGuideId="C001077" chamber="H" congress="114" gpoId="7864" party="R" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Coffman</name>
+                      <name type="authority-fnf">Mike Coffman</name>
+                      <name type="authority-lnf">Coffman, Mike</name>
+                </congMember>
+ <congMember authorityId="1635" bioGuideId="S001150" chamber="H" congress="114" gpoId="7834" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Schiff</name>
+                      <name type="authority-fnf">Adam B. Schiff</name>
+                      <name type="authority-lnf">Schiff, Adam B.</name>
+                      <name type="authority-other">Adam Schiff</name>
+                </congMember>
+ <congMember authorityId="1602" bioGuideId="N000179" chamber="H" congress="114" gpoId="7843" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mrs. Napolitano</name>
+                      <name type="authority-fnf">Grace F. Napolitano</name>
+                      <name type="authority-lnf">Napolitano, Grace F.</name>
+                      <name type="authority-other">Grace Napolitano</name>
+                </congMember>
+ <congMember authorityId="1075" bioGuideId="S000583" chamber="H" congress="114" gpoId="8177" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Smith of Texas</name>
+                      <name type="authority-fnf">Lamar Smith</name>
+                      <name type="authority-lnf">Smith, Lamar</name>
+                </congMember>
+ <congMember authorityId="99" bioGuideId="B000574" chamber="H" congress="114" gpoId="8116" party="D" role="COSPONSOR" state="OR">
+                      <name type="parsed">Mr. Blumenauer</name>
+                      <name type="authority-fnf">Earl Blumenauer</name>
+                      <name type="authority-lnf">Blumenauer, Earl</name>
+                </congMember>
+ <congMember authorityId="2242" bioGuideId="Y000066" chamber="H" congress="114" party="R" role="COSPONSOR" state="IA">
+                      <name type="parsed">Mr. Young of Iowa</name>
+                      <name type="authority-fnf">David Young</name>
+                      <name type="authority-lnf">Young, David</name>
+                </congMember>
+ <congMember authorityId="1663" bioGuideId="I000057" chamber="H" congress="114" gpoId="8063" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Israel</name>
+                      <name type="authority-fnf">Steve Israel</name>
+                      <name type="authority-lnf">Israel, Steve</name>
+                </congMember>
+ <law congress="110" isPrivate="false" number="252"></law>
+ <law congress="113" isPrivate="false" number="128"></law>
+ <law congress="113" isPrivate="false" number="146"></law>
+ <congCalendar congress="114" number="274" type="UNION"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="10">
+                      <section number="1144"></section>
+                </USCode>
+ <USCode title="15">
+                      <section detail="(k)" number="644"></section>
+                      <section detail="(g)(1)" number="645"></section>
+                      <section detail="(g)(2)" number="645"></section>
+                      <section number="657s"></section>
+                </USCode>
+ <USCode title="29">
+                      <section number="3113"></section>
+                      <section number="3141"></section>
+                </USCode>
+ <USCode title="31">
+                      <section number="1105"></section>
+                      <section detail="(a)" number="3901"></section>
+                      <section number="3902"></section>
+                      <section detail="(a)" number="3903"></section>
+                </USCode>
+ <USCode title="38">
+                      <section detail="(a)" number="1705"></section>
+                      <section number="1786"></section>
+                      <section number="306A"></section>
+                      <section number="3104"></section>
+                      <section detail="(b)" number="3104"></section>
+                      <section detail="(1)(B)" number="3301"></section>
+                      <section detail="note" number="3301"></section>
+                      <section number="3311"></section>
+                      <section detail="(f)" number="3311"></section>
+                      <section detail="(f)(2)" number="3311"></section>
+                      <section detail="note" number="3311"></section>
+                      <section number="3313"></section>
+                      <section detail="(c)(1)(A)(ii)(II)" number="3313"></section>
+                      <section number="3319"></section>
+                      <section detail="(a)(4)" number="3485"></section>
+                      <section detail="(b)(2)(A)" number="3672"></section>
+                      <section number="3676"></section>
+                      <section detail="(c)(14)" number="3676"></section>
+                      <section detail="(c)(2)(B)" number="3679"></section>
+                      <section detail="(a)" number="3684"></section>
+                      <section detail="(a)(1)" number="3703"></section>
+                      <section number="3710"></section>
+                      <section number="4102A"></section>
+                      <section number="8001"></section>
+                      <section number="8002"></section>
+                      <section number="8127"></section>
+                      <chapter number="17"></chapter>
+                      <chapter number="20"></chapter>
+                      <chapter number="3"></chapter>
+                      <chapter number="31"></chapter>
+                      <chapter number="33"></chapter>
+                      <chapter number="36"></chapter>
+                      <chapter number="41"></chapter>
+                      <chapter number="42"></chapter>
+                      <chapter number="43"></chapter>
+                      <chapter number="73"></chapter>
+                      <chapter number="74"></chapter>
+                      <chapter number="80"></chapter>
+                </USCode>
+ <USCode title="42">
+                      <section detail="(h)" number="653a"></section>
+                </USCode>
+ <statuteAtLarge volume="128">
+                      <pages pages="1796"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

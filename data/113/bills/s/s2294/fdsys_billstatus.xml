@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2014-05-06</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <sponsorshipDate>2014-05-06</sponsorshipDate>
+        <bioguideId>C001056</bioguideId>
+        <firstName>John</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <party>R</party>
+        <lastName>Cornyn</lastName>
+        <identifiers>
+          <bioguideId>C001056</bioguideId>
+          <gpoId>8295</gpoId>
+          <lisID>1692</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+      <links />
+      <actionDate>2014-05-06</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2014</latestTitle>
+        <number>1960</number>
+        <latestAction>
+          <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 126.</text>
+          <actionDate>2013-07-08</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015</latestTitle>
+        <number>4435</number>
+        <latestAction>
+          <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 425.</text>
+          <actionDate>2014-06-05</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <updateDate>2016-10-25T16:29:59Z</updateDate>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-05-06</actionDate>
+        <committee>
+          <systemCode>ssas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Sponsor introductory remarks on measure. (CR S2721)</text>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S2721</url>
+            <name>S2721</name>
+          </link>
+        </links>
+        <type>IntroReferral</type>
+        <actionDate>2014-05-06</actionDate>
+        <actionCode>B00100</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2014-05-06</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Directs the Military Compensation and Retirement Modernization Commission to carry out an anonymous survey of random members of the Armed Forces regarding their preferences in military pay and benefits, with respect to: (1) the relative value that they place on specified forms of compensation (including basic pay, allowances for housing and subsistence, bonuses, various healthcare benefits, and retirement pay); (2) how they value different levels of pay or benefits, including the impact of copayments or deductibles; and (3) how information collected varies by age, grade, dependent status, and other factors.</p> <p>Directs the Commission to submit to the Secretary of Defense (DOD) and Congress and make available to the public a report on the analysis and raw data of the survey.</p> <p>Amends the National Defense Authorization Act for FY2013 to require the Commission to make its recommendations for changes to the military compensation and retirement systems only after examining the analysis and raw data collected pursuant to such survey.</p>]]></text>
+          <lastSummaryUpdateDate>2014-08-12T19:15:05Z</lastSummaryUpdateDate>
+          <updateDate>2014-05-06T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2014-05-06</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Military medicine</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Veterans' pensions and compensation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>A bill to require a survey of the preferences of members of the Armed Forces regarding military pay and benefits.</title>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <lastName>Kaine</lastName>
+        <bioguideId>K000384</bioguideId>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <identifiers>
+          <bioguideId>K000384</bioguideId>
+          <gpoId />
+          <lisID>2176</lisID>
+        </identifiers>
+        <party>D</party>
+        <firstName>Timothy</firstName>
+        <middleName />
+        <state>VA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2014-05-07T07:27:40Z</createDate>
+    <billNumber>2294</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssas00</systemCode>
+          <activities>
+            <item>
+              <date>2014-05-06T23:05:48Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Armed Services Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <title>A bill to require a survey of the preferences of members of the Armed Forces regarding military pay and benefits.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A bill to require a survey of the preferences of members of the Armed Forces regarding military pay and benefits.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>CHEW Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Children Eating Well Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to strengthen nutrition education for elementary school and secondary school students to promote healthy eating choices through developmentally appropriate lessons and activities integrated into the school day.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>CHEW Act</title>
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <subcommittees />
+          <systemCode>ssaf00</systemCode>
+          <activities>
+            <item>
+              <date>2013-02-11T20:55:23Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>113</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-03-08T21:01:43Z</lastSummaryUpdateDate>
+          <updateDate>2013-02-11T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2013-02-11</actionDate>
+          <text><![CDATA[<p>Children Eating Well Act or the CHEW Act - Requires each local educational agency (LEA) participating in the school improvement program under part A of title I of the Elementary and Secondary Education Act of 1965 to: (1) develop and implement healthy eating and nutrition education programs in its schools, and (2) periodically monitor schools' efforts to improve students' healthy eating and nutritive knowledge.</p> <p>Requires LEAs to consult multiple viewpoints in developing and implementing the healthy eating and nutrition education programs.</p> <p>Includes professional development for teachers, school staff, and food service workers as part of those programs.</p> <p>Directs the Secretary of Education, Secretary of Agriculture, and Secretary of Health and Human Services (HHS) to establish an inter-agency task force to review nutrition education curricula and recommend effective nutrition education programs for elementary and secondary schools.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <middleName>E.</middleName>
+        <firstName>Kirsten</firstName>
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <lastName>Gillibrand</lastName>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <party>D</party>
+        <byRequestType />
+        <bioguideId>G000555</bioguideId>
+        <state>NY</state>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <calendarNumbers />
+    <billType>S</billType>
+    <updateDate>2016-10-25T16:20:45Z</updateDate>
+    <cboCostEstimates />
+    <notes />
+    <latestAction>
+      <actionDate>2013-02-11</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </latestAction>
+    <createDate>2013-02-12T07:00:51Z</createDate>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>HI</state>
+        <sponsorshipDate>2013-09-17</sponsorshipDate>
+        <bioguideId>S001194</bioguideId>
+        <firstName>Brian</firstName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <party>D</party>
+        <lastName>Schatz</lastName>
+        <identifiers>
+          <bioguideId>S001194</bioguideId>
+          <gpoId />
+          <lisID>2173</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <originChamber>Senate</originChamber>
+    <actions>
+      <item>
+        <actionDate>2013-02-11</actionDate>
+        <committee>
+          <systemCode>ssaf00</systemCode>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2013-02-11</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <title>CHEW Act</title>
+    <relatedBills />
+    <billNumber>274</billNumber>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Department of Agriculture</name>
+          </item>
+          <item>
+            <name>Department of Education</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Food industry and services</name>
+          </item>
+          <item>
+            <name>Nutrition and diet</name>
+          </item>
+          <item>
+            <name>Physical fitness and lifestyle</name>
+          </item>
+          <item>
+            <name>Teaching, teachers, curricula</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2013-02-11</introducedDate>
+    <amendments />
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

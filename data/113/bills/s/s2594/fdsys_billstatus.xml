@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2014-07-11T05:05:24Z</createDate>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <sponsorshipDate>2014-07-10</sponsorshipDate>
+        <bioguideId>T000461</bioguideId>
+        <firstName>Pat</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <party>R</party>
+        <lastName>Toomey</lastName>
+        <identifiers>
+          <lisID>1594</lisID>
+          <gpoId />
+          <bioguideId>T000461</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <title>A bill to redesignate the railroad station located at 2955 Market Street in Philadelphia, Pennsylvania, commonly known as "30th Street Station", as the "William H. Gray 30th Street Station".</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-07-10</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2014-07-10</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <amendments />
+    <committeeReports />
+    <updateDate>2016-10-25T16:31:25Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+          <item>
+            <name>Pennsylvania</name>
+          </item>
+          <item>
+            <name>Railroads</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes>
+      <item>
+        <text><![CDATA[For further action, see H.R.4838, which became Public Law 113-158 on 8/8/2014.]]></text>
+        <links>
+          <link>
+            <name>H.R.4838</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/4838</url>
+          </link>
+        </links>
+      </item>
+    </notes>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <actionDate>2014-07-10</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>C001070</bioguideId>
+        <state>PA</state>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <firstName>Bob</firstName>
+        <party>D</party>
+        <lastName>Casey</lastName>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <lisID>1828</lisID>
+          <bioguideId>C001070</bioguideId>
+          <gpoId>8282</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <type>HR</type>
+        <number>4838</number>
+        <latestAction>
+          <text>Became Public Law No: 113-158.</text>
+          <actionDate>2014-08-08</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To redesignate the railroad station located at 2955 Market Street in Philadelphia, Pennsylvania, commonly known as "30th Street Station", as the "William H. Gray III 30th Street Station".</latestTitle>
+      </item>
+    </relatedBills>
+    <laws />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>sscm00</systemCode>
+          <activities>
+            <item>
+              <date>2014-07-10T22:05:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Commerce, Science, and Transportation Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2014-07-10</actionDate>
+          <updateDate>2014-07-10T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2014-07-17T14:50:39Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Designates the railroad station located at 2955 Market Street in Philadelphia, Pennsylvania, commonly known as 30th Street Station, as the &quot;William H. Gray 30th Street Station.&quot;</p> <p>Bars the use of federal funds to modify signage at the station or for related activities necessitated by its redesignation.</p>]]></text>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <introducedDate>2014-07-10</introducedDate>
+    <billType>S</billType>
+    <congress>113</congress>
+    <billNumber>2594</billNumber>
+    <titles>
+      <item>
+        <title>A bill to redesignate the railroad station located at 2955 Market Street in Philadelphia, Pennsylvania, commonly known as "30th Street Station", as the "William H. Gray 30th Street Station".</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A bill to redesignate the railroad station located at 2955 Market Street in Philadelphia, Pennsylvania, commonly known as "30th Street Station", as the "William H. Gray 30th Street Station".</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

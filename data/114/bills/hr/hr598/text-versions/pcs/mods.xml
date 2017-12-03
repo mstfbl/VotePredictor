@@ -1,0 +1,143 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18e587a0e">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To provide taxpayers with an annual report disclosing the cost and performance of Government programs and areas of duplication among them, and for other purposes.;
+   		Taxpayers Right-To-Know Act;H.R. 598 (PCS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-01-20</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To provide taxpayers with an annual report disclosing the cost and performance of Government programs and areas of duplication among them, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Taxpayers Right-To-Know Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 598 (PCS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-01-19</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>12 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18e587a0e</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr598pcs</identifier>
+<identifier type="preferred citation">H.R. 598</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h598_pcs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr598pcs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr598pcs/html/BILLS-114hr598pcs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr598pcs/pdf/BILLS-114hr598pcs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr598pcs/xml/BILLS-114hr598pcs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-01-20</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-01-21</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr598pcs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 2 Section 622</partNumber>
+</titleInfo>
+ <identifier type="USC citation">2 U.S.C. 622</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 1122(a)</partNumber>
+  <partNumber>Title 31 Section 1122(a)(2)(C)(i)</partNumber>
+  <partNumber>Title 31 Section 6101note</partNumber>
+  <partNumber>Title 31 Section 901(b)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 1122(a)</identifier>
+ <identifier type="USC citation">31 U.S.C. 1122(a)(2)(C)(i)</identifier>
+ <identifier type="USC citation">31 U.S.C. 6101note</identifier>
+ <identifier type="USC citation">31 U.S.C. 901(b)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 350</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr598pcs</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>598</billNumber>
+ <billVersion reprint="false">pcs</billVersion>
+ <fileSuffix>pcs</fileSuffix>
+ <shortTitle>Taxpayers Right-To-Know Act</shortTitle>
+ <action date="2016-01-12">Received</action>
+ <action date="2016-01-19">Read twice and placed on the calendar</action>
+ <congCalendar congress="114" number="350" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="2">
+                      <section number="622"></section>
+                </USCode>
+ <USCode title="31">
+                      <section detail="(a)" number="1122"></section>
+                      <section detail="(a)(2)(C)(i)" number="1122"></section>
+                      <section detail="note" number="6101"></section>
+                      <section detail="(b)" number="901"></section>
+                </USCode>
+</extension>
+</mods>

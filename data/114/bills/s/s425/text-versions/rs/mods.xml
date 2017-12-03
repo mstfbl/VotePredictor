@@ -1,0 +1,455 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee19300bdd2">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend title 38, United States Code, to provide for a five-year extension to the homeless veterans reintegration programs and to provide clarification regarding eligibility for services under such programs.;Homeless Veterans’ Reintegration Programs Reauthorization Act of 2015;Veterans Homeless Programs, Caregiver Services, and Other Improvements Act of 2015;Jason Simcakoski Memorial Act;S. 425 (RS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-12-08</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend title 38, United States Code, to provide for a five-year extension to the homeless veterans reintegration programs and to provide clarification regarding eligibility for services under such programs.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Homeless Veterans’ Reintegration Programs Reauthorization Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Veterans Homeless Programs, Caregiver Services, and Other Improvements Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Jason Simcakoski Memorial Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 425 (RS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-12-07</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>156 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee19300bdd2</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s425rs</identifier>
+<identifier type="preferred citation">S. 425</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s425_rs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s425rs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s425rs/html/BILLS-114s425rs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s425rs/pdf/BILLS-114s425rs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s425rs/xml/BILLS-114s425rs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-12-08</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-12-09</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s425rs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>John Boozman</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jon Tester</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>James M. Inhofe</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Charles E. Schumer</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Veterans&apos; Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 552a</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 552a</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1099b</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1099b</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 21 Section 802</partNumber>
+</titleInfo>
+ <identifier type="USC citation">21 U.S.C. 802</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 4101et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 4101et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 29 Section 796a</partNumber>
+</titleInfo>
+ <identifier type="USC citation">29 U.S.C. 796a</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 37 Section 403note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">37 U.S.C. 403note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 38 Section 101</partNumber>
+  <partNumber>Title 38 Section 1562(a)</partNumber>
+  <partNumber>Title 38 Section 1705(a)</partNumber>
+  <partNumber>Title 38 Section 1720G</partNumber>
+  <partNumber>Title 38 Section 1720G(a)</partNumber>
+  <partNumber>Title 38 Section 1720G(a)(2)(B)</partNumber>
+  <partNumber>Title 38 Section 1720G(a)(2)(B)(i)</partNumber>
+  <partNumber>Title 38 Section 1720Gnote</partNumber>
+  <partNumber>Title 38 Section 1745(a)</partNumber>
+  <partNumber>Title 38 Section 2002(1)</partNumber>
+  <partNumber>Title 38 Section 2011</partNumber>
+  <partNumber>Title 38 Section 2012</partNumber>
+  <partNumber>Title 38 Section 2012(a)(2)</partNumber>
+  <partNumber>Title 38 Section 2012(a)(2)(B)(ii)</partNumber>
+  <partNumber>Title 38 Section 2021(a)</partNumber>
+  <partNumber>Title 38 Section 2021(e)(F)</partNumber>
+  <partNumber>Title 38 Section 2062</partNumber>
+  <partNumber>Title 38 Section 2065</partNumber>
+  <partNumber>Title 38 Section 320</partNumber>
+  <partNumber>Title 38 Section 3301(1)(B)</partNumber>
+  <partNumber>Title 38 Section 3301note</partNumber>
+  <partNumber>Title 38 Section 3312</partNumber>
+  <partNumber>Title 38 Section 3317(a)</partNumber>
+  <partNumber>Title 38 Section 3319</partNumber>
+  <partNumber>Title 38 Section 3672(b)(2)(A)</partNumber>
+  <partNumber>Title 38 Section 3676</partNumber>
+  <partNumber>Title 38 Section 3676(c)(14)</partNumber>
+  <partNumber>Title 38 Section 3684(a)</partNumber>
+  <partNumber>Title 38 Section 3693</partNumber>
+  <partNumber>Title 38 Section 5101(a)(1)</partNumber>
+  <partNumber>Title 38 Section 7253</partNumber>
+  <partNumber>Title 38 Section 7302note</partNumber>
+  <partNumber>Title 38 Section 7306(a)(4)</partNumber>
+  <partNumber>Title 38 Section 7309B</partNumber>
+  <partNumber>Title 38 Section 7423(a)</partNumber>
+  <partNumber>Title 38 Section 7451(a)(2)</partNumber>
+  <partNumber>Title 38 Chapter 17</partNumber>
+  <partNumber>Title 38 Chapter 20</partNumber>
+  <partNumber>Title 38 Chapter 33</partNumber>
+  <partNumber>Title 38 Chapter 5</partNumber>
+  <partNumber>Title 38 Chapter 73</partNumber>
+  <partNumber>Title 38 Chapter 74</partNumber>
+</titleInfo>
+ <identifier type="USC citation">38 U.S.C. 101</identifier>
+ <identifier type="USC citation">38 U.S.C. 1562(a)</identifier>
+ <identifier type="USC citation">38 U.S.C. 1705(a)</identifier>
+ <identifier type="USC citation">38 U.S.C. 1720G</identifier>
+ <identifier type="USC citation">38 U.S.C. 1720G(a)</identifier>
+ <identifier type="USC citation">38 U.S.C. 1720G(a)(2)(B)</identifier>
+ <identifier type="USC citation">38 U.S.C. 1720G(a)(2)(B)(i)</identifier>
+ <identifier type="USC citation">38 U.S.C. 1720Gnote</identifier>
+ <identifier type="USC citation">38 U.S.C. 1745(a)</identifier>
+ <identifier type="USC citation">38 U.S.C. 2002(1)</identifier>
+ <identifier type="USC citation">38 U.S.C. 2011</identifier>
+ <identifier type="USC citation">38 U.S.C. 2012</identifier>
+ <identifier type="USC citation">38 U.S.C. 2012(a)(2)</identifier>
+ <identifier type="USC citation">38 U.S.C. 2012(a)(2)(B)(ii)</identifier>
+ <identifier type="USC citation">38 U.S.C. 2021(a)</identifier>
+ <identifier type="USC citation">38 U.S.C. 2021(e)(F)</identifier>
+ <identifier type="USC citation">38 U.S.C. 2062</identifier>
+ <identifier type="USC citation">38 U.S.C. 2065</identifier>
+ <identifier type="USC citation">38 U.S.C. 320</identifier>
+ <identifier type="USC citation">38 U.S.C. 3301(1)(B)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3301note</identifier>
+ <identifier type="USC citation">38 U.S.C. 3312</identifier>
+ <identifier type="USC citation">38 U.S.C. 3317(a)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3319</identifier>
+ <identifier type="USC citation">38 U.S.C. 3672(b)(2)(A)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3676</identifier>
+ <identifier type="USC citation">38 U.S.C. 3676(c)(14)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3684(a)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3693</identifier>
+ <identifier type="USC citation">38 U.S.C. 5101(a)(1)</identifier>
+ <identifier type="USC citation">38 U.S.C. 7253</identifier>
+ <identifier type="USC citation">38 U.S.C. 7302note</identifier>
+ <identifier type="USC citation">38 U.S.C. 7306(a)(4)</identifier>
+ <identifier type="USC citation">38 U.S.C. 7309B</identifier>
+ <identifier type="USC citation">38 U.S.C. 7423(a)</identifier>
+ <identifier type="USC citation">38 U.S.C. 7451(a)(2)</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 17</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 20</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 33</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 5</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 73</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 74</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 10803</partNumber>
+  <partNumber>Title 42 Section 11302</partNumber>
+  <partNumber>Title 42 Section 11302(a)</partNumber>
+  <partNumber>Title 42 Section 1320a-7a</partNumber>
+  <partNumber>Title 42 Section 1320a-7b(f)</partNumber>
+  <partNumber>Title 42 Section 1320a-7</partNumber>
+  <partNumber>Title 42 Section 1395cc(a)</partNumber>
+  <partNumber>Title 42 Section 1395cc(j)(2)(B)</partNumber>
+  <partNumber>Title 42 Section 1395et seq.</partNumber>
+  <partNumber>Title 42 Section 1395u(h)</partNumber>
+  <partNumber>Title 42 Section 1396et seq.</partNumber>
+  <partNumber>Title 42 Section 1437f(o)</partNumber>
+  <partNumber>Title 42 Section 1437f(o)(19)</partNumber>
+  <partNumber>Title 42 Section 1437f(o)(8)(B)</partNumber>
+  <partNumber>Title 42 Section 3002</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 10803</identifier>
+ <identifier type="USC citation">42 U.S.C. 11302</identifier>
+ <identifier type="USC citation">42 U.S.C. 11302(a)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1320a-7a</identifier>
+ <identifier type="USC citation">42 U.S.C. 1320a-7b(f)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1320a-7</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395cc(a)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395cc(j)(2)(B)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395u(h)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1396et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 1437f(o)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1437f(o)(19)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1437f(o)(8)(B)</identifier>
+ <identifier type="USC citation">42 U.S.C. 3002</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 110-252</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 110-252</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-163</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-163</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 113-146</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 113-146</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 113-291</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 113-291</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 716</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s425rs</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>425</billNumber>
+ <billVersion reprint="false">rs</billVersion>
+ <fileSuffix>rs</fileSuffix>
+ <shortTitle type="measure">Homeless Veterans’ Reintegration Programs Reauthorization Act of 2015</shortTitle>
+ <shortTitle type="measure">Veterans Homeless Programs, Caregiver Services, and Other Improvements Act of 2015</shortTitle>
+ <shortTitle level="title" type="level">Jason Simcakoski Memorial Act</shortTitle>
+ <officialTitle>To amend title 38, United States Code, to provide for a five-year extension to the homeless veterans reintegration programs and to provide clarification regarding eligibility for services under such programs.</officialTitle>
+ <officialTitleAmendment>A bill to amend title 38, United States Code, to improve the benefits and health care provided by the Department of Veterans Affairs, and for other purposes.</officialTitleAmendment>
+ <action date="2016-12-07">Reported by Mr. Isakson, with an amendment and an amendment to the title</action>
+ <action date="2015-02-10">Mr. Boozman (for himself, Mr. Tester, Mr. Inhofe, and Mr. Schumer) introduced the following bill; which was read twice and referred to the Committee on Veterans&apos; Affairs</action>
+ <congCommittee authorityId="ssva00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Veterans&apos; Affairs</name>
+                      <name type="authority-short">Veterans&apos; Affairs</name>
+                </congCommittee>
+ <congMember authorityId="1687" bioGuideId="B001236" chamber="S" congress="114" gpoId="8247" party="R" role="SPONSOR" state="AR">
+                      <name type="parsed">Mr. Boozman</name>
+                      <name type="authority-fnf">John Boozman</name>
+                      <name type="authority-lnf">Boozman, John</name>
+                </congMember>
+ <congMember authorityId="1829" bioGuideId="T000464" chamber="S" congress="114" gpoId="8258" party="D" role="COSPONSOR" state="MT">
+                      <name type="parsed">Mr. Tester</name>
+                      <name type="authority-fnf">Jon Tester</name>
+                      <name type="authority-lnf">Tester, Jon</name>
+                </congMember>
+ <congMember authorityId="583" bioGuideId="I000024" chamber="S" congress="114" gpoId="8322" party="R" role="COSPONSOR" state="OK">
+                      <name type="parsed">Mr. Inhofe</name>
+                      <name type="authority-fnf">James M. Inhofe</name>
+                      <name type="authority-lnf">Inhofe, James M.</name>
+                      <name type="authority-other">Jim Inhofe</name>
+                </congMember>
+ <congMember authorityId="1036" bioGuideId="S000148" chamber="S" congress="114" gpoId="8279" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Schumer</name>
+                      <name type="authority-fnf">Charles E. Schumer</name>
+                      <name type="authority-lnf">Schumer, Charles E.</name>
+                      <name type="authority-other">Charles Schumer</name>
+                </congMember>
+ <law congress="110" isPrivate="false" number="252"></law>
+ <law congress="111" isPrivate="false" number="163"></law>
+ <law congress="113" isPrivate="false" number="146"></law>
+ <law congress="113" isPrivate="false" number="291"></law>
+ <congCalendar congress="114" number="716" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="552a"></section>
+                </USCode>
+ <USCode title="20">
+                      <section number="1099b"></section>
+                </USCode>
+ <USCode title="21">
+                      <section number="802"></section>
+                </USCode>
+ <USCode title="25">
+                      <section detail="et seq." number="4101"></section>
+                </USCode>
+ <USCode title="29">
+                      <section number="796a"></section>
+                </USCode>
+ <USCode title="37">
+                      <section detail="note" number="403"></section>
+                </USCode>
+ <USCode title="38">
+                      <section number="101"></section>
+                      <section detail="(a)" number="1562"></section>
+                      <section detail="(a)" number="1705"></section>
+                      <section number="1720G"></section>
+                      <section detail="(a)" number="1720G"></section>
+                      <section detail="(a)(2)(B)" number="1720G"></section>
+                      <section detail="(a)(2)(B)(i)" number="1720G"></section>
+                      <section detail="note" number="1720G"></section>
+                      <section detail="(a)" number="1745"></section>
+                      <section detail="(1)" number="2002"></section>
+                      <section number="2011"></section>
+                      <section number="2012"></section>
+                      <section detail="(a)(2)" number="2012"></section>
+                      <section detail="(a)(2)(B)(ii)" number="2012"></section>
+                      <section detail="(a)" number="2021"></section>
+                      <section detail="(e)(F)" number="2021"></section>
+                      <section number="2062"></section>
+                      <section number="2065"></section>
+                      <section number="320"></section>
+                      <section detail="(1)(B)" number="3301"></section>
+                      <section detail="note" number="3301"></section>
+                      <section number="3312"></section>
+                      <section detail="(a)" number="3317"></section>
+                      <section number="3319"></section>
+                      <section detail="(b)(2)(A)" number="3672"></section>
+                      <section number="3676"></section>
+                      <section detail="(c)(14)" number="3676"></section>
+                      <section detail="(a)" number="3684"></section>
+                      <section number="3693"></section>
+                      <section detail="(a)(1)" number="5101"></section>
+                      <section number="7253"></section>
+                      <section detail="note" number="7302"></section>
+                      <section detail="(a)(4)" number="7306"></section>
+                      <section number="7309B"></section>
+                      <section detail="(a)" number="7423"></section>
+                      <section detail="(a)(2)" number="7451"></section>
+                      <chapter number="17"></chapter>
+                      <chapter number="20"></chapter>
+                      <chapter number="33"></chapter>
+                      <chapter number="5"></chapter>
+                      <chapter number="73"></chapter>
+                      <chapter number="74"></chapter>
+                </USCode>
+ <USCode title="42">
+                      <section number="10803"></section>
+                      <section number="11302"></section>
+                      <section detail="(a)" number="11302"></section>
+                      <section number="1320a-7a"></section>
+                      <section detail="(f)" number="1320a-7b"></section>
+                      <section number="1320a-7"></section>
+                      <section detail="(a)" number="1395cc"></section>
+                      <section detail="(j)(2)(B)" number="1395cc"></section>
+                      <section detail="et seq." number="1395"></section>
+                      <section detail="(h)" number="1395u"></section>
+                      <section detail="et seq." number="1396"></section>
+                      <section detail="(o)" number="1437f"></section>
+                      <section detail="(o)(19)" number="1437f"></section>
+                      <section detail="(o)(8)(B)" number="1437f"></section>
+                      <section number="3002"></section>
+                </USCode>
+</extension>
+</mods>

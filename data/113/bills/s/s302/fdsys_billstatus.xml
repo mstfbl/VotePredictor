@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors />
+    <cboCostEstimates />
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <updateDate>2016-10-25T16:20:51Z</updateDate>
+    <recordedVotes />
+    <calendarNumbers />
+    <createDate>2013-02-14T07:00:52Z</createDate>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2013-03-08T20:13:48Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Voter Integrity Protection Act - Amends the Immigration and Nationality Act to make voting in a federal election (unless otherwise provided for under the federal criminal code) by an alien who is unlawfully in the United States an aggravated felony and a deportable offense.</p>]]></text>
+          <updateDate>2013-02-13T05:00:00Z</updateDate>
+          <actionDate>2013-02-13</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <actions>
+      <item>
+        <actionDate>2013-02-13</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Sponsor introductory remarks on measure. (CR S670-672)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-13</actionDate>
+        <actionCode>B00100</actionCode>
+        <links>
+          <link>
+            <name>S670-672</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S670-672</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-13</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <congress>113</congress>
+    <relatedBills />
+    <title>Voter Integrity Protection Act</title>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <billNumber>302</billNumber>
+    <billType>S</billType>
+    <introducedDate>2013-02-13</introducedDate>
+    <latestAction>
+      <actionDate>2013-02-13</actionDate>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <systemCode>ssju00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-02-13T18:10:21Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <state>LA</state>
+        <bioguideId>V000127</bioguideId>
+        <identifiers>
+          <lisID>1609</lisID>
+          <gpoId>8267</gpoId>
+          <bioguideId>V000127</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Vitter, David [R-LA]</fullName>
+        <firstName>David</firstName>
+        <lastName>Vitter</lastName>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Voter Integrity Protection Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend the Immigration and Nationality Act to make voting in a Federal election by an unlawfully present alien an aggravated felony and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Voter Integrity Protection Act</title>
+      </item>
+    </titles>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

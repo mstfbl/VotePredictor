@@ -1,0 +1,904 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1930783fa">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Consumer Financial Protection Act of 2010 to make the Bureau of Consumer Financial Protection an independent Financial Product Safety Commission, and for other purposes.;Financial Product Safety Commission Act of 2015;H.R. 1266 (RH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-12-13</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Consumer Financial Protection Act of 2010 to make the Bureau of Consumer Financial Protection an independent Financial Product Safety Commission, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Financial Product Safety Commission Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 1266 (RH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-12-12</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>16 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee1930783fa</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1266rh</identifier>
+<identifier type="preferred citation">H.R. 1266</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h1266_rh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1266rh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1266rh/html/BILLS-114hr1266rh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1266rh/pdf/BILLS-114hr1266rh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1266rh/xml/BILLS-114hr1266rh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-12-13</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-12-13</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr1266rh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Randy Neugebauer</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Frank C. Guinta</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bill Huizenga</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Scott Garrett</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David Schweikert</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Keith J. Rothfus</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Blaine Luetkemeyer</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Stevan Pearce</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Scott R. Tipton</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Roger Williams</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dennis A. Ross</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ann Wagner</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bruce Poliquin</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lynn A. Westmoreland</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Andy Barr</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>J. French Hill</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael G. Fitzpatrick</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Sean P. Duffy</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robert Pittenger</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mia B. Love</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Patrick T. McHenry</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael T. McCaul</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Randy K. Weber, Sr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael C. Burgess</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Abney Culberson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John R. Carter</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kevin Brady</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bill Flores</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Joe Barton</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>K. Michael Conaway</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Pete Sessions</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Pete Olson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ted Poe</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Will Hurd</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lamar Smith</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Steve Stivers</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kyrsten Sinema</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mike Coffman</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David A. Trott</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Brian Babin</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kay Granger</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Joseph R. Pitts</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David Scott</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Vicky Hartzler</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Brad Ashford</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kevin Cramer</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tom Emmer</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Peter T. King</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bruce Westerman</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David W. Jolly</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Luke Messer</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ryan K. Zinke</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jody B. Hice</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Financial Services</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 5313</partNumber>
+  <partNumber>Title 5 Section 5314</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 5313</identifier>
+ <identifier type="USC citation">5 U.S.C. 5314</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 12 Section 1812</partNumber>
+  <partNumber>Title 12 Section 2604</partNumber>
+  <partNumber>Title 12 Section 289</partNumber>
+  <partNumber>Title 12 Section 3303(a)(4)</partNumber>
+  <partNumber>Title 12 Section 4001et seq.</partNumber>
+  <partNumber>Title 12 Section 5101et seq.</partNumber>
+  <partNumber>Title 12 Section 5301et seq.</partNumber>
+  <partNumber>Title 12 Section 5481et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">12 U.S.C. 1812</identifier>
+ <identifier type="USC citation">12 U.S.C. 2604</identifier>
+ <identifier type="USC citation">12 U.S.C. 289</identifier>
+ <identifier type="USC citation">12 U.S.C. 3303(a)(4)</identifier>
+ <identifier type="USC citation">12 U.S.C. 4001et seq.</identifier>
+ <identifier type="USC citation">12 U.S.C. 5101et seq.</identifier>
+ <identifier type="USC citation">12 U.S.C. 5301et seq.</identifier>
+ <identifier type="USC citation">12 U.S.C. 5481et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 1693o-2(a)(4)(C)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 1693o-2(a)(4)(C)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 9702</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 9702</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 44 Section 3513(c)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">44 U.S.C. 3513(c)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Union Calendar No. 682</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr1266rh</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>1266</billNumber>
+ <billVersion reprint="false">rh</billVersion>
+ <fileSuffix>rh</fileSuffix>
+ <shortTitle type="measure">Financial Product Safety Commission Act of 2015</shortTitle>
+ <officialTitle>To amend the Consumer Financial Protection Act of 2010 to make the Bureau of Consumer Financial Protection an independent Financial Product Safety Commission, and for other purposes.</officialTitle>
+ <action date="2015-03-04">Mr. Neugebauer (for himself, Mr. Guinta, Mr. Huizenga of Michigan, Mr. Garrett, Mr. Schweikert, Mr. Rothfus, Mr. Luetkemeyer, Mr. Pearce, Mr. Tipton, Mr. Williams, Mr. Ross, Mrs. Wagner, Mr. Poliquin, Mr. Westmoreland, Mr. Barr, Mr. Hill, Mr. Fitzpatrick, Mr. Duffy, Mr. Pittenger, Mrs. Love, and Mr. McHenry) introduced the following bill; which was referred to the Committee on Financial Services</action>
+ <action date="2016-12-12">Additional sponsors: Mr. McCaul, Mr. Weber of Texas, Mr. Burgess, Mr. Culberson, Mr. Carter of Texas, Mr. Brady of Texas, Mr. Flores, Mr. Barton, Mr. Conaway, Mr. Sessions, Mr. Olson, Mr. Poe of Texas, Mr. Hurd of Texas, Mr. Smith of Texas, Mr. Stivers, Ms. Sinema, Mr. Coffman, Mr. Trott, Mr. Babin, Ms. Granger, Mr. Pitts, Mr. David Scott of Georgia, Mrs. Hartzler, Mr. Ashford, Mr. Cramer, Mr. Emmer of Minnesota, Mr. King of New York, Mr. Westerman, Mr. Jolly, Mr. Messer, Mr. Zinke, and Mr. Jody B. Hice of Georgia</action>
+ <action date="2016-12-12">Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action>
+ <congCommittee authorityId="hsba00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Financial Services</name>
+                      <name type="authority-short">Financial Services</name>
+                </congCommittee>
+ <congMember authorityId="1758" bioGuideId="N000182" chamber="H" congress="114" gpoId="8175" party="R" role="SPONSOR" state="TX">
+                      <name type="parsed">Mr. Neugebauer</name>
+                      <name type="authority-fnf">Randy Neugebauer</name>
+                      <name type="authority-lnf">Neugebauer, Randy</name>
+                </congMember>
+ <congMember authorityId="2038" bioGuideId="G000570" chamber="H" congress="114" gpoId="8041" party="R" role="COSPONSOR" state="NH">
+                      <name type="parsed">Mr. Guinta</name>
+                      <name type="authority-fnf">Frank C. Guinta</name>
+                      <name type="authority-lnf">Guinta, Frank C.</name>
+                      <name type="authority-other">Mr. Frank Guinta</name>
+                </congMember>
+ <congMember authorityId="2028" bioGuideId="H001058" chamber="H" congress="114" gpoId="7987" party="R" role="COSPONSOR" state="MI">
+                      <name type="parsed">Mr. Huizenga of Michigan</name>
+                      <name type="authority-fnf">Bill Huizenga</name>
+                      <name type="authority-lnf">Huizenga, Bill</name>
+                </congMember>
+ <congMember authorityId="1737" bioGuideId="G000548" chamber="H" congress="114" gpoId="8047" party="R" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Garrett</name>
+                      <name type="authority-fnf">Scott Garrett</name>
+                      <name type="authority-lnf">Garrett, Scott</name>
+                </congMember>
+ <congMember authorityId="1994" bioGuideId="S001183" chamber="H" congress="114" gpoId="7802" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Schweikert</name>
+                      <name type="authority-fnf">David Schweikert</name>
+                      <name type="authority-lnf">Schweikert, David</name>
+                </congMember>
+ <congMember authorityId="2158" bioGuideId="R000598" chamber="H" congress="114" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Rothfus</name>
+                      <name type="authority-fnf">Keith J. Rothfus</name>
+                      <name type="authority-lnf">Rothfus, Keith J.</name>
+                      <name type="authority-other">Mr. Keith Rothfus</name>
+                </congMember>
+ <congMember authorityId="1931" bioGuideId="L000569" chamber="H" congress="114" gpoId="8017" party="R" role="COSPONSOR" state="MO">
+                      <name type="parsed">Mr. Luetkemeyer</name>
+                      <name type="authority-fnf">Blaine Luetkemeyer</name>
+                      <name type="authority-lnf">Luetkemeyer, Blaine</name>
+                </congMember>
+ <congMember authorityId="1738" bioGuideId="P000588" chamber="H" congress="114" gpoId="8057" party="R" role="COSPONSOR" state="NM">
+                      <name type="parsed">Mr. Pearce</name>
+                      <name type="authority-fnf">Stevan Pearce</name>
+                      <name type="authority-lnf">Pearce, Stevan</name>
+                </congMember>
+ <congMember authorityId="1997" bioGuideId="T000470" chamber="H" congress="114" gpoId="7861" party="R" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Tipton</name>
+                      <name type="authority-fnf">Scott R. Tipton</name>
+                      <name type="authority-lnf">Tipton, Scott R.</name>
+                      <name type="authority-other">Mr. Scott Tipton</name>
+                </congMember>
+ <congMember authorityId="2165" bioGuideId="W000816" chamber="H" congress="114" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Williams</name>
+                      <name type="authority-fnf">Roger Williams</name>
+                      <name type="authority-lnf">Williams, Roger</name>
+                </congMember>
+ <congMember authorityId="2003" bioGuideId="R000593" chamber="H" congress="114" gpoId="7884" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Ross</name>
+                      <name type="authority-fnf">Dennis A. Ross</name>
+                      <name type="authority-lnf">Ross, Dennis A.</name>
+                      <name type="authority-other">Dennis Ross</name>
+                </congMember>
+ <congMember authorityId="2137" bioGuideId="W000812" chamber="H" congress="114" party="R" role="COSPONSOR" state="MO">
+                      <name type="parsed">Mrs. Wagner</name>
+                      <name type="authority-fnf">Ann Wagner</name>
+                      <name type="authority-lnf">Wagner, Ann</name>
+                </congMember>
+ <congMember authorityId="2247" bioGuideId="P000611" chamber="H" congress="114" party="R" role="COSPONSOR" state="ME">
+                      <name type="parsed">Mr. Poliquin</name>
+                      <name type="authority-fnf">Bruce Poliquin</name>
+                      <name type="authority-lnf">Poliquin, Bruce</name>
+                </congMember>
+ <congMember authorityId="1779" bioGuideId="W000796" chamber="H" congress="114" gpoId="7900" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Westmoreland</name>
+                      <name type="authority-fnf">Lynn A. Westmoreland</name>
+                      <name type="authority-lnf">Westmoreland, Lynn A.</name>
+                      <name type="authority-other">Mr. Lynn Westmoreland</name>
+                </congMember>
+ <congMember authorityId="2131" bioGuideId="B001282" chamber="H" congress="114" party="R" role="COSPONSOR" state="KY">
+                      <name type="parsed">Mr. Barr</name>
+                      <name type="authority-fnf">Andy Barr</name>
+                      <name type="authority-lnf">Barr, Andy</name>
+                </congMember>
+ <congMember authorityId="2223" bioGuideId="H001072" chamber="H" congress="114" party="R" role="COSPONSOR" state="AR">
+                      <name type="parsed">Mr. Hill</name>
+                      <name type="authority-fnf">J. French Hill</name>
+                      <name type="authority-lnf">Hill, J. French</name>
+                </congMember>
+ <congMember authorityId="1797" bioGuideId="F000451" chamber="H" congress="114" gpoId="8126" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Fitzpatrick</name>
+                      <name type="authority-fnf">Michael G. Fitzpatrick</name>
+                      <name type="authority-lnf">Fitzpatrick, Michael G.</name>
+                      <name type="authority-other">Mr. Michael Fitzpatrick</name>
+                </congMember>
+ <congMember authorityId="2072" bioGuideId="D000614" chamber="H" congress="114" gpoId="8220" party="R" role="COSPONSOR" state="WI">
+                      <name type="parsed">Mr. Duffy</name>
+                      <name type="authority-fnf">Sean P. Duffy</name>
+                      <name type="authority-lnf">Duffy, Sean P.</name>
+                      <name type="authority-other">Mr. Sean Duffy</name>
+                </congMember>
+ <congMember authorityId="2141" bioGuideId="P000606" chamber="H" congress="114" party="R" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. Pittenger</name>
+                      <name type="authority-fnf">Robert Pittenger</name>
+                      <name type="authority-lnf">Pittenger, Robert</name>
+                </congMember>
+ <congMember authorityId="2271" bioGuideId="L000584" chamber="H" congress="114" party="R" role="COSPONSOR" state="UT">
+                      <name type="parsed">Mrs. Love</name>
+                      <name type="authority-fnf">Mia B. Love</name>
+                      <name type="authority-lnf">Love, Mia B.</name>
+                      <name type="authority-other">Mrs. Mia Love</name>
+                </congMember>
+ <congMember authorityId="1792" bioGuideId="M001156" chamber="H" congress="114" gpoId="8033" party="R" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. McHenry</name>
+                      <name type="authority-fnf">Patrick T. McHenry</name>
+                      <name type="authority-lnf">McHenry, Patrick T.</name>
+                      <name type="authority-other">Mr. Patrick Mchenry</name>
+                </congMember>
+ <congMember authorityId="1804" bioGuideId="M001157" chamber="H" congress="114" gpoId="8166" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. McCaul</name>
+                      <name type="authority-fnf">Michael T. McCaul</name>
+                      <name type="authority-lnf">McCaul, Michael T.</name>
+                      <name type="authority-other">Mr. Michael Mccaul</name>
+                </congMember>
+ <congMember authorityId="2161" bioGuideId="W000814" chamber="H" congress="114" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Weber of Texas</name>
+                      <name type="authority-fnf">Randy K. Weber, Sr.</name>
+                      <name type="authority-lnf">Weber, Randy K., Sr.</name>
+                      <name type="authority-other">Mr. Randy Weber Sr.</name>
+                </congMember>
+ <congMember authorityId="1751" bioGuideId="B001248" chamber="H" congress="114" gpoId="8182" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Burgess</name>
+                      <name type="authority-fnf">Michael C. Burgess</name>
+                      <name type="authority-lnf">Burgess, Michael C.</name>
+                      <name type="authority-other">Mr. Michael Burgess</name>
+                </congMember>
+ <congMember authorityId="1670" bioGuideId="C001048" chamber="H" congress="114" gpoId="8163" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Culberson</name>
+                      <name type="authority-fnf">John Abney Culberson</name>
+                      <name type="authority-lnf">Culberson, John Abney</name>
+                      <name type="authority-other">John Culberson</name>
+                </congMember>
+ <congMember authorityId="1752" bioGuideId="C001051" chamber="H" congress="114" gpoId="8187" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Carter of Texas</name>
+                      <name type="authority-fnf">John R. Carter</name>
+                      <name type="authority-lnf">Carter, John R.</name>
+                      <name type="authority-other">Mr. John Carter</name>
+                </congMember>
+ <congMember authorityId="1468" bioGuideId="B000755" chamber="H" congress="114" gpoId="8164" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Brady of Texas</name>
+                      <name type="authority-fnf">Kevin Brady</name>
+                      <name type="authority-lnf">Brady, Kevin</name>
+                </congMember>
+ <congMember authorityId="2065" bioGuideId="F000461" chamber="H" congress="114" gpoId="8173" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Flores</name>
+                      <name type="authority-fnf">Bill Flores</name>
+                      <name type="authority-lnf">Flores, Bill</name>
+                </congMember>
+ <congMember authorityId="62" bioGuideId="B000213" chamber="H" congress="114" gpoId="8162" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Barton</name>
+                      <name type="authority-fnf">Joe Barton</name>
+                      <name type="authority-lnf">Barton, Joe</name>
+                      <name type="authority-other">Joe L. Barton</name>
+                </congMember>
+ <congMember authorityId="1805" bioGuideId="C001062" chamber="H" congress="114" gpoId="8167" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Conaway</name>
+                      <name type="authority-fnf">K. Michael Conaway</name>
+                      <name type="authority-lnf">Conaway, K. Michael</name>
+                </congMember>
+ <congMember authorityId="1525" bioGuideId="S000250" chamber="H" congress="114" gpoId="8188" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Sessions</name>
+                      <name type="authority-fnf">Pete Sessions</name>
+                      <name type="authority-lnf">Sessions, Pete</name>
+                </congMember>
+ <congMember authorityId="1955" bioGuideId="O000168" chamber="H" congress="114" gpoId="8178" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Olson</name>
+                      <name type="authority-fnf">Pete Olson</name>
+                      <name type="authority-lnf">Olson, Pete</name>
+                </congMember>
+ <congMember authorityId="1802" bioGuideId="P000592" chamber="H" congress="114" gpoId="8158" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Poe of Texas</name>
+                      <name type="authority-fnf">Ted Poe</name>
+                      <name type="authority-lnf">Poe, Ted</name>
+                </congMember>
+ <congMember authorityId="2269" bioGuideId="H001073" chamber="H" congress="114" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Hurd of Texas</name>
+                      <name type="authority-fnf">Will Hurd</name>
+                      <name type="authority-lnf">Hurd, Will</name>
+                </congMember>
+ <congMember authorityId="1075" bioGuideId="S000583" chamber="H" congress="114" gpoId="8177" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Smith of Texas</name>
+                      <name type="authority-fnf">Lamar Smith</name>
+                      <name type="authority-lnf">Smith, Lamar</name>
+                </congMember>
+ <congMember authorityId="2047" bioGuideId="S001187" chamber="H" congress="114" gpoId="8105" party="R" role="COSPONSOR" state="OH">
+                      <name type="parsed">Mr. Stivers</name>
+                      <name type="authority-fnf">Steve Stivers</name>
+                      <name type="authority-lnf">Stivers, Steve</name>
+                </congMember>
+ <congMember authorityId="2099" bioGuideId="S001191" chamber="H" congress="114" party="D" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Ms. Sinema</name>
+                      <name type="authority-fnf">Kyrsten Sinema</name>
+                      <name type="authority-lnf">Sinema, Kyrsten</name>
+                </congMember>
+ <congMember authorityId="1912" bioGuideId="C001077" chamber="H" congress="114" gpoId="7864" party="R" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Coffman</name>
+                      <name type="authority-fnf">Mike Coffman</name>
+                      <name type="authority-lnf">Coffman, Mike</name>
+                </congMember>
+ <congMember authorityId="2250" bioGuideId="T000475" chamber="H" congress="114" party="R" role="COSPONSOR" state="MI">
+                      <name type="parsed">Mr. Trott</name>
+                      <name type="authority-fnf">David A. Trott</name>
+                      <name type="authority-lnf">Trott, David A.</name>
+                      <name type="authority-other">Mr. David Trott</name>
+                </congMember>
+ <congMember authorityId="2270" bioGuideId="B001291" chamber="H" congress="114" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Babin</name>
+                      <name type="authority-fnf">Brian Babin</name>
+                      <name type="authority-lnf">Babin, Brian</name>
+                </congMember>
+ <congMember authorityId="1487" bioGuideId="G000377" chamber="H" congress="114" gpoId="8168" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Ms. Granger</name>
+                      <name type="authority-fnf">Kay Granger</name>
+                      <name type="authority-lnf">Granger, Kay</name>
+                </congMember>
+ <congMember authorityId="1514" bioGuideId="P000373" chamber="H" congress="114" gpoId="8134" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Pitts</name>
+                      <name type="authority-fnf">Joseph R. Pitts</name>
+                      <name type="authority-lnf">Pitts, Joseph R.</name>
+                      <name type="authority-other">Joseph Pitts</name>
+                </congMember>
+ <congMember authorityId="1722" bioGuideId="S001157" chamber="H" congress="114" gpoId="7910" party="D" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. David Scott of Georgia</name>
+                      <name type="authority-fnf">David Scott</name>
+                      <name type="authority-lnf">Scott, David</name>
+                </congMember>
+ <congMember authorityId="2032" bioGuideId="H001053" chamber="H" congress="114" gpoId="8012" party="R" role="COSPONSOR" state="MO">
+                      <name type="parsed">Mrs. Hartzler</name>
+                      <name type="authority-fnf">Vicky Hartzler</name>
+                      <name type="authority-lnf">Hartzler, Vicky</name>
+                </congMember>
+ <congMember authorityId="2257" bioGuideId="A000373" chamber="H" congress="114" party="D" role="COSPONSOR" state="NE">
+                      <name type="parsed">Mr. Ashford</name>
+                      <name type="authority-fnf">Brad Ashford</name>
+                      <name type="authority-lnf">Ashford, Brad</name>
+                </congMember>
+ <congMember authorityId="2144" bioGuideId="C001096" chamber="H" congress="114" party="R" role="COSPONSOR" state="ND">
+                      <name type="parsed">Mr. Cramer</name>
+                      <name type="authority-fnf">Kevin Cramer</name>
+                      <name type="authority-lnf">Cramer, Kevin</name>
+                </congMember>
+ <congMember authorityId="2253" bioGuideId="E000294" chamber="H" congress="114" party="R" role="COSPONSOR" state="MN">
+                      <name type="parsed">Mr. Emmer of Minnesota</name>
+                      <name type="authority-fnf">Tom Emmer</name>
+                      <name type="authority-lnf">Emmer, Tom</name>
+                </congMember>
+ <congMember authorityId="635" bioGuideId="K000210" chamber="H" congress="114" gpoId="8064" party="R" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. King of New York</name>
+                      <name type="authority-fnf">Peter T. King</name>
+                      <name type="authority-lnf">King, Peter T.</name>
+                      <name type="authority-other">Peter King</name>
+                </congMember>
+ <congMember authorityId="2224" bioGuideId="W000821" chamber="H" congress="114" party="R" role="COSPONSOR" state="AR">
+                      <name type="parsed">Mr. Westerman</name>
+                      <name type="authority-fnf">Bruce Westerman</name>
+                      <name type="authority-lnf">Westerman, Bruce</name>
+                </congMember>
+ <congMember authorityId="2199" bioGuideId="J000296" chamber="H" congress="114" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Jolly</name>
+                      <name type="authority-fnf">David W. Jolly</name>
+                      <name type="authority-lnf">Jolly, David</name>
+                      <name type="authority-other">Mr. David Jolly</name>
+                </congMember>
+ <congMember authorityId="2130" bioGuideId="M001189" chamber="H" congress="114" party="R" role="COSPONSOR" state="IN">
+                      <name type="parsed">Mr. Messer</name>
+                      <name type="authority-fnf">Luke Messer</name>
+                      <name type="authority-lnf">Messer, Luke</name>
+                </congMember>
+ <congMember authorityId="2254" bioGuideId="Z000018" chamber="H" congress="114" party="R" role="COSPONSOR" state="MT">
+                      <name type="parsed">Mr. Zinke</name>
+                      <name type="authority-fnf">Ryan K. Zinke</name>
+                      <name type="authority-lnf">Zinke, Ryan K.</name>
+                      <name type="authority-other">Mr. Ryan Zinke</name>
+                </congMember>
+ <congMember authorityId="2237" bioGuideId="H001071" chamber="H" congress="114" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Jody B. Hice of Georgia</name>
+                      <name type="authority-fnf">Jody B. Hice</name>
+                      <name type="authority-lnf">Hice, Jody B.</name>
+                      <name type="authority-other">Mr. Jody Hice</name>
+                </congMember>
+ <congCalendar congress="114" number="682" type="UNION"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="5313"></section>
+                      <section number="5314"></section>
+                </USCode>
+ <USCode title="12">
+                      <section number="1812"></section>
+                      <section number="2604"></section>
+                      <section number="289"></section>
+                      <section detail="(a)(4)" number="3303"></section>
+                      <section detail="et seq." number="4001"></section>
+                      <section detail="et seq." number="5101"></section>
+                      <section detail="et seq." number="5301"></section>
+                      <section detail="et seq." number="5481"></section>
+                </USCode>
+ <USCode title="15">
+                      <section detail="(a)(4)(C)" number="1693o-2"></section>
+                </USCode>
+ <USCode title="20">
+                      <section number="9702"></section>
+                </USCode>
+ <USCode title="44">
+                      <section detail="(c)" number="3513"></section>
+                </USCode>
+</extension>
+</mods>

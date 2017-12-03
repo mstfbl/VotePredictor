@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2013-08-01</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors />
+    <recordedVotes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S6223)</text>
+      <links />
+      <actionDate>2013-08-01</actionDate>
+    </latestAction>
+    <relatedBills />
+    <updateDate>2016-10-25T16:26:38Z</updateDate>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-08-01</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S6223</url>
+            <name>S6223</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S6223)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2013-08-01</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2013-09-06T20:26:43Z</lastSummaryUpdateDate>
+          <actionDate>2013-08-01</actionDate>
+          <text><![CDATA[<p>Amends the Internal Revenue Code to impose a 5% excise tax on persons providing a covered passenger cruise. Defines &quot;covered passenger cruise&quot; as a voyage of a commercial passenger cruise vessel that extends over one or more nights and during which passengers embark and disembark the vessel in the United States. Defines &quot;passenger cruise vessel&quot; as any passenger vessel having berth or stateroom accommodations for at least 250 passengers and that is used in the business of carrying passengers for hire. </p> <p>Establishes in the Treasury the Intermodal Infrastructure Trust Fund to be funded by the per passenger excise tax. Allows expenditures from such Fund for specified transportation improvements.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2013-08-01T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Marine and inland water transportation</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+          <item>
+            <name>Transportation programs funding</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>A bill to amend the Internal Revenue Code of 1986 to impose an ad valorem excise tax on certain passenger cruise voyages, and for other purposes.</title>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <lastName>ROCKEFELLER</lastName>
+        <bioguideId>R000361</bioguideId>
+        <fullName>Sen. Rockefeller, John D., IV [D-WV]</fullName>
+        <identifiers>
+          <lisID>1424</lisID>
+          <gpoId>8273</gpoId>
+          <bioguideId>R000361</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>JAY</firstName>
+        <middleName />
+        <state>WV</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2013-08-02T05:52:42Z</createDate>
+    <billNumber>1450</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-08-01T20:47:31Z</date>
+            </item>
+          </activities>
+          <name>Finance Committee</name>
+          <type>Standing</type>
+          <systemCode>ssfi00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend the Internal Revenue Code of 1986 to impose an ad valorem excise tax on certain passenger cruise voyages, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend the Internal Revenue Code of 1986 to impose an ad valorem excise tax on certain passenger cruise voyages, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2013-09-17</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 185.</text>
+      <links />
+    </latestAction>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 113-106</citation>
+      </committeeReport>
+    </committeeReports>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssva00</systemCode>
+          <activities>
+            <item>
+              <date>2013-09-17T16:33:06Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2013-07-24T18:02:48Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2013-05-09T19:08:28Z</date>
+              <name>Hearings by</name>
+            </item>
+            <item>
+              <date>2013-01-24T21:26:59Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Veterans' Affairs Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2013-01-25T07:00:57Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2013-09-17</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 185.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2013-09-17</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 113-106</name>
+            <url>https://www.congress.gov/congressional-report/113th-congress/senate-report/106</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Reported by Senator Sanders with an amendment in the nature of a substitute. With written report No. 113-106. Minority views filed.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>report No. 113-106</name>
+            <url>https://www.congress.gov/congressional-report/113th-congress/senate-report/106</url>
+          </link>
+        </links>
+        <actionDate>2013-09-17</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Reported by Senator Sanders with an amendment in the nature of a substitute. With written report No. 113-106. Minority views filed.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2013-07-24</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-05-09</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 113-203.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-01-24</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>S286-287</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S286-287</url>
+          </link>
+        </links>
+        <actionDate>2013-01-24</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Sponsor introductory remarks on measure. (CR S286-287)</text>
+        <type>IntroReferral</type>
+        <actionCode>B00100</actionCode>
+        <committee />
+      </item>
+      <item>
+        <links />
+        <actionDate>2013-01-24</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <reportedToSenate>2</reportedToSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <orderedReported>1</orderedReported>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>7</senate>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2013-01-24</introducedDate>
+    <billNumber>131</billNumber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cboCostEstimates>
+      <item>
+        <title>S. 131, Women Veterans and Other Health Care Improvements Act of 2013</title>
+        <pubDate>2013-08-21T19:28:00Z</pubDate>
+        <url>http://www.cbo.gov/publication/44514</url>
+      </item>
+      <item>
+        <title>S. 131, Women Veterans and Other Health Care Improvements Act of 2013</title>
+        <pubDate>2013-08-21T19:28:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/44514</url>
+      </item>
+    </cboCostEstimates>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-02-22T14:20:28Z</lastSummaryUpdateDate>
+          <updateDate>2013-01-24T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2013-01-24</actionDate>
+          <text><![CDATA[<p>Women Veterans and Other Health Care Improvements Act of 2013 - Includes fertility counseling and treatment within authorized Department of Veterans Affairs (VA) medical services. Directs the Secretary of Veterans Affairs to furnish such counseling and treatment, including the use of assisted reproductive technology, to a spouse or surrogate of a severely wounded, ill, or injured veteran who has an infertility condition incurred or aggravated in the line of duty and who is enrolled in the VA health care system, as long as the spouse and veteran apply jointly for such counseling and treatment.</p> <p>Authorizes the Secretary to pay to any such veteran an amount to assist in the adoption of one or more children.</p> <p>Directs the Secretary to: (1) report annually to the congressional veterans committees on the counseling and treatment provided under this Act; (2) prescribe regulations on the furnishing of such counseling, treatment, and adoption assistance; and (3) coordinate the furnishing of such counseling and treatment with that provided by the Department of Defense (DOD).</p> <p>Directs the Secretary to facilitate research conducted collaboratively by the Secretaries of Defense and Health and Human Services (HHS) in order to improve VA's ability to meet the long-term reproductive health care needs of veterans who have a service-connected genitourinary disability or a condition that was incurred or aggravated in the line of duty, such as a spinal cord injury, that affects the veterans' ability to reproduce. </p> <p>Requires the Secretary to enhance the capabilities of the VA women veterans contact center: (1) to respond to requests for assistance with accessing VA health care and benefits, and (2) for referral to community resources to obtain assistance with services not furnished by the VA.</p> <p>Amends the Caregivers and Veterans Omnibus Health Services Act of 2010 relating to a pilot program of group retreat reintegration and readjustment counseling for women veterans recently separated from service to: (1) increase from at least 3 to at least 14 the number of locations for such counseling, and (2) extend the pilot program for an additional 2 years.</p> <p>Directs the Secretary to carry out a pilot program of providing child care assistance to veterans receiving or in need of VA readjustment counseling and related mental health services. </p> <p>Directs the Secretary to impose, as a contract condition, a contractor user fee with respect to each contract entered into by the VA for a good or service. Provides for the determination of fee amounts. Authorizes the Secretary to waive such fee if the contractor is an individual or a small business. Establishes in the Treasury the Department of Veterans Affairs Fertility Counseling and Treatment Fund. Provides for the deposit into such Fund of all contractor user fee amounts. </p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2013-11-27T21:43:43Z</lastSummaryUpdateDate>
+          <updateDate>2013-09-17T16:51:04Z</updateDate>
+          <name>Reported to Senate amended</name>
+          <actionDate>2013-09-17</actionDate>
+          <text><![CDATA[<p>Women Veterans and Other Health Care Improvements Act of 2013 - (Sec. 2) Includes fertility counseling and treatment within authorized Department of Veterans Affairs (VA) medical services.</p> <p>(Sec. 3) Directs the Secretary of Veterans Affairs (Secretary) to furnish such counseling and treatment, including the use of assisted reproductive technology, to a spouse or surrogate of a severely wounded, ill, or injured veteran who has an infertility condition incurred or aggravated in the line of duty and who is enrolled in the VA health care system, as long as the spouse and veteran apply jointly for such counseling and treatment.</p> <p>(Sec. 4) Authorizes the Secretary to pay to any such veteran an amount to assist in the adoption of one or more children. Provides cost limits.</p> <p>(Sec. 5) Directs the Secretary to prescribe regulations on the furnishing of such counseling, treatment, and adoption assistance.</p> <p>(Sec. 6) Requires the Secretary and the Secretary of Defense (DOD) to share best practices and facilitate referrals on the furnishing of such counseling and treatment.</p> <p>(Sec. 7) Directs the Secretary to facilitate research conducted collaboratively by the Secretaries of Defense and Health and Human Services (HHS) in order to improve VA's ability to meet the long-term reproductive health care needs of veterans who have a service-connected genitourinary disability or a condition that was incurred or aggravated in the line of duty, such as a spinal cord injury, that affects the veterans' ability to reproduce. Requires the Secretary to report to Congress on such research.</p> <p>(Sec. 8) Directs the Secretary to report annually to the congressional veterans committees on the counseling and treatment provided under this Act.</p> <p>(Sec. 9) Directs the Secretary to carry out a program of providing assistance to veterans to obtain child care during the period they are receiving mental health services. Requires the program to be carried out in at least three Veterans Integrated Service Networks selected by the Secretary. Directs the Secretary to carry out a similar program to provide assistance to the primary caretaker of a child or children who is receiving or in need of readjustment counseling and related mental health services from the VA. Requires the latter program to be carried out in at least three Readjustment Counseling Service Regions selected by the Secretary.</p> <p>(Sec. 10) Directs the Secretary to provide, through the Readjustment Counseling Service of the Veterans Health Administration, reintegration and readjustment services in group retreat settings to women veterans who are recently separated from service after a prolonged deployment. Requires the receipt of services to be at the election of the veteran. Repeals superseded pilot program authority under the Caregivers and Veterans Omnibus Health Services Act of 2010.</p>]]></text>
+          <actionDesc>Reported to Senate amended</actionDesc>
+          <versionCode>01</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Adoption and foster care</name>
+          </item>
+          <item>
+            <name>Child care and development</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Sex and reproductive health</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Women Veterans and Other Health Care Improvements Act of 2013</title>
+    <updateDate>2016-10-25T16:20:10Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Women Veterans and Other Health Care Improvements Act of 2013</title>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Women Veterans and Other Health Care Improvements Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to amend title 38, United States Code, to improve the reproductive assistance provided by the Department of Veterans Affairs to severely wounded, ill, or injured veterans and their spouses, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Women Veterans and Other Health Care Improvements Act of 2013</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>WA</state>
+        <firstName>PATTY</firstName>
+        <byRequestType />
+        <bioguideId>M001111</bioguideId>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <lastName>MURRAY</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>1409</lisID>
+          <gpoId>8237</gpoId>
+          <bioguideId>M001111</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers>
+      <item>
+        <number>0185</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <relatedBills>
+      <item>
+        <number>958</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Women Veterans and Other Health Care Improvements Act of 2013</latestTitle>
+        <type>HR</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+          <actionDate>2013-03-14</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <state>AK</state>
+        <bioguideId>B001265</bioguideId>
+        <sponsorshipDate>2013-01-24</sponsorshipDate>
+        <identifiers>
+          <lisID>1898</lisID>
+          <gpoId>8301</gpoId>
+          <bioguideId>B001265</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Begich, Mark [D-AK]</fullName>
+        <firstName>Mark</firstName>
+        <lastName>Begich</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MT</state>
+        <bioguideId>T000464</bioguideId>
+        <sponsorshipDate>2013-01-24</sponsorshipDate>
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <firstName>Jon</firstName>
+        <lastName>Tester</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>CT</state>
+        <bioguideId>B001277</bioguideId>
+        <sponsorshipDate>2013-05-08</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NY</state>
+        <bioguideId>G000555</bioguideId>
+        <sponsorshipDate>2013-09-18</sponsorshipDate>
+        <identifiers>
+          <lisID>1866</lisID>
+          <bioguideId>G000555</bioguideId>
+          <gpoId>8336</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <firstName>Kirsten</firstName>
+        <lastName>Gillibrand</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

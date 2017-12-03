@@ -1,0 +1,257 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1904a7143">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To decrease the deficit by consolidating and selling Federal buildings and other civilian real property, and for other purposes.;
+   		H.R. 4465 (PCS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-07-15</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To decrease the deficit by consolidating and selling Federal buildings and other civilian real property, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 4465 (PCS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-07-14</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>48 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee1904a7143</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4465pcs</identifier>
+<identifier type="preferred citation">H.R. 4465</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h4465_pcs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4465pcs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4465pcs/html/BILLS-114hr4465pcs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4465pcs/pdf/BILLS-114hr4465pcs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4465pcs/xml/BILLS-114hr4465pcs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-07-15</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-07-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr4465pcs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 5314</partNumber>
+  <partNumber>Title 5 Section 5315</partNumber>
+  <partNumber>Title 5 Section 552(b)</partNumber>
+  <partNumber>Title 5 Section 5702</partNumber>
+  <partNumber>Title 5 Section 5703</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 5314</identifier>
+ <identifier type="USC citation">5 U.S.C. 5315</identifier>
+ <identifier type="USC citation">5 U.S.C. 552(b)</identifier>
+ <identifier type="USC citation">5 U.S.C. 5702</identifier>
+ <identifier type="USC citation">5 U.S.C. 5703</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 667b</partNumber>
+  <partNumber>Title 16 Section 831et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 667b</identifier>
+ <identifier type="USC citation">16 U.S.C. 831et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 23 Section 107</partNumber>
+  <partNumber>Title 23 Section 317</partNumber>
+</titleInfo>
+ <identifier type="USC citation">23 U.S.C. 107</identifier>
+ <identifier type="USC citation">23 U.S.C. 317</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 1105</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 1105</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 40 Section 102</partNumber>
+  <partNumber>Title 40 Section 1304(b)</partNumber>
+  <partNumber>Title 40 Section 3301(a)</partNumber>
+  <partNumber>Title 40 Section 3307</partNumber>
+  <partNumber>Title 40 Section 3307(b)</partNumber>
+  <partNumber>Title 40 Section 545</partNumber>
+  <partNumber>Title 40 Section 545(b)(8)</partNumber>
+  <partNumber>Title 40 Section 549(c)(3)(B)(vii)</partNumber>
+  <partNumber>Title 40 Section 550</partNumber>
+  <partNumber>Title 40 Section 553</partNumber>
+  <partNumber>Title 40 Section 554</partNumber>
+  <partNumber>Title 40 Section 571</partNumber>
+  <partNumber>Title 40 Section 592</partNumber>
+</titleInfo>
+ <identifier type="USC citation">40 U.S.C. 102</identifier>
+ <identifier type="USC citation">40 U.S.C. 1304(b)</identifier>
+ <identifier type="USC citation">40 U.S.C. 3301(a)</identifier>
+ <identifier type="USC citation">40 U.S.C. 3307</identifier>
+ <identifier type="USC citation">40 U.S.C. 3307(b)</identifier>
+ <identifier type="USC citation">40 U.S.C. 545</identifier>
+ <identifier type="USC citation">40 U.S.C. 545(b)(8)</identifier>
+ <identifier type="USC citation">40 U.S.C. 549(c)(3)(B)(vii)</identifier>
+ <identifier type="USC citation">40 U.S.C. 550</identifier>
+ <identifier type="USC citation">40 U.S.C. 553</identifier>
+ <identifier type="USC citation">40 U.S.C. 554</identifier>
+ <identifier type="USC citation">40 U.S.C. 571</identifier>
+ <identifier type="USC citation">40 U.S.C. 592</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 11411</partNumber>
+  <partNumber>Title 42 Section 6901et seq.</partNumber>
+  <partNumber>Title 42 Section 9601et seq.</partNumber>
+  <partNumber>Title 42 Section 9620(h)</partNumber>
+  <partNumber>Title 42 Section 9620(h)(3)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 11411</identifier>
+ <identifier type="USC citation">42 U.S.C. 6901et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 9601et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 9620(h)</identifier>
+ <identifier type="USC citation">42 U.S.C. 9620(h)(3)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 49 Section 47151</partNumber>
+</titleInfo>
+ <identifier type="USC citation">49 U.S.C. 47151</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 50 Appendix 1622</partNumber>
+</titleInfo>
+ <identifier type="USC citation">50 U.S.C. App. 1622</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 562</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr4465pcs</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>4465</billNumber>
+ <billVersion reprint="false">pcs</billVersion>
+ <fileSuffix>pcs</fileSuffix>
+ <action date="2016-07-13">Read the first time</action>
+ <action date="2016-07-14">Read the second time and placed on the calendar</action>
+ <action date="2016-05-24">Received</action>
+ <congCalendar congress="114" number="562" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="5314"></section>
+                      <section number="5315"></section>
+                      <section detail="(b)" number="552"></section>
+                      <section number="5702"></section>
+                      <section number="5703"></section>
+                </USCode>
+ <USCode title="16">
+                      <section number="667b"></section>
+                      <section detail="et seq." number="831"></section>
+                </USCode>
+ <USCode title="23">
+                      <section number="107"></section>
+                      <section number="317"></section>
+                </USCode>
+ <USCode title="31">
+                      <section number="1105"></section>
+                </USCode>
+ <USCode title="40">
+                      <section number="102"></section>
+                      <section detail="(b)" number="1304"></section>
+                      <section detail="(a)" number="3301"></section>
+                      <section number="3307"></section>
+                      <section detail="(b)" number="3307"></section>
+                      <section number="545"></section>
+                      <section detail="(b)(8)" number="545"></section>
+                      <section detail="(c)(3)(B)(vii)" number="549"></section>
+                      <section number="550"></section>
+                      <section number="553"></section>
+                      <section number="554"></section>
+                      <section number="571"></section>
+                      <section number="592"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="11411"></section>
+                      <section detail="et seq." number="6901"></section>
+                      <section detail="et seq." number="9601"></section>
+                      <section detail="(h)" number="9620"></section>
+                      <section detail="(h)(3)" number="9620"></section>
+                </USCode>
+ <USCode title="49">
+                      <section number="47151"></section>
+                </USCode>
+ <USCode title="50">
+                      <appendix detail="(d)" number="1622"></appendix>
+                </USCode>
+</extension>
+</mods>

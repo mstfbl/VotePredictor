@@ -1,0 +1,141 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18f519ed9">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To designate the Federal building housing the Bureau of Alcohol, Tobacco, Firearms and Explosives Headquarters located at 99 New York Avenue N.E., Washington, D.C., as the Ariel Rios Federal Building.;
+   		Ariel Rios Federal Building Designation Act;S. 2824 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-04-28</dateIngested>
+</extension>
+<titleInfo>
+ <title>To designate the Federal building housing the Bureau of Alcohol, Tobacco, Firearms and Explosives Headquarters located at 99 New York Avenue N.E., Washington, D.C., as the Ariel Rios Federal Building.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Ariel Rios Federal Building Designation Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 2824 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-04-20</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>2 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18f519ed9</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s2824is</identifier>
+<identifier type="preferred citation">S. 2824</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s2824_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s2824is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2824is/html/BILLS-114s2824is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2824is/pdf/BILLS-114s2824is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2824is/xml/BILLS-114s2824is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-04-28</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-04-28</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s2824is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>James M. Inhofe</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Barbara Boxer</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Environment and Public Works</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s2824is</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2824</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle>Ariel Rios Federal Building Designation Act</shortTitle>
+ <action date="2016-04-20">Mr. Inhofe (for himself and Mrs. Boxer) introduced the following bill; which was read twice and referred to the Committee on Environment and Public Works</action>
+ <congCommittee authorityId="ssev00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Environment and Public Works</name>
+                      <name type="authority-short">Environment and Public Works</name>
+                </congCommittee>
+ <congMember authorityId="583" bioGuideId="I000024" chamber="S" congress="114" gpoId="8322" party="R" role="SPONSOR" state="OK">
+                      <name type="parsed">Mr. Inhofe</name>
+                      <name type="authority-fnf">James M. Inhofe</name>
+                      <name type="authority-lnf">Inhofe, James M.</name>
+                      <name type="authority-other">Jim Inhofe</name>
+                </congMember>
+ <congMember authorityId="116" bioGuideId="B000711" chamber="S" congress="114" gpoId="8306" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mrs. Boxer</name>
+                      <name type="authority-fnf">Barbara Boxer</name>
+                      <name type="authority-lnf">Boxer, Barbara</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

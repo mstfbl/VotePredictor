@@ -1,0 +1,171 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18d2aee4c">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend title XIX of the Social Security Act to empower individuals with disabilities to establish their own supplemental needs trusts.;Special Needs Trust Fairness Act of 2015;S. 349 (RS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-08-01</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend title XIX of the Social Security Act to empower individuals with disabilities to establish their own supplemental needs trusts.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Special Needs Trust Fairness Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 349 (RS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-07-30</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>4 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18d2aee4c</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s349rs</identifier>
+<identifier type="preferred citation">S. 349</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s349_rs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s349rs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s349rs/html/BILLS-114s349rs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s349rs/pdf/BILLS-114s349rs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s349rs/xml/BILLS-114s349rs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-08-01</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-11</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s349rs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Chuck Grassley</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bill Nelson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Debbie Stabenow</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Finance</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 1396p(d)(4)(A)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 1396p(d)(4)(A)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 178</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s349rs</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>349</billNumber>
+ <billVersion reprint="false">rs</billVersion>
+ <fileSuffix>rs</fileSuffix>
+ <shortTitle type="measure">Special Needs Trust Fairness Act of 2015</shortTitle>
+ <officialTitle>To amend title XIX of the Social Security Act to empower individuals with disabilities to establish their own supplemental needs trusts.</officialTitle>
+ <action date="2015-02-03">Mr. Grassley (for himself, Mr. Nelson, and Ms. Stabenow) introduced the following bill; which was read twice and referred to the Committee on Finance</action>
+ <action date="2015-07-30">Reported by Mr. Hatch, without amendment</action>
+ <congCommittee authorityId="ssfi00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Finance</name>
+                      <name type="authority-short">Finance</name>
+                </congCommittee>
+ <congMember authorityId="457" bioGuideId="G000386" chamber="S" congress="114" gpoId="8316" party="R" role="SPONSOR" state="IA">
+                      <name type="parsed">Mr. Grassley</name>
+                      <name type="authority-fnf">Chuck Grassley</name>
+                      <name type="authority-lnf">Grassley, Chuck</name>
+                      <name type="authority-other">Charles Ernest Grassley</name>
+                </congMember>
+ <congMember authorityId="859" bioGuideId="N000032" chamber="S" congress="114" gpoId="8236" party="D" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Nelson</name>
+                      <name type="authority-fnf">Bill Nelson</name>
+                      <name type="authority-lnf">Nelson, Bill</name>
+                      <name type="authority-other">Clarence William Nelson</name>
+                </congMember>
+ <congMember authorityId="1531" bioGuideId="S000770" chamber="S" congress="114" gpoId="8261" party="D" role="COSPONSOR" state="MI">
+                      <name type="parsed">Ms. Stabenow</name>
+                      <name type="authority-fnf">Debbie Stabenow</name>
+                      <name type="authority-lnf">Stabenow, Debbie</name>
+                      <name type="authority-other">Deborah Ann Stabenow</name>
+                </congMember>
+ <congCalendar congress="114" number="178" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="42">
+                      <section detail="(d)(4)(A)" number="1396p"></section>
+                </USCode>
+</extension>
+</mods>

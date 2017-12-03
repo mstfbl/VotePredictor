@@ -1,0 +1,129 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18c325a73">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To encourage, enhance, and integrate Blue Alert plans throughout the United States in order to disseminate information when a law enforcement officer is seriously injured or killed in the line of duty, is missing in connection with the officer’s official duties, or an imminent and credible threat that an individual intends to cause the serious injury or death of a law enforcement officer is received, and for other purposes.;Rafael Ramos and Wenjian Liu National Blue Alert Act of 2015;S. 665 (RFH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-05-05</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To encourage, enhance, and integrate Blue Alert plans throughout the United States in order to disseminate information when a law enforcement officer is seriously injured or killed in the line of duty, is missing in connection with the officer’s official duties, or an imminent and credible threat that an individual intends to cause the serious injury or death of a law enforcement officer is received, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Rafael Ramos and Wenjian Liu National Blue Alert Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 665 (RFH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-05-05</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>12 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18c325a73</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s665rfh</identifier>
+<identifier type="preferred citation">S. 665</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s665_rfh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s665rfh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s665rfh/html/BILLS-114s665rfh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s665rfh/pdf/BILLS-114s665rfh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s665rfh/xml/BILLS-114s665rfh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-05-05</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-12</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s665rfh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 28 Section 534</partNumber>
+</titleInfo>
+ <identifier type="USC citation">28 U.S.C. 534</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 3796b</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 3796b</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s665rfh</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>665</billNumber>
+ <billVersion reprint="false">rfh</billVersion>
+ <fileSuffix>rfh</fileSuffix>
+ <shortTitle type="measure">Rafael Ramos and Wenjian Liu National Blue Alert Act of 2015</shortTitle>
+ <officialTitle>To encourage, enhance, and integrate Blue Alert plans throughout the United States in order to disseminate information when a law enforcement officer is seriously injured or killed in the line of duty, is missing in connection with the officer’s official duties, or an imminent and credible threat that an individual intends to cause the serious injury or death of a law enforcement officer is received, and for other purposes.</officialTitle>
+ <action date="2015-05-05">Referred to the Committee on the Judiciary</action>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="28">
+                      <section number="534"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="3796b"></section>
+                </USCode>
+</extension>
+</mods>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2014-07-30</actionDate>
+      <text>Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S5137)</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssfi00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-07-30T14:50:18Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2014-07-31T05:20:46Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-07-30</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S5137</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S5137</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance. (text of measure as introduced: CR S5137)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2014-07-30</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2014-07-30</introducedDate>
+    <billNumber>2686</billNumber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2014-08-14T14:41:10Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Wounded Warrior Tax Equity Act of 2014 - Amends the Internal Revenue Code to prevent any extension of the tax collection period after assessment for taxpayers who are members of the Armed Forces due to a hospitalization for combat zone injuries. </p>]]></text>
+          <updateDate>2014-07-30T04:00:00Z</updateDate>
+          <actionDate>2014-07-30</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Military medicine</name>
+          </item>
+          <item>
+            <name>Military operations and strategy</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Wounded Warrior Tax Equity Act of 2014</title>
+    <updateDate>2016-10-25T16:31:48Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Wounded Warrior Tax Equity Act of 2014</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend the Internal Revenue Code of 1986 to prevent the extension of the tax collection period merely because the taxpayer is a member of the Armed Forces who is hospitalized as a result of combat zone injuries.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Wounded Warrior Tax Equity Act of 2014</title>
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>TX</state>
+        <firstName>John</firstName>
+        <byRequestType />
+        <bioguideId>C001056</bioguideId>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <lastName>Cornyn</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>GA</state>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <bioguideId>I000055</bioguideId>
+        <firstName>Johnny</firstName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <party>R</party>
+        <lastName>Isakson</lastName>
+        <identifiers>
+          <gpoId>8323</gpoId>
+          <lisID>1608</lisID>
+          <bioguideId>I000055</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <bioguideId>C001070</bioguideId>
+        <firstName>Bob</firstName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <party>D</party>
+        <lastName>Casey</lastName>
+        <identifiers>
+          <lisID>1828</lisID>
+          <gpoId>8282</gpoId>
+          <bioguideId>C001070</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

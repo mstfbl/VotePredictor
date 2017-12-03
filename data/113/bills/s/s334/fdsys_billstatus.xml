@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to terminate agricultural direct payments beginning with the 2013 crop year.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to terminate agricultural direct payments beginning with the 2013 crop year.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssaf00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-02-14T17:18:55Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>113</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2013-03-11T19:48:21Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Amends the Food, Conservation, and Energy Act of 2008 to end agricultural direct payments beginning with the 2013 crop year.</p>]]></text>
+          <updateDate>2013-02-14T05:00:00Z</updateDate>
+          <actionDate>2013-02-14</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <middleName />
+        <firstName>Claire</firstName>
+        <identifiers>
+          <bioguideId>M001170</bioguideId>
+          <gpoId>8252</gpoId>
+          <lisID>1820</lisID>
+        </identifiers>
+        <lastName>McCaskill</lastName>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <party>D</party>
+        <byRequestType />
+        <bioguideId>M001170</bioguideId>
+        <state>MO</state>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <calendarNumbers />
+    <billType>S</billType>
+    <updateDate>2016-10-25T16:20:57Z</updateDate>
+    <cboCostEstimates />
+    <notes />
+    <latestAction>
+      <actionDate>2013-02-14</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </latestAction>
+    <createDate>2013-02-15T07:00:53Z</createDate>
+    <cosponsors>
+      <item>
+        <bioguideId>F000444</bioguideId>
+        <state>AZ</state>
+        <sponsorshipDate>2013-02-14</sponsorshipDate>
+        <middleName />
+        <firstName>JEFF</firstName>
+        <party>R</party>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+        <lastName>FLAKE</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1633</lisID>
+          <gpoId>7803</gpoId>
+          <bioguideId>F000444</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <originChamber>Senate</originChamber>
+    <actions>
+      <item>
+        <actionDate>2013-02-14</actionDate>
+        <committee>
+          <systemCode>ssaf00</systemCode>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-02-14</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <title>A bill to terminate agricultural direct payments beginning with the 2013 crop year.</title>
+    <relatedBills />
+    <billNumber>334</billNumber>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural prices, subsidies, credit</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2013-02-14</introducedDate>
+    <amendments />
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

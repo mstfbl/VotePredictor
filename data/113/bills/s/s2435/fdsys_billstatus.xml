@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2014-06-05</actionDate>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2014-06-05T18:55:26Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2014-06-06T07:22:02Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2014-06-05</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-06-05</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2014-06-05</introducedDate>
+    <billNumber>2435</billNumber>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2014-06-27T16:16:46Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Federal Firefighter Flexibility and Fairness Act - Requires disregard of any hours worked by a firefighter under a qualified trade-of-time arrangement for purposes of any determination relating to federal eligibility for or the amount of any overtime pay.</p>]]></text>
+          <updateDate>2014-06-05T04:00:00Z</updateDate>
+          <actionDate>2014-06-05</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>First responders and emergency personnel</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Federal Firefighter Flexibility and Fairness Act</title>
+    <updateDate>2016-10-25T16:30:43Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Federal Firefighter Flexibility and Fairness Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to amend section 5542 of title 5, United States Code, to provide that any hours worked by Federal firefighters under a qualified trade-of-time arrangement shall be excluded for purposes of determinations relating to overtime pay.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Federal Firefighter Flexibility and Fairness Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>AK</state>
+        <firstName>Mark</firstName>
+        <byRequestType />
+        <bioguideId>B001265</bioguideId>
+        <fullName>Sen. Begich, Mark [D-AK]</fullName>
+        <lastName>Begich</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001265</bioguideId>
+          <lisID>1898</lisID>
+          <gpoId>8301</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <number>1141</number>
+        <latestAction>
+          <actionDate>2013-03-13</actionDate>
+          <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>Federal Firefighter Flexibility and Fairness Act</latestTitle>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000944</bioguideId>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <sponsorshipDate>2014-06-10</sponsorshipDate>
+        <lastName>BROWN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>OH</state>
+        <firstName>SHERROD</firstName>
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,226 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee19295bef9">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To address payment for claims relating to certain provisions of the Patient Protection and Affordable Care Act.;HHS Slush Fund Elimination Act;S. 3481 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-11-22</dateIngested>
+</extension>
+<titleInfo>
+ <title>To address payment for claims relating to certain provisions of the Patient Protection and Affordable Care Act.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>HHS Slush Fund Elimination Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 3481 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-11-17</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>3 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee19295bef9</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s3481is</identifier>
+<identifier type="preferred citation">S. 3481</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s3481_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s3481is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s3481is/html/BILLS-114s3481is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s3481is/pdf/BILLS-114s3481is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s3481is/xml/BILLS-114s3481is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-11-22</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-11-23</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s3481is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Ben Sasse</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Marco Rubio</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Barrasso</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mike Lee</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Judiciary</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 1304</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 1304</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 18061</partNumber>
+  <partNumber>Title 42 Section 18062</partNumber>
+  <partNumber>Title 42 Section 18062(b)(2)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 18061</identifier>
+ <identifier type="USC citation">42 U.S.C. 18062</identifier>
+ <identifier type="USC citation">42 U.S.C. 18062(b)(2)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 128 Page 2130</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">128 Stat. 2130</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 129 Page 2242</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">129 Stat. 2242</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 113-235</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 113-235</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 114-113</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 114-113</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s3481is</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>3481</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle type="measure">HHS Slush Fund Elimination Act</shortTitle>
+ <officialTitle>To address payment for claims relating to certain provisions of the Patient Protection and Affordable Care Act.</officialTitle>
+ <action date="2016-11-17">Mr. Sasse (for himself, Mr. Rubio, Mr. Barrasso, and Mr. Lee) introduced the following bill; which was read twice and referred to the Committee on the Judiciary</action>
+ <congCommittee authorityId="ssju00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Judiciary</name>
+                      <name type="authority-short">Judiciary</name>
+                </congCommittee>
+ <congMember authorityId="2289" bioGuideId="S001197" chamber="S" congress="114" party="R" role="SPONSOR" state="NE">
+                      <name type="parsed">Mr. Sasse</name>
+                      <name type="authority-fnf">Ben Sasse</name>
+                      <name type="authority-lnf">Sasse, Ben</name>
+                </congMember>
+ <congMember authorityId="2084" bioGuideId="R000595" chamber="S" congress="114" gpoId="8242" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Rubio</name>
+                      <name type="authority-fnf">Marco Rubio</name>
+                      <name type="authority-lnf">Rubio, Marco</name>
+                </congMember>
+ <congMember authorityId="1881" bioGuideId="B001261" chamber="S" congress="114" gpoId="8300" party="R" role="COSPONSOR" state="WY">
+                      <name type="parsed">Mr. Barrasso</name>
+                      <name type="authority-fnf">John Barrasso</name>
+                      <name type="authority-lnf">Barrasso, John</name>
+                </congMember>
+ <congMember authorityId="2080" bioGuideId="L000577" chamber="S" congress="114" gpoId="8303" party="R" role="COSPONSOR" state="UT">
+                      <name type="parsed">Mr. Lee</name>
+                      <name type="authority-fnf">Mike Lee</name>
+                      <name type="authority-lnf">Lee, Mike</name>
+                </congMember>
+ <law congress="113" isPrivate="false" number="235"></law>
+ <law congress="114" isPrivate="false" number="113"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="31">
+                      <section number="1304"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="18061"></section>
+                      <section number="18062"></section>
+                      <section detail="(b)(2)" number="18062"></section>
+                </USCode>
+ <statuteAtLarge volume="128">
+                      <pages pages="2130"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="129">
+                      <pages pages="2242"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

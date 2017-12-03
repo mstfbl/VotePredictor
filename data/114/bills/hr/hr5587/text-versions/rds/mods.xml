@@ -1,0 +1,285 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee191362040">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To reauthorize the Carl D. Perkins Career and Technical Education Act of 2006.;
+   		Strengthening Career and Technical Education for the 21st Century Act;H.R. 5587 (RDS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-09-16</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To reauthorize the Carl D. Perkins Career and Technical Education Act of 2006.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Strengthening Career and Technical Education for the 21st Century Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 5587 (RDS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-09-14</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>97 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee191362040</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5587rds</identifier>
+<identifier type="preferred citation">H.R. 5587</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h5587_rds.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5587rds/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5587rds/html/BILLS-114hr5587rds.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5587rds/pdf/BILLS-114hr5587rds.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5587rds/xml/BILLS-114hr5587rds.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-09-16</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-09-17</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr5587rds</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 101(a)(4)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 101(a)(4)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1021et seq.</partNumber>
+  <partNumber>Title 20 Section 1400</partNumber>
+  <partNumber>Title 20 Section 1400et seq.</partNumber>
+  <partNumber>Title 20 Section 2301</partNumber>
+  <partNumber>Title 20 Section 2301et seq.</partNumber>
+  <partNumber>Title 20 Section 2302</partNumber>
+  <partNumber>Title 20 Section 2303</partNumber>
+  <partNumber>Title 20 Section 2306a</partNumber>
+  <partNumber>Title 20 Section 2307</partNumber>
+  <partNumber>Title 20 Section 2321(a)</partNumber>
+  <partNumber>Title 20 Section 2322</partNumber>
+  <partNumber>Title 20 Section 2323</partNumber>
+  <partNumber>Title 20 Section 2324</partNumber>
+  <partNumber>Title 20 Section 2325</partNumber>
+  <partNumber>Title 20 Section 2327(i)</partNumber>
+  <partNumber>Title 20 Section 2328</partNumber>
+  <partNumber>Title 20 Section 2342</partNumber>
+  <partNumber>Title 20 Section 2343</partNumber>
+  <partNumber>Title 20 Section 2344</partNumber>
+  <partNumber>Title 20 Section 2354</partNumber>
+  <partNumber>Title 20 Section 2355</partNumber>
+  <partNumber>Title 20 Section 6301et seq.</partNumber>
+  <partNumber>Title 20 Section 6311(b)(1)</partNumber>
+  <partNumber>Title 20 Section 6311(b)(2)</partNumber>
+  <partNumber>Title 20 Section 6311(c)(2)(B)</partNumber>
+  <partNumber>Title 20 Section 6311(h)(1)(C)(ii)</partNumber>
+  <partNumber>Title 20 Section 6472</partNumber>
+  <partNumber>Title 20 Section 6601et seq.</partNumber>
+  <partNumber>Title 20 Section 7114(b)(3)(A)(i)(IV)</partNumber>
+  <partNumber>Title 20 Section 7801</partNumber>
+  <partNumber>Title 20 Section 7801(21)(A)</partNumber>
+  <partNumber>Title 20 Section 7801(25)(A)(ii)(I)(bb)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1021et seq.</identifier>
+ <identifier type="USC citation">20 U.S.C. 1400</identifier>
+ <identifier type="USC citation">20 U.S.C. 1400et seq.</identifier>
+ <identifier type="USC citation">20 U.S.C. 2301</identifier>
+ <identifier type="USC citation">20 U.S.C. 2301et seq.</identifier>
+ <identifier type="USC citation">20 U.S.C. 2302</identifier>
+ <identifier type="USC citation">20 U.S.C. 2303</identifier>
+ <identifier type="USC citation">20 U.S.C. 2306a</identifier>
+ <identifier type="USC citation">20 U.S.C. 2307</identifier>
+ <identifier type="USC citation">20 U.S.C. 2321(a)</identifier>
+ <identifier type="USC citation">20 U.S.C. 2322</identifier>
+ <identifier type="USC citation">20 U.S.C. 2323</identifier>
+ <identifier type="USC citation">20 U.S.C. 2324</identifier>
+ <identifier type="USC citation">20 U.S.C. 2325</identifier>
+ <identifier type="USC citation">20 U.S.C. 2327(i)</identifier>
+ <identifier type="USC citation">20 U.S.C. 2328</identifier>
+ <identifier type="USC citation">20 U.S.C. 2342</identifier>
+ <identifier type="USC citation">20 U.S.C. 2343</identifier>
+ <identifier type="USC citation">20 U.S.C. 2344</identifier>
+ <identifier type="USC citation">20 U.S.C. 2354</identifier>
+ <identifier type="USC citation">20 U.S.C. 2355</identifier>
+ <identifier type="USC citation">20 U.S.C. 6301et seq.</identifier>
+ <identifier type="USC citation">20 U.S.C. 6311(b)(1)</identifier>
+ <identifier type="USC citation">20 U.S.C. 6311(b)(2)</identifier>
+ <identifier type="USC citation">20 U.S.C. 6311(c)(2)(B)</identifier>
+ <identifier type="USC citation">20 U.S.C. 6311(h)(1)(C)(ii)</identifier>
+ <identifier type="USC citation">20 U.S.C. 6472</identifier>
+ <identifier type="USC citation">20 U.S.C. 6601et seq.</identifier>
+ <identifier type="USC citation">20 U.S.C. 7114(b)(3)(A)(i)(IV)</identifier>
+ <identifier type="USC citation">20 U.S.C. 7801</identifier>
+ <identifier type="USC citation">20 U.S.C. 7801(21)(A)</identifier>
+ <identifier type="USC citation">20 U.S.C. 7801(25)(A)(ii)(I)(bb)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 450et seq.</partNumber>
+  <partNumber>Title 25 Section 452et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 450et seq.</identifier>
+ <identifier type="USC citation">25 U.S.C. 452et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 29 Section 3101et seq.</partNumber>
+  <partNumber>Title 29 Section 3102</partNumber>
+  <partNumber>Title 29 Section 3111</partNumber>
+  <partNumber>Title 29 Section 3112(b)(1)</partNumber>
+  <partNumber>Title 29 Section 3112(b)(2)(B)</partNumber>
+  <partNumber>Title 29 Section 3113</partNumber>
+  <partNumber>Title 29 Section 491</partNumber>
+  <partNumber>Title 29 Section 49l-2(e)(2)</partNumber>
+  <partNumber>Title 29 Section 701et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">29 U.S.C. 3101et seq.</identifier>
+ <identifier type="USC citation">29 U.S.C. 3102</identifier>
+ <identifier type="USC citation">29 U.S.C. 3111</identifier>
+ <identifier type="USC citation">29 U.S.C. 3112(b)(1)</identifier>
+ <identifier type="USC citation">29 U.S.C. 3112(b)(2)(B)</identifier>
+ <identifier type="USC citation">29 U.S.C. 3113</identifier>
+ <identifier type="USC citation">29 U.S.C. 491</identifier>
+ <identifier type="USC citation">29 U.S.C. 49l-2(e)(2)</identifier>
+ <identifier type="USC citation">29 U.S.C. 701et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 11434a</partNumber>
+  <partNumber>Title 42 Section 12101et seq.</partNumber>
+  <partNumber>Title 42 Section 5191</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 11434a</identifier>
+ <identifier type="USC citation">42 U.S.C. 12101et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 5191</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr5587rds</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>5587</billNumber>
+ <billVersion reprint="false">rds</billVersion>
+ <fileSuffix>rds</fileSuffix>
+ <shortTitle>Strengthening Career and Technical Education for the 21st Century Act</shortTitle>
+ <action date="2016-09-14">Received</action>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="10">
+                      <section detail="(a)(4)" number="101"></section>
+                </USCode>
+ <USCode title="20">
+                      <section detail="et seq." number="1021"></section>
+                      <section number="1400"></section>
+                      <section detail="et seq." number="1400"></section>
+                      <section number="2301"></section>
+                      <section detail="et seq." number="2301"></section>
+                      <section number="2302"></section>
+                      <section number="2303"></section>
+                      <section number="2306a"></section>
+                      <section number="2307"></section>
+                      <section detail="(a)" number="2321"></section>
+                      <section number="2322"></section>
+                      <section number="2323"></section>
+                      <section number="2324"></section>
+                      <section number="2325"></section>
+                      <section detail="(i)" number="2327"></section>
+                      <section number="2328"></section>
+                      <section number="2342"></section>
+                      <section number="2343"></section>
+                      <section number="2344"></section>
+                      <section number="2354"></section>
+                      <section number="2355"></section>
+                      <section detail="et seq." number="6301"></section>
+                      <section detail="(b)(1)" number="6311"></section>
+                      <section detail="(b)(2)" number="6311"></section>
+                      <section detail="(c)(2)(B)" number="6311"></section>
+                      <section detail="(h)(1)(C)(ii)" number="6311"></section>
+                      <section number="6472"></section>
+                      <section detail="et seq." number="6601"></section>
+                      <section detail="(b)(3)(A)(i)(IV)" number="7114"></section>
+                      <section number="7801"></section>
+                      <section detail="(21)(A)" number="7801"></section>
+                      <section detail="(25)(A)(ii)(I)(bb)" number="7801"></section>
+                </USCode>
+ <USCode title="25">
+                      <section detail="et seq." number="450"></section>
+                      <section detail="et seq." number="452"></section>
+                </USCode>
+ <USCode title="29">
+                      <section detail="et seq." number="3101"></section>
+                      <section number="3102"></section>
+                      <section number="3111"></section>
+                      <section detail="(b)(1)" number="3112"></section>
+                      <section detail="(b)(2)(B)" number="3112"></section>
+                      <section number="3113"></section>
+                      <section number="491"></section>
+                      <section detail="(e)(2)" number="49l-2"></section>
+                      <section detail="et seq." number="701"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="11434a"></section>
+                      <section detail="et seq." number="12101"></section>
+                      <section number="5191"></section>
+                </USCode>
+</extension>
+</mods>

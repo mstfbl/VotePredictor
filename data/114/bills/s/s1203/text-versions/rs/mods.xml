@@ -1,0 +1,466 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18dc4905e">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend title 38, United States Code, to improve the processing by the Department of Veterans Affairs of claims for benefits under laws administered by the Secretary of Veterans Affairs, and for other purposes.;21st Century Veterans Benefits Delivery Act;21st Century Veterans Benefits Delivery and Other Improvements Act;S. 1203 (RS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-10-20</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend title 38, United States Code, to improve the processing by the Department of Veterans Affairs of claims for benefits under laws administered by the Secretary of Veterans Affairs, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>21st Century Veterans Benefits Delivery Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>21st Century Veterans Benefits Delivery and Other Improvements Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1203 (RS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-10-19</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>94 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18dc4905e</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s1203rs</identifier>
+<identifier type="preferred citation">S. 1203</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1203_rs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s1203rs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1203rs/html/BILLS-114s1203rs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1203rs/pdf/BILLS-114s1203rs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1203rs/xml/BILLS-114s1203rs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-10-20</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s1203rs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Dean Heller</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robert P. Casey Jr.</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jerry Moran</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Joe Manchin III</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Patrick J. Toomey</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Martin Heinrich</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David Vitter</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jon Tester</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Susan M. Collins</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Thad Cochran</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Christopher A. Coons</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Johnny Isakson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Veterans&apos; Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 1142(a)(4)</partNumber>
+  <partNumber>Title 10 Section 1144</partNumber>
+  <partNumber>Title 10 Section 16131(c)(3)(B)(i)</partNumber>
+  <partNumber>Title 10 Chapter 1223</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 1142(a)(4)</identifier>
+ <identifier type="USC citation">10 U.S.C. 1144</identifier>
+ <identifier type="USC citation">10 U.S.C. 16131(c)(3)(B)(i)</identifier>
+ <identifier type="USC citation">10 U.S.C. Chapter 1223</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 29 Section 2871(d)(1)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">29 U.S.C. 2871(d)(1)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 1105(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 1105(a)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 38 Section 101</partNumber>
+  <partNumber>Title 38 Section 107note</partNumber>
+  <partNumber>Title 38 Section 1701</partNumber>
+  <partNumber>Title 38 Section 1701(10)</partNumber>
+  <partNumber>Title 38 Section 1701(9)</partNumber>
+  <partNumber>Title 38 Section 1710note</partNumber>
+  <partNumber>Title 38 Section 320(a)</partNumber>
+  <partNumber>Title 38 Section 3319</partNumber>
+  <partNumber>Title 38 Section 3325(b)(1)</partNumber>
+  <partNumber>Title 38 Section 3684</partNumber>
+  <partNumber>Title 38 Section 4103</partNumber>
+  <partNumber>Title 38 Section 5101note</partNumber>
+  <partNumber>Title 38 Section 5104(a)</partNumber>
+  <partNumber>Title 38 Section 5104(b)(1)</partNumber>
+  <partNumber>Title 38 Section 5125</partNumber>
+  <partNumber>Title 38 Section 5902</partNumber>
+  <partNumber>Title 38 Section 7105(a)</partNumber>
+  <partNumber>Title 38 Section 7107</partNumber>
+  <partNumber>Title 38 Section 7302(a)(1)</partNumber>
+  <partNumber>Title 38 Section 7402(b)(11)(A)</partNumber>
+  <partNumber>Title 38 Section 7406note</partNumber>
+  <partNumber>Title 38 Section 7451(a)(2)</partNumber>
+  <partNumber>Title 38 Section 8127</partNumber>
+  <partNumber>Title 38 Section 8127(f)(2)</partNumber>
+  <partNumber>Title 38 Section 8127(h)</partNumber>
+  <partNumber>Title 38 Chapter 13</partNumber>
+  <partNumber>Title 38 Chapter 17</partNumber>
+  <partNumber>Title 38 Chapter 33</partNumber>
+  <partNumber>Title 38 Chapter 76</partNumber>
+</titleInfo>
+ <identifier type="USC citation">38 U.S.C. 101</identifier>
+ <identifier type="USC citation">38 U.S.C. 107note</identifier>
+ <identifier type="USC citation">38 U.S.C. 1701</identifier>
+ <identifier type="USC citation">38 U.S.C. 1701(10)</identifier>
+ <identifier type="USC citation">38 U.S.C. 1701(9)</identifier>
+ <identifier type="USC citation">38 U.S.C. 1710note</identifier>
+ <identifier type="USC citation">38 U.S.C. 320(a)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3319</identifier>
+ <identifier type="USC citation">38 U.S.C. 3325(b)(1)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3684</identifier>
+ <identifier type="USC citation">38 U.S.C. 4103</identifier>
+ <identifier type="USC citation">38 U.S.C. 5101note</identifier>
+ <identifier type="USC citation">38 U.S.C. 5104(a)</identifier>
+ <identifier type="USC citation">38 U.S.C. 5104(b)(1)</identifier>
+ <identifier type="USC citation">38 U.S.C. 5125</identifier>
+ <identifier type="USC citation">38 U.S.C. 5902</identifier>
+ <identifier type="USC citation">38 U.S.C. 7105(a)</identifier>
+ <identifier type="USC citation">38 U.S.C. 7107</identifier>
+ <identifier type="USC citation">38 U.S.C. 7302(a)(1)</identifier>
+ <identifier type="USC citation">38 U.S.C. 7402(b)(11)(A)</identifier>
+ <identifier type="USC citation">38 U.S.C. 7406note</identifier>
+ <identifier type="USC citation">38 U.S.C. 7451(a)(2)</identifier>
+ <identifier type="USC citation">38 U.S.C. 8127</identifier>
+ <identifier type="USC citation">38 U.S.C. 8127(f)(2)</identifier>
+ <identifier type="USC citation">38 U.S.C. 8127(h)</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 13</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 17</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 33</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 76</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 41 Section 133</partNumber>
+</titleInfo>
+ <identifier type="USC citation">41 U.S.C. 133</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 115 Page 2459</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">115 Stat. 2459</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 104-275</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 104-275</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 107-135</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 107-135</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-5</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-5</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-154</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-154</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 267</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s1203rs</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1203</billNumber>
+ <billVersion reprint="false">rs</billVersion>
+ <fileSuffix>rs</fileSuffix>
+ <shortTitle type="measure">21st Century Veterans Benefits Delivery Act</shortTitle>
+ <shortTitle type="measure">21st Century Veterans Benefits Delivery and Other Improvements Act</shortTitle>
+ <officialTitle>To amend title 38, United States Code, to improve the processing by the Department of Veterans Affairs of claims for benefits under laws administered by the Secretary of Veterans Affairs, and for other purposes.</officialTitle>
+ <officialTitleAmendment>A bill to amend title 38, United States Code, to improve the furnishing of health care to veterans by the Department of Veterans Affairs, to improve the processing by the Department of claims for disability compensation, and for other purposes.</officialTitleAmendment>
+ <action date="2015-05-06">Mr. Heller (for himself, Mr. Casey, Mr. Moran, Mr. Manchin, Mr. Toomey, Mr. Heinrich, Mr. Vitter, Mr. Tester, Ms. Collins, Mr. Cochran, and Mr. Coons) introduced the following bill; which was read twice and referred to the Committee on Veterans&apos; Affairs</action>
+ <action date="2015-10-19">Reported by Mr. Isakson, with an amendment and an amendment to the title</action>
+ <congCommittee authorityId="ssva00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Veterans&apos; Affairs</name>
+                      <name type="authority-short">Veterans&apos; Affairs</name>
+                </congCommittee>
+ <congMember authorityId="1863" bioGuideId="H001041" chamber="S" congress="114" gpoId="8060" party="R" role="SPONSOR" state="NV">
+                      <name type="parsed">Mr. Heller</name>
+                      <name type="authority-fnf">Dean Heller</name>
+                      <name type="authority-lnf">Heller, Dean</name>
+                </congMember>
+ <congMember authorityId="1828" bioGuideId="C001070" chamber="S" congress="114" gpoId="8282" party="D" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Casey</name>
+                      <name type="authority-fnf">Robert P. Casey Jr.</name>
+                      <name type="authority-lnf">Casey, Robert P., Jr.</name>
+                      <name type="authority-other">Mr. Bob Casey Jr.</name>
+                </congMember>
+ <congMember authorityId="1507" bioGuideId="M000934" chamber="S" congress="114" gpoId="8307" party="R" role="COSPONSOR" state="KS">
+                      <name type="parsed">Mr. Moran</name>
+                      <name type="authority-fnf">Jerry Moran</name>
+                      <name type="authority-lnf">Moran, Jerry</name>
+                </congMember>
+ <congMember authorityId="1983" bioGuideId="M001183" chamber="S" congress="114" gpoId="8256" party="D" role="COSPONSOR" state="WV">
+                      <name type="parsed">Mr. Manchin</name>
+                      <name type="authority-fnf">Joe Manchin III</name>
+                      <name type="authority-lnf">Manchin, Joe, III</name>
+                      <name type="authority-other">Mr. Joe Manchin III</name>
+                </congMember>
+ <congMember authorityId="1594" bioGuideId="T000461" chamber="S" congress="114" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Toomey</name>
+                      <name type="authority-fnf">Patrick J. Toomey</name>
+                      <name type="authority-lnf">Toomey, Patrick J.</name>
+                      <name type="authority-other">Patrick Toomey</name>
+                </congMember>
+ <congMember authorityId="1937" bioGuideId="H001046" chamber="S" congress="114" gpoId="8056" party="D" role="COSPONSOR" state="NM">
+                      <name type="parsed">Mr. Heinrich</name>
+                      <name type="authority-fnf">Martin Heinrich</name>
+                      <name type="authority-lnf">Heinrich, Martin</name>
+                </congMember>
+ <congMember authorityId="1609" bioGuideId="V000127" chamber="S" congress="114" gpoId="8267" party="R" role="COSPONSOR" state="LA">
+                      <name type="parsed">Mr. Vitter</name>
+                      <name type="authority-fnf">David Vitter</name>
+                      <name type="authority-lnf">Vitter, David</name>
+                </congMember>
+ <congMember authorityId="1829" bioGuideId="T000464" chamber="S" congress="114" gpoId="8258" party="D" role="COSPONSOR" state="MT">
+                      <name type="parsed">Mr. Tester</name>
+                      <name type="authority-fnf">Jon Tester</name>
+                      <name type="authority-lnf">Tester, Jon</name>
+                </congMember>
+ <congMember authorityId="1541" bioGuideId="C001035" chamber="S" congress="114" gpoId="8291" party="R" role="COSPONSOR" state="ME">
+                      <name type="parsed">Ms. Collins</name>
+                      <name type="authority-fnf">Susan M. Collins</name>
+                      <name type="authority-lnf">Collins, Susan M.</name>
+                      <name type="authority-other">Susan Margaret Collins</name>
+                </congMember>
+ <congMember authorityId="213" bioGuideId="C000567" chamber="S" congress="114" gpoId="8292" party="R" role="COSPONSOR" state="MS">
+                      <name type="parsed">Mr. Cochran</name>
+                      <name type="authority-fnf">Thad Cochran</name>
+                      <name type="authority-lnf">Cochran, Thad</name>
+                </congMember>
+ <congMember authorityId="1984" bioGuideId="C001088" chamber="S" congress="114" gpoId="8297" party="D" role="COSPONSOR" state="DE">
+                      <name type="parsed">Mr. Coons</name>
+                      <name type="authority-fnf">Christopher A. Coons</name>
+                      <name type="authority-lnf">Coons, Christopher A.</name>
+                      <name type="authority-other">Mr. Christopher Coons</name>
+                </congMember>
+ <congMember authorityId="1608" bioGuideId="I000055" chamber="S" congress="114" gpoId="8323" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Isakson</name>
+                      <name type="authority-fnf">Johnny Isakson</name>
+                      <name type="authority-lnf">Isakson, Johnny</name>
+                </congMember>
+ <law congress="104" isPrivate="false" number="275"></law>
+ <law congress="107" isPrivate="false" number="135"></law>
+ <law congress="111" isPrivate="false" number="5"></law>
+ <law congress="112" isPrivate="false" number="154"></law>
+ <congCalendar congress="114" number="267" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="10">
+                      <section detail="(a)(4)" number="1142"></section>
+                      <section number="1144"></section>
+                      <section detail="(c)(3)(B)(i)" number="16131"></section>
+                      <chapter number="1223"></chapter>
+                </USCode>
+ <USCode title="29">
+                      <section detail="(d)(1)" number="2871"></section>
+                </USCode>
+ <USCode title="31">
+                      <section detail="(a)" number="1105"></section>
+                </USCode>
+ <USCode title="38">
+                      <section number="101"></section>
+                      <section detail="note" number="107"></section>
+                      <section number="1701"></section>
+                      <section detail="(10)" number="1701"></section>
+                      <section detail="(9)" number="1701"></section>
+                      <section detail="note" number="1710"></section>
+                      <section detail="(a)" number="320"></section>
+                      <section number="3319"></section>
+                      <section detail="(b)(1)" number="3325"></section>
+                      <section number="3684"></section>
+                      <section number="4103"></section>
+                      <section detail="note" number="5101"></section>
+                      <section detail="(a)" number="5104"></section>
+                      <section detail="(b)(1)" number="5104"></section>
+                      <section number="5125"></section>
+                      <section number="5902"></section>
+                      <section detail="(a)" number="7105"></section>
+                      <section number="7107"></section>
+                      <section detail="(a)(1)" number="7302"></section>
+                      <section detail="(b)(11)(A)" number="7402"></section>
+                      <section detail="note" number="7406"></section>
+                      <section detail="(a)(2)" number="7451"></section>
+                      <section number="8127"></section>
+                      <section detail="(f)(2)" number="8127"></section>
+                      <section detail="(h)" number="8127"></section>
+                      <chapter number="13"></chapter>
+                      <chapter number="17"></chapter>
+                      <chapter number="33"></chapter>
+                      <chapter number="76"></chapter>
+                </USCode>
+ <USCode title="41">
+                      <section number="133"></section>
+                </USCode>
+ <statuteAtLarge volume="115">
+                      <pages pages="2459"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

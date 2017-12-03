@@ -1,0 +1,262 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18b750ad7">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To reauthorize the Export-Import Bank of the United States, and for other purposes.;Promoting U.S. Jobs Through Exports Act of 2015;H.R. 1031 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-03-04</dateIngested>
+</extension>
+<titleInfo>
+ <title>To reauthorize the Export-Import Bank of the United States, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Promoting U.S. Jobs Through Exports Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 1031 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-02-24</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>28 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18b750ad7</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1031ih</identifier>
+<identifier type="preferred citation">H.R. 1031</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h1031_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1031ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1031ih/html/BILLS-114hr1031ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1031ih/pdf/BILLS-114hr1031ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1031ih/xml/BILLS-114hr1031ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-03-04</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-13</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr1031ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Maxine Waters</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Denny Heck</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gwen Moore</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Steny H. Hoyer</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Financial Services</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 12 Section 635a-5</partNumber>
+  <partNumber>Title 12 Section 635a-6(b)</partNumber>
+  <partNumber>Title 12 Section 635a</partNumber>
+  <partNumber>Title 12 Section 635a(d)</partNumber>
+  <partNumber>Title 12 Section 635a(j)</partNumber>
+  <partNumber>Title 12 Section 635</partNumber>
+  <partNumber>Title 12 Section 635(b)(1)(E)</partNumber>
+  <partNumber>Title 12 Section 635(b)(1)(E)(i)</partNumber>
+  <partNumber>Title 12 Section 635(b)(1)(F)</partNumber>
+  <partNumber>Title 12 Section 635(b)(9)(B)(iii)</partNumber>
+  <partNumber>Title 12 Section 635(c)(2)</partNumber>
+  <partNumber>Title 12 Section 635et seq.</partNumber>
+  <partNumber>Title 12 Section 635note</partNumber>
+  <partNumber>Title 12 Section 635e(a)(2)</partNumber>
+  <partNumber>Title 12 Section 635f</partNumber>
+  <partNumber>Title 12 Section 635g</partNumber>
+  <partNumber>Title 12 Section 635i-5</partNumber>
+</titleInfo>
+ <identifier type="USC citation">12 U.S.C. 635a-5</identifier>
+ <identifier type="USC citation">12 U.S.C. 635a-6(b)</identifier>
+ <identifier type="USC citation">12 U.S.C. 635a</identifier>
+ <identifier type="USC citation">12 U.S.C. 635a(d)</identifier>
+ <identifier type="USC citation">12 U.S.C. 635a(j)</identifier>
+ <identifier type="USC citation">12 U.S.C. 635</identifier>
+ <identifier type="USC citation">12 U.S.C. 635(b)(1)(E)</identifier>
+ <identifier type="USC citation">12 U.S.C. 635(b)(1)(E)(i)</identifier>
+ <identifier type="USC citation">12 U.S.C. 635(b)(1)(F)</identifier>
+ <identifier type="USC citation">12 U.S.C. 635(b)(9)(B)(iii)</identifier>
+ <identifier type="USC citation">12 U.S.C. 635(c)(2)</identifier>
+ <identifier type="USC citation">12 U.S.C. 635et seq.</identifier>
+ <identifier type="USC citation">12 U.S.C. 635note</identifier>
+ <identifier type="USC citation">12 U.S.C. 635e(a)(2)</identifier>
+ <identifier type="USC citation">12 U.S.C. 635f</identifier>
+ <identifier type="USC citation">12 U.S.C. 635g</identifier>
+ <identifier type="USC citation">12 U.S.C. 635i-5</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Section 1001</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. 1001</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 19 Section 3511(d)(12)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">19 U.S.C. 3511(d)(12)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 108 Page 4376</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">108 Stat. 4376</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 103-428</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 103-428</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr1031ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>1031</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Promoting U.S. Jobs Through Exports Act of 2015</shortTitle>
+ <officialTitle>To reauthorize the Export-Import Bank of the United States, and for other purposes.</officialTitle>
+ <action date="2015-02-24">Ms. Maxine Waters of California (for herself, Mr. Heck of Washington, Ms. Moore, and Mr. Hoyer) introduced the following bill; which was referred to the Committee on Financial Services</action>
+ <congCommittee authorityId="hsba00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Financial Services</name>
+                      <name type="authority-short">Financial Services</name>
+                </congCommittee>
+ <congMember authorityId="1205" bioGuideId="W000187" chamber="H" congress="114" gpoId="7840" party="D" role="SPONSOR" state="CA">
+                      <name type="parsed">Ms. Maxine Waters of California</name>
+                      <name type="authority-fnf">Maxine Waters</name>
+                      <name type="authority-lnf">Waters, Maxine</name>
+                </congMember>
+ <congMember authorityId="2170" bioGuideId="H001064" chamber="H" congress="114" party="D" role="COSPONSOR" state="WA">
+                      <name type="parsed">Mr. Heck of Washington</name>
+                      <name type="authority-fnf">Denny Heck</name>
+                      <name type="authority-lnf">Heck, Denny</name>
+                </congMember>
+ <congMember authorityId="1811" bioGuideId="M001160" chamber="H" congress="114" gpoId="8217" party="D" role="COSPONSOR" state="WI">
+                      <name type="parsed">Ms. Moore</name>
+                      <name type="authority-fnf">Gwen Moore</name>
+                      <name type="authority-lnf">Moore, Gwen</name>
+                </congMember>
+ <congMember authorityId="566" bioGuideId="H000874" chamber="H" congress="114" gpoId="7980" party="D" role="COSPONSOR" state="MD">
+                      <name type="parsed">Mr. Hoyer</name>
+                      <name type="authority-fnf">Steny H. Hoyer</name>
+                      <name type="authority-lnf">Hoyer, Steny H.</name>
+                      <name type="authority-other">Steny Hoyer</name>
+                </congMember>
+ <law congress="103" isPrivate="false" number="428"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="12">
+                      <section number="635a-5"></section>
+                      <section detail="(b)" number="635a-6"></section>
+                      <section number="635a"></section>
+                      <section detail="(d)" number="635a"></section>
+                      <section detail="(j)" number="635a"></section>
+                      <section number="635"></section>
+                      <section detail="(b)(1)(E)" number="635"></section>
+                      <section detail="(b)(1)(E)(i)" number="635"></section>
+                      <section detail="(b)(1)(F)" number="635"></section>
+                      <section detail="(b)(9)(B)(iii)" number="635"></section>
+                      <section detail="(c)(2)" number="635"></section>
+                      <section detail="et seq." number="635"></section>
+                      <section detail="note" number="635"></section>
+                      <section detail="(a)(2)" number="635e"></section>
+                      <section number="635f"></section>
+                      <section number="635g"></section>
+                      <section number="635i-5"></section>
+                </USCode>
+ <USCode title="18">
+                      <section number="1001"></section>
+                </USCode>
+ <USCode title="19">
+                      <section detail="(d)(12)" number="3511"></section>
+                </USCode>
+ <statuteAtLarge volume="108">
+                      <pages pages="4376"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

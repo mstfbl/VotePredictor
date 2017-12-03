@@ -1,0 +1,220 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18c14731b">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Homeland Security Act of 2002 to enhance multi-directional sharing of information related to cybersecurity risks and strengthen privacy and civil liberties protections, and for other purposes.;National Cybersecurity Protection Advancement Act of 2015;H.R. 1731 (RH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-04-18</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Homeland Security Act of 2002 to enhance multi-directional sharing of information related to cybersecurity risks and strengthen privacy and civil liberties protections, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>National Cybersecurity Protection Advancement Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 1731 (RH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-04-17</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>60 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18c14731b</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1731rh</identifier>
+<identifier type="preferred citation">H.R. 1731</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h1731_rh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1731rh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1731rh/html/BILLS-114hr1731rh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1731rh/pdf/BILLS-114hr1731rh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1731rh/xml/BILLS-114hr1731rh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-04-18</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-12</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr1731rh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Michael T. McCaul</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Ratcliffe</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Homeland Security</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 2302(b)(8)</partNumber>
+  <partNumber>Title 5 Section 552a</partNumber>
+  <partNumber>Title 5 Section 552</partNumber>
+  <partNumber>Title 5 Section 7211</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 2302(b)(8)</identifier>
+ <identifier type="USC citation">5 U.S.C. 552a</identifier>
+ <identifier type="USC citation">5 U.S.C. 552</identifier>
+ <identifier type="USC citation">5 U.S.C. 7211</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 6 Section 113</partNumber>
+  <partNumber>Title 6 Section 131</partNumber>
+  <partNumber>Title 6 Section 141et seq.</partNumber>
+  <partNumber>Title 6 Section 148</partNumber>
+  <partNumber>Title 6 Section 149</partNumber>
+  <partNumber>Title 6 Section 181et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">6 U.S.C. 113</identifier>
+ <identifier type="USC citation">6 U.S.C. 131</identifier>
+ <identifier type="USC citation">6 U.S.C. 141et seq.</identifier>
+ <identifier type="USC citation">6 U.S.C. 148</identifier>
+ <identifier type="USC citation">6 U.S.C. 149</identifier>
+ <identifier type="USC citation">6 U.S.C. 181et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 1034</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 1034</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 2000ee</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 2000ee</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 50 Section 3234</partNumber>
+</titleInfo>
+ <identifier type="USC citation">50 U.S.C. 3234</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Union Calendar No. 61</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr1731rh</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>1731</billNumber>
+ <billVersion reprint="false">rh</billVersion>
+ <fileSuffix>rh</fileSuffix>
+ <shortTitle type="measure">National Cybersecurity Protection Advancement Act of 2015</shortTitle>
+ <officialTitle>To amend the Homeland Security Act of 2002 to enhance multi-directional sharing of information related to cybersecurity risks and strengthen privacy and civil liberties protections, and for other purposes.</officialTitle>
+ <action date="2015-04-13">Mr. McCaul (for himself and Mr. Ratcliffe) introduced the following bill; which was referred to the Committee on Homeland Security</action>
+ <action date="2015-04-17">Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action>
+ <congCommittee authorityId="hshm00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Homeland Security</name>
+                      <name type="authority-short">Homeland Security</name>
+                </congCommittee>
+ <congMember authorityId="1804" bioGuideId="M001157" chamber="H" congress="114" gpoId="8166" party="R" role="SPONSOR" state="TX">
+                      <name type="parsed">Mr. McCaul</name>
+                      <name type="authority-fnf">Michael T. McCaul</name>
+                      <name type="authority-lnf">McCaul, Michael T.</name>
+                      <name type="authority-other">Mr. Michael Mccaul</name>
+                </congMember>
+ <congMember authorityId="2268" bioGuideId="R000601" chamber="H" congress="114" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Ratcliffe</name>
+                      <name type="authority-fnf">John Ratcliffe</name>
+                      <name type="authority-lnf">Ratcliffe, John</name>
+                </congMember>
+ <congCalendar congress="114" number="61" type="UNION"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section detail="(b)(8)" number="2302"></section>
+                      <section number="552a"></section>
+                      <section number="552"></section>
+                      <section number="7211"></section>
+                </USCode>
+ <USCode title="6">
+                      <section number="113"></section>
+                      <section number="131"></section>
+                      <section detail="et seq." number="141"></section>
+                      <section number="148"></section>
+                      <section number="149"></section>
+                      <section detail="et seq." number="181"></section>
+                </USCode>
+ <USCode title="10">
+                      <section number="1034"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="2000ee"></section>
+                </USCode>
+ <USCode title="50">
+                      <section number="3234"></section>
+                </USCode>
+</extension>
+</mods>

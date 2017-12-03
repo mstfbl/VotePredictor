@@ -1,0 +1,271 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18e140d2c">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To ensure equal access for HUBZone designations to all tax-paying small business owners.;HUBZone Equity Act;H.R. 4156 (IH)</searchTitle>
+ <starprintNumber>1</starprintNumber>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-12-10</dateIngested>
+</extension>
+<titleInfo>
+ <title>To ensure equal access for HUBZone designations to all tax-paying small business owners.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>HUBZone Equity Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 4156 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-12-02</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>2 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18e140d2c</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4156ih</identifier>
+<identifier type="preferred citation">H.R. 4156</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h4156_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4156ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4156ih/html/BILLS-114hr4156ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4156ih/pdf/BILLS-114hr4156ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4156ih/xml/BILLS-114hr4156ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-12-10</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr4156ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Tony Cardenas</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Keith Ellison</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Juan Vargas</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Yvette D. Clarke</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Grace Meng</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Pocan</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Takano</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jared Polis</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Norma J. Torres</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Andre Carson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Alan S. Lowenthal</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Small Business</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 632(p)(3)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 632(p)(3)</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr4156ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>4156</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">HUBZone Equity Act</shortTitle>
+ <officialTitle>To ensure equal access for HUBZone designations to all tax-paying small business owners.</officialTitle>
+ <action date="2015-12-02">Mr. Cárdenas (for himself, Mr. Ellison, Mr. Vargas, Ms. Clarke of New York, Ms. Meng, Mr. Pocan, Mr. Takano, Mr. Polis, Mrs. Torres, Mr. Carson of Indiana, and Mr. Lowenthal) introduced the following bill; which was referred to the Committee on Small Business</action>
+ <congCommittee authorityId="hssm00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Small Business</name>
+                      <name type="authority-short">Small Business</name>
+                </congCommittee>
+ <congMember authorityId="2107" bioGuideId="C001097" chamber="H" congress="114" party="D" role="SPONSOR" state="CA">
+                      <name type="parsed">Mr. Cárdenas</name>
+                      <name type="authority-fnf">Tony Cardenas</name>
+                      <name type="authority-lnf">Cardenas, Tony</name>
+                </congMember>
+ <congMember authorityId="1857" bioGuideId="E000288" chamber="H" congress="114" gpoId="8005" party="D" role="COSPONSOR" state="MN">
+                      <name type="parsed">Mr. Ellison</name>
+                      <name type="authority-fnf">Keith Ellison</name>
+                      <name type="authority-lnf">Ellison, Keith</name>
+                </congMember>
+ <congMember authorityId="2112" bioGuideId="V000130" chamber="H" congress="114" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Vargas</name>
+                      <name type="authority-fnf">Juan Vargas</name>
+                      <name type="authority-lnf">Vargas, Juan</name>
+                </congMember>
+ <congMember authorityId="1864" bioGuideId="C001067" chamber="H" congress="114" gpoId="8072" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Ms. Clarke of New York</name>
+                      <name type="authority-fnf">Yvette D. Clarke</name>
+                      <name type="authority-lnf">Clarke, Yvette D.</name>
+                      <name type="authority-other">Ms. Yvette Clarke</name>
+                </congMember>
+ <congMember authorityId="2148" bioGuideId="M001188" chamber="H" congress="114" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Ms. Meng</name>
+                      <name type="authority-fnf">Grace Meng</name>
+                      <name type="authority-lnf">Meng, Grace</name>
+                </congMember>
+ <congMember authorityId="2171" bioGuideId="P000607" chamber="H" congress="114" party="D" role="COSPONSOR" state="WI">
+                      <name type="parsed">Mr. Pocan</name>
+                      <name type="authority-fnf">Mark Pocan</name>
+                      <name type="authority-lnf">Pocan, Mark</name>
+                </congMember>
+ <congMember authorityId="2110" bioGuideId="T000472" chamber="H" congress="114" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Takano</name>
+                      <name type="authority-fnf">Mark Takano</name>
+                      <name type="authority-lnf">Takano, Mark</name>
+                </congMember>
+ <congMember authorityId="1910" bioGuideId="P000598" chamber="H" congress="114" gpoId="7860" party="D" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Polis</name>
+                      <name type="authority-fnf">Jared Polis</name>
+                      <name type="authority-lnf">Polis, Jared</name>
+                </congMember>
+ <congMember authorityId="2231" bioGuideId="T000474" chamber="H" congress="114" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mrs. Torres</name>
+                      <name type="authority-fnf">Norma J. Torres</name>
+                      <name type="authority-lnf">Torres, Norma J.</name>
+                      <name type="authority-other">Mrs. Norma Torres</name>
+                </congMember>
+ <congMember authorityId="1889" bioGuideId="C001072" chamber="H" congress="114" gpoId="7946" party="D" role="COSPONSOR" state="IN">
+                      <name type="parsed">Mr. Carson of Indiana</name>
+                      <name type="authority-fnf">Andre Carson</name>
+                      <name type="authority-lnf">Carson, Andre</name>
+                </congMember>
+ <congMember authorityId="2111" bioGuideId="L000579" chamber="H" congress="114" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Lowenthal</name>
+                      <name type="authority-fnf">Alan S. Lowenthal</name>
+                      <name type="authority-lnf">Lowenthal, Alan S.</name>
+                      <name type="authority-other">Mr. Alan Lowenthal</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="15">
+                      <section detail="(p)(3)" number="632"></section>
+                </USCode>
+</extension>
+</mods>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-05-23</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2013-05-23</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2013-05-23</introducedDate>
+    <updateDate>2016-10-25T16:24:50Z</updateDate>
+    <createDate>2013-05-24T07:01:35Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sshr00</systemCode>
+          <activities>
+            <item>
+              <date>2013-05-23T20:44:16Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <state>TN</state>
+        <bioguideId>A000360</bioguideId>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <identifiers>
+          <lisID>1695</lisID>
+          <gpoId>8304</gpoId>
+          <bioguideId>A000360</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <firstName>Lamar</firstName>
+        <lastName>Alexander</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MD</state>
+        <bioguideId>M000702</bioguideId>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <identifiers>
+          <lisID>802</lisID>
+          <gpoId>8240</gpoId>
+          <bioguideId>M000702</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Mikulski, Barbara A. [D-MD]</fullName>
+        <firstName>BARBARA</firstName>
+        <lastName>MIKULSKI</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>ANN</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>IL</state>
+        <bioguideId>K000360</bioguideId>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <identifiers>
+          <lisID>1647</lisID>
+          <gpoId>8285</gpoId>
+          <bioguideId>K000360</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Kirk, Mark Steven [R-IL]</fullName>
+        <firstName>MARK</firstName>
+        <lastName>KIRK</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>STEVEN</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MN</state>
+        <bioguideId>K000367</bioguideId>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+        <lastName>Klobuchar</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>LA</state>
+        <bioguideId>L000550</bioguideId>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <identifiers>
+          <gpoId>8251</gpoId>
+          <lisID>1546</lisID>
+          <bioguideId>L000550</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Landrieu, Mary L. [D-LA]</fullName>
+        <firstName>MARY</firstName>
+        <lastName>LANDRIEU</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>GREAT Teachers and Principals Act</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>GREAT Teachers and Principals Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Growing Education Achievement Training Academies for Teachers and Principals Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to create and expand innovative teacher and principal preparation programs known as teacher and principal preparation academies.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>GREAT Teachers and Principals Act</title>
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Growing Education Achievement Training Academies for Teachers and Principals Act or the GREAT Teachers and Principals Act - Authorizes the Secretary of Education to award grants to states to: (1) create or approve teacher or principal preparation academies and create or designate authorizers of those academies; (2) support the creation and operation of such academies; and (3) award subgrants to nonprofit entities to establish or expand such academies, measure their effectiveness, or recruit enrollees who have demonstrated strong potential to be effective teachers or principals.</p> <p>Requires each academy to enter into a charter with an authorizer that specifies the goals and outcomes expected of the academy and the obligations of the authorizer. Prohibits authorizers from renewing an academy's charter if it fails to produce the minimum number or percentage of effective teachers or principals specified in its charter.</p> <p>Requires each academy to provide: (1) enrollees with a significant portion of their training through clinical preparation that partners them with successful teacher or principal mentors, and (2) certificates of completion only to graduates who demonstrate a track record of success in preparing students for college and careers.</p> <p>Requires state grantees to recognize a certificate of completion from an academy as at least the equivalent of a master's degree in education for the purposes of teacher or principal hiring, retention, compensation, and promotion in the state.</p> <p>Directs the Secretary to enter into an interagency agreement with the Corporation for National and Community Service under which the Corporation approves national service positions for candidates at each teacher or principal preparation academy receiving financial assistance under this Act.</p>]]></text>
+          <lastSummaryUpdateDate>2013-06-10T15:43:39Z</lastSummaryUpdateDate>
+          <updateDate>2013-05-23T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2013-05-23</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2013-07-08</actionDate>
+          <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>GREAT Teachers and Principals Act</latestTitle>
+        <number>2196</number>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>National and community service</name>
+          </item>
+          <item>
+            <name>School administration</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Teaching, teachers, curricula</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2013-05-23</actionDate>
+    </latestAction>
+    <billNumber>1052</billNumber>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Michael</firstName>
+        <party>D</party>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <bioguideId>B001267</bioguideId>
+        <identifiers>
+          <gpoId>8302</gpoId>
+          <lisID>1965</lisID>
+          <bioguideId>B001267</bioguideId>
+        </identifiers>
+        <lastName>Bennet</lastName>
+        <middleName>F.</middleName>
+        <state>CO</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

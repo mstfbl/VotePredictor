@@ -1,0 +1,396 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18c80054b">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend securities, commodities, and banking laws to make the information reported to financial regulatory agencies electronically searchable, and for other purposes.;Financial Transparency Act of 2015;H.R. 2477 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-05-28</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend securities, commodities, and banking laws to make the information reported to financial regulatory agencies electronically searchable, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Financial Transparency Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2477 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-05-20</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>48 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18c80054b</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2477ih</identifier>
+<identifier type="preferred citation">H.R. 2477</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2477_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2477ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2477ih/html/BILLS-114hr2477ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2477ih/pdf/BILLS-114hr2477ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2477ih/xml/BILLS-114hr2477ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-05-28</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-12</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr2477ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Darrell E. Issa</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Patrick T. McHenry</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Randy Hultgren</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Rod Blum</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David Schweikert</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ralph Lee Abraham</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jared Polis</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mike Quigley</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Carolyn B. Maloney</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Keith Ellison</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John K. Delaney</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Edward R. Royce</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Agriculture</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Financial Services</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 552a</partNumber>
+  <partNumber>Title 5 Section 552</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 552a</identifier>
+ <identifier type="USC citation">5 U.S.C. 552</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 7 Section 1et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">7 U.S.C. 1et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 12 Section 1467a</partNumber>
+  <partNumber>Title 12 Section 14</partNumber>
+  <partNumber>Title 12 Section 1752et seq.</partNumber>
+  <partNumber>Title 12 Section 1811et seq.</partNumber>
+  <partNumber>Title 12 Section 1844</partNumber>
+  <partNumber>Title 12 Section 226et seq.</partNumber>
+  <partNumber>Title 12 Section 4501et seq.</partNumber>
+  <partNumber>Title 12 Section 5343</partNumber>
+  <partNumber>Title 12 Section 5361(a)</partNumber>
+  <partNumber>Title 12 Section 5381(a)</partNumber>
+  <partNumber>Title 12 Section 5468</partNumber>
+  <partNumber>Title 12 Section 5481et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">12 U.S.C. 1467a</identifier>
+ <identifier type="USC citation">12 U.S.C. 14</identifier>
+ <identifier type="USC citation">12 U.S.C. 1752et seq.</identifier>
+ <identifier type="USC citation">12 U.S.C. 1811et seq.</identifier>
+ <identifier type="USC citation">12 U.S.C. 1844</identifier>
+ <identifier type="USC citation">12 U.S.C. 226et seq.</identifier>
+ <identifier type="USC citation">12 U.S.C. 4501et seq.</identifier>
+ <identifier type="USC citation">12 U.S.C. 5343</identifier>
+ <identifier type="USC citation">12 U.S.C. 5361(a)</identifier>
+ <identifier type="USC citation">12 U.S.C. 5381(a)</identifier>
+ <identifier type="USC citation">12 U.S.C. 5468</identifier>
+ <identifier type="USC citation">12 U.S.C. 5481et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 77g</partNumber>
+  <partNumber>Title 15 Section 77g(c)</partNumber>
+  <partNumber>Title 15 Section 78d</partNumber>
+  <partNumber>Title 15 Section 78m</partNumber>
+  <partNumber>Title 15 Section 78n</partNumber>
+  <partNumber>Title 15 Section 78o-10</partNumber>
+  <partNumber>Title 15 Section 78o-3</partNumber>
+  <partNumber>Title 15 Section 78o-4(b)</partNumber>
+  <partNumber>Title 15 Section 78o-7</partNumber>
+  <partNumber>Title 15 Section 80a-1et seq.</partNumber>
+  <partNumber>Title 15 Section 80b-4</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 77g</identifier>
+ <identifier type="USC citation">15 U.S.C. 77g(c)</identifier>
+ <identifier type="USC citation">15 U.S.C. 78d</identifier>
+ <identifier type="USC citation">15 U.S.C. 78m</identifier>
+ <identifier type="USC citation">15 U.S.C. 78n</identifier>
+ <identifier type="USC citation">15 U.S.C. 78o-10</identifier>
+ <identifier type="USC citation">15 U.S.C. 78o-3</identifier>
+ <identifier type="USC citation">15 U.S.C. 78o-4(b)</identifier>
+ <identifier type="USC citation">15 U.S.C. 78o-7</identifier>
+ <identifier type="USC citation">15 U.S.C. 80a-1et seq.</identifier>
+ <identifier type="USC citation">15 U.S.C. 80b-4</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr2477ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>2477</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Financial Transparency Act of 2015</shortTitle>
+ <officialTitle>To amend securities, commodities, and banking laws to make the information reported to financial regulatory agencies electronically searchable, and for other purposes.</officialTitle>
+ <action date="2015-05-20">Mr. Issa (for himself, Mr. McHenry, Mr. Hultgren, Mr. Blum, Mr. Schweikert, Mr. Abraham, Mr. Polis, Mr. Quigley, Mrs. Carolyn B. Maloney of New York, Mr. Ellison, Mr. Delaney, and Mr. Royce) introduced the following bill; which was referred to the Committee on Financial Services, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <congCommittee authorityId="hsag00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Agriculture</name>
+                      <name type="authority-short">Agriculture</name>
+                </congCommittee>
+ <congCommittee authorityId="hsba00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Financial Services</name>
+                      <name type="authority-short">Financial Services</name>
+                </congCommittee>
+ <congMember authorityId="1640" bioGuideId="I000056" chamber="H" congress="114" gpoId="7854" party="R" role="SPONSOR" state="CA">
+                      <name type="parsed">Mr. Issa</name>
+                      <name type="authority-fnf">Darrell E. Issa</name>
+                      <name type="authority-lnf">Issa, Darrell E.</name>
+                      <name type="authority-other">Darrell Issa</name>
+                </congMember>
+ <congMember authorityId="1792" bioGuideId="M001156" chamber="H" congress="114" gpoId="8033" party="R" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. McHenry</name>
+                      <name type="authority-fnf">Patrick T. McHenry</name>
+                      <name type="authority-lnf">McHenry, Patrick T.</name>
+                      <name type="authority-other">Mr. Patrick Mchenry</name>
+                </congMember>
+ <congMember authorityId="2015" bioGuideId="H001059" chamber="H" congress="114" gpoId="7934" party="R" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Hultgren</name>
+                      <name type="authority-fnf">Randy Hultgren</name>
+                      <name type="authority-lnf">Hultgren, Randy</name>
+                </congMember>
+ <congMember authorityId="2241" bioGuideId="B001294" chamber="H" congress="114" party="R" role="COSPONSOR" state="IA">
+                      <name type="parsed">Mr. Blum</name>
+                      <name type="authority-fnf">Rod Blum</name>
+                      <name type="authority-lnf">Blum, Rod</name>
+                </congMember>
+ <congMember authorityId="1994" bioGuideId="S001183" chamber="H" congress="114" gpoId="7802" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Schweikert</name>
+                      <name type="authority-fnf">David Schweikert</name>
+                      <name type="authority-lnf">Schweikert, David</name>
+                </congMember>
+ <congMember authorityId="2244" bioGuideId="A000374" chamber="H" congress="114" party="R" role="COSPONSOR" state="LA">
+                      <name type="parsed">Mr. Abraham</name>
+                      <name type="authority-fnf">Ralph Lee Abraham</name>
+                      <name type="authority-lnf">Abraham, Ralph Lee</name>
+                      <name type="authority-other">Mr. Ralph Abraham</name>
+                </congMember>
+ <congMember authorityId="1910" bioGuideId="P000598" chamber="H" congress="114" gpoId="7860" party="D" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Polis</name>
+                      <name type="authority-fnf">Jared Polis</name>
+                      <name type="authority-lnf">Polis, Jared</name>
+                </congMember>
+ <congMember authorityId="1967" bioGuideId="Q000023" chamber="H" congress="114" gpoId="7925" party="D" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Quigley</name>
+                      <name type="authority-fnf">Mike Quigley</name>
+                      <name type="authority-lnf">Quigley, Mike</name>
+                </congMember>
+ <congMember authorityId="729" bioGuideId="M000087" chamber="H" congress="114" gpoId="8075" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mrs. Carolyn B. Maloney of New York</name>
+                      <name type="authority-fnf">Carolyn B. Maloney</name>
+                      <name type="authority-lnf">Maloney, Carolyn B.</name>
+                      <name type="authority-other">Carolyn Maloney</name>
+                </congMember>
+ <congMember authorityId="1857" bioGuideId="E000288" chamber="H" congress="114" gpoId="8005" party="D" role="COSPONSOR" state="MN">
+                      <name type="parsed">Mr. Ellison</name>
+                      <name type="authority-fnf">Keith Ellison</name>
+                      <name type="authority-lnf">Ellison, Keith</name>
+                </congMember>
+ <congMember authorityId="2133" bioGuideId="D000620" chamber="H" congress="114" party="D" role="COSPONSOR" state="MD">
+                      <name type="parsed">Mr. Delaney</name>
+                      <name type="authority-fnf">John K. Delaney</name>
+                      <name type="authority-lnf">Delaney, John K.</name>
+                      <name type="authority-other">Mr. John Delaney</name>
+                </congMember>
+ <congMember authorityId="998" bioGuideId="R000487" chamber="H" congress="114" gpoId="7845" party="R" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Royce</name>
+                      <name type="authority-fnf">Edward R. Royce</name>
+                      <name type="authority-lnf">Royce, Edward R.</name>
+                      <name type="authority-other">Ed Royce</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="552a"></section>
+                      <section number="552"></section>
+                </USCode>
+ <USCode title="7">
+                      <section detail="et seq." number="1"></section>
+                </USCode>
+ <USCode title="12">
+                      <section number="1467a"></section>
+                      <section number="14"></section>
+                      <section detail="et seq." number="1752"></section>
+                      <section detail="et seq." number="1811"></section>
+                      <section number="1844"></section>
+                      <section detail="et seq." number="226"></section>
+                      <section detail="et seq." number="4501"></section>
+                      <section number="5343"></section>
+                      <section detail="(a)" number="5361"></section>
+                      <section detail="(a)" number="5381"></section>
+                      <section number="5468"></section>
+                      <section detail="et seq." number="5481"></section>
+                </USCode>
+ <USCode title="15">
+                      <section number="77g"></section>
+                      <section detail="(c)" number="77g"></section>
+                      <section number="78d"></section>
+                      <section number="78m"></section>
+                      <section number="78n"></section>
+                      <section number="78o-10"></section>
+                      <section number="78o-3"></section>
+                      <section detail="(b)" number="78o-4"></section>
+                      <section number="78o-7"></section>
+                      <section detail="et seq." number="80a-1"></section>
+                      <section number="80b-4"></section>
+                </USCode>
+</extension>
+</mods>

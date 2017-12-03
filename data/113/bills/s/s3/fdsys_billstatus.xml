@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-01-22</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S44</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S44</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S44)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-01-22</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-01-22</introducedDate>
+    <updateDate>2016-10-25T16:19:42Z</updateDate>
+    <createDate>2013-01-23T10:00:53Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sshr00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <activities>
+            <item>
+              <date>2013-01-22T20:22:08Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>H000206</bioguideId>
+        <state>IA</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <middleName>RICHARD</middleName>
+        <firstName>THOMAS</firstName>
+        <party>D</party>
+        <fullName>Sen. Harkin, Tom [D-IA]</fullName>
+        <lastName>HARKIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>501</lisID>
+          <bioguideId>H000206</bioguideId>
+          <gpoId>8317</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>D000563</bioguideId>
+        <state>IL</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <middleName>J.</middleName>
+        <firstName>RICHARD</firstName>
+        <party>D</party>
+        <fullName>Sen. Durbin, Richard [D-IL]</fullName>
+        <lastName>DURBIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>326</lisID>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M001111</bioguideId>
+        <state>WA</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <middleName />
+        <firstName>PATTY</firstName>
+        <party>D</party>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <lastName>MURRAY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1409</lisID>
+          <bioguideId>M001111</bioguideId>
+          <gpoId>8237</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M000702</bioguideId>
+        <state>MD</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <middleName>ANN</middleName>
+        <firstName>BARBARA</firstName>
+        <party>D</party>
+        <fullName>Sen. Mikulski, Barbara A. [D-MD]</fullName>
+        <lastName>MIKULSKI</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>802</lisID>
+          <bioguideId>M000702</bioguideId>
+          <gpoId>8240</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>L000174</bioguideId>
+        <state>VT</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <middleName>JOSEPH</middleName>
+        <firstName>PATRICK</firstName>
+        <party>D</party>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <lastName>LEAHY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1383</lisID>
+          <bioguideId>L000174</bioguideId>
+          <gpoId>8244</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C000141</bioguideId>
+        <state>MD</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <middleName>L.</middleName>
+        <firstName>BENJAMIN</firstName>
+        <party>D</party>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <lastName>CARDIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>L000123</bioguideId>
+        <state>NJ</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <middleName>R.</middleName>
+        <firstName>FRANK</firstName>
+        <party>D</party>
+        <fullName>Sen. Lautenberg, Frank R. [D-NJ]</fullName>
+        <lastName>LAUTENBERG</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>L000123</bioguideId>
+          <gpoId>8245</gpoId>
+          <lisID>1381</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001088</bioguideId>
+        <state>DE</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <middleName>A.</middleName>
+        <firstName>Christopher</firstName>
+        <party>D</party>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <lastName>Coons</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000555</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <middleName>E.</middleName>
+        <firstName>Kirsten</firstName>
+        <party>D</party>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <lastName>Gillibrand</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B000944</bioguideId>
+        <state>OH</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <middleName />
+        <firstName>SHERROD</firstName>
+        <party>D</party>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <lastName>BROWN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+          <bioguideId>B000944</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>H001042</bioguideId>
+        <state>HI</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <middleName>K.</middleName>
+        <firstName>Mazie</firstName>
+        <party>D</party>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <lastName>Hirono</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1844</lisID>
+          <gpoId>7913</gpoId>
+          <bioguideId>H001042</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S001194</bioguideId>
+        <state>HI</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <middleName />
+        <firstName>Brian</firstName>
+        <party>D</party>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <lastName>Schatz</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2173</lisID>
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S000033</bioguideId>
+        <state>VT</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <middleName />
+        <firstName>BERNARD</firstName>
+        <party>I</party>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <lastName>SANDERS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S000033</bioguideId>
+          <lisID>1010</lisID>
+          <gpoId>8270</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M000639</bioguideId>
+        <state>NJ</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <middleName />
+        <firstName>ROBERT</firstName>
+        <party>D</party>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <lastName>MENENDEZ</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C000127</bioguideId>
+        <state>WA</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <middleName />
+        <firstName>MARIA</firstName>
+        <party>D</party>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <lastName>CANTWELL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>172</lisID>
+          <gpoId>8288</gpoId>
+          <bioguideId>C000127</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>L000261</bioguideId>
+        <state>MI</state>
+        <sponsorshipDate>2013-01-22</sponsorshipDate>
+        <middleName>MILTON</middleName>
+        <firstName>CARL</firstName>
+        <party>D</party>
+        <fullName>Sen. Levin, Carl [D-MI]</fullName>
+        <lastName>LEVIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1384</lisID>
+          <gpoId>8243</gpoId>
+          <bioguideId>L000261</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Strengthen our Schools and Students Act</title>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Strengthen our Schools and Students Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to improve education and provide all students in the United States with the opportunity to succeed.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Strengthen our Schools and Students Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-02-06T20:21:29Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2013-01-22T05:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <actionDate>2013-01-22</actionDate>
+          <text><![CDATA[<p>Strengthen our Schools and Students Act - Expresses the sense of the Senate that Congress should: </p> <ul> <li> strengthen early learning programs to better prepare children for success in school; </li> <li> ensure that all students have equitable access to a high-quality, well-rounded education that prepares them to succeed in college and a career;</li> <li> continue efforts to make higher education more affordable and to improve access and success for all students; </li> <li> provide all teachers with the support they need to ensure student success, including by creating a national Science, Technology, Engineering, and Mathematics (STEM) Master Teacher Corps; and </li> <li> support states and local educational agencies to ensure that schools have safe and successful learning conditions. </li></ul>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Preschool education</name>
+          </item>
+          <item>
+            <name>Science and engineering education</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Teaching, teachers, curricula</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S44)</text>
+      <actionDate>2013-01-22</actionDate>
+    </latestAction>
+    <billNumber>3</billNumber>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>HARRY</firstName>
+        <party>D</party>
+        <fullName>Sen. Reid, Harry [D-NV]</fullName>
+        <bioguideId>R000146</bioguideId>
+        <identifiers>
+          <bioguideId>R000146</bioguideId>
+          <lisID>952</lisID>
+          <gpoId>8271</gpoId>
+        </identifiers>
+        <lastName>REID</lastName>
+        <middleName>M.</middleName>
+        <state>NV</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

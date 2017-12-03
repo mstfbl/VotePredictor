@@ -1,0 +1,186 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18da9c359">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To direct the Administrator of the Federal Emergency Management Agency to develop an integrated plan to reduce administrative costs under the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and for other purposes.;Directing Dollars to Disaster Relief Act of 2015;S. 2109 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-10-05</dateIngested>
+</extension>
+<titleInfo>
+ <title>To direct the Administrator of the Federal Emergency Management Agency to develop an integrated plan to reduce administrative costs under the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Directing Dollars to Disaster Relief Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 2109 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-09-30</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>6 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18da9c359</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s2109is</identifier>
+<identifier type="preferred citation">S. 2109</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s2109_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s2109is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2109is/html/BILLS-114s2109is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2109is/pdf/BILLS-114s2109is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2109is/xml/BILLS-114s2109is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-10-05</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s2109is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Ron Johnson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Homeland Security and Governmental Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 6 Section 741</partNumber>
+</titleInfo>
+ <identifier type="USC citation">6 U.S.C. 741</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 5121et seq.</partNumber>
+  <partNumber>Title 42 Section 5170b(a)(3)</partNumber>
+  <partNumber>Title 42 Section 5170c</partNumber>
+  <partNumber>Title 42 Section 5170</partNumber>
+  <partNumber>Title 42 Section 5172</partNumber>
+  <partNumber>Title 42 Section 5174</partNumber>
+  <partNumber>Title 42 Section 5177</partNumber>
+  <partNumber>Title 42 Section 5182</partNumber>
+  <partNumber>Title 42 Section 5183</partNumber>
+  <partNumber>Title 42 Section 5185</partNumber>
+  <partNumber>Title 42 Section 5186</partNumber>
+  <partNumber>Title 42 Section 5189d</partNumber>
+  <partNumber>Title 42 Section 5189f</partNumber>
+  <partNumber>Title 42 Section 5192(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 5121et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 5170b(a)(3)</identifier>
+ <identifier type="USC citation">42 U.S.C. 5170c</identifier>
+ <identifier type="USC citation">42 U.S.C. 5170</identifier>
+ <identifier type="USC citation">42 U.S.C. 5172</identifier>
+ <identifier type="USC citation">42 U.S.C. 5174</identifier>
+ <identifier type="USC citation">42 U.S.C. 5177</identifier>
+ <identifier type="USC citation">42 U.S.C. 5182</identifier>
+ <identifier type="USC citation">42 U.S.C. 5183</identifier>
+ <identifier type="USC citation">42 U.S.C. 5185</identifier>
+ <identifier type="USC citation">42 U.S.C. 5186</identifier>
+ <identifier type="USC citation">42 U.S.C. 5189d</identifier>
+ <identifier type="USC citation">42 U.S.C. 5189f</identifier>
+ <identifier type="USC citation">42 U.S.C. 5192(a)</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s2109is</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2109</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle type="measure">Directing Dollars to Disaster Relief Act of 2015</shortTitle>
+ <officialTitle>To direct the Administrator of the Federal Emergency Management Agency to develop an integrated plan to reduce administrative costs under the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and for other purposes.</officialTitle>
+ <action date="2015-09-30">Mr. Johnson introduced the following bill; which was read twice and referred to the Committee on Homeland Security and Governmental Affairs</action>
+ <congCommittee authorityId="ssga00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Homeland Security and Governmental Affairs</name>
+                      <name type="authority-short">Homeland and Governmental Affairs</name>
+                </congCommittee>
+ <congMember authorityId="2086" bioGuideId="J000293" chamber="S" congress="114" gpoId="8355" party="R" role="SPONSOR" state="WI">
+                      <name type="parsed">Mr. Johnson</name>
+                      <name type="authority-fnf">Ron Johnson</name>
+                      <name type="authority-lnf">Johnson, Ron</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="6">
+                      <section number="741"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="et seq." number="5121"></section>
+                      <section detail="(a)(3)" number="5170b"></section>
+                      <section number="5170c"></section>
+                      <section number="5170"></section>
+                      <section number="5172"></section>
+                      <section number="5174"></section>
+                      <section number="5177"></section>
+                      <section number="5182"></section>
+                      <section number="5183"></section>
+                      <section number="5185"></section>
+                      <section number="5186"></section>
+                      <section number="5189d"></section>
+                      <section number="5189f"></section>
+                      <section detail="(a)" number="5192"></section>
+                </USCode>
+</extension>
+</mods>

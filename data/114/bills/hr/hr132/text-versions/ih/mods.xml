@@ -1,0 +1,479 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18a913673">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To repeal the Patient Protection and Affordable Care Act and the Health Care and Education Reconciliation Act of 2010.;ObamaCare Repeal Act;H.R. 132 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-01-11</dateIngested>
+</extension>
+<titleInfo>
+ <title>To repeal the Patient Protection and Affordable Care Act and the Health Care and Education Reconciliation Act of 2010.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>ObamaCare Repeal Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 132 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-01-06</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>2 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18a913673</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr132ih</identifier>
+<identifier type="preferred citation">H.R. 132</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h132_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr132ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr132ih/html/BILLS-114hr132ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr132ih/pdf/BILLS-114hr132ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr132ih/xml/BILLS-114hr132ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-01-11</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-14</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr132ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Steve King</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Andy Barr</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gus M. Bilirakis</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jeff Duncan</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John J. Duncan, Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Trent Franks</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bob Gibbs</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tim Huelskamp</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Thomas Massie</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Meadows</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dan Newhouse</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Pete Olson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Keith J. Rothfus</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David Schweikert</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ted S. Yoho</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David Young</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robert B. Aderholt</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Randy K. Weber, Sr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Doug Collins</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Appropriations</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Education and the Workforce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on House Administration</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Energy and Commerce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Natural Resources</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on the Judiciary</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Rules</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Ways and Means</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-148</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-148</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-152</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-152</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr132ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>132</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">ObamaCare Repeal Act</shortTitle>
+ <officialTitle>To repeal the Patient Protection and Affordable Care Act and the Health Care and Education Reconciliation Act of 2010.</officialTitle>
+ <action date="2015-01-06">Mr. King of Iowa (for himself, Mr. Barr, Mr. Bilirakis, Mr. Duncan of South Carolina, Mr. Duncan of Tennessee, Mr. Franks of Arizona, Mr. Gibbs, Mr. Huelskamp, Mr. Massie, Mr. Meadows, Mr. Newhouse, Mr. Olson, Mr. Rothfus, Mr. Schweikert, Mr. Yoho, Mr. Young of Iowa, Mr. Aderholt, Mr. Weber of Texas, and Mr. Collins of Georgia) introduced the following bill; which was referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and the Workforce, the Judiciary, Natural Resources, House Administration, Rules, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <congCommittee authorityId="hsap00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Appropriations</name>
+                      <name type="authority-short">Appropriations</name>
+                </congCommittee>
+ <congCommittee authorityId="hsed00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Education and the Workforce</name>
+                      <name type="authority-short">Education and the Workforce</name>
+                </congCommittee>
+ <congCommittee authorityId="hsha00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on House Administration</name>
+                      <name type="authority-short">House Administration</name>
+                </congCommittee>
+ <congCommittee authorityId="hsif00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Energy and Commerce</name>
+                      <name type="authority-short">Energy and Commerce</name>
+                </congCommittee>
+ <congCommittee authorityId="hsii00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Natural Resources</name>
+                      <name type="authority-short">Natural Resources</name>
+                </congCommittee>
+ <congCommittee authorityId="hsju00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on the Judiciary</name>
+                      <name type="authority-short">Judiciary</name>
+                </congCommittee>
+ <congCommittee authorityId="hsru00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Rules</name>
+                      <name type="authority-short">Rules</name>
+                </congCommittee>
+ <congCommittee authorityId="hswm00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Ways and Means</name>
+                      <name type="authority-short">Ways and Means</name>
+                </congCommittee>
+ <congMember authorityId="1724" bioGuideId="K000362" chamber="H" congress="114" gpoId="7918" party="R" role="SPONSOR" state="IA">
+                      <name type="parsed">Mr. King of Iowa</name>
+                      <name type="authority-fnf">Steve King</name>
+                      <name type="authority-lnf">King, Steve</name>
+                </congMember>
+ <congMember authorityId="2131" bioGuideId="B001282" chamber="H" congress="114" party="R" role="COSPONSOR" state="KY">
+                      <name type="parsed">Mr. Barr</name>
+                      <name type="authority-fnf">Andy Barr</name>
+                      <name type="authority-lnf">Barr, Andy</name>
+                </congMember>
+ <congMember authorityId="1838" bioGuideId="B001257" chamber="H" congress="114" gpoId="7881" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Bilirakis</name>
+                      <name type="authority-fnf">Gus M. Bilirakis</name>
+                      <name type="authority-lnf">Bilirakis, Gus M.</name>
+                      <name type="authority-other">Mr. Gus Bilirakis</name>
+                </congMember>
+ <congMember authorityId="2057" bioGuideId="D000615" chamber="H" congress="114" gpoId="8143" party="R" role="COSPONSOR" state="SC">
+                      <name type="parsed">Mr. Duncan of South Carolina</name>
+                      <name type="authority-fnf">Jeff Duncan</name>
+                      <name type="authority-lnf">Duncan, Jeff</name>
+                </congMember>
+ <congMember authorityId="322" bioGuideId="D000533" chamber="H" congress="114" gpoId="8149" party="R" role="COSPONSOR" state="TN">
+                      <name type="parsed">Mr. Duncan of Tennessee</name>
+                      <name type="authority-fnf">John J. Duncan, Jr.</name>
+                      <name type="authority-lnf">Duncan, John J., Jr.</name>
+                      <name type="authority-other">John Duncan Jr.</name>
+                </congMember>
+ <congMember authorityId="1707" bioGuideId="F000448" chamber="H" congress="114" gpoId="7799" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Franks of Arizona</name>
+                      <name type="authority-fnf">Trent Franks</name>
+                      <name type="authority-lnf">Franks, Trent</name>
+                </congMember>
+ <congMember authorityId="2049" bioGuideId="G000563" chamber="H" congress="114" gpoId="8108" party="R" role="COSPONSOR" state="OH">
+                      <name type="parsed">Mr. Gibbs</name>
+                      <name type="authority-fnf">Bob Gibbs</name>
+                      <name type="authority-lnf">Gibbs, Bob</name>
+                </congMember>
+ <congMember authorityId="2020" bioGuideId="H001057" chamber="H" congress="114" gpoId="7949" party="R" role="COSPONSOR" state="KS">
+                      <name type="parsed">Mr. Huelskamp</name>
+                      <name type="authority-fnf">Tim Huelskamp</name>
+                      <name type="authority-lnf">Huelskamp, Tim</name>
+                </congMember>
+ <congMember authorityId="2094" bioGuideId="M001184" chamber="H" congress="114" gpoId="8371" party="R" role="COSPONSOR" state="KY">
+                      <name type="parsed">Mr. Massie</name>
+                      <name type="authority-fnf">Thomas Massie</name>
+                      <name type="authority-lnf">Massie, Thomas</name>
+                </congMember>
+ <congMember authorityId="2142" bioGuideId="M001187" chamber="H" congress="114" party="R" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. Meadows</name>
+                      <name type="authority-fnf">Mark Meadows</name>
+                      <name type="authority-lnf">Meadows, Mark</name>
+                </congMember>
+ <congMember authorityId="2275" bioGuideId="N000189" chamber="H" congress="114" party="R" role="COSPONSOR" state="WA">
+                      <name type="parsed">Mr. Newhouse</name>
+                      <name type="authority-fnf">Dan Newhouse</name>
+                      <name type="authority-lnf">Newhouse, Dan</name>
+                </congMember>
+ <congMember authorityId="1955" bioGuideId="O000168" chamber="H" congress="114" gpoId="8178" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Olson</name>
+                      <name type="authority-fnf">Pete Olson</name>
+                      <name type="authority-lnf">Olson, Pete</name>
+                </congMember>
+ <congMember authorityId="2158" bioGuideId="R000598" chamber="H" congress="114" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Rothfus</name>
+                      <name type="authority-fnf">Keith J. Rothfus</name>
+                      <name type="authority-lnf">Rothfus, Keith J.</name>
+                      <name type="authority-other">Mr. Keith Rothfus</name>
+                </congMember>
+ <congMember authorityId="1994" bioGuideId="S001183" chamber="H" congress="114" gpoId="7802" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Schweikert</name>
+                      <name type="authority-fnf">David Schweikert</name>
+                      <name type="authority-lnf">Schweikert, David</name>
+                </congMember>
+ <congMember authorityId="2115" bioGuideId="Y000065" chamber="H" congress="114" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Yoho</name>
+                      <name type="authority-fnf">Ted S. Yoho</name>
+                      <name type="authority-lnf">Yoho, Ted S.</name>
+                      <name type="authority-other">Mr. Ted Yoho</name>
+                </congMember>
+ <congMember authorityId="2242" bioGuideId="Y000066" chamber="H" congress="114" party="R" role="COSPONSOR" state="IA">
+                      <name type="parsed">Mr. Young of Iowa</name>
+                      <name type="authority-fnf">David Young</name>
+                      <name type="authority-lnf">Young, David</name>
+                </congMember>
+ <congMember authorityId="1460" bioGuideId="A000055" chamber="H" congress="114" gpoId="7789" party="R" role="COSPONSOR" state="AL">
+                      <name type="parsed">Mr. Aderholt</name>
+                      <name type="authority-fnf">Robert B. Aderholt</name>
+                      <name type="authority-lnf">Aderholt, Robert B.</name>
+                      <name type="authority-other">Robert Aderholt</name>
+                </congMember>
+ <congMember authorityId="2161" bioGuideId="W000814" chamber="H" congress="114" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Weber of Texas</name>
+                      <name type="authority-fnf">Randy K. Weber, Sr.</name>
+                      <name type="authority-lnf">Weber, Randy K., Sr.</name>
+                      <name type="authority-other">Mr. Randy Weber Sr.</name>
+                </congMember>
+ <congMember authorityId="2121" bioGuideId="C001093" chamber="H" congress="114" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Collins of Georgia</name>
+                      <name type="authority-fnf">Doug Collins</name>
+                      <name type="authority-lnf">Collins, Doug</name>
+                </congMember>
+ <law congress="111" isPrivate="false" number="148"></law>
+ <law congress="111" isPrivate="false" number="152"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

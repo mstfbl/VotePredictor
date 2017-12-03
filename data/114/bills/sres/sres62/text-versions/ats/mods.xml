@@ -1,0 +1,321 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18af85e00">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>Designating the week beginning on February 8, 2015, as ‘‘National Tribal Colleges and Universities Week’’.;S. Res. 62 (ATS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-02-03</dateIngested>
+</extension>
+<titleInfo>
+ <title>Designating the week beginning on February 8, 2015, as ‘‘National Tribal Colleges and Universities Week’’.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. Res. 62 (ATS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-02-02</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>2 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/2:</classification>
+<identifier type="local">P0b002ee18af85e00</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114sres62ats</identifier>
+<identifier type="preferred citation">S. Res. 62</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325577</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate resolutions</identifier>
+<identifier type="former package identifier">f:sr62_ats.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114sres62ats/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres62ats/html/BILLS-114sres62ats.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres62ats/pdf/BILLS-114sres62ats.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres62ats/xml/BILLS-114sres62ats.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-02-03</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-13</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114sres62ats</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Heidi Heitkamp</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Thune</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tammy Baldwin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Barrasso</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Steve Daines</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Al Franken</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Martin Heinrich</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mazie K. Hirono</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Hoeven</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Amy Klobuchar</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>James Lankford</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jerry Moran</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Patty Murray</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gary C. Peters</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Debbie Stabenow</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jon Tester</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tom Udall</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<extension>
+ <docClass>sres</docClass>
+ <accessId>BILLS-114sres62ats</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>62</billNumber>
+ <billVersion reprint="false">ats</billVersion>
+ <fileSuffix>ats</fileSuffix>
+ <officialTitle>Designating the week beginning on February 8, 2015, as ‘‘National Tribal Colleges and Universities Week’’.</officialTitle>
+ <action date="2015-02-02">Ms. Heitkamp (for herself, Mr. Thune, Ms. Baldwin, Mr. Barrasso, Mr. Daines, Mr. Franken, Mr. Heinrich, Ms. Hirono, Mr. Hoeven, Ms. Klobuchar, Mr. Lankford, Mr. Moran, Mrs. Murray, Mr. Peters, Ms. Stabenow, Mr. Tester, and Mr. Udall) submitted the following resolution; which was considered and agreed to</action>
+ <congMember authorityId="2174" bioGuideId="H001069" chamber="S" congress="114" party="D" role="SPONSOR" state="ND">
+                      <name type="parsed">Ms. Heitkamp</name>
+                      <name type="authority-fnf">Heidi Heitkamp</name>
+                      <name type="authority-lnf">Heitkamp, Heidi</name>
+                </congMember>
+ <congMember authorityId="1534" bioGuideId="T000250" chamber="S" congress="114" gpoId="8257" party="R" role="COSPONSOR" state="SD">
+                      <name type="parsed">Mr. Thune</name>
+                      <name type="authority-fnf">John Thune</name>
+                      <name type="authority-lnf">Thune, John</name>
+                      <name type="authority-other">John R. Thune</name>
+                </congMember>
+ <congMember authorityId="1558" bioGuideId="B001230" chamber="S" congress="114" gpoId="8215" party="D" role="COSPONSOR" state="WI">
+                      <name type="parsed">Ms. Baldwin</name>
+                      <name type="authority-fnf">Tammy Baldwin</name>
+                      <name type="authority-lnf">Baldwin, Tammy</name>
+                </congMember>
+ <congMember authorityId="1881" bioGuideId="B001261" chamber="S" congress="114" gpoId="8300" party="R" role="COSPONSOR" state="WY">
+                      <name type="parsed">Mr. Barrasso</name>
+                      <name type="authority-fnf">John Barrasso</name>
+                      <name type="authority-lnf">Barrasso, John</name>
+                </congMember>
+ <congMember authorityId="2138" bioGuideId="D000618" chamber="S" congress="114" party="R" role="COSPONSOR" state="MT">
+                      <name type="parsed">Mr. Daines</name>
+                      <name type="authority-fnf">Steve Daines</name>
+                      <name type="authority-lnf">Daines, Steve</name>
+                </congMember>
+ <congMember authorityId="1969" bioGuideId="F000457" chamber="S" congress="114" gpoId="8339" party="D" role="COSPONSOR" state="MN">
+                      <name type="parsed">Mr. Franken</name>
+                      <name type="authority-fnf">Al Franken</name>
+                      <name type="authority-lnf">Franken, Al</name>
+                </congMember>
+ <congMember authorityId="1937" bioGuideId="H001046" chamber="S" congress="114" gpoId="8056" party="D" role="COSPONSOR" state="NM">
+                      <name type="parsed">Mr. Heinrich</name>
+                      <name type="authority-fnf">Martin Heinrich</name>
+                      <name type="authority-lnf">Heinrich, Martin</name>
+                </congMember>
+ <congMember authorityId="1844" bioGuideId="H001042" chamber="S" congress="114" gpoId="7913" party="D" role="COSPONSOR" state="HI">
+                      <name type="parsed">Ms. Hirono</name>
+                      <name type="authority-fnf">Mazie K. Hirono</name>
+                      <name type="authority-lnf">Hirono, Mazie K.</name>
+                      <name type="authority-other">Ms. Mazie Hirono</name>
+                </congMember>
+ <congMember authorityId="2079" bioGuideId="H001061" chamber="S" congress="114" gpoId="8331" party="R" role="COSPONSOR" state="ND">
+                      <name type="parsed">Mr. Hoeven</name>
+                      <name type="authority-fnf">John Hoeven</name>
+                      <name type="authority-lnf">Hoeven, John</name>
+                </congMember>
+ <congMember authorityId="1826" bioGuideId="K000367" chamber="S" congress="114" gpoId="8249" party="D" role="COSPONSOR" state="MN">
+                      <name type="parsed">Ms. Klobuchar</name>
+                      <name type="authority-fnf">Amy Klobuchar</name>
+                      <name type="authority-lnf">Klobuchar, Amy</name>
+                </congMember>
+ <congMember authorityId="2050" bioGuideId="L000575" chamber="S" congress="114" gpoId="8113" party="R" role="COSPONSOR" state="OK">
+                      <name type="parsed">Mr. Lankford</name>
+                      <name type="authority-fnf">James Lankford</name>
+                      <name type="authority-lnf">Lankford, James</name>
+                </congMember>
+ <congMember authorityId="1507" bioGuideId="M000934" chamber="S" congress="114" gpoId="8307" party="R" role="COSPONSOR" state="KS">
+                      <name type="parsed">Mr. Moran</name>
+                      <name type="authority-fnf">Jerry Moran</name>
+                      <name type="authority-lnf">Moran, Jerry</name>
+                </congMember>
+ <congMember authorityId="1409" bioGuideId="M001111" chamber="S" congress="114" gpoId="8237" party="D" role="COSPONSOR" state="WA">
+                      <name type="parsed">Mrs. Murray</name>
+                      <name type="authority-fnf">Patty Murray</name>
+                      <name type="authority-lnf">Murray, Patty</name>
+                </congMember>
+ <congMember authorityId="1929" bioGuideId="P000595" chamber="S" congress="114" gpoId="7994" party="D" role="COSPONSOR" state="MI">
+                      <name type="parsed">Mr. Peters</name>
+                      <name type="authority-fnf">Gary C. Peters</name>
+                      <name type="authority-lnf">Peters, Gary C.</name>
+                      <name type="authority-other">Mr. Gary Peters</name>
+                </congMember>
+ <congMember authorityId="1531" bioGuideId="S000770" chamber="S" congress="114" gpoId="8261" party="D" role="COSPONSOR" state="MI">
+                      <name type="parsed">Ms. Stabenow</name>
+                      <name type="authority-fnf">Debbie Stabenow</name>
+                      <name type="authority-lnf">Stabenow, Debbie</name>
+                      <name type="authority-other">Deborah Ann Stabenow</name>
+                </congMember>
+ <congMember authorityId="1829" bioGuideId="T000464" chamber="S" congress="114" gpoId="8258" party="D" role="COSPONSOR" state="MT">
+                      <name type="parsed">Mr. Tester</name>
+                      <name type="authority-fnf">Jon Tester</name>
+                      <name type="authority-lnf">Tester, Jon</name>
+                </congMember>
+ <congMember authorityId="1567" bioGuideId="U000039" chamber="S" congress="114" gpoId="8260" party="D" role="COSPONSOR" state="NM">
+                      <name type="parsed">Mr. Udall</name>
+                      <name type="authority-fnf">Tom Udall</name>
+                      <name type="authority-lnf">Udall, Tom</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

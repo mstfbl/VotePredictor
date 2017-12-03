@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <lastName>LANDRIEU</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Landrieu, Mary L. [D-LA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1546</lisID>
+          <gpoId>8251</gpoId>
+          <bioguideId>L000550</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>MARY</firstName>
+        <sponsorshipDate>2013-07-18</sponsorshipDate>
+        <middleName />
+        <bioguideId>L000550</bioguideId>
+        <state>LA</state>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <updateDate>2016-10-25T16:26:04Z</updateDate>
+    <recordedVotes />
+    <calendarNumbers />
+    <createDate>2013-07-19T07:02:06Z</createDate>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2014-07-18T17:45:41Z</lastSummaryUpdateDate>
+          <updateDate>2013-07-18T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2013-07-18</actionDate>
+          <text><![CDATA[<p>Small Business Tax Credits Improvement Act - Amends the Internal Revenue Code, with respect to the tax credit for the health insurance expenses of small employers, to: (1) expand eligibility for the credit to employers having up to 50 (currently, 25) full-time equivalent employees whose annual wages do not exceed $75,000 (currently, $50,000); (2) raise the employee threshold for triggering the phaseout of such credit from 10 to 20 full-time employees; (3) eliminate the requirement that employers contribute the same percentage of cost of each employee's health insurance and the cap limiting eligible employer contributions to average premiums paid to a state health care exchange; and (4) make such credit available to employee-owners and their dependents.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-07-18</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2013-07-18</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <congress>113</congress>
+    <relatedBills>
+      <item>
+        <latestTitle>Small Business Health Insurance Affordability Act of 2014</latestTitle>
+        <number>4244</number>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2014-03-13</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Small Business Tax Credit Accessibility Act</latestTitle>
+        <number>4128</number>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2014-02-28</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Helping Entrepreneurs Lower Prices Act of 2014</latestTitle>
+        <number>4132</number>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2014-02-28</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Small Business Attraction and Retention Act of 2014</latestTitle>
+        <number>4133</number>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2014-02-28</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Small Business Tax Credit Accessibility Act</latestTitle>
+        <number>2069</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2014-02-27</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <title>Small Business Tax Credits Improvement Act</title>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <billNumber>1325</billNumber>
+    <billType>S</billType>
+    <introducedDate>2013-07-18</introducedDate>
+    <latestAction>
+      <actionDate>2013-07-18</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Finance Committee</name>
+          <type>Standing</type>
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-07-18T20:19:18Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <state>AK</state>
+        <bioguideId>B001265</bioguideId>
+        <identifiers>
+          <lisID>1898</lisID>
+          <gpoId>8301</gpoId>
+          <bioguideId>B001265</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Begich, Mark [D-AK]</fullName>
+        <firstName>Mark</firstName>
+        <lastName>Begich</lastName>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Small Business Tax Credits Improvement Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend the Internal Revenue Code of 1986 to modify the small employer health insurance credit, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Small Business Tax Credits Improvement Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

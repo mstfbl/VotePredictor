@@ -1,0 +1,166 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18d35d4da">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Internal Revenue Code of 1986 to provide credits for the production of renewable chemicals and investments in renewable chemical production facilities, and for other purposes.;Qualifying Renewable Chemical Production or Investment Tax Credit Act of 2015;H.R. 3390 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-08-07</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Internal Revenue Code of 1986 to provide credits for the production of renewable chemicals and investments in renewable chemical production facilities, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Qualifying Renewable Chemical Production or Investment Tax Credit Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 3390 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-07-29</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>13 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18d35d4da</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3390ih</identifier>
+<identifier type="preferred citation">H.R. 3390</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h3390_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3390ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3390ih/html/BILLS-114hr3390ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3390ih/pdf/BILLS-114hr3390ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3390ih/xml/BILLS-114hr3390ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-08-07</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-11</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr3390ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Bill Pascrell, Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael G. Fitzpatrick</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Richard E. Neal</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Ways and Means</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 7 Section 8101(13)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">7 U.S.C. 8101(13)</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr3390ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>3390</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Qualifying Renewable Chemical Production or Investment Tax Credit Act of 2015</shortTitle>
+ <officialTitle>To amend the Internal Revenue Code of 1986 to provide credits for the production of renewable chemicals and investments in renewable chemical production facilities, and for other purposes.</officialTitle>
+ <action date="2015-07-29">Mr. Pascrell (for himself, Mr. Fitzpatrick, and Mr. Neal) introduced the following bill; which was referred to the Committee on Ways and Means</action>
+ <congCommittee authorityId="hswm00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Ways and Means</name>
+                      <name type="authority-short">Ways and Means</name>
+                </congCommittee>
+ <congMember authorityId="1510" bioGuideId="P000096" chamber="H" congress="114" gpoId="8050" party="D" role="SPONSOR" state="NJ">
+                      <name type="parsed">Mr. Pascrell</name>
+                      <name type="authority-fnf">Bill Pascrell, Jr.</name>
+                      <name type="authority-lnf">Pascrell, Bill, Jr.</name>
+                      <name type="authority-other">William Pascrell Jr.</name>
+                </congMember>
+ <congMember authorityId="1797" bioGuideId="F000451" chamber="H" congress="114" gpoId="8126" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Fitzpatrick</name>
+                      <name type="authority-fnf">Michael G. Fitzpatrick</name>
+                      <name type="authority-lnf">Fitzpatrick, Michael G.</name>
+                      <name type="authority-other">Mr. Michael Fitzpatrick</name>
+                </congMember>
+ <congMember authorityId="854" bioGuideId="N000015" chamber="H" congress="114" gpoId="7967" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Mr. Neal</name>
+                      <name type="authority-fnf">Richard E. Neal</name>
+                      <name type="authority-lnf">Neal, Richard E.</name>
+                      <name type="authority-other">Richard Neal</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="7">
+                      <section detail="(13)" number="8101"></section>
+                </USCode>
+</extension>
+</mods>

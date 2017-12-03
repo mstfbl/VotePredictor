@@ -1,0 +1,146 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18aca25e3">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Help America Vote Act of 2002 to promote early voting in elections for Federal office and to prevent unreasonable waiting times for voters at polling places used in such elections, and for other purposes.;Streamlined and Improved Methods at Polling Locations and Early (SIMPLE) Voting Act of 2015;H.R. 411 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-01-25</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Help America Vote Act of 2002 to promote early voting in elections for Federal office and to prevent unreasonable waiting times for voters at polling places used in such elections, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Streamlined and Improved Methods at Polling Locations and Early (SIMPLE) Voting Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 411 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-01-20</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>12 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18aca25e3</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr411ih</identifier>
+<identifier type="preferred citation">H.R. 411</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h411_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr411ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr411ih/html/BILLS-114hr411ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr411ih/pdf/BILLS-114hr411ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr411ih/xml/BILLS-114hr411ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-01-25</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-14</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr411ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Steve Cohen</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on House Administration</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 52 Section 21081et seq.</partNumber>
+  <partNumber>Title 52 Section 21082</partNumber>
+  <partNumber>Title 52 Section 21082(f)</partNumber>
+  <partNumber>Title 52 Section 21111</partNumber>
+</titleInfo>
+ <identifier type="USC citation">52 U.S.C. 21081et seq.</identifier>
+ <identifier type="USC citation">52 U.S.C. 21082</identifier>
+ <identifier type="USC citation">52 U.S.C. 21082(f)</identifier>
+ <identifier type="USC citation">52 U.S.C. 21111</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr411ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>411</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Streamlined and Improved Methods at Polling Locations and Early (SIMPLE) Voting Act of 2015</shortTitle>
+ <officialTitle>To amend the Help America Vote Act of 2002 to promote early voting in elections for Federal office and to prevent unreasonable waiting times for voters at polling places used in such elections, and for other purposes.</officialTitle>
+ <action date="2015-01-20">Mr. Cohen introduced the following bill; which was referred to the Committee on House Administration</action>
+ <congCommittee authorityId="hsha00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on House Administration</name>
+                      <name type="authority-short">House Administration</name>
+                </congCommittee>
+ <congMember authorityId="1878" bioGuideId="C001068" chamber="H" congress="114" gpoId="8156" party="D" role="SPONSOR" state="TN">
+                      <name type="parsed">Mr. Cohen</name>
+                      <name type="authority-fnf">Steve Cohen</name>
+                      <name type="authority-lnf">Cohen, Steve</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="52">
+                      <section detail="et seq." number="21081"></section>
+                      <section number="21082"></section>
+                      <section detail="(f)" number="21082"></section>
+                      <section number="21111"></section>
+                </USCode>
+</extension>
+</mods>

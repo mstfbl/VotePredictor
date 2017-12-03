@@ -1,0 +1,203 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18c77feb2">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To establish the Wildlife and Hunting Heritage Conservation Council Advisory Committee to advise the Secretaries of the Interior and Agriculture on wildlife and habitat conservation, hunting, recreational shooting, and for other purposes.;Wildlife and Hunting Heritage Conservation Council Advisory Committee Act;H.R. 2399 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-05-23</dateIngested>
+</extension>
+<titleInfo>
+ <title>To establish the Wildlife and Hunting Heritage Conservation Council Advisory Committee to advise the Secretaries of the Interior and Agriculture on wildlife and habitat conservation, hunting, recreational shooting, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Wildlife and Hunting Heritage Conservation Council Advisory Committee Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2399 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-05-18</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>10 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18c77feb2</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2399ih</identifier>
+<identifier type="preferred citation">H.R. 2399</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2399_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2399ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2399ih/html/BILLS-114hr2399ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2399ih/pdf/BILLS-114hr2399ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2399ih/xml/BILLS-114hr2399ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-05-23</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-12</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr2399ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Robert E. Latta</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robert J. Wittman</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Richard L. Hanna</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Agriculture</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Natural Resources</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 5703</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 5703</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 661et seq.</partNumber>
+  <partNumber>Title 16 Section 742a</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 661et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 742a</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 43 Section 1457</partNumber>
+</titleInfo>
+ <identifier type="USC citation">43 U.S.C. 1457</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr2399ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>2399</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Wildlife and Hunting Heritage Conservation Council Advisory Committee Act</shortTitle>
+ <officialTitle>To establish the Wildlife and Hunting Heritage Conservation Council Advisory Committee to advise the Secretaries of the Interior and Agriculture on wildlife and habitat conservation, hunting, recreational shooting, and for other purposes.</officialTitle>
+ <action date="2015-05-18">Mr. Latta (for himself, Mr. Wittman, and Mr. Hanna) introduced the following bill; which was referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <congCommittee authorityId="hsag00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Agriculture</name>
+                      <name type="authority-short">Agriculture</name>
+                </congCommittee>
+ <congCommittee authorityId="hsii00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Natural Resources</name>
+                      <name type="authority-short">Natural Resources</name>
+                </congCommittee>
+ <congMember authorityId="1885" bioGuideId="L000566" chamber="H" congress="114" gpoId="8095" party="R" role="SPONSOR" state="OH">
+                      <name type="parsed">Mr. Latta</name>
+                      <name type="authority-fnf">Robert E. Latta</name>
+                      <name type="authority-lnf">Latta, Robert E.</name>
+                      <name type="authority-other">Mr. Robert Latta</name>
+                </congMember>
+ <congMember authorityId="1886" bioGuideId="W000804" chamber="H" congress="114" gpoId="8192" party="R" role="COSPONSOR" state="VA">
+                      <name type="parsed">Mr. Wittman</name>
+                      <name type="authority-fnf">Robert J. Wittman</name>
+                      <name type="authority-lnf">Wittman, Robert J.</name>
+                      <name type="authority-other">Mr. Robert Wittman</name>
+                </congMember>
+ <congMember authorityId="2044" bioGuideId="H001051" chamber="H" congress="114" gpoId="8085" party="R" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Hanna</name>
+                      <name type="authority-fnf">Richard L. Hanna</name>
+                      <name type="authority-lnf">Hanna, Richard L.</name>
+                      <name type="authority-other">Mr. Richard Hanna</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="5703"></section>
+                </USCode>
+ <USCode title="16">
+                      <section detail="et seq." number="661"></section>
+                      <section number="742a"></section>
+                </USCode>
+ <USCode title="43">
+                      <section number="1457"></section>
+                </USCode>
+</extension>
+</mods>

@@ -1,0 +1,554 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18af6f4c0">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend chapter 6 of title 5, United States Code (commonly known as the Regulatory Flexibility Act), to ensure complete analysis of potential impacts on small entities of rules, and for other purposes.;Small Business Regulatory Flexibility Improvements Act of 2015;H.R. 527 (RH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-02-02</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend chapter 6 of title 5, United States Code (commonly known as the Regulatory Flexibility Act), to ensure complete analysis of potential impacts on small entities of rules, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Small Business Regulatory Flexibility Improvements Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 527 (RH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-02-02</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>34 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18af6f4c0</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr527rh</identifier>
+<identifier type="preferred citation">H.R. 527</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h527_rh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr527rh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr527rh/html/BILLS-114hr527rh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr527rh/pdf/BILLS-114hr527rh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr527rh/xml/BILLS-114hr527rh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-02-02</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-13</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr527rh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Steve Chabot</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bob Goodlatte</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tom Marino</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Doug Collins</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Richard L. Hanna</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Blaine Luetkemeyer</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lamar Smith</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Stephen Knight</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Carlos Curbelo</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Collin C. Peterson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Pete Sessions</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Scott R. Tipton</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Chris Collins</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tim Huelskamp</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Steve King</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Sam Graves</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mia B. Love</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Paul A. Gosar</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Cresent Hardy</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Randy Hultgren</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Kline</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Henry Cuellar</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on the Judiciary</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Small Business</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 601</partNumber>
+  <partNumber>Title 5 Section 601note</partNumber>
+  <partNumber>Title 5 Section 602</partNumber>
+  <partNumber>Title 5 Section 603</partNumber>
+  <partNumber>Title 5 Section 604</partNumber>
+  <partNumber>Title 5 Section 604(a)</partNumber>
+  <partNumber>Title 5 Section 605</partNumber>
+  <partNumber>Title 5 Section 607</partNumber>
+  <partNumber>Title 5 Section 609</partNumber>
+  <partNumber>Title 5 Section 610</partNumber>
+  <partNumber>Title 5 Section 611(a)</partNumber>
+  <partNumber>Title 5 Section 612</partNumber>
+  <partNumber>Title 5 Chapter 6</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 601</identifier>
+ <identifier type="USC citation">5 U.S.C. 601note</identifier>
+ <identifier type="USC citation">5 U.S.C. 602</identifier>
+ <identifier type="USC citation">5 U.S.C. 603</identifier>
+ <identifier type="USC citation">5 U.S.C. 604</identifier>
+ <identifier type="USC citation">5 U.S.C. 604(a)</identifier>
+ <identifier type="USC citation">5 U.S.C. 605</identifier>
+ <identifier type="USC citation">5 U.S.C. 607</identifier>
+ <identifier type="USC citation">5 U.S.C. 609</identifier>
+ <identifier type="USC citation">5 U.S.C. 610</identifier>
+ <identifier type="USC citation">5 U.S.C. 611(a)</identifier>
+ <identifier type="USC citation">5 U.S.C. 612</identifier>
+ <identifier type="USC citation">5 U.S.C. Chapter 6</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 632</partNumber>
+  <partNumber>Title 15 Section 632(a)</partNumber>
+  <partNumber>Title 15 Section 632(a)(2)(A)</partNumber>
+  <partNumber>Title 15 Section 632(a)(2)(C)(iii)</partNumber>
+  <partNumber>Title 15 Section 632(a)(3)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 632</identifier>
+ <identifier type="USC citation">15 U.S.C. 632(a)</identifier>
+ <identifier type="USC citation">15 U.S.C. 632(a)(2)(A)</identifier>
+ <identifier type="USC citation">15 U.S.C. 632(a)(2)(C)(iii)</identifier>
+ <identifier type="USC citation">15 U.S.C. 632(a)(3)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 1604</partNumber>
+  <partNumber>Title 16 Section 1604(f)(4)</partNumber>
+  <partNumber>Title 16 Section 1604(f)(5)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 1604</identifier>
+ <identifier type="USC citation">16 U.S.C. 1604(f)(4)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1604(f)(5)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 450b(l)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 450b(l)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 28 Section 2341</partNumber>
+  <partNumber>Title 28 Section 2342</partNumber>
+</titleInfo>
+ <identifier type="USC citation">28 U.S.C. 2341</identifier>
+ <identifier type="USC citation">28 U.S.C. 2342</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 4332(2)(C)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 4332(2)(C)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 43 Section 1712</partNumber>
+</titleInfo>
+ <identifier type="USC citation">43 U.S.C. 1712</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Union Calendar No. 8</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr527rh</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>527</billNumber>
+ <billVersion reprint="false">rh</billVersion>
+ <fileSuffix>rh</fileSuffix>
+ <shortTitle type="measure">Small Business Regulatory Flexibility Improvements Act of 2015</shortTitle>
+ <officialTitle>To amend chapter 6 of title 5, United States Code (commonly known as the Regulatory Flexibility Act), to ensure complete analysis of potential impacts on small entities of rules, and for other purposes.</officialTitle>
+ <action date="2015-02-02">Additional sponsors: Mr. Curbelo of Florida, Mr. Peterson, Mr. Sessions, Mr. Tipton, Mr. Collins of New York, Mr. Huelskamp, Mr. King of Iowa, Mr. Graves of Missouri, Mrs. Love, Mr. Gosar, Mr. Hardy, Mr. Hultgren, Mr. Kline, and Mr. Cuellar</action>
+ <action date="2015-02-02">Reported from the Committee on the Judiciary</action>
+ <action date="2015-02-02">The Committee on Small Business discharged; committed to the Committee of the Whole House on the State of the Union and ordered to be printed</action>
+ <action date="2015-01-26">Mr. Chabot (for himself, Mr. Goodlatte, Mr. Marino, Mr. Collins of Georgia, Mr. Hanna, Mr. Luetkemeyer, Mr. Smith of Texas, and Mr. Knight) introduced the following bill; which was referred to the Committee on the Judiciary, and in addition to the Committee on Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <congCommittee authorityId="hsju00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on the Judiciary</name>
+                      <name type="authority-short">Judiciary</name>
+                </congCommittee>
+ <congCommittee authorityId="hssm00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Small Business</name>
+                      <name type="authority-short">Small Business</name>
+                </congCommittee>
+ <congMember authorityId="186" bioGuideId="C000266" chamber="H" congress="114" gpoId="8091" party="R" role="SPONSOR" state="OH">
+                      <name type="parsed">Mr. Chabot</name>
+                      <name type="authority-fnf">Steve Chabot</name>
+                      <name type="authority-lnf">Chabot, Steve</name>
+                </congMember>
+ <congMember authorityId="446" bioGuideId="G000289" chamber="H" congress="114" gpoId="8197" party="R" role="COSPONSOR" state="VA">
+                      <name type="parsed">Mr. Goodlatte</name>
+                      <name type="authority-fnf">Bob Goodlatte</name>
+                      <name type="authority-lnf">Goodlatte, Bob</name>
+                      <name type="authority-other">Robert Goodlatte</name>
+                </congMember>
+ <congMember authorityId="2053" bioGuideId="M001179" chamber="H" congress="114" gpoId="8128" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Marino</name>
+                      <name type="authority-fnf">Tom Marino</name>
+                      <name type="authority-lnf">Marino, Tom</name>
+                </congMember>
+ <congMember authorityId="2121" bioGuideId="C001093" chamber="H" congress="114" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Collins of Georgia</name>
+                      <name type="authority-fnf">Doug Collins</name>
+                      <name type="authority-lnf">Collins, Doug</name>
+                </congMember>
+ <congMember authorityId="2044" bioGuideId="H001051" chamber="H" congress="114" gpoId="8085" party="R" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Hanna</name>
+                      <name type="authority-fnf">Richard L. Hanna</name>
+                      <name type="authority-lnf">Hanna, Richard L.</name>
+                      <name type="authority-other">Mr. Richard Hanna</name>
+                </congMember>
+ <congMember authorityId="1931" bioGuideId="L000569" chamber="H" congress="114" gpoId="8017" party="R" role="COSPONSOR" state="MO">
+                      <name type="parsed">Mr. Luetkemeyer</name>
+                      <name type="authority-fnf">Blaine Luetkemeyer</name>
+                      <name type="authority-lnf">Luetkemeyer, Blaine</name>
+                </congMember>
+ <congMember authorityId="1075" bioGuideId="S000583" chamber="H" congress="114" gpoId="8177" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Smith of Texas</name>
+                      <name type="authority-fnf">Lamar Smith</name>
+                      <name type="authority-lnf">Smith, Lamar</name>
+                </congMember>
+ <congMember authorityId="2228" bioGuideId="K000387" chamber="H" congress="114" party="R" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Knight</name>
+                      <name type="authority-fnf">Stephen Knight</name>
+                      <name type="authority-lnf">Knight, Stephen</name>
+                </congMember>
+ <congMember authorityId="2235" bioGuideId="C001107" chamber="H" congress="114" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Curbelo of Florida</name>
+                      <name type="authority-fnf">Carlos Curbelo</name>
+                      <name type="authority-lnf">Curbelo, Carlos</name>
+                </congMember>
+ <congMember authorityId="910" bioGuideId="P000258" chamber="H" congress="114" gpoId="8007" party="D" role="COSPONSOR" state="MN">
+                      <name type="parsed">Mr. Peterson</name>
+                      <name type="authority-fnf">Collin C. Peterson</name>
+                      <name type="authority-lnf">Peterson, Collin C.</name>
+                      <name type="authority-other">Collin Peterson</name>
+                </congMember>
+ <congMember authorityId="1525" bioGuideId="S000250" chamber="H" congress="114" gpoId="8188" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Sessions</name>
+                      <name type="authority-fnf">Pete Sessions</name>
+                      <name type="authority-lnf">Sessions, Pete</name>
+                </congMember>
+ <congMember authorityId="1997" bioGuideId="T000470" chamber="H" congress="114" gpoId="7861" party="R" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Tipton</name>
+                      <name type="authority-fnf">Scott R. Tipton</name>
+                      <name type="authority-lnf">Tipton, Scott R.</name>
+                      <name type="authority-other">Mr. Scott Tipton</name>
+                </congMember>
+ <congMember authorityId="2151" bioGuideId="C001092" chamber="H" congress="114" party="R" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Collins of New York</name>
+                      <name type="authority-fnf">Chris Collins</name>
+                      <name type="authority-lnf">Collins, Chris</name>
+                </congMember>
+ <congMember authorityId="2020" bioGuideId="H001057" chamber="H" congress="114" gpoId="7949" party="R" role="COSPONSOR" state="KS">
+                      <name type="parsed">Mr. Huelskamp</name>
+                      <name type="authority-fnf">Tim Huelskamp</name>
+                      <name type="authority-lnf">Huelskamp, Tim</name>
+                </congMember>
+ <congMember authorityId="1724" bioGuideId="K000362" chamber="H" congress="114" gpoId="7918" party="R" role="COSPONSOR" state="IA">
+                      <name type="parsed">Mr. King of Iowa</name>
+                      <name type="authority-fnf">Steve King</name>
+                      <name type="authority-lnf">King, Steve</name>
+                </congMember>
+ <congMember authorityId="1656" bioGuideId="G000546" chamber="H" congress="114" gpoId="8014" party="R" role="COSPONSOR" state="MO">
+                      <name type="parsed">Mr. Graves of Missouri</name>
+                      <name type="authority-fnf">Sam Graves</name>
+                      <name type="authority-lnf">Graves, Sam</name>
+                </congMember>
+ <congMember authorityId="2271" bioGuideId="L000584" chamber="H" congress="114" party="R" role="COSPONSOR" state="UT">
+                      <name type="parsed">Mrs. Love</name>
+                      <name type="authority-fnf">Mia B. Love</name>
+                      <name type="authority-lnf">Love, Mia B.</name>
+                      <name type="authority-other">Mrs. Mia Love</name>
+                </congMember>
+ <congMember authorityId="1992" bioGuideId="G000565" chamber="H" congress="114" gpoId="7798" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Gosar</name>
+                      <name type="authority-fnf">Paul A. Gosar</name>
+                      <name type="authority-lnf">Gosar, Paul A.</name>
+                      <name type="authority-other">Mr. Paul Gosar</name>
+                </congMember>
+ <congMember authorityId="2260" bioGuideId="H001070" chamber="H" congress="114" party="R" role="COSPONSOR" state="NV">
+                      <name type="parsed">Mr. Hardy</name>
+                      <name type="authority-fnf">Cresent Hardy</name>
+                      <name type="authority-lnf">Hardy, Cresent</name>
+                </congMember>
+ <congMember authorityId="2015" bioGuideId="H001059" chamber="H" congress="114" gpoId="7934" party="R" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Hultgren</name>
+                      <name type="authority-fnf">Randy Hultgren</name>
+                      <name type="authority-lnf">Hultgren, Randy</name>
+                </congMember>
+ <congMember authorityId="1733" bioGuideId="K000363" chamber="H" congress="114" gpoId="8002" party="R" role="COSPONSOR" state="MN">
+                      <name type="parsed">Mr. Kline</name>
+                      <name type="authority-fnf">John Kline</name>
+                      <name type="authority-lnf">Kline, John</name>
+                </congMember>
+ <congMember authorityId="1807" bioGuideId="C001063" chamber="H" congress="114" gpoId="8184" party="D" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Cuellar</name>
+                      <name type="authority-fnf">Henry Cuellar</name>
+                      <name type="authority-lnf">Cuellar, Henry</name>
+                </congMember>
+ <congCalendar congress="114" number="8" type="UNION"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="601"></section>
+                      <section detail="note" number="601"></section>
+                      <section number="602"></section>
+                      <section number="603"></section>
+                      <section number="604"></section>
+                      <section detail="(a)" number="604"></section>
+                      <section number="605"></section>
+                      <section number="607"></section>
+                      <section number="609"></section>
+                      <section number="610"></section>
+                      <section detail="(a)" number="611"></section>
+                      <section number="612"></section>
+                      <chapter number="6"></chapter>
+                </USCode>
+ <USCode title="15">
+                      <section number="632"></section>
+                      <section detail="(a)" number="632"></section>
+                      <section detail="(a)(2)(A)" number="632"></section>
+                      <section detail="(a)(2)(C)(iii)" number="632"></section>
+                      <section detail="(a)(3)" number="632"></section>
+                </USCode>
+ <USCode title="16">
+                      <section number="1604"></section>
+                      <section detail="(f)(4)" number="1604"></section>
+                      <section detail="(f)(5)" number="1604"></section>
+                </USCode>
+ <USCode title="25">
+                      <section detail="(l)" number="450b"></section>
+                </USCode>
+ <USCode title="28">
+                      <section number="2341"></section>
+                      <section number="2342"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="(2)(C)" number="4332"></section>
+                </USCode>
+ <USCode title="43">
+                      <section number="1712"></section>
+                </USCode>
+</extension>
+</mods>

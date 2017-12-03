@@ -1,0 +1,226 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee190458a54">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To provide for the extension of certain long-term care hospital Medicare payment rules, clarify the application of rules on the calculation of hospital length of stay to certain moratorium-excepted long-term care hospitals, and for other purposes.;
+   		H.R. 5713 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-07-15</dateIngested>
+</extension>
+<titleInfo>
+ <title>To provide for the extension of certain long-term care hospital Medicare payment rules, clarify the application of rules on the calculation of hospital length of stay to certain moratorium-excepted long-term care hospitals, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 5713 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-07-11</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>20 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee190458a54</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5713ih</identifier>
+<identifier type="preferred citation">H.R. 5713</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h5713_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5713ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5713ih/html/BILLS-114hr5713ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5713ih/pdf/BILLS-114hr5713ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5713ih/xml/BILLS-114hr5713ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-07-15</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-07-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr5713ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Patrick J. Tiberi</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bill Pascrell, Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Energy and Commerce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Ways and Means</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 1395cc(j)</partNumber>
+  <partNumber>Title 42 Section 1395cc(j)(7)</partNumber>
+  <partNumber>Title 42 Section 1395lll(a)(2)(A)(iv)</partNumber>
+  <partNumber>Title 42 Section 1395ww</partNumber>
+  <partNumber>Title 42 Section 1395ww(d)(1)(B)</partNumber>
+  <partNumber>Title 42 Section 1395ww(m)(5)(F)</partNumber>
+  <partNumber>Title 42 Section 1395ww(m)(6)</partNumber>
+  <partNumber>Title 42 Section 1395ww(m)(6)(A)(i)</partNumber>
+  <partNumber>Title 42 Section 1395wwnote</partNumber>
+  <partNumber>Title 42 Section 1396a(kk)</partNumber>
+  <partNumber>Title 42 Section 1396a(kk)(4)(A)</partNumber>
+  <partNumber>Title 42 Section 1396a(kk)(4)(A)(ii)</partNumber>
+  <partNumber>Title 42 Section 1396b(i)(2)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 1395cc(j)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395cc(j)(7)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395lll(a)(2)(A)(iv)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395ww</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395ww(d)(1)(B)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395ww(m)(5)(F)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395ww(m)(6)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395ww(m)(6)(A)(i)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395wwnote</identifier>
+ <identifier type="USC citation">42 U.S.C. 1396a(kk)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1396a(kk)(4)(A)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1396a(kk)(4)(A)(ii)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1396b(i)(2)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-5</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-5</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-148</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-148</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-152</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-152</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 113-67</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 113-67</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr5713ih</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>5713</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <action date="2016-07-11">Mr. Tiberi (for himself and Mr. Pascrell) introduced the following bill; which was referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <congCommittee authorityId="hsif00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Energy and Commerce</name>
+                      <name type="authority-short">Energy and Commerce</name>
+                </congCommittee>
+ <congCommittee authorityId="hswm00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Ways and Means</name>
+                      <name type="authority-short">Ways and Means</name>
+                </congCommittee>
+ <congMember authorityId="1664" bioGuideId="T000462" chamber="H" congress="114" gpoId="8102" party="R" role="SPONSOR" state="OH">
+                      <name type="parsed">Mr. Tiberi</name>
+                      <name type="authority-fnf">Patrick J. Tiberi</name>
+                      <name type="authority-lnf">Tiberi, Patrick J.</name>
+                      <name type="authority-other">Patrick Tiberi</name>
+                </congMember>
+ <congMember authorityId="1510" bioGuideId="P000096" chamber="H" congress="114" gpoId="8050" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Pascrell</name>
+                      <name type="authority-fnf">Bill Pascrell, Jr.</name>
+                      <name type="authority-lnf">Pascrell, Bill, Jr.</name>
+                      <name type="authority-other">William Pascrell Jr.</name>
+                </congMember>
+ <law congress="111" isPrivate="false" number="5"></law>
+ <law congress="111" isPrivate="false" number="148"></law>
+ <law congress="111" isPrivate="false" number="152"></law>
+ <law congress="113" isPrivate="false" number="67"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="42">
+                      <section detail="(j)" number="1395cc"></section>
+                      <section detail="(j)(7)" number="1395cc"></section>
+                      <section detail="(a)(2)(A)(iv)" number="1395lll"></section>
+                      <section number="1395ww"></section>
+                      <section detail="(d)(1)(B)" number="1395ww"></section>
+                      <section detail="(m)(5)(F)" number="1395ww"></section>
+                      <section detail="(m)(6)" number="1395ww"></section>
+                      <section detail="(m)(6)(A)(i)" number="1395ww"></section>
+                      <section detail="note" number="1395ww"></section>
+                      <section detail="(kk)" number="1396a"></section>
+                      <section detail="(kk)(4)(A)" number="1396a"></section>
+                      <section detail="(kk)(4)(A)(ii)" number="1396a"></section>
+                      <section detail="(i)(2)" number="1396b"></section>
+                </USCode>
+</extension>
+</mods>

@@ -1,0 +1,219 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee192febc74">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend title 38, United States Code, and the Internal Revenue Code of 1986 to establish, in the event of any war, a war tax to be collected and deposited in a trust fund for the payment of benefits and compensation to veterans of that war.;Veterans Health Care Trust Fund Act;H.R. 6445 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-12-08</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend title 38, United States Code, and the Internal Revenue Code of 1986 to establish, in the event of any war, a war tax to be collected and deposited in a trust fund for the payment of benefits and compensation to veterans of that war.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Veterans Health Care Trust Fund Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 6445 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-12-06</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>7 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee192febc74</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6445ih</identifier>
+<identifier type="preferred citation">H.R. 6445</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h6445_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6445ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6445ih/html/BILLS-114hr6445ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6445ih/pdf/BILLS-114hr6445ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6445ih/xml/BILLS-114hr6445ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-12-08</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-12-08</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr6445ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Beto O&apos;Rourke</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Don Young</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Seth Moulton</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Walter B. Jones Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Veterans&apos; Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Ways and Means</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 38 Chapter 1</partNumber>
+</titleInfo>
+ <identifier type="USC citation">38 U.S.C. Chapter 1</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 50 Section 1541et seq.</partNumber>
+  <partNumber>Title 50 Section 1541note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">50 U.S.C. 1541et seq.</identifier>
+ <identifier type="USC citation">50 U.S.C. 1541note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 93-148</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 93-148</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 107-40</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 107-40</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr6445ih</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>6445</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Veterans Health Care Trust Fund Act</shortTitle>
+ <officialTitle>To amend title 38, United States Code, and the Internal Revenue Code of 1986 to establish, in the event of any war, a war tax to be collected and deposited in a trust fund for the payment of benefits and compensation to veterans of that war.</officialTitle>
+ <action date="2016-12-06">Mr. O&apos;Rourke (for himself, Mr. Young of Alaska, Mr. Moulton, and Mr. Jones) introduced the following bill; which was referred to the Committee on Ways and Means, and in addition to the Committee on Veterans&apos; Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <congCommittee authorityId="hsvr00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Veterans&apos; Affairs</name>
+                      <name type="authority-short">Veterans&apos; Affairs</name>
+                </congCommittee>
+ <congCommittee authorityId="hswm00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Ways and Means</name>
+                      <name type="authority-short">Ways and Means</name>
+                </congCommittee>
+ <congMember authorityId="2162" bioGuideId="O000170" chamber="H" congress="114" party="D" role="SPONSOR" state="TX">
+                      <name type="parsed">Mr. O&apos;Rourke</name>
+                      <name type="authority-fnf">Beto O&apos;Rourke</name>
+                      <name type="authority-lnf">O&apos;Rourke, Beto</name>
+                </congMember>
+ <congMember authorityId="1256" bioGuideId="Y000033" chamber="H" congress="114" gpoId="7785" party="R" role="COSPONSOR" state="AK">
+                      <name type="parsed">Mr. Young of Alaska</name>
+                      <name type="authority-fnf">Don Young</name>
+                      <name type="authority-lnf">Young, Don</name>
+                      <name type="authority-other">Don E. Young</name>
+                </congMember>
+ <congMember authorityId="2246" bioGuideId="M001196" chamber="H" congress="114" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Mr. Moulton</name>
+                      <name type="authority-fnf">Seth Moulton</name>
+                      <name type="authority-lnf">Moulton, Seth</name>
+                </congMember>
+ <congMember authorityId="612" bioGuideId="J000255" chamber="H" congress="114" gpoId="8026" party="R" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. Jones</name>
+                      <name type="authority-fnf">Walter B. Jones Jr.</name>
+                      <name type="authority-lnf">Jones, Walter B., Jr.</name>
+                      <name type="authority-other">Walter Jones Jr.</name>
+                </congMember>
+ <law congress="93" isPrivate="false" number="148"></law>
+ <law congress="107" isPrivate="false" number="40"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="38">
+                      <chapter number="1"></chapter>
+                </USCode>
+ <USCode title="50">
+                      <section detail="et seq." number="1541"></section>
+                      <section detail="note" number="1541"></section>
+                </USCode>
+</extension>
+</mods>

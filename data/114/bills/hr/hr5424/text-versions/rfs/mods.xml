@@ -1,0 +1,151 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1912668f4">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To amend the Investment Advisers Act of 1940 and to direct the Securities and Exchange Commission to amend its rules to modernize certain requirements relating to investment advisers, and for other purposes.;
+   		Investment Advisers Modernization Act of 2016;H.R. 5424 (RFS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-09-13</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To amend the Investment Advisers Act of 1940 and to direct the Securities and Exchange Commission to amend its rules to modernize certain requirements relating to investment advisers, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Investment Advisers Modernization Act of 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 5424 (RFS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-09-12</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>8 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee1912668f4</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5424rfs</identifier>
+<identifier type="preferred citation">H.R. 5424</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h5424_rfs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5424rfs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5424rfs/html/BILLS-114hr5424rfs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5424rfs/pdf/BILLS-114hr5424rfs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5424rfs/xml/BILLS-114hr5424rfs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-09-13</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-09-13</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr5424rfs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Banking, Housing, and Urban Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 78m(a)</partNumber>
+  <partNumber>Title 15 Section 80a-1</partNumber>
+  <partNumber>Title 15 Section 80a-2(a)</partNumber>
+  <partNumber>Title 15 Section 80b-2(a)</partNumber>
+  <partNumber>Title 15 Section 80b-2(a)(1)</partNumber>
+  <partNumber>Title 15 Section 80b-5</partNumber>
+  <partNumber>Title 15 Section 80b-5(a)(2)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 78m(a)</identifier>
+ <identifier type="USC citation">15 U.S.C. 80a-1</identifier>
+ <identifier type="USC citation">15 U.S.C. 80a-2(a)</identifier>
+ <identifier type="USC citation">15 U.S.C. 80b-2(a)</identifier>
+ <identifier type="USC citation">15 U.S.C. 80b-2(a)(1)</identifier>
+ <identifier type="USC citation">15 U.S.C. 80b-5</identifier>
+ <identifier type="USC citation">15 U.S.C. 80b-5(a)(2)</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr5424rfs</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>5424</billNumber>
+ <billVersion reprint="false">rfs</billVersion>
+ <fileSuffix>rfs</fileSuffix>
+ <shortTitle>Investment Advisers Modernization Act of 2016</shortTitle>
+ <action date="2016-09-12">Received; read twice and referred to the Committee on Banking, Housing, and Urban Affairs</action>
+ <congCommittee authorityId="ssbk00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Banking, Housing, and Urban Affairs</name>
+                      <name type="authority-short">Banking</name>
+                </congCommittee>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="15">
+                      <section detail="(a)" number="78m"></section>
+                      <section number="80a-1"></section>
+                      <section detail="(a)" number="80a-2"></section>
+                      <section detail="(a)" number="80b-2"></section>
+                      <section detail="(a)(1)" number="80b-2"></section>
+                      <section number="80b-5"></section>
+                      <section detail="(a)(2)" number="80b-5"></section>
+                </USCode>
+</extension>
+</mods>

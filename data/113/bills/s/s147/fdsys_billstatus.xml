@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2013-01-24</actionDate>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-01-24T22:25:16Z</date>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <systemCode>ssju00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2013-01-25T07:00:57Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2013-01-24</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2013-01-24</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2013-01-24</introducedDate>
+    <billNumber>147</billNumber>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Common Sense Concealed Firearms Permit Act of 2013 - Amends the federal criminal code to direct each state that allows its residents to carry concealed firearms to establish a process through which a resident must obtain a permit to carry a concealed firearm. Requires a state to: (1) ensure that a local law enforcement agency participates in the process; and (2) require that an applicant be a legal resident of the United States, be not less than 21 years of age, demonstrate good cause for requesting the permit, and demonstrate that he or she is worthy of the public trust to carry a concealed firearm in public.</p> <p> Requires any such process that allows an agency other than a law enforcement agency to issue such permits to require: (1) a local law enforcement agency to submit to the agency responsible a written report that describes whether the applicant meets the state's standards to carry a concealed firearm, and (2) the agency responsible to maintain such report in the applicant's file.</p>]]></text>
+          <lastSummaryUpdateDate>2013-02-05T20:20:09Z</lastSummaryUpdateDate>
+          <updateDate>2013-01-24T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2013-01-24</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Common Sense Concealed Firearms Permit Act of 2013</title>
+    <updateDate>2016-10-25T16:20:14Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Common Sense Concealed Firearms Permit Act of 2013</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to establish minimum standards for States that allow the carrying of concealed firearms.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Common Sense Concealed Firearms Permit Act of 2013</title>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>CA</state>
+        <firstName>BARBARA</firstName>
+        <byRequestType />
+        <bioguideId>B000711</bioguideId>
+        <fullName>Sen. Boxer, Barbara [D-CA]</fullName>
+        <lastName>BOXER</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>116</lisID>
+          <gpoId>8306</gpoId>
+          <bioguideId>B000711</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <number>21</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>NRA Members' Gun Safety Act of 2013</latestTitle>
+        <type>HR</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+          <actionDate>2013-01-25</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cosponsors />
+    <billType>S</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

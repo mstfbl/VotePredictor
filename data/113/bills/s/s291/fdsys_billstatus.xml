@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <middleName />
+        <firstName>Mike</firstName>
+        <identifiers>
+          <lisID>1899</lisID>
+          <gpoId>8325</gpoId>
+          <bioguideId>J000291</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Johanns</lastName>
+        <fullName>Sen. Johanns, Mike [R-NE]</fullName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>J000291</bioguideId>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <state>NE</state>
+      </item>
+      <item>
+        <middleName />
+        <firstName>BARBARA</firstName>
+        <identifiers>
+          <lisID>116</lisID>
+          <gpoId>8306</gpoId>
+          <bioguideId>B000711</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>BOXER</lastName>
+        <fullName>Sen. Boxer, Barbara [D-CA]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B000711</bioguideId>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <state>CA</state>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Al</firstName>
+        <identifiers>
+          <lisID>1969</lisID>
+          <gpoId>8339</gpoId>
+          <bioguideId>F000457</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Franken</lastName>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>F000457</bioguideId>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <state>MN</state>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Sheldon</firstName>
+        <identifiers>
+          <lisID>1823</lisID>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Whitehouse</lastName>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000802</bioguideId>
+        <sponsorshipDate>2013-02-14</sponsorshipDate>
+        <state>RI</state>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Housing and Community Development</name>
+    </policyArea>
+    <updateDate>2016-10-25T16:20:48Z</updateDate>
+    <recordedVotes />
+    <calendarNumbers />
+    <createDate>2013-02-14T07:00:52Z</createDate>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-03-08T16:39:31Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2013-02-13T05:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <actionDate>2013-02-13</actionDate>
+          <text><![CDATA[<p>Healthy Housing Council Act of 2013 - Establishes in the executive branch an independent Interagency Council on Healthy Housing.</p> <p>Requires the Council to: (1) review federal programs and services that provide housing, health, energy, or environmental services to families and individuals; (2) monitor, evaluate, and recommend improvements in programs and services administered, funded, or financed by federal, state, and local agencies; (3) recommend ways to reduce duplication among federal programs and services; and (4) ensure collaboration among and within agencies in the provision and availability of such programs and services.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Energy efficiency and conservation</name>
+          </item>
+          <item>
+            <name>Environmental health</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Housing and community development funding</name>
+          </item>
+          <item>
+            <name>Housing industry and standards</name>
+          </item>
+          <item>
+            <name>Low- and moderate-income housing</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Housing and Community Development</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <actions>
+      <item>
+        <actionDate>2013-02-13</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S790</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S790</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (text of measure as introduced: CR S790)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-02-13</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <congress>113</congress>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2014-07-29</actionDate>
+          <text>Referred to the House Committee on Financial Services.</text>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Healthy Housing Council Act of 2014</latestTitle>
+        <number>5244</number>
+      </item>
+    </relatedBills>
+    <title>Healthy Housing Council Act of 2013</title>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <billNumber>291</billNumber>
+    <billType>S</billType>
+    <introducedDate>2013-02-13</introducedDate>
+    <latestAction>
+      <actionDate>2013-02-13</actionDate>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (text of measure as introduced: CR S790)</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-02-13T15:37:32Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <subcommittees />
+          <systemCode>ssbk00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <state>RI</state>
+        <bioguideId>R000122</bioguideId>
+        <identifiers>
+          <lisID>949</lisID>
+          <gpoId>8272</gpoId>
+          <bioguideId>R000122</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <firstName>JOHN</firstName>
+        <lastName>REED</lastName>
+        <middleName>F.</middleName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Healthy Housing Council Act of 2013</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to establish the Council on Healthy Housing and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Healthy Housing Council Act of 2013</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

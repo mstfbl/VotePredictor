@@ -1,0 +1,227 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18f33f433">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To amend the Homeland Security Act of 2002 to improve border and maritime security coordination in the Department of Homeland Security, and for other purposes.;
+   		H.R. 3586 (EH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-04-14</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To amend the Homeland Security Act of 2002 to improve border and maritime security coordination in the Department of Homeland Security, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 3586 (EH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-04-13</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>62 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18f33f433</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3586eh</identifier>
+<identifier type="preferred citation">H.R. 3586</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h3586_eh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3586eh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3586eh/html/BILLS-114hr3586eh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3586eh/pdf/BILLS-114hr3586eh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3586eh/xml/BILLS-114hr3586eh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-04-14</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-04-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr3586eh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 6 Section 201et seq.</partNumber>
+  <partNumber>Title 6 Section 211et seq.</partNumber>
+  <partNumber>Title 6 Section 211note</partNumber>
+  <partNumber>Title 6 Section 231et seq.</partNumber>
+  <partNumber>Title 6 Section 341</partNumber>
+  <partNumber>Title 6 Section 921</partNumber>
+  <partNumber>Title 6 Section 922</partNumber>
+  <partNumber>Title 6 Section 941</partNumber>
+  <partNumber>Title 6 Section 945</partNumber>
+  <partNumber>Title 6 Section 962</partNumber>
+  <partNumber>Title 6 Section 968</partNumber>
+  <partNumber>Title 6 Section 983</partNumber>
+  <partNumber>Title 6 Section 984</partNumber>
+</titleInfo>
+ <identifier type="USC citation">6 U.S.C. 201et seq.</identifier>
+ <identifier type="USC citation">6 U.S.C. 211et seq.</identifier>
+ <identifier type="USC citation">6 U.S.C. 211note</identifier>
+ <identifier type="USC citation">6 U.S.C. 231et seq.</identifier>
+ <identifier type="USC citation">6 U.S.C. 341</identifier>
+ <identifier type="USC citation">6 U.S.C. 921</identifier>
+ <identifier type="USC citation">6 U.S.C. 922</identifier>
+ <identifier type="USC citation">6 U.S.C. 941</identifier>
+ <identifier type="USC citation">6 U.S.C. 945</identifier>
+ <identifier type="USC citation">6 U.S.C. 962</identifier>
+ <identifier type="USC citation">6 U.S.C. 968</identifier>
+ <identifier type="USC citation">6 U.S.C. 983</identifier>
+ <identifier type="USC citation">6 U.S.C. 984</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 19 Section 1451</partNumber>
+  <partNumber>Title 19 Section 58c(e)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">19 U.S.C. 1451</identifier>
+ <identifier type="USC citation">19 U.S.C. 58c(e)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 40 Section 3307</partNumber>
+</titleInfo>
+ <identifier type="USC citation">40 U.S.C. 3307</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 5121et seq.</partNumber>
+  <partNumber>Title 42 Section 5143</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 5121et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 5143</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 46 Section 70101note</partNumber>
+  <partNumber>Title 46 Section 70105</partNumber>
+  <partNumber>Title 46 Section 70107A</partNumber>
+</titleInfo>
+ <identifier type="USC citation">46 U.S.C. 70101note</identifier>
+ <identifier type="USC citation">46 U.S.C. 70105</identifier>
+ <identifier type="USC citation">46 U.S.C. 70107A</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 107-210</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 107-210</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 109-295</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 109-295</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 109-347</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 109-347</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 113-6</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 113-6</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 113-76</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 113-76</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr3586eh</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>3586</billNumber>
+ <billVersion reprint="false">eh</billVersion>
+ <fileSuffix>eh</fileSuffix>
+ <law congress="107" isPrivate="false" number="210"></law>
+ <law congress="109" isPrivate="false" number="295"></law>
+ <law congress="109" isPrivate="false" number="347"></law>
+ <law congress="113" isPrivate="false" number="6"></law>
+ <law congress="113" isPrivate="false" number="76"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="6">
+                      <section detail="et seq." number="201"></section>
+                      <section detail="et seq." number="211"></section>
+                      <section detail="note" number="211"></section>
+                      <section detail="et seq." number="231"></section>
+                      <section number="341"></section>
+                      <section number="921"></section>
+                      <section number="922"></section>
+                      <section number="941"></section>
+                      <section number="945"></section>
+                      <section number="962"></section>
+                      <section number="968"></section>
+                      <section number="983"></section>
+                      <section number="984"></section>
+                </USCode>
+ <USCode title="19">
+                      <section number="1451"></section>
+                      <section detail="(e)" number="58c"></section>
+                </USCode>
+ <USCode title="40">
+                      <section number="3307"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="et seq." number="5121"></section>
+                      <section number="5143"></section>
+                </USCode>
+ <USCode title="46">
+                      <section detail="note" number="70101"></section>
+                      <section number="70105"></section>
+                      <section number="70107A"></section>
+                </USCode>
+</extension>
+</mods>

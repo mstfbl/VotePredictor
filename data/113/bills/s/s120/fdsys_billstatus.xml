@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-10-10</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 217.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2013-10-10</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>14000</actionCode>
+        <text>Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.</text>
+        <links />
+        <actionDate>2013-10-10</actionDate>
+      </item>
+      <item>
+        <actionDate>2013-09-17</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-01-23</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-01-23</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-01-23</introducedDate>
+    <updateDate>2016-10-25T16:20:07Z</updateDate>
+    <createDate>2013-01-24T07:00:56Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfr00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Foreign Relations Committee</name>
+          <activities>
+            <item>
+              <date>2013-10-10T21:18:26Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2013-09-17T18:15:07Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2013-01-23T22:26:58Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <state>LA</state>
+        <bioguideId>L000550</bioguideId>
+        <sponsorshipDate>2013-01-23</sponsorshipDate>
+        <identifiers>
+          <lisID>1546</lisID>
+          <gpoId>8251</gpoId>
+          <bioguideId>L000550</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Landrieu, Mary L. [D-LA]</fullName>
+        <firstName>MARY</firstName>
+        <lastName>LANDRIEU</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>DE</state>
+        <bioguideId>C001088</bioguideId>
+        <sponsorshipDate>2013-09-17</sponsorshipDate>
+        <identifiers>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <firstName>Christopher</firstName>
+        <lastName>Coons</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NJ</state>
+        <bioguideId>M000639</bioguideId>
+        <sponsorshipDate>2013-09-18</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <firstName>ROBERT</firstName>
+        <lastName>MENENDEZ</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NH</state>
+        <bioguideId>S001181</bioguideId>
+        <sponsorshipDate>2013-09-18</sponsorshipDate>
+        <identifiers>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <firstName>Jeanne</firstName>
+        <lastName>Shaheen</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Malala Yousafzai Scholarship Act</title>
+    <titles>
+      <item>
+        <chamberCode>S</chamberCode>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberName>Senate</chamberName>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <title>Malala Yousafzai Scholarship Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Malala Yousafzai Scholarship Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to expand the number of scholarships available to Pakistani women under the Merit and Needs-Based Scholarship Program.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Malala Yousafzai Scholarship Act</title>
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Malala Yousafzai Scholarship Act - Expresses the sense of Congress that: (1) education and freedom from discrimination are fundamental human rights, and (2) educational exchanges increase people-to-people ties and promote institutional linkages between this country and other countries.</p> <p>Encourages the State Department and the U.S. Agency for International Development (USAID) to continue to support Pakistani education initiatives, especially those for women.</p> <p>Directs the USAID Administrator to increase the number of scholarships available under the Merit and Needs-Based Scholarship Program (Program) during each fiscal year from FY2013-FY2016 by 30% compared to the number of scholarships awarded during FY2012.</p> <p>Requires all the additional scholarships to be awarded to Pakistani women. Directs the USAID Administrator to make every effort to award 50% of the other scholarships available under the Program to Pakistani women.</p>]]></text>
+          <lastSummaryUpdateDate>2013-12-31T20:24:32Z</lastSummaryUpdateDate>
+          <updateDate>2013-01-23T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2013-01-23</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+        <item>
+          <name>Reported to Senate amended</name>
+          <text><![CDATA[<p>Malala Yousafzai Scholarship Act - Expresses the sense of Congress that: (1) every individual, regardless of gender, should have the opportunity to pursue an education free from the fear of discrimination; and (2) educational exchanges increase people-to-people ties and promote institutional linkages between this country and other countries.</p> <p>Encourages the State Department and the U.S. Agency for International Development (USAID) to continue to support Pakistani education initiatives, especially those for women.</p> <p>Directs the USAID Administrator to increase the number of scholarships to women under the Merit and Needs-Based Scholarship Program (Program) during each of calendar years 2013 through 2015 over the level awarded to women in calendar year 2011. (The Program awards scholarships for university study to academically talented, financially needy Pakistani students.)</p> <p>Requires the additional scholarships to be awarded: (1) in accordance with existing scholarship criteria, and (2) for a range of disciplines to improve the employability of graduates and to meet the needs of the scholarship recipients.</p> <p> Directs the USAID Administrator to make every effort to award 50% of the scholarships available under the Program to Pakistani women.</p> <p>Directs the USAID Administrator to designate appropriate USAID officials to provide Congress with briefings on the implementation of these Program requirements.</p> <p>Makes specified appropriations for foreign assistance to Pakistan that remain unobligated on the date of this Act's enactment available for the additional scholarships authorized by this Act.</p>]]></text>
+          <lastSummaryUpdateDate>2013-12-31T20:23:22Z</lastSummaryUpdateDate>
+          <updateDate>2013-10-10T11:29:36Z</updateDate>
+          <versionCode>01</versionCode>
+          <actionDate>2013-10-10</actionDate>
+          <actionDesc>Reported to Senate amended</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates>
+      <item>
+        <title>S. 120, Malala Yousafzai Scholarship Act</title>
+        <url>http://www.cbo.gov/publication/44612</url>
+        <pubDate>2013-09-25T13:50:00Z</pubDate>
+      </item>
+      <item>
+        <title>S. 120, Malala Yousafzai Scholarship Act</title>
+        <url>https://www.cbo.gov/publication/44612</url>
+        <pubDate>2013-09-25T13:50:00Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 603.</text>
+          <actionDate>2014-11-20</actionDate>
+        </latestAction>
+        <latestTitle>Malala Yousafzai Scholarship Act</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>3583</number>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Area studies and international education</name>
+          </item>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>International exchange and broadcasting</name>
+          </item>
+          <item>
+            <name>Pakistan</name>
+          </item>
+          <item>
+            <name>Sex, gender, sexual orientation discrimination</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Women's education</name>
+          </item>
+          <item>
+            <name>Women's rights</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 217.</text>
+      <actionDate>2013-10-10</actionDate>
+    </latestAction>
+    <billNumber>120</billNumber>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>BARBARA</firstName>
+        <party>D</party>
+        <fullName>Sen. Boxer, Barbara [D-CA]</fullName>
+        <bioguideId>B000711</bioguideId>
+        <identifiers>
+          <lisID>116</lisID>
+          <gpoId>8306</gpoId>
+          <bioguideId>B000711</bioguideId>
+        </identifiers>
+        <lastName>BOXER</lastName>
+        <middleName />
+        <state>CA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers>
+      <item>
+        <number>0217</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

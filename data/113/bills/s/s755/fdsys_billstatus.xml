@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-04-17</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2013-04-17</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-04-17</introducedDate>
+    <updateDate>2016-10-25T16:23:36Z</updateDate>
+    <createDate>2013-04-18T07:02:11Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssfi00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-04-17T20:02:02Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <middleName>MARGARET</middleName>
+        <firstName>SUSAN</firstName>
+        <identifiers>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>COLLINS</lastName>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001035</bioguideId>
+        <sponsorshipDate>2013-04-17</sponsorshipDate>
+        <state>ME</state>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Richard</firstName>
+        <identifiers>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Blumenthal</lastName>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001277</bioguideId>
+        <sponsorshipDate>2013-05-14</sponsorshipDate>
+        <state>CT</state>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Angus</firstName>
+        <identifiers>
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>King</lastName>
+        <fullName>Sen. King, Angus S. Jr. [I-ME]</fullName>
+        <party>I</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000383</bioguideId>
+        <sponsorshipDate>2013-05-14</sponsorshipDate>
+        <state>ME</state>
+      </item>
+      <item>
+        <middleName />
+        <firstName>MARIA</firstName>
+        <identifiers>
+          <lisID>172</lisID>
+          <gpoId>8288</gpoId>
+          <bioguideId>C000127</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>CANTWELL</lastName>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C000127</bioguideId>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <state>WA</state>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Enhanced Access to Medicaid Services Act of 2013</title>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Enhanced Access to Medicaid Services Act of 2013</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to amend title XIX of the Social Security Act to apply the Medicaid primary care payment rate to additional physician providers of primary care services.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Enhanced Access to Medicaid Services Act of 2013</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-05-07T18:15:04Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2013-04-17T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <actionDate>2013-04-17</actionDate>
+          <text><![CDATA[<p>Enhanced Access to Medicaid Services Act of 2013 - Amends title XIX (Medicaid) of the Social Security Act to apply the Medicaid primary care payment rate in 2013 and 2014 to additional physicians with a primary specialty designation of neurology, psychiatry, or obstetrics and gynecology.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <number>1838</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Enhanced Access to Medicaid Services Act of 2013</latestTitle>
+        <type>HR</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2013-05-10</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Neurological disorders</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2013-04-17</actionDate>
+    </latestAction>
+    <billNumber>755</billNumber>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Amy</firstName>
+        <party>D</party>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <bioguideId>K000367</bioguideId>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <lastName>Klobuchar</lastName>
+        <middleName />
+        <state>MN</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

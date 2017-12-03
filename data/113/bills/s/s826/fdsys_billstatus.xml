@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2013-04-26T07:02:13Z</createDate>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <lastName>Blumenthal</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Richard</firstName>
+        <sponsorshipDate>2013-04-25</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001277</bioguideId>
+        <state>CT</state>
+      </item>
+      <item>
+        <lastName>HARKIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Harkin, Tom [D-IA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>501</lisID>
+          <bioguideId>H000206</bioguideId>
+          <gpoId>8317</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>THOMAS</firstName>
+        <sponsorshipDate>2013-04-25</sponsorshipDate>
+        <middleName>RICHARD</middleName>
+        <bioguideId>H000206</bioguideId>
+        <state>IA</state>
+      </item>
+      <item>
+        <lastName>DURBIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Durbin, Richard [D-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>326</lisID>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>RICHARD</firstName>
+        <sponsorshipDate>2013-04-25</sponsorshipDate>
+        <middleName>J.</middleName>
+        <bioguideId>D000563</bioguideId>
+        <state>IL</state>
+      </item>
+      <item>
+        <lastName>Whitehouse</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1823</lisID>
+          <gpoId>8264</gpoId>
+          <bioguideId>W000802</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Sheldon</firstName>
+        <sponsorshipDate>2013-06-19</sponsorshipDate>
+        <middleName />
+        <bioguideId>W000802</bioguideId>
+        <state>RI</state>
+      </item>
+      <item>
+        <lastName>ROCKEFELLER</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Rockefeller, John D., IV [D-WV]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1424</lisID>
+          <bioguideId>R000361</bioguideId>
+          <gpoId>8273</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>JAY</firstName>
+        <sponsorshipDate>2013-07-23</sponsorshipDate>
+        <middleName />
+        <bioguideId>R000361</bioguideId>
+        <state>WV</state>
+      </item>
+    </cosponsors>
+    <title>Tobacco Tax and Enforcement Reform Act</title>
+    <actions>
+      <item>
+        <actionDate>2013-04-25</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-04-25</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <committeeReports />
+    <updateDate>2016-10-25T16:23:51Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Business records</name>
+          </item>
+          <item>
+            <name>Customs enforcement</name>
+          </item>
+          <item>
+            <name>Department of the Treasury</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Manufacturing</name>
+          </item>
+          <item>
+            <name>Retail and wholesale trades</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+          <item>
+            <name>Smuggling and trafficking</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2013-04-25</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>L000123</bioguideId>
+        <state>NJ</state>
+        <fullName>Sen. Lautenberg, Frank R. [D-NJ]</fullName>
+        <firstName>FRANK</firstName>
+        <party>D</party>
+        <lastName>LAUTENBERG</lastName>
+        <middleName>R.</middleName>
+        <byRequestType />
+        <identifiers>
+          <lisID>1381</lisID>
+          <gpoId>8245</gpoId>
+          <bioguideId>L000123</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestTitle>To amend section 1101 of the Patient Protection and Affordable Care Act to provide additional funds to permit additional individuals to enroll under the preexisting condition insurance program and expand eligibility, to be funded through a temporary increase in the cigarette tax, and for other purposes.</latestTitle>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2013-04-23</actionDate>
+        </latestAction>
+        <number>1578</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>S</type>
+        <latestTitle>Tobacco Tax Equity Act of 2013</latestTitle>
+        <congress>113</congress>
+        <latestAction>
+          <text>Sponsor introductory remarks on measure. (CR S466)</text>
+          <actionDate>2013-02-04</actionDate>
+        </latestAction>
+        <number>194</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HR</type>
+        <latestTitle>STOP Act</latestTitle>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2013-08-02</actionDate>
+        </latestAction>
+        <number>2990</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-04-25T20:12:13Z</date>
+            </item>
+          </activities>
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-06-12T18:40:53Z</lastSummaryUpdateDate>
+          <updateDate>2013-04-25T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2013-04-25</actionDate>
+          <text><![CDATA[<p>Tobacco Tax and Enforcement Reform Act - Amends the Internal Revenue Code, with respect to the taxation of tobacco products, to: </p> <ul> <li> increase excise taxes on small cigars, cigarettes, pipe tobacco, roll-your-own tobacco, and other tobacco products;</li> <li>impose an excise tax on smokeless tobacco sold in discrete single-use units;</li> <li>tax smokeless tobacco and other tobacco products at a level equivalent to the tax rate for cigarettes on an estimated per use basis;</li> <li>provide for annual inflation adjustments after 2013 to excise tax rates on cigarettes and tobacco products; </li> <li> restrict the sale, lease, export or import, or delivery of tobacco production machines to persons lawfully engaged in: (1) the sale, lease, export or import, or delivery of such machines; (2) the manufacture or packaging of tobacco products or processed tobacco; or (3) the application of unique identification markings onto tobacco products or processed tobacco packages; </li> <li>define "tobacco production machine" as a machine used to manufacture or package tobacco products or processed tobacco or to apply unique identification markings or other tax-payment indicia to packages of tobacco products or processed tobacco; </li> <li>require manufacturers and importers of tobacco products to affix a unique identification marking to each package of tobacco products or processed tobacco prior to sale or distribution in the United States or prior to export; </li> <li>direct the Secretary of the Treasury to design a system of unique identification markings that does not interfere with state, local, or tribal tax stamps and markings;</li> <li>require manufacturers, sellers, or importers of tobacco production machines to apply for and obtain permits to manufacture or import tobacco products; </li> <li>establish new criminal offenses relating to the licensing and distribution of tobacco products or processed tobacco; </li> <li>increase the civil penalty for tobacco-related infractions from $1,000 to $10,000; and </li> <li>allow sharing of tax return information with government officials for the administration of laws relating to tobacco products and processed tobacco.</li> </ul> <p>Requires the Secretary of the Treasury to coordinate with other federal agencies and officials to prevent and reduce tobacco tax evasion and contraband trafficking in tobacco products and processed tobacco and to enforce settlement agreements between tobacco companies and governmental entities.</p> <p>Amends the Tariff Act of 1930 to impose a civil penalty for the importation of tobacco products and cigarette papers and tubes by fraudulent means.</p> <p>Provides for the enforcement of this Act in Indian tribal areas.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <introducedDate>2013-04-25</introducedDate>
+    <billType>S</billType>
+    <congress>113</congress>
+    <billNumber>826</billNumber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Tobacco Tax and Enforcement Reform Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 to reform and enforce taxation of tobacco products.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Tobacco Tax and Enforcement Reform Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

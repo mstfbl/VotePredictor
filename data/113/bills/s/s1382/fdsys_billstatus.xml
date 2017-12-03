@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-07-29</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-07-29</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-07-29</introducedDate>
+    <updateDate>2016-10-25T16:26:20Z</updateDate>
+    <createDate>2013-07-30T03:41:31Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssev00</systemCode>
+          <activities>
+            <item>
+              <date>2013-07-29T22:35:42Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Environment and Public Works Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>C000560</bioguideId>
+        <identifiers>
+          <bioguideId>C000560</bioguideId>
+          <lisID>212</lisID>
+          <gpoId>8293</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Coburn, Tom [R-OK]</fullName>
+        <firstName>TOM</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-07-29</sponsorshipDate>
+        <lastName>COBURN</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>OK</state>
+      </item>
+      <item>
+        <bioguideId>P000590</bioguideId>
+        <identifiers>
+          <lisID>1701</lisID>
+          <gpoId>8241</gpoId>
+          <bioguideId>P000590</bioguideId>
+        </identifiers>
+        <middleName>Lunsford</middleName>
+        <fullName>Sen. Pryor, Mark L. [D-AR]</fullName>
+        <firstName>Mark</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-07-29</sponsorshipDate>
+        <lastName>Pryor</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>AR</state>
+      </item>
+      <item>
+        <bioguideId>B001265</bioguideId>
+        <identifiers>
+          <lisID>1898</lisID>
+          <gpoId>8301</gpoId>
+          <bioguideId>B001265</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Begich, Mark [D-AK]</fullName>
+        <firstName>Mark</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-07-29</sponsorshipDate>
+        <lastName>Begich</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>AK</state>
+      </item>
+      <item>
+        <bioguideId>T000464</bioguideId>
+        <identifiers>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <firstName>Jon</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-07-29</sponsorshipDate>
+        <lastName>Tester</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>MT</state>
+      </item>
+      <item>
+        <bioguideId>P000449</bioguideId>
+        <identifiers>
+          <lisID>924</lisID>
+          <gpoId>8266</gpoId>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <firstName>ROB</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-07-29</sponsorshipDate>
+        <lastName>PORTMAN</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>OH</state>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Federal Real Property Asset Management Reform Act of 2013</title>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Federal Real Property Asset Management Reform Act of 2013</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to require the Federal Government to expedite the sale of underutilized Federal real property.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Federal Real Property Asset Management Reform Act of 2013</title>
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Federal Real Property Asset Management Reform Act of 2013 - States that the purpose of this Act is to increase the efficiency and effectiveness of the federal government in managing real property by: (1) requiring federal agencies to maintain an up-to-date inventory of real property, (2) establishing a Federal Real Property Council to develop guidance on and ensure the implementation of strategies for better managing federal real property, and (3) authorizing a pilot program to expedite the disposal of surplus real property. </p> <p>Requires each federal agency to: (1) maintain adequate inventory controls and accountability systems for real property under its control, (2) develop current and future workforce projections to assess the need of the federal workforce regarding the use of real property, (3) continuously survey real property under its control to identify excess and underutilized property and other real property suitable for colocation or consolidation with other agencies and facilities, (4) establish goals to reduce excess and underutilized federal property, (5) assess leased space to identify space that is not fully used or occupied, and (6) conduct an inventory and make an assessment of real property under its control on an annual basis.</p> <p>Establishes a Federal Real Property Council to: (1) develop guidance and ensure implementation of an efficient and effective real property management strategy, (2) identify opportunities to better manage real property assets, and (3) reduce the costs of managing real property. Requires agencies with independent leasing authority to submit to the Council a list of all their leases, including operating leases.</p> <p>Requires the Administrator of the General Services Administration (GSA) to establish and maintain a single, comprehensive, and descriptive database of real property under the custody and control of all federal agencies</p> <p>Requires the Director of the Office of Management and Budget (OMB) to establish a pilot program to dispose of, by sale, transfer, or other means of disposal, any surplus property. Requires the Comptroller General (GAO) to report on such pilot program.</p> <p>Authorizes the Secretary of Housing and Urban Development (HUD) to make grants to private nonprofit organizations to purchase real property to assist the homeless.</p>]]></text>
+          <actionDate>2013-07-29</actionDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2013-07-29T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-09-20T18:46:36Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>1398</number>
+        <type>S</type>
+        <latestTitle>Federal Real Property Asset Management Reform Act of 2013</latestTitle>
+        <latestAction>
+          <actionDate>2013-11-19</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 249.</text>
+        </latestAction>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>1486</number>
+        <type>S</type>
+        <latestTitle>Postal Reform Act of 2014</latestTitle>
+        <latestAction>
+          <actionDate>2014-07-31</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 523.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Homelessness and emergency shelter</name>
+          </item>
+          <item>
+            <name>Housing and community development funding</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <actionDate>2013-07-29</actionDate>
+    </latestAction>
+    <billNumber>1382</billNumber>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>THOMAS</firstName>
+        <party>D</party>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <bioguideId>C000174</bioguideId>
+        <identifiers>
+          <lisID>179</lisID>
+          <gpoId>8283</gpoId>
+          <bioguideId>C000174</bioguideId>
+        </identifiers>
+        <lastName>CARPER</lastName>
+        <middleName>R.</middleName>
+        <state>DE</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

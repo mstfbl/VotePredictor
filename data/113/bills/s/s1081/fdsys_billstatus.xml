@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-05-23</actionDate>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>ssas00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2013-05-23</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2013-05-23</introducedDate>
+    <updateDate>2016-10-25T16:24:57Z</updateDate>
+    <createDate>2013-05-24T07:01:35Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssas00</systemCode>
+          <activities>
+            <item>
+              <date>2013-05-23T21:57:57Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Armed Services Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000384</bioguideId>
+        <identifiers>
+          <lisID>2176</lisID>
+          <gpoId />
+          <bioguideId>K000384</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <lastName>Kaine</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>VA</state>
+        <firstName>Timothy</firstName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Military Whistleblower Protection Enhancement Act of 2013</title>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Military Whistleblower Protection Enhancement Act of 2013</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to amend title 10, United States Code, to expand and enhance authorities on protected communications of members of the Armed Forces, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Military Whistleblower Protection Enhancement Act of 2013</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Military Whistleblower Protection Enhancement Act of 2013 - Revises provisions concerning protected communications from members of the Armed Forces (members) to specified military and government officials (military whistleblower provisions) to include communications made to a court, grand jury, or court-martial proceeding or to an authorized official of the Department of Justice (DOJ) or another law enforcement agency.</p> <p>Includes as additional protected communications any alleged violation of law, rule, or regulation, including those prohibiting rape, sexual assault, or other sexual misconduct under provisions of the Uniform Code of Military Justice (UCMJ).</p> <p>Provides that neither an initial determination of whether a prohibited personnel retaliatory action was taken against a member for such a communication nor a subsequent investigation is required in the case of an allegation made more than one year (under current law, 60 days) after the member first becomes aware of the personnel action.</p> <p>Requires reports by inspectors general of the military departments concerned on prohibited retaliatory personnel actions to: (1) be submitted to such department's Secretary (under current law, to the Secretary of Defense [DOD]); and (2) include an explicit determination as to whether a prohibited personnel action has occurred and recommendations for disposition of the complaint, including appropriate corrective action for the member. Requires any such corrective action to occur within 30 days after the receipt of such report. Requires the Secretary of Homeland Security (DHS) (with respect to the Coast Guard) and the Secretary concerned, upon determining that an order for corrective or disciplinary action is not appropriate, to notify the Secretary of Defense, the congressional defense committees, and the member of such determination and the reasons for not taking action. Requires (under current law, allows) the appropriate correction of military records upon the request of a member for whom a prohibited action determination has been made.</p> <p>Establishes the member's and agency's burden of proof with respect to military whistleblower protection investigations and determinations.</p>]]></text>
+          <updateDate>2013-05-23T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2013-09-06T18:06:07Z</lastSummaryUpdateDate>
+          <actionDate>2013-05-23</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Assault and harassment offenses</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crimes against women</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Employment discrimination and employee rights</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Military law</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Personnel records</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+      <actionDate>2013-05-23</actionDate>
+    </latestAction>
+    <billNumber>1081</billNumber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Mark</firstName>
+        <party>D</party>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <bioguideId>W000805</bioguideId>
+        <identifiers>
+          <bioguideId>W000805</bioguideId>
+          <gpoId>8269</gpoId>
+          <lisID>1897</lisID>
+        </identifiers>
+        <lastName>Warner</lastName>
+        <middleName>R.</middleName>
+        <state>VA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

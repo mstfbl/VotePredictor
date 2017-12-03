@@ -1,0 +1,181 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18deae094">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act to facilitate a pro-growth environment for the developing commercial space industry by encouraging private sector investment and creating more stable and predictable regulatory conditions, and for other purposes.;U.S. Commercial Space Launch Competitiveness Act;Spurring Private Aerospace Competitiveness and Entrepreneurship Act of 2015;SPACE Act of 2015;Space Resource Exploration and Utilization Act of 2015;H.R. 2262 (EAS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-11-10</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act to facilitate a pro-growth environment for the developing commercial space industry by encouraging private sector investment and creating more stable and predictable regulatory conditions, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>U.S. Commercial Space Launch Competitiveness Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Spurring Private Aerospace Competitiveness and Entrepreneurship Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>SPACE Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Space Resource Exploration and Utilization Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2262 (EAS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-11-10</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>48 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18deae094</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2262eas</identifier>
+<identifier type="preferred citation">H.R. 2262</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2262_eas.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2262eas/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2262eas/html/BILLS-114hr2262eas.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2262eas/pdf/BILLS-114hr2262eas.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2262eas/xml/BILLS-114hr2262eas.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-11-10</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr2262eas</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 18322</partNumber>
+  <partNumber>Title 42 Section 18351</partNumber>
+  <partNumber>Title 42 Section 18353</partNumber>
+  <partNumber>Title 42 Section 18354</partNumber>
+  <partNumber>Title 42 Section 18354(d)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 18322</identifier>
+ <identifier type="USC citation">42 U.S.C. 18351</identifier>
+ <identifier type="USC citation">42 U.S.C. 18353</identifier>
+ <identifier type="USC citation">42 U.S.C. 18354</identifier>
+ <identifier type="USC citation">42 U.S.C. 18354(d)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 51 Section 50902</partNumber>
+  <partNumber>Title 51 Section 50914</partNumber>
+  <partNumber>Title 51 Section 50918</partNumber>
+  <partNumber>Title 51 Chapter 509</partNumber>
+</titleInfo>
+ <identifier type="USC citation">51 U.S.C. 50902</identifier>
+ <identifier type="USC citation">51 U.S.C. 50914</identifier>
+ <identifier type="USC citation">51 U.S.C. 50918</identifier>
+ <identifier type="USC citation">51 U.S.C. Chapter 509</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 124 Page 2806</partNumber>
+  <partNumber>Volume 124 Page 2820</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">124 Stat. 2806</identifier>
+ <identifier type="Statute citation">124 Stat. 2820</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-267</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-267</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr2262eas</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2262</billNumber>
+ <billVersion reprint="false">eas</billVersion>
+ <fileSuffix>eas</fileSuffix>
+ <shortTitle type="measure">U.S. Commercial Space Launch Competitiveness Act</shortTitle>
+ <shortTitle level="title" type="level">Spurring Private Aerospace Competitiveness and Entrepreneurship Act of 2015</shortTitle>
+ <shortTitle level="title" type="level">SPACE Act of 2015</shortTitle>
+ <shortTitle level="title" type="level">Space Resource Exploration and Utilization Act of 2015</shortTitle>
+ <officialTitle>An Act to facilitate a pro-growth environment for the developing commercial space industry by encouraging private sector investment and creating more stable and predictable regulatory conditions, and for other purposes.</officialTitle>
+ <law congress="111" isPrivate="false" number="267"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="42">
+                      <section number="18322"></section>
+                      <section number="18351"></section>
+                      <section number="18353"></section>
+                      <section number="18354"></section>
+                      <section detail="(d)" number="18354"></section>
+                </USCode>
+ <USCode title="51">
+                      <section number="50902"></section>
+                      <section number="50914"></section>
+                      <section number="50918"></section>
+                      <chapter number="509"></chapter>
+                </USCode>
+ <statuteAtLarge volume="124">
+                      <pages pages="2806"></pages>
+                      <pages pages="2820"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

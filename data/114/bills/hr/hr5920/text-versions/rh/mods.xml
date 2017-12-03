@@ -1,0 +1,269 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee192d9f1d6">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To enhance whistleblower protection for contractor and grantee employees.;Whistleblower Protections for Contractors Act;H.R. 5920 (RH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-11-30</dateIngested>
+</extension>
+<titleInfo>
+ <title>To enhance whistleblower protection for contractor and grantee employees.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Whistleblower Protections for Contractors Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 5920 (RH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-11-29</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>8 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee192d9f1d6</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5920rh</identifier>
+<identifier type="preferred citation">H.R. 5920</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h5920_rh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5920rh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5920rh/html/BILLS-114hr5920rh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5920rh/pdf/BILLS-114hr5920rh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5920rh/xml/BILLS-114hr5920rh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-11-30</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-11-30</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr5920rh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Elijah E. Cummings</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jason Chaffetz</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Conyers, Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Stephen F. Lynch</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Hakeem S. Jeffries</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tammy Duckworth</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Armed Services</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Oversight and Government Reform</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 2324(k)</partNumber>
+  <partNumber>Title 10 Section 2409(a)(1)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 2324(k)</identifier>
+ <identifier type="USC citation">10 U.S.C. 2409(a)(1)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 41 Section 4304(a)(15)</partNumber>
+  <partNumber>Title 41 Section 4310</partNumber>
+  <partNumber>Title 41 Section 4712</partNumber>
+  <partNumber>Title 41 Section 4712(a)(1)</partNumber>
+  <partNumber>Title 41 Chapter 47</partNumber>
+</titleInfo>
+ <identifier type="USC citation">41 U.S.C. 4304(a)(15)</identifier>
+ <identifier type="USC citation">41 U.S.C. 4310</identifier>
+ <identifier type="USC citation">41 U.S.C. 4712</identifier>
+ <identifier type="USC citation">41 U.S.C. 4712(a)(1)</identifier>
+ <identifier type="USC citation">41 U.S.C. Chapter 47</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 126 Page 1833</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">126 Stat. 1833</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-239</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-239</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Union Calendar No. 657</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr5920rh</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>5920</billNumber>
+ <billVersion reprint="false">rh</billVersion>
+ <fileSuffix>rh</fileSuffix>
+ <shortTitle type="measure">Whistleblower Protections for Contractors Act</shortTitle>
+ <officialTitle>To enhance whistleblower protection for contractor and grantee employees.</officialTitle>
+ <action date="2016-07-21">Mr. Cummings (for himself, Mr. Chaffetz, Mr. Conyers, Mr. Lynch, and Mr. Jeffries) introduced the following bill; which was referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <action date="2016-11-29">Additional sponsor: Ms. Duckworth</action>
+ <action date="2016-11-29">Reported from the Committee on Oversight and Government Reform</action>
+ <action date="2016-11-29">The Committee on Armed Services discharged; committed to the Committee of the Whole House on the State of the Union and ordered to be printed</action>
+ <congCommittee authorityId="hsas00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Armed Services</name>
+                      <name type="authority-short">Armed Services</name>
+                </congCommittee>
+ <congCommittee authorityId="hsgo00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Oversight and Government Reform</name>
+                      <name type="authority-short">Oversight and Government Reform</name>
+                </congCommittee>
+ <congMember authorityId="256" bioGuideId="C000984" chamber="H" congress="114" gpoId="7982" party="D" role="SPONSOR" state="MD">
+                      <name type="parsed">Mr. Cummings</name>
+                      <name type="authority-fnf">Elijah E. Cummings</name>
+                      <name type="authority-lnf">Cummings, Elijah E.</name>
+                      <name type="authority-other">Elijah Cummings</name>
+                </congMember>
+ <congMember authorityId="1956" bioGuideId="C001076" chamber="H" congress="114" gpoId="8191" party="R" role="COSPONSOR" state="UT">
+                      <name type="parsed">Mr. Chaffetz</name>
+                      <name type="authority-fnf">Jason Chaffetz</name>
+                      <name type="authority-lnf">Chaffetz, Jason</name>
+                </congMember>
+ <congMember authorityId="229" bioGuideId="C000714" chamber="H" congress="114" gpoId="7999" party="D" role="COSPONSOR" state="MI">
+                      <name type="parsed">Mr. Conyers</name>
+                      <name type="authority-fnf">John Conyers, Jr.</name>
+                      <name type="authority-lnf">Conyers, John, Jr.</name>
+                      <name type="authority-other">John Conyers Jr.</name>
+                </congMember>
+ <congMember authorityId="1686" bioGuideId="L000562" chamber="H" congress="114" gpoId="7974" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Mr. Lynch</name>
+                      <name type="authority-fnf">Stephen F. Lynch</name>
+                      <name type="authority-lnf">Lynch, Stephen F.</name>
+                      <name type="authority-other">Mr. Stephen Lynch</name>
+                </congMember>
+ <congMember authorityId="2149" bioGuideId="J000294" chamber="H" congress="114" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Jeffries</name>
+                      <name type="authority-fnf">Hakeem S. Jeffries</name>
+                      <name type="authority-lnf">Jeffries, Hakeem S.</name>
+                      <name type="authority-other">Mr. Hakeem Jeffries</name>
+                </congMember>
+ <congMember authorityId="2123" bioGuideId="D000622" chamber="H" congress="114" party="D" role="COSPONSOR" state="IL">
+                      <name type="parsed">Ms. Duckworth</name>
+                      <name type="authority-fnf">Tammy Duckworth</name>
+                      <name type="authority-lnf">Duckworth, Tammy</name>
+                </congMember>
+ <law congress="112" isPrivate="false" number="239"></law>
+ <congCalendar congress="114" number="657" type="UNION"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="10">
+                      <section detail="(k)" number="2324"></section>
+                      <section detail="(a)(1)" number="2409"></section>
+                </USCode>
+ <USCode title="41">
+                      <section detail="(a)(15)" number="4304"></section>
+                      <section number="4310"></section>
+                      <section number="4712"></section>
+                      <section detail="(a)(1)" number="4712"></section>
+                      <chapter number="47"></chapter>
+                </USCode>
+ <statuteAtLarge volume="126">
+                      <pages pages="1833"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

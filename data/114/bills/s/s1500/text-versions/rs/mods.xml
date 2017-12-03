@@ -1,0 +1,357 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18dd7f56d">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To clarify Congressional intent regarding the regulation of the use of pesticides in or near navigable waters, and for other purposes.;Sensible Environmental Protection Act of 2015;S. 1500 (RS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-10-30</dateIngested>
+</extension>
+<titleInfo>
+ <title>To clarify Congressional intent regarding the regulation of the use of pesticides in or near navigable waters, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Sensible Environmental Protection Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1500 (RS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-10-29</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>6 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18dd7f56d</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s1500rs</identifier>
+<identifier type="preferred citation">S. 1500</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1500_rs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s1500rs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1500rs/html/BILLS-114s1500rs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1500rs/pdf/BILLS-114s1500rs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1500rs/xml/BILLS-114s1500rs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-10-30</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s1500rs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mike Crapo</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Claire McCaskill</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Barrasso</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Boozman</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Thomas R. Carper</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Christopher A. Coons</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Joe Donnelly</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael B. Enzi</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Deb Fischer</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Heidi Heitkamp</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>James M. Inhofe</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jerry Moran</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>James E. Risch</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Pat Roberts</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Thom Tillis</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David Vitter</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Environment and Public Works</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 7 Section 136a(f)</partNumber>
+  <partNumber>Title 7 Section 136et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">7 U.S.C. 136a(f)</identifier>
+ <identifier type="USC citation">7 U.S.C. 136et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 33 Section 1342</partNumber>
+</titleInfo>
+ <identifier type="USC citation">33 U.S.C. 1342</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 284</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s1500rs</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1500</billNumber>
+ <billVersion reprint="false">rs</billVersion>
+ <fileSuffix>rs</fileSuffix>
+ <shortTitle type="measure">Sensible Environmental Protection Act of 2015</shortTitle>
+ <officialTitle>To clarify Congressional intent regarding the regulation of the use of pesticides in or near navigable waters, and for other purposes.</officialTitle>
+ <action date="2015-06-03">Mr. Crapo (for himself, Mrs. McCaskill, Mr. Barrasso, Mr. Boozman, Mr. Carper, Mr. Coons, Mr. Donnelly, Mr. Enzi, Mrs. Fischer, Ms. Heitkamp, Mr. Inhofe, Mr. Moran, Mr. Risch, Mr. Roberts, Mr. Tillis, and Mr. Vitter) introduced the following bill; which was read twice and referred to the Committee on Environment and Public Works</action>
+ <action date="2015-10-29">Reported by Mr. Inhofe, without amendment</action>
+ <congCommittee authorityId="ssev00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Environment and Public Works</name>
+                      <name type="authority-short">Environment and Public Works</name>
+                </congCommittee>
+ <congMember authorityId="250" bioGuideId="C000880" chamber="S" congress="114" gpoId="8289" party="R" role="SPONSOR" state="ID">
+                      <name type="parsed">Mr. Crapo</name>
+                      <name type="authority-fnf">Mike Crapo</name>
+                      <name type="authority-lnf">Crapo, Mike</name>
+                      <name type="authority-other">Michael Crapo</name>
+                </congMember>
+ <congMember authorityId="1820" bioGuideId="M001170" chamber="S" congress="114" gpoId="8252" party="D" role="COSPONSOR" state="MO">
+                      <name type="parsed">Mrs. McCaskill</name>
+                      <name type="authority-fnf">Claire McCaskill</name>
+                      <name type="authority-lnf">McCaskill, Claire</name>
+                </congMember>
+ <congMember authorityId="1881" bioGuideId="B001261" chamber="S" congress="114" gpoId="8300" party="R" role="COSPONSOR" state="WY">
+                      <name type="parsed">Mr. Barrasso</name>
+                      <name type="authority-fnf">John Barrasso</name>
+                      <name type="authority-lnf">Barrasso, John</name>
+                </congMember>
+ <congMember authorityId="1687" bioGuideId="B001236" chamber="S" congress="114" gpoId="8247" party="R" role="COSPONSOR" state="AR">
+                      <name type="parsed">Mr. Boozman</name>
+                      <name type="authority-fnf">John Boozman</name>
+                      <name type="authority-lnf">Boozman, John</name>
+                </congMember>
+ <congMember authorityId="179" bioGuideId="C000174" chamber="S" congress="114" gpoId="8283" party="D" role="COSPONSOR" state="DE">
+                      <name type="parsed">Mr. Carper</name>
+                      <name type="authority-fnf">Thomas R. Carper</name>
+                      <name type="authority-lnf">Carper, Thomas R.</name>
+                      <name type="authority-other">Thomas Carper</name>
+                </congMember>
+ <congMember authorityId="1984" bioGuideId="C001088" chamber="S" congress="114" gpoId="8297" party="D" role="COSPONSOR" state="DE">
+                      <name type="parsed">Mr. Coons</name>
+                      <name type="authority-fnf">Christopher A. Coons</name>
+                      <name type="authority-lnf">Coons, Christopher A.</name>
+                      <name type="authority-other">Mr. Christopher Coons</name>
+                </congMember>
+ <congMember authorityId="1850" bioGuideId="D000607" chamber="S" congress="114" gpoId="7941" party="D" role="COSPONSOR" state="IN">
+                      <name type="parsed">Mr. Donnelly</name>
+                      <name type="authority-fnf">Joe Donnelly</name>
+                      <name type="authority-lnf">Donnelly, Joe</name>
+                </congMember>
+ <congMember authorityId="1542" bioGuideId="E000285" chamber="S" congress="114" gpoId="8328" party="R" role="COSPONSOR" state="WY">
+                      <name type="parsed">Mr. Enzi</name>
+                      <name type="authority-fnf">Michael B. Enzi</name>
+                      <name type="authority-lnf">Enzi, Michael B.</name>
+                      <name type="authority-other">Michael Enzi</name>
+                </congMember>
+ <congMember authorityId="2179" bioGuideId="F000463" chamber="S" congress="114" party="R" role="COSPONSOR" state="NE">
+                      <name type="parsed">Mrs. Fischer</name>
+                      <name type="authority-fnf">Deb Fischer</name>
+                      <name type="authority-lnf">Fischer, Deb</name>
+                </congMember>
+ <congMember authorityId="2174" bioGuideId="H001069" chamber="S" congress="114" party="D" role="COSPONSOR" state="ND">
+                      <name type="parsed">Ms. Heitkamp</name>
+                      <name type="authority-fnf">Heidi Heitkamp</name>
+                      <name type="authority-lnf">Heitkamp, Heidi</name>
+                </congMember>
+ <congMember authorityId="583" bioGuideId="I000024" chamber="S" congress="114" gpoId="8322" party="R" role="COSPONSOR" state="OK">
+                      <name type="parsed">Mr. Inhofe</name>
+                      <name type="authority-fnf">James M. Inhofe</name>
+                      <name type="authority-lnf">Inhofe, James M.</name>
+                      <name type="authority-other">Jim Inhofe</name>
+                </congMember>
+ <congMember authorityId="1507" bioGuideId="M000934" chamber="S" congress="114" gpoId="8307" party="R" role="COSPONSOR" state="KS">
+                      <name type="parsed">Mr. Moran</name>
+                      <name type="authority-fnf">Jerry Moran</name>
+                      <name type="authority-lnf">Moran, Jerry</name>
+                </congMember>
+ <congMember authorityId="1896" bioGuideId="R000584" chamber="S" congress="114" gpoId="8274" party="R" role="COSPONSOR" state="ID">
+                      <name type="parsed">Mr. Risch</name>
+                      <name type="authority-fnf">James E. Risch</name>
+                      <name type="authority-lnf">Risch, James E.</name>
+                      <name type="authority-other">Mr. James Risch</name>
+                </congMember>
+ <congMember authorityId="968" bioGuideId="R000307" chamber="S" congress="114" gpoId="8275" party="R" role="COSPONSOR" state="KS">
+                      <name type="parsed">Mr. Roberts</name>
+                      <name type="authority-fnf">Pat Roberts</name>
+                      <name type="authority-lnf">Roberts, Pat</name>
+                </congMember>
+ <congMember authorityId="2291" bioGuideId="T000476" chamber="S" congress="114" party="R" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. Tillis</name>
+                      <name type="authority-fnf">Thom Tillis</name>
+                      <name type="authority-lnf">Tillis, Thom</name>
+                      <name type="authority-other">Mr. Thomas Roland Tillis</name>
+                </congMember>
+ <congMember authorityId="1609" bioGuideId="V000127" chamber="S" congress="114" gpoId="8267" party="R" role="COSPONSOR" state="LA">
+                      <name type="parsed">Mr. Vitter</name>
+                      <name type="authority-fnf">David Vitter</name>
+                      <name type="authority-lnf">Vitter, David</name>
+                </congMember>
+ <congCalendar congress="114" number="284" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="7">
+                      <section detail="(f)" number="136a"></section>
+                      <section detail="et seq." number="136"></section>
+                </USCode>
+ <USCode title="33">
+                      <section number="1342"></section>
+                </USCode>
+</extension>
+</mods>

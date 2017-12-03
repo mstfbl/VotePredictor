@@ -1,0 +1,198 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18d8708e5">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To establish a pilot program to train public housing residents as home health aides and in home-based health services to enable such residents to provide covered home-based health services to residents of public housing and residents of federally-assisted rental housing, who are elderly and disabled, and for other purposes.;Together We Care Act of 2015;H.R. 3467 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-09-14</dateIngested>
+</extension>
+<titleInfo>
+ <title>To establish a pilot program to train public housing residents as home health aides and in home-based health services to enable such residents to provide covered home-based health services to residents of public housing and residents of federally-assisted rental housing, who are elderly and disabled, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Together We Care Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 3467 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-09-09</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>16 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18d8708e5</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3467ih</identifier>
+<identifier type="preferred citation">H.R. 3467</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h3467_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3467ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3467ih/html/BILLS-114hr3467ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3467ih/pdf/BILLS-114hr3467ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3467ih/xml/BILLS-114hr3467ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-09-14</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr3467ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Nydia M. Velazquez</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Maxine Waters</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Financial Services</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 12 Section 1701q</partNumber>
+  <partNumber>Title 12 Section 1715l(d)(3)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">12 U.S.C. 1701q</identifier>
+ <identifier type="USC citation">12 U.S.C. 1715l(d)(3)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 4101et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 4101et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 11360et seq.</partNumber>
+  <partNumber>Title 42 Section 1395bbb(a)(3)(E)</partNumber>
+  <partNumber>Title 42 Section 1395x(m)</partNumber>
+  <partNumber>Title 42 Section 1396d(a)(24)</partNumber>
+  <partNumber>Title 42 Section 1396n</partNumber>
+  <partNumber>Title 42 Section 1437f</partNumber>
+  <partNumber>Title 42 Section 1437z-6</partNumber>
+  <partNumber>Title 42 Section 1485</partNumber>
+  <partNumber>Title 42 Section 8013</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 11360et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395bbb(a)(3)(E)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395x(m)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1396d(a)(24)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1396n</identifier>
+ <identifier type="USC citation">42 U.S.C. 1437f</identifier>
+ <identifier type="USC citation">42 U.S.C. 1437z-6</identifier>
+ <identifier type="USC citation">42 U.S.C. 1485</identifier>
+ <identifier type="USC citation">42 U.S.C. 8013</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr3467ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>3467</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Together We Care Act of 2015</shortTitle>
+ <officialTitle>To establish a pilot program to train public housing residents as home health aides and in home-based health services to enable such residents to provide covered home-based health services to residents of public housing and residents of federally-assisted rental housing, who are elderly and disabled, and for other purposes.</officialTitle>
+ <action date="2015-09-09">Ms. Velázquez (for herself and Ms. Maxine Waters of California) introduced the following bill; which was referred to the Committee on Financial Services</action>
+ <congCommittee authorityId="hsba00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Financial Services</name>
+                      <name type="authority-short">Financial Services</name>
+                </congCommittee>
+ <congMember authorityId="1184" bioGuideId="V000081" chamber="H" congress="114" gpoId="8073" party="D" role="SPONSOR" state="NY">
+                      <name type="parsed">Ms. Velázquez</name>
+                      <name type="authority-fnf">Nydia M. Velazquez</name>
+                      <name type="authority-lnf">Velazquez, Nydia M.</name>
+                      <name type="authority-other">Nydia Velazquez</name>
+                </congMember>
+ <congMember authorityId="1205" bioGuideId="W000187" chamber="H" congress="114" gpoId="7840" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Maxine Waters of California</name>
+                      <name type="authority-fnf">Maxine Waters</name>
+                      <name type="authority-lnf">Waters, Maxine</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="12">
+                      <section number="1701q"></section>
+                      <section detail="(d)(3)" number="1715l"></section>
+                </USCode>
+ <USCode title="25">
+                      <section detail="et seq." number="4101"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="et seq." number="11360"></section>
+                      <section detail="(a)(3)(E)" number="1395bbb"></section>
+                      <section detail="(m)" number="1395x"></section>
+                      <section detail="(a)(24)" number="1396d"></section>
+                      <section number="1396n"></section>
+                      <section number="1437f"></section>
+                      <section number="1437z-6"></section>
+                      <section number="1485"></section>
+                      <section number="8013"></section>
+                </USCode>
+</extension>
+</mods>

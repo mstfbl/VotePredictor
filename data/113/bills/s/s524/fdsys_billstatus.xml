@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2013-03-13T07:01:13Z</createDate>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <state>CO</state>
+        <bioguideId>U000038</bioguideId>
+        <sponsorshipDate>2013-03-12</sponsorshipDate>
+        <identifiers>
+          <lisID>1595</lisID>
+          <gpoId>8259</gpoId>
+          <bioguideId>U000038</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Udall, Mark [D-CO]</fullName>
+        <firstName>MARK</firstName>
+        <lastName>UDALL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MO</state>
+        <bioguideId>M001170</bioguideId>
+        <sponsorshipDate>2013-09-17</sponsorshipDate>
+        <identifiers>
+          <lisID>1820</lisID>
+          <gpoId>8252</gpoId>
+          <bioguideId>M001170</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <firstName>Claire</firstName>
+        <lastName>McCaskill</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <title>Pike National Historic Trail Study Act of 2013</title>
+    <actions>
+      <item>
+        <actionDate>2013-07-31</actionDate>
+        <committee>
+          <systemCode>sseg04</systemCode>
+          <name>National Parks Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 113-93.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-03-12</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2013-03-12</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <hearingsHeld>1</hearingsHeld>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <committeeReports />
+    <updateDate>2016-10-25T16:21:40Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Colorado</name>
+          </item>
+          <item>
+            <name>Historic sites and heritage areas</name>
+          </item>
+          <item>
+            <name>Kansas</name>
+          </item>
+          <item>
+            <name>Louisiana</name>
+          </item>
+          <item>
+            <name>Missouri</name>
+          </item>
+          <item>
+            <name>Nebraska</name>
+          </item>
+          <item>
+            <name>New Mexico</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+          <item>
+            <name>Texas</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <latestAction>
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 113-93.</text>
+      <actionDate>2013-07-31</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>B001267</bioguideId>
+        <state>CO</state>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <firstName>Michael</firstName>
+        <party>D</party>
+        <lastName>Bennet</lastName>
+        <middleName>F.</middleName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>B001267</bioguideId>
+          <lisID>1965</lisID>
+          <gpoId>8302</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <relatedBills />
+    <laws />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>sseg00</systemCode>
+          <activities>
+            <item>
+              <date>2013-03-12T15:28:26Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2013-07-31T18:56:08Z</date>
+                  <name>Hearings by</name>
+                </item>
+              </activities>
+              <name>National Parks Subcommittee</name>
+              <systemCode>sseg04</systemCode>
+            </item>
+          </subcommittees>
+          <name>Energy and Natural Resources Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-03-29T20:45:23Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2013-03-12T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <actionDate>2013-03-12</actionDate>
+          <text><![CDATA[<p> Pike National Historic Trail Study Act of 2013 - Amends the National Trails System Act to require a study for the designation of Pike's Trail, a series of routes that follow the route taken by Lt. Zebulon Montgomery Pike during the 1806-1807 Pike expedition that began in Fort Bellefontaine, Missouri, and ended in Natchitoches, Louisiana, as a national historic trail. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <introducedDate>2013-03-12</introducedDate>
+    <billType>S</billType>
+    <congress>113</congress>
+    <billNumber>524</billNumber>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Pike National Historic Trail Study Act of 2013</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend the National Trails System Act to provide for the study of the Pike National Historic Trail.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Pike National Historic Trail Study Act of 2013</title>
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

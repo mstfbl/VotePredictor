@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-09-11</actionDate>
+        <committee>
+          <name>Small Business and Entrepreneurship Committee</name>
+          <systemCode>sssb00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S5565</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S5565</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Small Business and Entrepreneurship. (text of measure as introduced: CR S5565)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2014-09-11</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2014-09-11</introducedDate>
+    <updateDate>2016-10-25T16:32:11Z</updateDate>
+    <createDate>2014-09-12T05:01:01Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sssb00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Small Business and Entrepreneurship Committee</name>
+          <activities>
+            <item>
+              <date>2014-09-11T17:17:43Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001277</bioguideId>
+        <firstName>Richard</firstName>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <state>CT</state>
+        <sponsorshipDate>2014-09-11</sponsorshipDate>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <lastName>Blumenthal</lastName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Veterans Small Business Enhancement Act of 2014</title>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Veterans Small Business Enhancement Act of 2014</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend the Small Business Act to direct the task force of the Office of Veterans Business Development to provide access to and manage the distribution of overseas excess or surplus property to veteran-owned small businesses.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Veterans Small Business Enhancement Act of 2014</title>
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Veterans Small Business Enhancement Act of 2014 - Amends the Small Business Act to require the interagency task force that is responsible for coordinating federal efforts to improve the business development and federal contracting opportunities available to small business concerns owned and controlled by veterans to coordinate administrative and regulatory activities and develop proposals to provide access to, and manage the distribution of, excess or surplus U.S. property located outside the United States to small business concerns owned and controlled by veterans, pursuant to a memorandum of understanding with the applicable state agency.</p>]]></text>
+          <lastSummaryUpdateDate>2014-10-01T19:06:33Z</lastSummaryUpdateDate>
+          <updateDate>2014-09-11T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2014-09-11</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <number>5231</number>
+        <latestAction>
+          <actionDate>2014-07-29</actionDate>
+          <text>Referred to the House Committee on Small Business.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>Veterans Small Business Enhancement Act of 2014</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship. (text of measure as introduced: CR S5565)</text>
+      <actionDate>2014-09-11</actionDate>
+    </latestAction>
+    <billNumber>2794</billNumber>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>RICHARD</firstName>
+        <party>D</party>
+        <fullName>Sen. Durbin, Richard [D-IL]</fullName>
+        <bioguideId>D000563</bioguideId>
+        <identifiers>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+          <lisID>326</lisID>
+        </identifiers>
+        <lastName>DURBIN</lastName>
+        <middleName>J.</middleName>
+        <state>IL</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

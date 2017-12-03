@@ -1,0 +1,229 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18f3d03de">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To improve homeland security, including domestic preparedness and response to terrorism, by reforming Federal Law Enforcement Training Centers to provide training to first responders, and for other purposes.;
+   		Federal Law Enforcement Training Centers Reform and Improvement Act of 2016;S. 2781 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-04-19</dateIngested>
+</extension>
+<titleInfo>
+ <title>To improve homeland security, including domestic preparedness and response to terrorism, by reforming Federal Law Enforcement Training Centers to provide training to first responders, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Federal Law Enforcement Training Centers Reform and Improvement Act of 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 2781 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-04-12</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>16 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18f3d03de</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s2781is</identifier>
+<identifier type="preferred citation">S. 2781</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s2781_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s2781is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2781is/html/BILLS-114s2781is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2781is/pdf/BILLS-114s2781is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2781is/xml/BILLS-114s2781is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-04-19</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-04-19</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s2781is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>David Perdue</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Johnny Isakson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tom Udall</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Martin Heinrich</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Judiciary</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 101</partNumber>
+  <partNumber>Title 5 Section 104</partNumber>
+  <partNumber>Title 5 Section 2105</partNumber>
+  <partNumber>Title 5 Section 4104</partNumber>
+  <partNumber>Title 5 Chapter 84</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 101</identifier>
+ <identifier type="USC citation">5 U.S.C. 104</identifier>
+ <identifier type="USC citation">5 U.S.C. 2105</identifier>
+ <identifier type="USC citation">5 U.S.C. 4104</identifier>
+ <identifier type="USC citation">5 U.S.C. Chapter 84</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 6 Section 453a</partNumber>
+  <partNumber>Title 6 Section 464</partNumber>
+</titleInfo>
+ <identifier type="USC citation">6 U.S.C. 453a</identifier>
+ <identifier type="USC citation">6 U.S.C. 464</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 9101</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 9101</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 49 Section 44921</partNumber>
+</titleInfo>
+ <identifier type="USC citation">49 U.S.C. 44921</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 108-90</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 108-90</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s2781is</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2781</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle>Federal Law Enforcement Training Centers Reform and Improvement Act of 2016</shortTitle>
+ <action date="2016-04-12">Mr. Perdue (for himself, Mr. Isakson, Mr. Udall, and Mr. Heinrich) introduced the following bill; which was read twice and referred to the Committee on the Judiciary</action>
+ <congCommittee authorityId="ssju00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Judiciary</name>
+                      <name type="authority-short">Judiciary</name>
+                </congCommittee>
+ <congMember authorityId="2286" bioGuideId="P000612" chamber="S" congress="114" party="R" role="SPONSOR" state="GA">
+                      <name type="parsed">Mr. Perdue</name>
+                      <name type="authority-fnf">David Perdue</name>
+                      <name type="authority-lnf">Perdue, David</name>
+                      <name type="authority-other">Mr. David Alfred Perdue</name>
+                </congMember>
+ <congMember authorityId="1608" bioGuideId="I000055" chamber="S" congress="114" gpoId="8323" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Isakson</name>
+                      <name type="authority-fnf">Johnny Isakson</name>
+                      <name type="authority-lnf">Isakson, Johnny</name>
+                </congMember>
+ <congMember authorityId="1567" bioGuideId="U000039" chamber="S" congress="114" gpoId="8260" party="D" role="COSPONSOR" state="NM">
+                      <name type="parsed">Mr. Udall</name>
+                      <name type="authority-fnf">Tom Udall</name>
+                      <name type="authority-lnf">Udall, Tom</name>
+                </congMember>
+ <congMember authorityId="1937" bioGuideId="H001046" chamber="S" congress="114" gpoId="8056" party="D" role="COSPONSOR" state="NM">
+                      <name type="parsed">Mr. Heinrich</name>
+                      <name type="authority-fnf">Martin Heinrich</name>
+                      <name type="authority-lnf">Heinrich, Martin</name>
+                </congMember>
+ <law congress="108" isPrivate="false" number="90"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="101"></section>
+                      <section number="104"></section>
+                      <section number="2105"></section>
+                      <section number="4104"></section>
+                      <chapter number="84"></chapter>
+                </USCode>
+ <USCode title="6">
+                      <section number="453a"></section>
+                      <section number="464"></section>
+                </USCode>
+ <USCode title="31">
+                      <section number="9101"></section>
+                </USCode>
+ <USCode title="49">
+                      <section number="44921"></section>
+                </USCode>
+</extension>
+</mods>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to provide for an accounting of total United States contributions to the United Nations.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to provide for an accounting of total United States contributions to the United Nations.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssfr00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Foreign Relations Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-05-16T20:21:23Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>113</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Requires the Director of the Office of Management and Budget (OMB) to report annually to Congress regarding all assessed and voluntary U.S. contributions to the United Nations (U.N.) and its affiliated agencies and related bodies during the previous fiscal year. </p> <p>Requires the report to include the following: (1) the total amount of all assessed and voluntary U.S. contributions to the U.N. and its affiliated agencies and related bodies; (2) the approximate percentage of U.S. contributions to each such agency or body in a fiscal year when compared with all such contributions in that fiscal year; and (3) the amount, description, and purpose of each contribution, the identity of the donating U.S. department or agency, and the identity of the recipient U.N. agency or body.</p> <p>Requires OMB to post a version of such report on a publicly available Internet website.</p>]]></text>
+          <lastSummaryUpdateDate>2013-08-15T15:43:24Z</lastSummaryUpdateDate>
+          <updateDate>2013-05-16T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2013-05-16</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <middleName />
+        <firstName>Mike</firstName>
+        <identifiers>
+          <bioguideId>L000577</bioguideId>
+          <gpoId>8303</gpoId>
+          <lisID>2080</lisID>
+        </identifiers>
+        <lastName>Lee</lastName>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <party>R</party>
+        <byRequestType />
+        <bioguideId>L000577</bioguideId>
+        <state>UT</state>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <calendarNumbers />
+    <billType>S</billType>
+    <updateDate>2016-10-25T16:24:31Z</updateDate>
+    <cboCostEstimates />
+    <notes />
+    <latestAction>
+      <actionDate>2013-05-16</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </latestAction>
+    <createDate>2013-05-17T07:02:04Z</createDate>
+    <cosponsors />
+    <originChamber>Senate</originChamber>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-05-16</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2013-05-16</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <title>A bill to provide for an accounting of total United States contributions to the United Nations.</title>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestTitle>A bill to provide for an accounting of total United States contributions to the United Nations.</latestTitle>
+        <congress>113</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Foreign Relations.</text>
+          <actionDate>2013-05-20</actionDate>
+        </latestAction>
+        <number>988</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HR</type>
+        <latestTitle>To provide for an accounting of total United States contributions to the United Nations.</latestTitle>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Foreign Affairs.</text>
+          <actionDate>2013-05-22</actionDate>
+        </latestAction>
+        <number>2099</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>S</type>
+        <latestTitle>United Nations Transparency, Accountability, and Reform Act of 2013</latestTitle>
+        <congress>113</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Foreign Relations.</text>
+          <actionDate>2013-07-17</actionDate>
+        </latestAction>
+        <number>1313</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HR</type>
+        <latestTitle>Department of State Operations and Embassy Security Authorization Act, Fiscal Year 2014</latestTitle>
+        <congress>113</congress>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+          <actionDate>2013-09-30</actionDate>
+        </latestAction>
+        <number>2848</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <billNumber>978</billNumber>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>United Nations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2013-05-16</introducedDate>
+    <amendments />
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

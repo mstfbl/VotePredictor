@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2014-03-11</actionDate>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2014-03-11T19:05:49Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2014-03-12T07:17:14Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2014-03-11</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2014-03-11</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2014-03-11</introducedDate>
+    <billNumber>2107</billNumber>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2015-03-09T18:29:18Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2014-03-11T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <actionDate>2014-03-11</actionDate>
+          <text><![CDATA[<p>Simplifying Access to Student Loan Information Act of 2014 - Amends the Truth in Lending Act to require private educational lenders to submit to the Secretary of Education information regarding each private education loan they make. </p> <p>Requires that such information: (1) be placed in the National Student Loan Data System (System), and (2) allow for the electronic exchange of data between the borrowers of those loans and the System. (The System currently contains information regarding loans made, insured, or guaranteed under the Federal Family Education Loan program and loans made under the William D. Ford Federal Direct Loan and Federal Perkins Loan programs.)</p> <p>Requires the private education loan information to include, if determined appropriate by the Secretary:</p> <ul> <li>the total amount and type of each loan;</li> <li>the interest rate on each loan;</li> <li> information regarding the borrower that the Secretary deems necessary to ensure the electronic exchange of data between the borrower and the System;</li> <li>contact information regarding the lender and servicer of each loan;</li> <li>information concerning the date of any default on the loan and the collection of the loan, including any information concerning the repayment status of any defaulted loan; and </li> <li>the date the borrower completes repayment.</li> </ul> <p>Requires private educational lenders to ensure the privacy of borrowers and update the loan information they submit to the System on the same schedule as information is updated under the System.</p> <p>Amends title IV (Student Assistance) of the Higher Education Act of 1965 to require the Secretary to ensure that: (1) a cosigner of a private education loan for which information is included in the System has access only to that information, and (2) a private educational lender has access to the System only to submit information regarding the lender's loans.</p> <p>Directs the Secretary to establish a functionality within the System that enables student borrowers of loans made, insured, or guaranteed under title IV to input the information necessary to compare the repayment plans available to them under that title.</p> <p>Requires the Secretary to establish a five-year pilot program awarding competitive grants to institutions of higher education, title IV loan servicers, and nonprofit organizations to: (1) establish or improve non-traditional outreach programs and initiatives to reduce deferments, forbearances, and defaults on student loan repayments; and (2) establish best practices for reducing those deferments, forbearances, and defaults.</p> <p>Allows the Secretary to continue to award competitive grants to such entities after the close of the pilot program if the Secretary deems that program to have been successful in reducing deferments, forbearances, and defaults.</p> <p>Requires recipients of grants after the pilot program to establish either: (1) a Pay-for-Performance project, under which they agree to be reimbursed under the grant primarily on the basis of achieving specified performance measures; or (2) a Pay-for-Success project, under which they partner with a project investor and agree to be reimbursed under the grant only if the project achieves specified performance measures.</p> <p>Directs the Secretary to establish and publish those performance measures no later than six months after the pilot program's completion.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Consumer credit</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Simplifying Access to Student Loan Information Act of 2014</title>
+    <updateDate>2016-10-25T16:29:13Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Simplifying Access to Student Loan Information Act of 2014</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to increase students' and borrowers' access to student loan information within the National Student Loan Data System, and to encourage improved outreach to and communication with borrowers.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Simplifying Access to Student Loan Information Act of 2014</title>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>NH</state>
+        <firstName>Jeanne</firstName>
+        <byRequestType />
+        <bioguideId>S001181</bioguideId>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <lastName>Shaheen</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <gpoId>8276</gpoId>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>WV</state>
+        <sponsorshipDate>2014-06-05</sponsorshipDate>
+        <bioguideId>R000361</bioguideId>
+        <firstName>JAY</firstName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Rockefeller, John D., IV [D-WV]</fullName>
+        <party>D</party>
+        <lastName>ROCKEFELLER</lastName>
+        <identifiers>
+          <lisID>1424</lisID>
+          <gpoId>8273</gpoId>
+          <bioguideId>R000361</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

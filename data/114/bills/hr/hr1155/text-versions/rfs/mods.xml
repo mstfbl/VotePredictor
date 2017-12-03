@@ -1,0 +1,167 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18e4c4de7">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To provide for the establishment of a process for the review of rules and sets of rules, and for other purposes.;
+   		Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2016;H.R. 1155 (RFS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-01-12</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To provide for the establishment of a process for the review of rules and sets of rules, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 1155 (RFS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-01-11</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>31 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18e4c4de7</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1155rfs</identifier>
+<identifier type="preferred citation">H.R. 1155</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h1155_rfs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1155rfs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1155rfs/html/BILLS-114hr1155rfs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1155rfs/pdf/BILLS-114hr1155rfs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1155rfs/xml/BILLS-114hr1155rfs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-01-12</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-01-13</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr1155rfs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Homeland Security and Governmental Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 2 Section 658(6)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">2 U.S.C. 658(6)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 3109</partNumber>
+  <partNumber>Title 5 Section 5314</partNumber>
+  <partNumber>Title 5 Section 5315</partNumber>
+  <partNumber>Title 5 Section 5316</partNumber>
+  <partNumber>Title 5 Section 551</partNumber>
+  <partNumber>Title 5 Section 5702</partNumber>
+  <partNumber>Title 5 Section 5703</partNumber>
+  <partNumber>Title 5 Section 601(6)</partNumber>
+  <partNumber>Title 5 Chapter 7</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 3109</identifier>
+ <identifier type="USC citation">5 U.S.C. 5314</identifier>
+ <identifier type="USC citation">5 U.S.C. 5315</identifier>
+ <identifier type="USC citation">5 U.S.C. 5316</identifier>
+ <identifier type="USC citation">5 U.S.C. 551</identifier>
+ <identifier type="USC citation">5 U.S.C. 5702</identifier>
+ <identifier type="USC citation">5 U.S.C. 5703</identifier>
+ <identifier type="USC citation">5 U.S.C. 601(6)</identifier>
+ <identifier type="USC citation">5 U.S.C. Chapter 7</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr1155rfs</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1155</billNumber>
+ <billVersion reprint="false">rfs</billVersion>
+ <fileSuffix>rfs</fileSuffix>
+ <shortTitle>Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2016</shortTitle>
+ <action date="2016-01-11">Received; read twice and referred to the Committee on Homeland Security and Governmental Affairs</action>
+ <congCommittee authorityId="ssga00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Homeland Security and Governmental Affairs</name>
+                      <name type="authority-short">Homeland and Governmental Affairs</name>
+                </congCommittee>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="2">
+                      <section detail="(6)" number="658"></section>
+                </USCode>
+ <USCode title="5">
+                      <section number="3109"></section>
+                      <section number="5314"></section>
+                      <section number="5315"></section>
+                      <section number="5316"></section>
+                      <section number="551"></section>
+                      <section number="5702"></section>
+                      <section number="5703"></section>
+                      <section detail="(6)" number="601"></section>
+                      <chapter number="7"></chapter>
+                </USCode>
+</extension>
+</mods>

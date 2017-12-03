@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-09-18</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2014-09-18</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-09-18</introducedDate>
+    <updateDate>2016-10-25T16:32:32Z</updateDate>
+    <createDate>2014-09-19T05:28:31Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <type>Standing</type>
+          <systemCode>sshr00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-09-18T21:42:32Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors />
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Protecting American Jobs Act</title>
+    <titles>
+      <item>
+        <title>Protecting American Jobs Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A bill to amend the National Labor Relations Act to modify the authority of the National Labor Relations Board with respect to rulemaking, issuance of complaints, and authority over unfair labor practices.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Protecting American Jobs Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2014-09-18</actionDate>
+          <updateDate>2014-09-18T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2014-11-10T19:52:18Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Protecting American Jobs Act - Amends the National Labor Relations Act to repeal the authority of the General Counsel of the National Labor Relations Board (NLRB) to issue, and prosecute before the Board, complaints with respect to unfair labor practices.</p> <p>Repeals the prohibition against: (1) review of an administrative law judge's report by any person other than a Board member or legal assistant; and (2) advice to or consultation with the Board by an administrative law judge with respect to exceptions taken to his or her findings, rulings, or recommendations.</p> <p>Limits the Board's rulemaking authority to rules concerning the internal functions of the Board. Prohibits the Board from promulgating rules or regulations that affect the substantive or procedural rights of a person, employer, employee, or labor organization, including those concerning unfair labor practices and representation elections.</p> <p>Revises Board powers to grant it the authority to investigate unfair labor practices, but repeals its power to prevent any person from engaging in them.</p> <p>Repeals the Board's power to issue a complaint against a person charging an unfair labor practice. Allows an aggrieved person to bring a civil action for relief (including an injunction) in U.S. district court or the U.S. District Court for the District of Columbia in cases where it appears that a person has engaged, is engaging, or is about to engage in an unfair labor practice.</p>]]></text>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>795</number>
+        <type>HR</type>
+        <latestTitle>Protecting American Jobs Act</latestTitle>
+        <latestAction>
+          <actionDate>2013-04-23</actionDate>
+          <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Employment discrimination and employee rights</name>
+          </item>
+          <item>
+            <name>Labor-management relations</name>
+          </item>
+          <item>
+            <name>National Labor Relations Board (NLRB)</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2014-09-18</actionDate>
+    </latestAction>
+    <billNumber>2885</billNumber>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <bioguideId>L000577</bioguideId>
+        <identifiers>
+          <lisID>2080</lisID>
+          <gpoId>8303</gpoId>
+          <bioguideId>L000577</bioguideId>
+        </identifiers>
+        <lastName>Lee</lastName>
+        <middleName />
+        <state>UT</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

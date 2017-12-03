@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2013-03-07</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-03-07T21:10:16Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2013-03-08T07:01:11Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-03-07</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2013-03-07</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2013-03-07</introducedDate>
+    <billNumber>501</billNumber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-03-07</actionDate>
+          <updateDate>2013-03-07T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2013-04-15T19:29:57Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Volunteer Responder Incentive Protection Reauthorization Act of 2013 - Amends Internal Revenue Code, with respect to the tax exclusion for benefits paid to volunteer firefighters and emergency medical providers by states and local governments, to: (1) increase the amount of benefits excludible; and (2) make such tax exclusion available for taxable years beginning in 2014, 2015, or 2016. </p>]]></text>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Emergency medical services and trauma care</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>First responders and emergency personnel</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Volunteer Responder Incentive Protection Reauthorization Act of 2013</title>
+    <updateDate>2016-10-25T16:21:35Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Volunteer Responder Incentive Protection Reauthorization Act of 2013</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 to extend and increase the exclusion for benefits provided to volunteer firefighters and emergency medical responders.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Volunteer Responder Incentive Protection Reauthorization Act of 2013</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>NY</state>
+        <firstName>CHARLES</firstName>
+        <byRequestType />
+        <bioguideId>S000148</bioguideId>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <lastName>SCHUMER</lastName>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <identifiers>
+          <lisID>1036</lisID>
+          <gpoId>8279</gpoId>
+          <bioguideId>S000148</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <latestTitle>Volunteer Responder Incentive Protection Reauthorization Act of 2013</latestTitle>
+        <number>3747</number>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2013-12-12</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <bioguideId>C001035</bioguideId>
+        <identifiers>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <middleName>MARGARET</middleName>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <firstName>SUSAN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-03-07</sponsorshipDate>
+        <lastName>COLLINS</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>ME</state>
+      </item>
+      <item>
+        <bioguideId>F000457</bioguideId>
+        <identifiers>
+          <lisID>1969</lisID>
+          <gpoId>8339</gpoId>
+          <bioguideId>F000457</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <firstName>Al</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-03-13</sponsorshipDate>
+        <lastName>Franken</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>MN</state>
+      </item>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <identifiers>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-05-08</sponsorshipDate>
+        <lastName>Klobuchar</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>MN</state>
+      </item>
+      <item>
+        <bioguideId>G000555</bioguideId>
+        <identifiers>
+          <lisID>1866</lisID>
+          <bioguideId>G000555</bioguideId>
+          <gpoId>8336</gpoId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <firstName>Kirsten</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-05-21</sponsorshipDate>
+        <lastName>Gillibrand</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>NY</state>
+      </item>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+          <lisID>2076</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-05-21</sponsorshipDate>
+        <lastName>Blumenthal</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CT</state>
+      </item>
+      <item>
+        <bioguideId>B001230</bioguideId>
+        <identifiers>
+          <lisID>1558</lisID>
+          <gpoId>8215</gpoId>
+          <bioguideId>B001230</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <firstName>TAMMY</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-06-03</sponsorshipDate>
+        <lastName>BALDWIN</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>WI</state>
+      </item>
+      <item>
+        <bioguideId>H000206</bioguideId>
+        <identifiers>
+          <lisID>501</lisID>
+          <bioguideId>H000206</bioguideId>
+          <gpoId>8317</gpoId>
+        </identifiers>
+        <middleName>RICHARD</middleName>
+        <fullName>Sen. Harkin, Tom [D-IA]</fullName>
+        <firstName>THOMAS</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-06-10</sponsorshipDate>
+        <lastName>HARKIN</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>IA</state>
+      </item>
+      <item>
+        <bioguideId>M001169</bioguideId>
+        <identifiers>
+          <lisID>1837</lisID>
+          <gpoId>7870</gpoId>
+          <bioguideId>M001169</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Murphy, Christopher S. [D-CT]</fullName>
+        <firstName>Christopher</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-07-16</sponsorshipDate>
+        <lastName>Murphy</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CT</state>
+      </item>
+      <item>
+        <bioguideId>C001070</bioguideId>
+        <identifiers>
+          <lisID>1828</lisID>
+          <bioguideId>C001070</bioguideId>
+          <gpoId>8282</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <firstName>Bob</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-08-01</sponsorshipDate>
+        <lastName>Casey</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>PA</state>
+      </item>
+      <item>
+        <bioguideId>D000607</bioguideId>
+        <identifiers>
+          <lisID>1850</lisID>
+          <bioguideId>D000607</bioguideId>
+          <gpoId>7941</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <firstName>Joe</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2013-09-10</sponsorshipDate>
+        <lastName>Donnelly</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>IN</state>
+      </item>
+      <item>
+        <bioguideId>M001176</bioguideId>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <firstName>Jeff</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-05-05</sponsorshipDate>
+        <lastName>Merkley</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>OR</state>
+      </item>
+      <item>
+        <bioguideId>S001181</bioguideId>
+        <identifiers>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <firstName>Jeanne</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-05-08</sponsorshipDate>
+        <lastName>Shaheen</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>NH</state>
+      </item>
+      <item>
+        <bioguideId>S000770</bioguideId>
+        <identifiers>
+          <lisID>1531</lisID>
+          <bioguideId>S000770</bioguideId>
+          <gpoId>8261</gpoId>
+        </identifiers>
+        <middleName>ANN</middleName>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <firstName>DEBORAH</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-06-02</sponsorshipDate>
+        <lastName>STABENOW</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>MI</state>
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <updateDate>2016-10-25T16:21:21Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-03-04T20:49:32Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Budget Committee</name>
+          <subcommittees />
+          <systemCode>ssbu00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <middleName>WILLIAM</middleName>
+        <bioguideId>N000032</bioguideId>
+        <identifiers>
+          <lisID>859</lisID>
+          <bioguideId>N000032</bioguideId>
+          <gpoId>8236</gpoId>
+        </identifiers>
+        <byRequestType />
+        <lastName>NELSON</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <firstName>CLARENCE</firstName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <latestAction>
+      <links />
+      <actionDate>2013-03-04</actionDate>
+      <text>Read twice and referred to the Committee on the Budget.</text>
+    </latestAction>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <middleName />
+        <state>MO</state>
+        <firstName>Claire</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001170</bioguideId>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <lastName>McCaskill</lastName>
+        <party>D</party>
+        <sponsorshipDate>2013-03-04</sponsorshipDate>
+        <identifiers>
+          <lisID>1820</lisID>
+          <bioguideId>M001170</bioguideId>
+          <gpoId>8252</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <billNumber>436</billNumber>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Sequester for Congressional Pay and Accountability Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to require that the salaries of Members of Congress be sequestered during any sequester under the Balanced Budget and Emergency Deficit Control Act of 1985.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Sequester for Congressional Pay and Accountability Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <createDate>2013-03-05T07:01:12Z</createDate>
+    <notes />
+    <title>Sequester for Congressional Pay and Accountability Act</title>
+    <calendarNumbers />
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Budget process</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Members of Congress</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Sequester for Congressional Pay and Accountability Act - Amends the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act) to reduce the pay of each Member of Congress by the greatest percentage by which the pay of any federal employee is reduced as a result of a furlough relating to the sequestration order for that furlough period.</p> <p>Defines &quot;furlough period&quot; as each period:</p> <ul> <li> beginning on the effective date of the first furlough of any federal employee relating to a sequestration order issued under the Gramm-Rudman-Hollings Act, and</li> <li>ending on the last day of the fiscal year to which the sequestration order applies.</li> </ul>]]></text>
+          <lastSummaryUpdateDate>2013-04-26T16:16:28Z</lastSummaryUpdateDate>
+          <updateDate>2013-03-04T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2013-03-04</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2013-03-04</introducedDate>
+    <amendments />
+    <laws />
+    <committeeReports />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-03-04</actionDate>
+        <committee>
+          <name>Budget Committee</name>
+          <systemCode>ssbu00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Budget.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>B00100</actionCode>
+        <actionDate>2013-03-04</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S1089-1090</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S1089-1090</url>
+          </link>
+        </links>
+        <text>Sponsor introductory remarks on measure. (CR S1089-1090)</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2013-03-04</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <billType>S</billType>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

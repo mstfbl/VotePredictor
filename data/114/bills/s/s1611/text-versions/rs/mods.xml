@@ -1,0 +1,806 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18e0a05a2">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To authorize appropriations for the Coast Guard for fiscal years 2016 and 2017, and for other purposes.;Coast Guard Authorization Act of 2015;Sport Fish Restoration and Recreational Boating Safety Act;Vessel Incidental Discharge Act;S. 1611 (RS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-12-01</dateIngested>
+</extension>
+<titleInfo>
+ <title>To authorize appropriations for the Coast Guard for fiscal years 2016 and 2017, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Coast Guard Authorization Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Sport Fish Restoration and Recreational Boating Safety Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Vessel Incidental Discharge Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1611 (RS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-11-30</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>254 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18e0a05a2</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s1611rs</identifier>
+<identifier type="preferred citation">S. 1611</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1611_rs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s1611rs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1611rs/html/BILLS-114s1611rs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1611rs/pdf/BILLS-114s1611rs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1611rs/xml/BILLS-114s1611rs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-12-01</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s1611rs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>John Thune</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bill Nelson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Marco Rubio</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Cory A. Booker</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dan Sullivan</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Roger F. Wicker</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Commerce, Science, and Transportation</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 552</partNumber>
+  <partNumber>Title 5 Section 552(b)(3)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 552</identifier>
+ <identifier type="USC citation">5 U.S.C. 552(b)(3)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 6 Section 468(a)(2)</partNumber>
+  <partNumber>Title 6 Section 945note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">6 U.S.C. 468(a)(2)</identifier>
+ <identifier type="USC citation">6 U.S.C. 945note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 7 Section 136</partNumber>
+</titleInfo>
+ <identifier type="USC citation">7 U.S.C. 136</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 1085</partNumber>
+  <partNumber>Title 10 Section 1413a</partNumber>
+  <partNumber>Title 10 Section 1413anote</partNumber>
+  <partNumber>Title 10 Section 183</partNumber>
+  <partNumber>Title 10 Section 704</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 1085</identifier>
+ <identifier type="USC citation">10 U.S.C. 1413a</identifier>
+ <identifier type="USC citation">10 U.S.C. 1413anote</identifier>
+ <identifier type="USC citation">10 U.S.C. 183</identifier>
+ <identifier type="USC citation">10 U.S.C. 704</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 14 Section 196</partNumber>
+  <partNumber>Title 14 Section 2702(2)</partNumber>
+  <partNumber>Title 14 Section 2902</partNumber>
+  <partNumber>Title 14 Section 2903</partNumber>
+  <partNumber>Title 14 Section 2903(e)</partNumber>
+  <partNumber>Title 14 Section 2904</partNumber>
+  <partNumber>Title 14 Section 357</partNumber>
+  <partNumber>Title 14 Section 461</partNumber>
+  <partNumber>Title 14 Section 50</partNumber>
+  <partNumber>Title 14 Section 569a</partNumber>
+  <partNumber>Title 14 Section 569</partNumber>
+  <partNumber>Title 14 Section 569(b)</partNumber>
+  <partNumber>Title 14 Section 573(c)</partNumber>
+  <partNumber>Title 14 Section 639note</partNumber>
+  <partNumber>Title 14 Section 661</partNumber>
+  <partNumber>Title 14 Section 662a</partNumber>
+  <partNumber>Title 14 Section 662</partNumber>
+  <partNumber>Title 14 Section 663</partNumber>
+  <partNumber>Title 14 Section 687</partNumber>
+  <partNumber>Title 14 Section 98</partNumber>
+  <partNumber>Title 14 Chapter 11</partNumber>
+  <partNumber>Title 14 Chapter 13</partNumber>
+  <partNumber>Title 14 Chapter 3</partNumber>
+</titleInfo>
+ <identifier type="USC citation">14 U.S.C. 196</identifier>
+ <identifier type="USC citation">14 U.S.C. 2702(2)</identifier>
+ <identifier type="USC citation">14 U.S.C. 2902</identifier>
+ <identifier type="USC citation">14 U.S.C. 2903</identifier>
+ <identifier type="USC citation">14 U.S.C. 2903(e)</identifier>
+ <identifier type="USC citation">14 U.S.C. 2904</identifier>
+ <identifier type="USC citation">14 U.S.C. 357</identifier>
+ <identifier type="USC citation">14 U.S.C. 461</identifier>
+ <identifier type="USC citation">14 U.S.C. 50</identifier>
+ <identifier type="USC citation">14 U.S.C. 569a</identifier>
+ <identifier type="USC citation">14 U.S.C. 569</identifier>
+ <identifier type="USC citation">14 U.S.C. 569(b)</identifier>
+ <identifier type="USC citation">14 U.S.C. 573(c)</identifier>
+ <identifier type="USC citation">14 U.S.C. 639note</identifier>
+ <identifier type="USC citation">14 U.S.C. 661</identifier>
+ <identifier type="USC citation">14 U.S.C. 662a</identifier>
+ <identifier type="USC citation">14 U.S.C. 662</identifier>
+ <identifier type="USC citation">14 U.S.C. 663</identifier>
+ <identifier type="USC citation">14 U.S.C. 687</identifier>
+ <identifier type="USC citation">14 U.S.C. 98</identifier>
+ <identifier type="USC citation">14 U.S.C. Chapter 11</identifier>
+ <identifier type="USC citation">14 U.S.C. Chapter 13</identifier>
+ <identifier type="USC citation">14 U.S.C. Chapter 3</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 4111</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 4111</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 1151et seq.</partNumber>
+  <partNumber>Title 16 Section 1161note</partNumber>
+  <partNumber>Title 16 Section 1165</partNumber>
+  <partNumber>Title 16 Section 1165(a)</partNumber>
+  <partNumber>Title 16 Section 1801et seq.</partNumber>
+  <partNumber>Title 16 Section 1861(d)</partNumber>
+  <partNumber>Title 16 Section 3952(b)(7)</partNumber>
+  <partNumber>Title 16 Section 4701et seq.</partNumber>
+  <partNumber>Title 16 Section 777b</partNumber>
+  <partNumber>Title 16 Section 777c</partNumber>
+  <partNumber>Title 16 Section 777c(a)(2)</partNumber>
+  <partNumber>Title 16 Section 777h</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 1151et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 1161note</identifier>
+ <identifier type="USC citation">16 U.S.C. 1165</identifier>
+ <identifier type="USC citation">16 U.S.C. 1165(a)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1801et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 1861(d)</identifier>
+ <identifier type="USC citation">16 U.S.C. 3952(b)(7)</identifier>
+ <identifier type="USC citation">16 U.S.C. 4701et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 777b</identifier>
+ <identifier type="USC citation">16 U.S.C. 777c</identifier>
+ <identifier type="USC citation">16 U.S.C. 777c(a)(2)</identifier>
+ <identifier type="USC citation">16 U.S.C. 777h</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Section 981(a)(1)(A)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. 981(a)(1)(A)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 21 Section 853</partNumber>
+  <partNumber>Title 21 Section 881(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">21 U.S.C. 853</identifier>
+ <identifier type="USC citation">21 U.S.C. 881(a)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 22 Section 1901et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">22 U.S.C. 1901et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 33 Section 1313</partNumber>
+  <partNumber>Title 33 Section 1321</partNumber>
+  <partNumber>Title 33 Section 1322(a)(6)</partNumber>
+  <partNumber>Title 33 Section 151</partNumber>
+  <partNumber>Title 33 Section 151(b)</partNumber>
+  <partNumber>Title 33 Section 1901et seq.</partNumber>
+  <partNumber>Title 33 Section 1901note</partNumber>
+  <partNumber>Title 33 Section 1902a</partNumber>
+  <partNumber>Title 33 Section 2701</partNumber>
+  <partNumber>Title 33 Section 2704</partNumber>
+  <partNumber>Title 33 Section 2704note</partNumber>
+  <partNumber>Title 33 Section 2761</partNumber>
+  <partNumber>Title 33 Section 2761(a)</partNumber>
+  <partNumber>Title 33 Section 3801et seq.</partNumber>
+  <partNumber>Title 33 Section 401</partNumber>
+  <partNumber>Title 33 Section 406</partNumber>
+  <partNumber>Title 33 Section 491</partNumber>
+  <partNumber>Title 33 Section 494</partNumber>
+  <partNumber>Title 33 Section 495</partNumber>
+  <partNumber>Title 33 Section 499</partNumber>
+  <partNumber>Title 33 Section 502</partNumber>
+  <partNumber>Title 33 Section 511</partNumber>
+  <partNumber>Title 33 Section 513</partNumber>
+  <partNumber>Title 33 Section 514</partNumber>
+  <partNumber>Title 33 Section 517</partNumber>
+  <partNumber>Title 33 Section 523</partNumber>
+  <partNumber>Title 33 Section 524</partNumber>
+  <partNumber>Title 33 Section 525(b)</partNumber>
+  <partNumber>Title 33 Section 533</partNumber>
+  <partNumber>Title 33 Section 535c</partNumber>
+  <partNumber>Title 33 Section 535e</partNumber>
+  <partNumber>Title 33 Section 535h</partNumber>
+</titleInfo>
+ <identifier type="USC citation">33 U.S.C. 1313</identifier>
+ <identifier type="USC citation">33 U.S.C. 1321</identifier>
+ <identifier type="USC citation">33 U.S.C. 1322(a)(6)</identifier>
+ <identifier type="USC citation">33 U.S.C. 151</identifier>
+ <identifier type="USC citation">33 U.S.C. 151(b)</identifier>
+ <identifier type="USC citation">33 U.S.C. 1901et seq.</identifier>
+ <identifier type="USC citation">33 U.S.C. 1901note</identifier>
+ <identifier type="USC citation">33 U.S.C. 1902a</identifier>
+ <identifier type="USC citation">33 U.S.C. 2701</identifier>
+ <identifier type="USC citation">33 U.S.C. 2704</identifier>
+ <identifier type="USC citation">33 U.S.C. 2704note</identifier>
+ <identifier type="USC citation">33 U.S.C. 2761</identifier>
+ <identifier type="USC citation">33 U.S.C. 2761(a)</identifier>
+ <identifier type="USC citation">33 U.S.C. 3801et seq.</identifier>
+ <identifier type="USC citation">33 U.S.C. 401</identifier>
+ <identifier type="USC citation">33 U.S.C. 406</identifier>
+ <identifier type="USC citation">33 U.S.C. 491</identifier>
+ <identifier type="USC citation">33 U.S.C. 494</identifier>
+ <identifier type="USC citation">33 U.S.C. 495</identifier>
+ <identifier type="USC citation">33 U.S.C. 499</identifier>
+ <identifier type="USC citation">33 U.S.C. 502</identifier>
+ <identifier type="USC citation">33 U.S.C. 511</identifier>
+ <identifier type="USC citation">33 U.S.C. 513</identifier>
+ <identifier type="USC citation">33 U.S.C. 514</identifier>
+ <identifier type="USC citation">33 U.S.C. 517</identifier>
+ <identifier type="USC citation">33 U.S.C. 523</identifier>
+ <identifier type="USC citation">33 U.S.C. 524</identifier>
+ <identifier type="USC citation">33 U.S.C. 525(b)</identifier>
+ <identifier type="USC citation">33 U.S.C. 533</identifier>
+ <identifier type="USC citation">33 U.S.C. 535c</identifier>
+ <identifier type="USC citation">33 U.S.C. 535e</identifier>
+ <identifier type="USC citation">33 U.S.C. 535h</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 9620(h)</partNumber>
+  <partNumber>Title 42 Section 9620(h)(3)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 9620(h)</identifier>
+ <identifier type="USC citation">42 U.S.C. 9620(h)(3)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 43 Section 1601</partNumber>
+  <partNumber>Title 43 Section 1601et seq.</partNumber>
+  <partNumber>Title 43 Section 1602et seq.</partNumber>
+  <partNumber>Title 43 Section 1606</partNumber>
+  <partNumber>Title 43 Section 1613(h)(8)</partNumber>
+  <partNumber>Title 43 Section 1616(b)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">43 U.S.C. 1601</identifier>
+ <identifier type="USC citation">43 U.S.C. 1601et seq.</identifier>
+ <identifier type="USC citation">43 U.S.C. 1602et seq.</identifier>
+ <identifier type="USC citation">43 U.S.C. 1606</identifier>
+ <identifier type="USC citation">43 U.S.C. 1613(h)(8)</identifier>
+ <identifier type="USC citation">43 U.S.C. 1616(b)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 46 Section 12132</partNumber>
+  <partNumber>Title 46 Section 13104</partNumber>
+  <partNumber>Title 46 Section 13107</partNumber>
+  <partNumber>Title 46 Section 13110(e)</partNumber>
+  <partNumber>Title 46 Section 2101</partNumber>
+  <partNumber>Title 46 Section 2101(25)</partNumber>
+  <partNumber>Title 46 Section 2101(5)</partNumber>
+  <partNumber>Title 46 Section 2114(a)(1)</partNumber>
+  <partNumber>Title 46 Section 301(c)(3)(A)</partNumber>
+  <partNumber>Title 46 Section 3309</partNumber>
+  <partNumber>Title 46 Section 3702(c)</partNumber>
+  <partNumber>Title 46 Section 4302</partNumber>
+  <partNumber>Title 46 Section 4503(c)</partNumber>
+  <partNumber>Title 46 Section 53706note</partNumber>
+  <partNumber>Title 46 Section 70108</partNumber>
+  <partNumber>Title 46 Section 8103note</partNumber>
+  <partNumber>Title 46 Chapter 131</partNumber>
+  <partNumber>Title 46 Chapter 3</partNumber>
+  <partNumber>Title 46 Chapter 537</partNumber>
+  <partNumber>Title 46 Chapter 705</partNumber>
+  <partNumber>Title 46 Chapter 71</partNumber>
+</titleInfo>
+ <identifier type="USC citation">46 U.S.C. 12132</identifier>
+ <identifier type="USC citation">46 U.S.C. 13104</identifier>
+ <identifier type="USC citation">46 U.S.C. 13107</identifier>
+ <identifier type="USC citation">46 U.S.C. 13110(e)</identifier>
+ <identifier type="USC citation">46 U.S.C. 2101</identifier>
+ <identifier type="USC citation">46 U.S.C. 2101(25)</identifier>
+ <identifier type="USC citation">46 U.S.C. 2101(5)</identifier>
+ <identifier type="USC citation">46 U.S.C. 2114(a)(1)</identifier>
+ <identifier type="USC citation">46 U.S.C. 301(c)(3)(A)</identifier>
+ <identifier type="USC citation">46 U.S.C. 3309</identifier>
+ <identifier type="USC citation">46 U.S.C. 3702(c)</identifier>
+ <identifier type="USC citation">46 U.S.C. 4302</identifier>
+ <identifier type="USC citation">46 U.S.C. 4503(c)</identifier>
+ <identifier type="USC citation">46 U.S.C. 53706note</identifier>
+ <identifier type="USC citation">46 U.S.C. 70108</identifier>
+ <identifier type="USC citation">46 U.S.C. 8103note</identifier>
+ <identifier type="USC citation">46 U.S.C. Chapter 131</identifier>
+ <identifier type="USC citation">46 U.S.C. Chapter 3</identifier>
+ <identifier type="USC citation">46 U.S.C. Chapter 537</identifier>
+ <identifier type="USC citation">46 U.S.C. Chapter 705</identifier>
+ <identifier type="USC citation">46 U.S.C. Chapter 71</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 49 Section 60117note</partNumber>
+  <partNumber>Title 49 Chapter 51</partNumber>
+</titleInfo>
+ <identifier type="USC citation">49 U.S.C. 60117note</identifier>
+ <identifier type="USC citation">49 U.S.C. Chapter 51</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 110 Page 4073</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">110 Stat. 4073</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 112 Page 3434</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">112 Stat. 3434</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 114 Page 2763</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">114 Stat. 2763</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 116 Page 2574</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">116 Stat. 2574</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 123 Page 2180</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">123 Stat. 2180</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 124 Page 2986</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">124 Stat. 2986</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 126 Page 1560</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">126 Stat. 1560</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 128 Page 3040</partNumber>
+  <partNumber>Volume 128 Page 3064</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">128 Stat. 3040</identifier>
+ <identifier type="Statute citation">128 Stat. 3064</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 85-508</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 85-508</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 104-297</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 104-297</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 106-562</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 106-562</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 107-314</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 107-314</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 109-241</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 109-241</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-83</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-83</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-281</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-281</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-90</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-90</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-213</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-213</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 113-281</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 113-281</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 302</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s1611rs</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1611</billNumber>
+ <billVersion reprint="false">rs</billVersion>
+ <fileSuffix>rs</fileSuffix>
+ <shortTitle type="measure">Coast Guard Authorization Act of 2015</shortTitle>
+ <shortTitle level="title" type="level">Sport Fish Restoration and Recreational Boating Safety Act</shortTitle>
+ <shortTitle level="title" type="level">Vessel Incidental Discharge Act</shortTitle>
+ <officialTitle>To authorize appropriations for the Coast Guard for fiscal years 2016 and 2017, and for other purposes.</officialTitle>
+ <action date="2015-06-18">Mr. Thune (for himself, Mr. Nelson, Mr. Rubio, Mr. Booker, Mr. Sullivan, and Mr. Wicker) introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation</action>
+ <action date="2015-11-30">Reported by Mr. Thune, with an amendment</action>
+ <congCommittee authorityId="sscm00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Commerce, Science, and Transportation</name>
+                      <name type="authority-short">Commerce</name>
+                </congCommittee>
+ <congMember authorityId="1534" bioGuideId="T000250" chamber="S" congress="114" gpoId="8257" party="R" role="SPONSOR" state="SD">
+                      <name type="parsed">Mr. Thune</name>
+                      <name type="authority-fnf">John Thune</name>
+                      <name type="authority-lnf">Thune, John</name>
+                      <name type="authority-other">John R. Thune</name>
+                </congMember>
+ <congMember authorityId="859" bioGuideId="N000032" chamber="S" congress="114" gpoId="8236" party="D" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Nelson</name>
+                      <name type="authority-fnf">Bill Nelson</name>
+                      <name type="authority-lnf">Nelson, Bill</name>
+                      <name type="authority-other">Clarence William Nelson</name>
+                </congMember>
+ <congMember authorityId="2084" bioGuideId="R000595" chamber="S" congress="114" gpoId="8242" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Rubio</name>
+                      <name type="authority-fnf">Marco Rubio</name>
+                      <name type="authority-lnf">Rubio, Marco</name>
+                </congMember>
+ <congMember authorityId="2194" bioGuideId="B001288" chamber="S" congress="114" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Booker</name>
+                      <name type="authority-fnf">Cory A. Booker</name>
+                      <name type="authority-lnf">Booker, Cory A.</name>
+                      <name type="authority-other">Mr. Cory Booker</name>
+                </congMember>
+ <congMember authorityId="2290" bioGuideId="S001198" chamber="S" congress="114" party="R" role="COSPONSOR" state="AK">
+                      <name type="parsed">Mr. Sullivan</name>
+                      <name type="authority-fnf">Dan Sullivan</name>
+                      <name type="authority-lnf">Sullivan, Dan</name>
+                </congMember>
+ <congMember authorityId="1226" bioGuideId="W000437" chamber="S" congress="114" gpoId="8263" party="R" role="COSPONSOR" state="MS">
+                      <name type="parsed">Mr. Wicker</name>
+                      <name type="authority-fnf">Roger F. Wicker</name>
+                      <name type="authority-lnf">Wicker, Roger F.</name>
+                      <name type="authority-other">Roger Wicker</name>
+                </congMember>
+ <law congress="85" isPrivate="false" number="508"></law>
+ <law congress="104" isPrivate="false" number="297"></law>
+ <law congress="106" isPrivate="false" number="562"></law>
+ <law congress="107" isPrivate="false" number="314"></law>
+ <law congress="109" isPrivate="false" number="241"></law>
+ <law congress="111" isPrivate="false" number="83"></law>
+ <law congress="111" isPrivate="false" number="281"></law>
+ <law congress="112" isPrivate="false" number="90"></law>
+ <law congress="112" isPrivate="false" number="213"></law>
+ <law congress="113" isPrivate="false" number="281"></law>
+ <congCalendar congress="114" number="302" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="552"></section>
+                      <section detail="(b)(3)" number="552"></section>
+                </USCode>
+ <USCode title="6">
+                      <section detail="(a)(2)" number="468"></section>
+                      <section detail="note" number="945"></section>
+                </USCode>
+ <USCode title="7">
+                      <section number="136"></section>
+                </USCode>
+ <USCode title="10">
+                      <section number="1085"></section>
+                      <section number="1413a"></section>
+                      <section detail="note" number="1413a"></section>
+                      <section number="183"></section>
+                      <section number="704"></section>
+                </USCode>
+ <USCode title="14">
+                      <section number="196"></section>
+                      <section detail="(2)" number="2702"></section>
+                      <section number="2902"></section>
+                      <section number="2903"></section>
+                      <section detail="(e)" number="2903"></section>
+                      <section number="2904"></section>
+                      <section number="357"></section>
+                      <section number="461"></section>
+                      <section number="50"></section>
+                      <section number="569a"></section>
+                      <section number="569"></section>
+                      <section detail="(b)" number="569"></section>
+                      <section detail="(c)" number="573"></section>
+                      <section detail="note" number="639"></section>
+                      <section number="661"></section>
+                      <section number="662a"></section>
+                      <section number="662"></section>
+                      <section number="663"></section>
+                      <section number="687"></section>
+                      <section number="98"></section>
+                      <chapter number="11"></chapter>
+                      <chapter number="13"></chapter>
+                      <chapter number="3"></chapter>
+                </USCode>
+ <USCode title="15">
+                      <section number="4111"></section>
+                </USCode>
+ <USCode title="16">
+                      <section detail="et seq." number="1151"></section>
+                      <section detail="note" number="1161"></section>
+                      <section number="1165"></section>
+                      <section detail="(a)" number="1165"></section>
+                      <section detail="et seq." number="1801"></section>
+                      <section detail="(d)" number="1861"></section>
+                      <section detail="(b)(7)" number="3952"></section>
+                      <section detail="et seq." number="4701"></section>
+                      <section number="777b"></section>
+                      <section number="777c"></section>
+                      <section detail="(a)(2)" number="777c"></section>
+                      <section number="777h"></section>
+                </USCode>
+ <USCode title="18">
+                      <section detail="(a)(1)(A)" number="981"></section>
+                </USCode>
+ <USCode title="21">
+                      <section number="853"></section>
+                      <section detail="(a)" number="881"></section>
+                </USCode>
+ <USCode title="22">
+                      <section detail="et seq." number="1901"></section>
+                </USCode>
+ <USCode title="33">
+                      <section number="1313"></section>
+                      <section number="1321"></section>
+                      <section detail="(a)(6)" number="1322"></section>
+                      <section number="151"></section>
+                      <section detail="(b)" number="151"></section>
+                      <section detail="et seq." number="1901"></section>
+                      <section detail="note" number="1901"></section>
+                      <section number="1902a"></section>
+                      <section number="2701"></section>
+                      <section number="2704"></section>
+                      <section detail="note" number="2704"></section>
+                      <section number="2761"></section>
+                      <section detail="(a)" number="2761"></section>
+                      <section detail="et seq." number="3801"></section>
+                      <section number="401"></section>
+                      <section number="406"></section>
+                      <section number="491"></section>
+                      <section number="494"></section>
+                      <section number="495"></section>
+                      <section number="499"></section>
+                      <section number="502"></section>
+                      <section number="511"></section>
+                      <section number="513"></section>
+                      <section number="514"></section>
+                      <section number="517"></section>
+                      <section number="523"></section>
+                      <section number="524"></section>
+                      <section detail="(b)" number="525"></section>
+                      <section number="533"></section>
+                      <section number="535c"></section>
+                      <section number="535e"></section>
+                      <section number="535h"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="(h)" number="9620"></section>
+                      <section detail="(h)(3)" number="9620"></section>
+                </USCode>
+ <USCode title="43">
+                      <section number="1601"></section>
+                      <section detail="et seq." number="1601"></section>
+                      <section detail="et seq." number="1602"></section>
+                      <section number="1606"></section>
+                      <section detail="(h)(8)" number="1613"></section>
+                      <section detail="(b)" number="1616"></section>
+                </USCode>
+ <USCode title="46">
+                      <section number="12132"></section>
+                      <section number="13104"></section>
+                      <section number="13107"></section>
+                      <section detail="(e)" number="13110"></section>
+                      <section number="2101"></section>
+                      <section detail="(25)" number="2101"></section>
+                      <section detail="(5)" number="2101"></section>
+                      <section detail="(a)(1)" number="2114"></section>
+                      <section detail="(c)(3)(A)" number="301"></section>
+                      <section number="3309"></section>
+                      <section detail="(c)" number="3702"></section>
+                      <section number="4302"></section>
+                      <section detail="(c)" number="4503"></section>
+                      <section detail="note" number="53706"></section>
+                      <section number="70108"></section>
+                      <section detail="note" number="8103"></section>
+                      <chapter number="131"></chapter>
+                      <chapter number="3"></chapter>
+                      <chapter number="537"></chapter>
+                      <chapter number="705"></chapter>
+                      <chapter number="71"></chapter>
+                </USCode>
+ <USCode title="49">
+                      <section detail="note" number="60117"></section>
+                      <chapter number="51"></chapter>
+                </USCode>
+ <statuteAtLarge volume="110">
+                      <pages pages="4073"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="112">
+                      <pages pages="3434"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="114">
+                      <pages pages="2763"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="116">
+                      <pages pages="2574"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="123">
+                      <pages pages="2180"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="124">
+                      <pages pages="2986"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="126">
+                      <pages pages="1560"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="128">
+                      <pages pages="3040"></pages>
+                      <pages pages="3064"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

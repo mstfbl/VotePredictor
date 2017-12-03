@@ -1,0 +1,353 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee192f05003">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>Supporting the goals and ideals of World AIDS Day.;H. Con. Res. 177 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-12-02</dateIngested>
+</extension>
+<titleInfo>
+ <title>Supporting the goals and ideals of World AIDS Day.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H. Con. Res. 177 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-12-01</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>8 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/9:</classification>
+<identifier type="local">P0b002ee192f05003</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hconres177ih</identifier>
+<identifier type="preferred citation">H. Con. Res. 177</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325575</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House concurrent resolutions</identifier>
+<identifier type="former package identifier">f:hc177_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hconres177ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hconres177ih/html/BILLS-114hconres177ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hconres177ih/pdf/BILLS-114hconres177ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hconres177ih/xml/BILLS-114hconres177ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-12-02</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-12-02</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hconres177ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Barbara Lee</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robin L. Kelly</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Debbie Wasserman Schultz</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lucille Roybal-Allard</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bill Pascrell, Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Frederica S. Wilson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Albio Sires</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David E. Price</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Yvette D. Clarke</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Alma S. Adams</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Takano</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jackie Speier</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Keith Ellison</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David N. Cicilline</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Karen Bass</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Theodore E. Deutch</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Sheila Jackson Lee</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Foreign Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Energy and Commerce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<extension>
+ <docClass>hconres</docClass>
+ <accessId>BILLS-114hconres177ih</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>177</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <officialTitle>Supporting the goals and ideals of World AIDS Day.</officialTitle>
+ <action date="2016-12-01">Ms. Lee (for herself, Ms. Kelly of Illinois, Ms. Wasserman Schultz, Ms. Roybal-Allard, Mr. Pascrell, Ms. Wilson of Florida, Mr. Sires, Mr. Price of North Carolina, Ms. Clarke of New York, Ms. Adams, Mr. Takano, Ms. Speier, Mr. Ellison, Mr. Cicilline, Ms. Bass, Mr. Deutch, and Ms. Jackson Lee) submitted the following concurrent resolution; which was referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <congCommittee authorityId="hsfa00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Foreign Affairs</name>
+                      <name type="authority-short">Foreign Affairs</name>
+                </congCommittee>
+ <congCommittee authorityId="hsif00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Energy and Commerce</name>
+                      <name type="authority-short">Energy and Commerce</name>
+                </congCommittee>
+ <congMember authorityId="1501" bioGuideId="L000551" chamber="H" congress="114" gpoId="7814" party="D" role="SPONSOR" state="CA">
+                      <name type="parsed">Ms. Lee</name>
+                      <name type="authority-fnf">Barbara Lee</name>
+                      <name type="authority-lnf">Lee, Barbara</name>
+                </congMember>
+ <congMember authorityId="2190" bioGuideId="K000385" chamber="H" congress="114" party="D" role="COSPONSOR" state="IL">
+                      <name type="parsed">Ms. Kelly of Illinois</name>
+                      <name type="authority-fnf">Robin L. Kelly</name>
+                      <name type="authority-lnf">Kelly, Robin L.</name>
+                      <name type="authority-other">Ms. Robin Kelly</name>
+                </congMember>
+ <congMember authorityId="1777" bioGuideId="W000797" chamber="H" congress="114" gpoId="7892" party="D" role="COSPONSOR" state="FL">
+                      <name type="parsed">Ms. Wasserman Schultz</name>
+                      <name type="authority-fnf">Debbie Wasserman Schultz</name>
+                      <name type="authority-lnf">Wasserman Schultz, Debbie</name>
+                </congMember>
+ <congMember authorityId="997" bioGuideId="R000486" chamber="H" congress="114" gpoId="7839" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Roybal-Allard</name>
+                      <name type="authority-fnf">Lucille Roybal-Allard</name>
+                      <name type="authority-lnf">Roybal-Allard, Lucille</name>
+                </congMember>
+ <congMember authorityId="1510" bioGuideId="P000096" chamber="H" congress="114" gpoId="8050" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Pascrell</name>
+                      <name type="authority-fnf">Bill Pascrell, Jr.</name>
+                      <name type="authority-lnf">Pascrell, Bill, Jr.</name>
+                      <name type="authority-other">William Pascrell Jr.</name>
+                </congMember>
+ <congMember authorityId="2004" bioGuideId="W000808" chamber="H" congress="114" gpoId="7889" party="D" role="COSPONSOR" state="FL">
+                      <name type="parsed">Ms. Wilson of Florida</name>
+                      <name type="authority-fnf">Frederica S. Wilson</name>
+                      <name type="authority-lnf">Wilson, Frederica S.</name>
+                      <name type="authority-other">Frederica Wilson</name>
+                </congMember>
+ <congMember authorityId="1818" bioGuideId="S001165" chamber="H" congress="114" gpoId="8055" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Sires</name>
+                      <name type="authority-fnf">Albio Sires</name>
+                      <name type="authority-lnf">Sires, Albio</name>
+                </congMember>
+ <congMember authorityId="930" bioGuideId="P000523" chamber="H" congress="114" gpoId="8027" party="D" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. Price of North Carolina</name>
+                      <name type="authority-fnf">David E. Price</name>
+                      <name type="authority-lnf">Price, David E.</name>
+                      <name type="authority-other">David Price</name>
+                </congMember>
+ <congMember authorityId="1864" bioGuideId="C001067" chamber="H" congress="114" gpoId="8072" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Ms. Clarke of New York</name>
+                      <name type="authority-fnf">Yvette D. Clarke</name>
+                      <name type="authority-lnf">Clarke, Yvette D.</name>
+                      <name type="authority-other">Ms. Yvette Clarke</name>
+                </congMember>
+ <congMember authorityId="2201" bioGuideId="A000370" chamber="H" congress="114" party="D" role="COSPONSOR" state="NC">
+                      <name type="parsed">Ms. Adams</name>
+                      <name type="authority-fnf">Alma S. Adams</name>
+                      <name type="authority-lnf">Adams, Alma S.</name>
+                      <name type="authority-other">Ms. Alma Adams</name>
+                </congMember>
+ <congMember authorityId="2110" bioGuideId="T000472" chamber="H" congress="114" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Takano</name>
+                      <name type="authority-fnf">Mark Takano</name>
+                      <name type="authority-lnf">Takano, Mark</name>
+                </congMember>
+ <congMember authorityId="1890" bioGuideId="S001175" chamber="H" congress="114" gpoId="7817" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Speier</name>
+                      <name type="authority-fnf">Jackie Speier</name>
+                      <name type="authority-lnf">Speier, Jackie</name>
+                </congMember>
+ <congMember authorityId="1857" bioGuideId="E000288" chamber="H" congress="114" gpoId="8005" party="D" role="COSPONSOR" state="MN">
+                      <name type="parsed">Mr. Ellison</name>
+                      <name type="authority-fnf">Keith Ellison</name>
+                      <name type="authority-lnf">Ellison, Keith</name>
+                </congMember>
+ <congMember authorityId="2055" bioGuideId="C001084" chamber="H" congress="114" gpoId="8139" party="D" role="COSPONSOR" state="RI">
+                      <name type="parsed">Mr. Cicilline</name>
+                      <name type="authority-fnf">David N. Cicilline</name>
+                      <name type="authority-lnf">Cicilline, David N.</name>
+                      <name type="authority-other">Mr. David Cicilline</name>
+                </congMember>
+ <congMember authorityId="1996" bioGuideId="B001270" chamber="H" congress="114" gpoId="7838" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Bass</name>
+                      <name type="authority-fnf">Karen Bass</name>
+                      <name type="authority-lnf">Bass, Karen</name>
+                </congMember>
+ <congMember authorityId="1976" bioGuideId="D000610" chamber="H" congress="114" gpoId="7891" party="D" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Deutch</name>
+                      <name type="authority-fnf">Theodore E. Deutch</name>
+                      <name type="authority-lnf">Deutch, Theodore E.</name>
+                      <name type="authority-other">Mr. Theodore Deutch</name>
+                </congMember>
+ <congMember authorityId="588" bioGuideId="J000032" chamber="H" congress="114" gpoId="8174" party="D" role="COSPONSOR" state="TX">
+                      <name type="parsed">Ms. Jackson Lee</name>
+                      <name type="authority-fnf">Sheila Jackson Lee</name>
+                      <name type="authority-lnf">Jackson Lee, Sheila</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

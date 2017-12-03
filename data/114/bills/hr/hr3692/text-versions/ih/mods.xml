@@ -1,0 +1,373 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18dafc98a">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To provide for environmental restoration activities and forest management activities in the Lake Tahoe Basin, and for other purposes.;Lake Tahoe Restoration Act of 2015;H.R. 3692 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-10-09</dateIngested>
+</extension>
+<titleInfo>
+ <title>To provide for environmental restoration activities and forest management activities in the Lake Tahoe Basin, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Lake Tahoe Restoration Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 3692 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-10-06</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>43 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18dafc98a</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3692ih</identifier>
+<identifier type="preferred citation">H.R. 3692</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h3692_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3692ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3692ih/html/BILLS-114hr3692ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3692ih/pdf/BILLS-114hr3692ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3692ih/xml/BILLS-114hr3692ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-10-09</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr3692ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>John Garamendi</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Sam Farr</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael M. Honda</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Alan S. Lowenthal</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mike Thompson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Agriculture</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Natural Resources</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Transportation and Infrastructure</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 6591c</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 6591c</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 23 Section 134</partNumber>
+</titleInfo>
+ <identifier type="USC citation">23 U.S.C. 134</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 33 Section 1313(d)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">33 U.S.C. 1313(d)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 49 Section 5303</partNumber>
+</titleInfo>
+ <identifier type="USC citation">49 U.S.C. 5303</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 83 Page 360</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">83 Stat. 360</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 94 Page 3233</partNumber>
+  <partNumber>Volume 94 Page 3234</partNumber>
+  <partNumber>Volume 94 Page 3240</partNumber>
+  <partNumber>Volume 94 Page 3381</partNumber>
+  <partNumber>Volume 94 Page 3384</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">94 Stat. 3233</identifier>
+ <identifier type="Statute citation">94 Stat. 3234</identifier>
+ <identifier type="Statute citation">94 Stat. 3240</identifier>
+ <identifier type="Statute citation">94 Stat. 3381</identifier>
+ <identifier type="Statute citation">94 Stat. 3384</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 112 Page 2346</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">112 Stat. 2346</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 114 Page 2351</partNumber>
+  <partNumber>Volume 114 Page 2353</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">114 Stat. 2351</identifier>
+ <identifier type="Statute citation">114 Stat. 2353</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 117 Page 1317</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">117 Stat. 1317</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 120 Page 3045</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">120 Stat. 3045</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 91-148</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 91-148</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 96-551</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 96-551</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 96-586</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 96-586</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 105-263</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 105-263</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 106-506</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 106-506</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 108-108</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 108-108</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 109-432</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 109-432</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr3692ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>3692</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Lake Tahoe Restoration Act of 2015</shortTitle>
+ <officialTitle>To provide for environmental restoration activities and forest management activities in the Lake Tahoe Basin, and for other purposes.</officialTitle>
+ <action date="2015-10-06">Mr. Garamendi (for himself, Mr. Farr, Mr. Honda, Mr. Lowenthal, and Mr. Thompson of California) introduced the following bill; which was referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <congCommittee authorityId="hsag00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Agriculture</name>
+                      <name type="authority-short">Agriculture</name>
+                </congCommittee>
+ <congCommittee authorityId="hsii00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Natural Resources</name>
+                      <name type="authority-short">Natural Resources</name>
+                </congCommittee>
+ <congCommittee authorityId="hspw00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Transportation and Infrastructure</name>
+                      <name type="authority-short">Transportation</name>
+                </congCommittee>
+ <congMember authorityId="1973" bioGuideId="G000559" chamber="H" congress="114" gpoId="7815" party="D" role="SPONSOR" state="CA">
+                      <name type="parsed">Mr. Garamendi</name>
+                      <name type="authority-fnf">John Garamendi</name>
+                      <name type="authority-lnf">Garamendi, John</name>
+                </congMember>
+ <congMember authorityId="368" bioGuideId="F000030" chamber="H" congress="114" gpoId="7822" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Farr</name>
+                      <name type="authority-fnf">Sam Farr</name>
+                      <name type="authority-lnf">Farr, Sam</name>
+                </congMember>
+ <congMember authorityId="1634" bioGuideId="H001034" chamber="H" congress="114" gpoId="7820" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Honda</name>
+                      <name type="authority-fnf">Michael M. Honda</name>
+                      <name type="authority-lnf">Honda, Michael M.</name>
+                      <name type="authority-other">Michael Honda</name>
+                </congMember>
+ <congMember authorityId="2111" bioGuideId="L000579" chamber="H" congress="114" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Lowenthal</name>
+                      <name type="authority-fnf">Alan S. Lowenthal</name>
+                      <name type="authority-lnf">Lowenthal, Alan S.</name>
+                      <name type="authority-other">Mr. Alan Lowenthal</name>
+                </congMember>
+ <congMember authorityId="1593" bioGuideId="T000460" chamber="H" congress="114" gpoId="7806" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Thompson of California</name>
+                      <name type="authority-fnf">Mike Thompson</name>
+                      <name type="authority-lnf">Thompson, Mike</name>
+                </congMember>
+ <law congress="91" isPrivate="false" number="148"></law>
+ <law congress="96" isPrivate="false" number="551"></law>
+ <law congress="96" isPrivate="false" number="586"></law>
+ <law congress="105" isPrivate="false" number="263"></law>
+ <law congress="106" isPrivate="false" number="506"></law>
+ <law congress="108" isPrivate="false" number="108"></law>
+ <law congress="109" isPrivate="false" number="432"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="16">
+                      <section number="6591c"></section>
+                </USCode>
+ <USCode title="23">
+                      <section number="134"></section>
+                </USCode>
+ <USCode title="33">
+                      <section detail="(d)" number="1313"></section>
+                </USCode>
+ <USCode title="49">
+                      <section number="5303"></section>
+                </USCode>
+ <statuteAtLarge volume="83">
+                      <pages pages="360"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="94">
+                      <pages pages="3233"></pages>
+                      <pages pages="3234"></pages>
+                      <pages pages="3240"></pages>
+                      <pages pages="3381"></pages>
+                      <pages pages="3384"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="112">
+                      <pages pages="2346"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="114">
+                      <pages pages="2351"></pages>
+                      <pages pages="2353"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="117">
+                      <pages pages="1317"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="120">
+                      <pages pages="3045"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

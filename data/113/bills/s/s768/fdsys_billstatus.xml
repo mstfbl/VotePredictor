@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <updateDate>2016-10-25T16:23:38Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-04-18T19:58:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Finance Committee</name>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <middleName />
+        <bioguideId>L000577</bioguideId>
+        <identifiers>
+          <bioguideId>L000577</bioguideId>
+          <gpoId>8303</gpoId>
+          <lisID>2080</lisID>
+        </identifiers>
+        <byRequestType />
+        <lastName>Lee</lastName>
+        <party>R</party>
+        <state>UT</state>
+        <firstName>Mike</firstName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <latestAction>
+      <links />
+      <actionDate>2013-04-18</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <bioguideId>C001098</bioguideId>
+        <state>TX</state>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <middleName />
+        <firstName>Ted</firstName>
+        <party>R</party>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <lastName>Cruz</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2175</lisID>
+          <gpoId />
+          <bioguideId>C001098</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>P000603</bioguideId>
+        <state>KY</state>
+        <sponsorshipDate>2013-04-18</sponsorshipDate>
+        <middleName />
+        <firstName>Rand</firstName>
+        <party>R</party>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+        <lastName>Paul</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2082</lisID>
+          <bioguideId>P000603</bioguideId>
+          <gpoId>8308</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <billNumber>768</billNumber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Sound Money Promotion Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to treat gold and silver coins used as legal tender in the same manner as United States currency for taxation purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Sound Money Promotion Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <createDate>2013-04-19T07:02:11Z</createDate>
+    <notes />
+    <title>Sound Money Promotion Act</title>
+    <calendarNumbers />
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Capital gains tax</name>
+          </item>
+          <item>
+            <name>Currency</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Metals</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Sound Money Promotion Act - Exempts gold and silver coins declared to be legal tender&nbsp;by the federal government or any state government from taxation.</p>]]></text>
+          <lastSummaryUpdateDate>2013-04-30T21:13:52Z</lastSummaryUpdateDate>
+          <updateDate>2013-04-18T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2013-04-18</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2013-04-18</introducedDate>
+    <amendments />
+    <laws />
+    <committeeReports />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-04-18</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2013-04-18</actionDate>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <billType>S</billType>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-02-12</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2014-02-12</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2014-02-12</introducedDate>
+    <updateDate>2016-10-25T16:28:54Z</updateDate>
+    <createDate>2014-02-13T07:00:56Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <type>Standing</type>
+          <systemCode>sscm00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-02-12T23:29:00Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>HI</state>
+        <sponsorshipDate>2014-02-12</sponsorshipDate>
+        <bioguideId>H001042</bioguideId>
+        <firstName>Mazie</firstName>
+        <middleName>K.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <party>D</party>
+        <lastName>Hirono</lastName>
+        <identifiers>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+          <lisID>1844</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>MD</state>
+        <sponsorshipDate>2014-02-12</sponsorshipDate>
+        <bioguideId>M000702</bioguideId>
+        <firstName>BARBARA</firstName>
+        <middleName>ANN</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Mikulski, Barbara A. [D-MD]</fullName>
+        <party>D</party>
+        <lastName>MIKULSKI</lastName>
+        <identifiers>
+          <lisID>802</lisID>
+          <bioguideId>M000702</bioguideId>
+          <gpoId>8240</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>CT</state>
+        <sponsorshipDate>2014-02-12</sponsorshipDate>
+        <bioguideId>B001277</bioguideId>
+        <firstName>Richard</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <party>D</party>
+        <lastName>Blumenthal</lastName>
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Smartphone Theft Prevention Act</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Smartphone Theft Prevention Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to require mobile service providers and mobile device manufacturers to give consumers the ability to remotely delete data from mobile devices and render such devices inoperable.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Smartphone Theft Prevention Act</title>
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2014-03-21T17:59:56Z</lastSummaryUpdateDate>
+          <actionDate>2014-02-12</actionDate>
+          <text><![CDATA[<p>Smartphone Theft Prevention Act - Amends the Communications Act of 1934 to require commercial mobile service providers to make available on mobile devices a function that an account holder may use remotely to: (1) delete or render inaccessible all information relating to the account holder that has been placed on the device; (2) render the device inoperable on the global networks of such service providers, even if the device is turned off or has the data storage medium removed; (3) prevent the device from being reactivated or reprogrammed without a passcode or similar authorization after the device has been rendered inoperable or has been subject to an unauthorized factory reset; and (4) reverse any such actions if the device is recovered by the account holder.</p> <p>Prohibits a mobile device from being manufactured in the United States or imported into the United States for sale or resale to the public, unless the device is configured in such a manner that a service provider may make such remote deletion and inoperability functions available on the device.</p> <p>Allows the Federal Communications Commission (FCC) to waive such requirements with respect to any low-cost mobile device that: (1) is intended primarily for voice-only mobile service, and (2) may have limited data consumption functions focused on text messaging or short message service. </p> <p>Prohibits service providers from charging a fee for making such remote deletion and inoperability functions available.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2014-02-12T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <latestTitle>Smartphone Theft Prevention Act</latestTitle>
+        <number>4065</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on Communications and Technology.</text>
+          <actionDate>2014-02-21</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Crimes against property</name>
+          </item>
+          <item>
+            <name>Federal Communications Commission (FCC)</name>
+          </item>
+          <item>
+            <name>Telephone and wireless communication</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <actionDate>2014-02-12</actionDate>
+    </latestAction>
+    <billNumber>2032</billNumber>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Amy</firstName>
+        <party>D</party>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <bioguideId>K000367</bioguideId>
+        <identifiers>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <lastName>Klobuchar</lastName>
+        <middleName />
+        <state>MN</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

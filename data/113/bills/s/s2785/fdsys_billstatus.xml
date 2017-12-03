@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+        <senate>7</senate>
+      </actionByCounts>
+      <item>
+        <text>Held at the desk.</text>
+        <committee />
+        <actionTime>22:47:27</actionTime>
+        <links />
+        <type>Floor</type>
+        <actionDate>2014-12-11</actionDate>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Received in the House.</text>
+        <committee />
+        <actionTime>21:55:12</actionTime>
+        <links />
+        <type>Floor</type>
+        <actionDate>2014-12-11</actionDate>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-12-11</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2014-12-11</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S6607</url>
+            <name>S6607</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (text: CR S6607)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S6607)</text>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S6607</url>
+            <name>S6607</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2014-12-11</actionDate>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-12-11</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S6607</url>
+            <name>S6607</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S6607)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S6607)</text>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S6607</url>
+            <name>S6607</name>
+          </link>
+        </links>
+        <type>Committee</type>
+        <actionDate>2014-12-11</actionDate>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2014-09-10</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2014-09-10</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <sentToHouse>1</sentToHouse>
+        <passedSenate>1</passedSenate>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <introducedInSenate>1</introducedInSenate>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <committeeDischarged>1</committeeDischarged>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-09-10</introducedDate>
+    <updateDate>2016-10-25T16:32:09Z</updateDate>
+    <createDate>2014-09-11T05:01:18Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Environment and Public Works Committee</name>
+          <type>Standing</type>
+          <systemCode>ssev00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2014-12-11T19:01:09Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2014-09-10T16:26:02Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000449</bioguideId>
+        <firstName>ROB</firstName>
+        <identifiers>
+          <lisID>924</lisID>
+          <gpoId>8266</gpoId>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+        <state>OH</state>
+        <sponsorshipDate>2014-09-10</sponsorshipDate>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <lastName>PORTMAN</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>ANN</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000770</bioguideId>
+        <firstName>DEBORAH</firstName>
+        <identifiers>
+          <lisID>1531</lisID>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <state>MI</state>
+        <sponsorshipDate>2014-12-02</sponsorshipDate>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <lastName>STABENOW</lastName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Safe and Secure Drinking Water Protection Act of 2014</title>
+    <titles>
+      <item>
+        <title>Safe and Secure Drinking Water Protection Act of 2014</title>
+        <chamberName>Senate</chamberName>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <title>Safe and Secure Drinking Water Protection Act of 2014</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A bill to direct the Administrator of the Environmental Protection Agency to publish a health advisory and submit reports with respect to microcystins in drinking water.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Safe and Secure Drinking Water Protection Act of 2014</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Safe and Secure Drinking Water Protection Act of 2014 - Requires the Environmental Protection Agency (EPA) to develop and publish within 180 days a health advisory including recommendations on: (1) the level of microcystins (toxins produced by freshwater cyanobacteria, also known as blue-green algae) in drinking water that is safe for human consumption; (2) feasible treatment techniques and other means for achieving a safe level; and (3) standardized procedures for testing for microcystins in drinking water. </p> <p>Directs the EPA to report with 180 days and every year thereafter on: (1) the status of the determination, (2) the steps taken by the EPA to promote testing of drinking water for microcystins in areas that have been affected by harmful algal blooms, and (3) an analysis of available treatment techniques and other means for addressing microcystins in drinking water.</p>]]></text>
+          <updateDate>2014-09-10T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2015-01-14T20:14:02Z</lastSummaryUpdateDate>
+          <actionDate>2014-09-10</actionDate>
+        </item>
+        <item>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Safe and Secure Drinking Water Protection Act of 2014 - Requires the Environmental Protection Agency (EPA) to develop and publish within 180 days a health advisory including recommendations on: (1) the level of Microcystins (toxins produced by freshwater cyanobacteria, also known as blue-green algae) in drinking water that is safe for human consumption; (2) feasible treatment techniques and other means for achieving a safe level; and (3) standardized procedures for testing for Microcystins in drinking water. </p> <p>Directs the EPA to report with 180 days and every year thereafter on: (1) the status of the determination, (2) the steps taken by the EPA to promote testing of drinking water for Microcystins in areas that have been affected by harmful algal blooms, and (3) an analysis of available treatment techniques and other means for addressing Microcystins in drinking water.</p>]]></text>
+          <updateDate>2014-12-11T18:43:04Z</updateDate>
+          <name>Passed Senate without amendment</name>
+          <versionCode>82</versionCode>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2015-03-18T18:55:19Z</lastSummaryUpdateDate>
+          <actionDate>2014-12-11</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestTitle>Safe and Secure Drinking Water Act of 2014</latestTitle>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Environment and the Economy.</text>
+          <actionDate>2014-09-12</actionDate>
+        </latestAction>
+        <number>5439</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Environmental Protection Agency (EPA)</name>
+          </item>
+          <item>
+            <name>Environmental health</name>
+          </item>
+          <item>
+            <name>Environmental regulatory procedures</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Held at the desk.</text>
+      <actionTime>22:47:27</actionTime>
+      <actionDate>2014-12-11</actionDate>
+    </latestAction>
+    <billNumber>2785</billNumber>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>SHERROD</firstName>
+        <party>D</party>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <bioguideId>B000944</bioguideId>
+        <identifiers>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+          <bioguideId>B000944</bioguideId>
+        </identifiers>
+        <lastName>BROWN</lastName>
+        <middleName />
+        <state>OH</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

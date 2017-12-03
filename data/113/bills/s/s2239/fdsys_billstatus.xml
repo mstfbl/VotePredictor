@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2014-04-10</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <date>2014-04-10T15:46:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Finance Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2014-04-11T07:23:08Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2014-04-10</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2014-04-10</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2014-04-10</introducedDate>
+    <billNumber>2239</billNumber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2014-05-01T19:46:53Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Social Security Identity Defense Act of 2014 - Amends the Internal Revenue Code to require the Secretary of the Treasury to make certain disclosures to individuals who were validly assigned a social security account number and to the Federal Bureau of Investigation (FBI) if the Secretary determines that there is a substantial likelihood that there has been a fraudulent use of such account number in the employment context. Authorizes the FBI Director to disclose information received from the Secretary to federal, state, and local law enforcement officials, provided such an official enters into a memorandum of understanding regarding the confidentiality of such information, but restricts the use of such information to carrying out criminal investigations or prosecutions.</p> <p>Requires employers who have been notified of suspected misuse of an employee's social security account number to cease including such account number on statements provided to such employee.</p>]]></text>
+          <updateDate>2014-04-10T04:00:00Z</updateDate>
+          <actionDate>2014-04-10</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Crime prevention</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Social Security Identity Defense Act of 2014</title>
+    <updateDate>2016-10-25T16:29:44Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Social Security Identity Defense Act of 2014</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend the Internal Revenue Code of 1986 to permit the Secretary of the Treasury to disclose certain return information related to identity theft, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Social Security Identity Defense Act of 2014</title>
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>WI</state>
+        <firstName>Ron</firstName>
+        <byRequestType />
+        <bioguideId>J000293</bioguideId>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <lastName>Johnson</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <lisID>2086</lisID>
+          <gpoId>8355</gpoId>
+          <bioguideId>J000293</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <number>926</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Social Security Identity Defense Act of 2013</latestTitle>
+        <type>HR</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2013-02-28</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <middleName>R.</middleName>
+        <state>VA</state>
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000805</bioguideId>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <lastName>Warner</lastName>
+        <party>D</party>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <identifiers>
+          <lisID>1897</lisID>
+          <bioguideId>W000805</bioguideId>
+          <gpoId>8269</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

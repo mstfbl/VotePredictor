@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2014-04-10T07:11:39Z</createDate>
+    <originChamber>Senate</originChamber>
+    <cosponsors />
+    <title>Community Water Enhancement Act of 2014</title>
+    <actions>
+      <item>
+        <actionDate>2014-04-09</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+        <actionDate>2014-04-09</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <amendments />
+    <committeeReports />
+    <updateDate>2016-10-25T16:29:41Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+          <item>
+            <name>Water resources funding</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <actionDate>2014-04-09</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>U000039</bioguideId>
+        <state>NM</state>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <firstName>TOM</firstName>
+        <party>D</party>
+        <lastName>UDALL</lastName>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <lisID>1567</lisID>
+          <gpoId>8260</gpoId>
+          <bioguideId>U000039</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <number>4113</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-02-28</actionDate>
+          <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        </latestAction>
+        <latestTitle>Community Water Enhancement Act of 2014</latestTitle>
+      </item>
+    </relatedBills>
+    <laws />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Environment and Public Works Committee</name>
+          <type>Standing</type>
+          <systemCode>ssev00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-04-09T16:13:22Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Community Water Enhancement Act of 2014 - Amends the Federal Water Pollution Control Act (commonly known as the Clean Water Act) to require the Administrator of the Environmental Protection Agency (EPA), in making grants under the pilot program for alternative water source projects to meet critical water supply needs, to consider the location and benefits of projects in rural communities (including whether the area is served by a public water system with fewer than 3,000 connections or is located in an area with no public water system).</p> <p>Includes among such projects: (1) the conjunctive management of groundwater supplies by delivery of surface water instead of groundwater, and (2) water treatment or distribution facilities if the project requires such facilities to deliver the alternative water supply. <p>Authorizes funding for the program through FY2018.]]></text>
+          <actionDate>2014-04-09</actionDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2014-04-09T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-06-09T16:12:44Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <introducedDate>2014-04-09</introducedDate>
+    <billType>S</billType>
+    <congress>113</congress>
+    <billNumber>2228</billNumber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Community Water Enhancement Act of 2014</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Federal Water Pollution Control Act to direct the Administrator of the Environmental Protection Agency to consider projects involving rural communities in the selection of alternative water source projects, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Community Water Enhancement Act of 2014</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

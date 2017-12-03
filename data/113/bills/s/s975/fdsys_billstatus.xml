@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2013-05-17T07:02:04Z</createDate>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <middleName />
+        <state>TX</state>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001056</bioguideId>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <lastName>Cornyn</lastName>
+        <party>R</party>
+        <sponsorshipDate>2013-05-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001056</bioguideId>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>WILLIAM</middleName>
+        <state>FL</state>
+        <firstName>CLARENCE</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000032</bioguideId>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <lastName>NELSON</lastName>
+        <party>D</party>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <identifiers>
+          <lisID>859</lisID>
+          <bioguideId>N000032</bioguideId>
+          <gpoId>8236</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <state>DE</state>
+        <firstName>Christopher</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001088</bioguideId>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <lastName>Coons</lastName>
+        <party>D</party>
+        <sponsorshipDate>2013-12-19</sponsorshipDate>
+        <identifiers>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>MARGARET</middleName>
+        <state>ME</state>
+        <firstName>SUSAN</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001035</bioguideId>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <lastName>COLLINS</lastName>
+        <party>R</party>
+        <sponsorshipDate>2014-03-06</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+          <lisID>1541</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <state>NH</state>
+        <firstName>Kelly</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>A000368</bioguideId>
+        <fullName>Sen. Ayotte, Kelly [R-NH]</fullName>
+        <lastName>Ayotte</lastName>
+        <party>R</party>
+        <sponsorshipDate>2014-03-27</sponsorshipDate>
+        <identifiers>
+          <lisID>2075</lisID>
+          <gpoId>8315</gpoId>
+          <bioguideId>A000368</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <title>Court-Appointed Guardian Accountability and Senior Protection Act</title>
+    <actions>
+      <item>
+        <actionDate>2013-12-19</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 277.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2013-12-19</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <text>Committee on the Judiciary. Reported by Senator Leahy with amendments. Without written report.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <actionDate>2013-12-19</actionDate>
+        <actionCode>14000</actionCode>
+        <links />
+      </item>
+      <item>
+        <actionDate>2013-12-19</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on the Judiciary. Ordered to be reported with an amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-05-16</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2013-05-16</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <orderedReported>1</orderedReported>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+    </actions>
+    <amendments />
+    <committeeReports />
+    <updateDate>2016-10-25T16:24:31Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Law</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Aging</name>
+          </item>
+          <item>
+            <name>Crime prevention</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Judicial procedure and administration</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Social Welfare</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <latestAction>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 277.</text>
+      <actionDate>2013-12-19</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <state>MN</state>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+        <party>D</party>
+        <lastName>Klobuchar</lastName>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <relatedBills />
+    <laws />
+    <cboCostEstimates>
+      <item>
+        <pubDate>2014-01-31T20:25:00Z</pubDate>
+        <title>S. 975, Court-Appointed Guardian Accountability and Senior Protection Act</title>
+        <url>http://www.cbo.gov/publication/45061</url>
+      </item>
+      <item>
+        <pubDate>2014-01-31T20:25:00Z</pubDate>
+        <title>S. 975, Court-Appointed Guardian Accountability and Senior Protection Act</title>
+        <url>https://www.cbo.gov/publication/45061</url>
+      </item>
+    </cboCostEstimates>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-12-19T21:36:41Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2013-12-19T15:00:00Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2013-05-16T19:44:29Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0277</number>
+      </item>
+    </calendarNumbers>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Court-Appointed Guardian Accountability and Senior Protection Act - Amends title XX (Block Grants to States for Social Services and Elder Justice) of the Social Security Act to direct the Secretary of Health and Human Services (HHS) to award grants to the highest courts of states to conduct demonstration programs that: (1) assess adult guardianship and conservatorship proceedings, including the appointment and the monitoring of the performance of court-appointed guardians and conservators; and (2) implement changes deemed necessary as a result of the assessments, such as requiring background checks for all potential guardians and conservators, and establishing systems that enable electronic filing and review of the annual accountings and other required conservatorship and guardianship filings.</p> <p>Requires the highest court of a state awarded such a grant to collaborate with the state's own Unit on Aging and its Adult Protective Services agency in conducting the demonstration program.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2013-05-16</actionDate>
+          <updateDate>2013-05-16T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-01-31T20:54:06Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <text><![CDATA[<p>Court-Appointed Guardian Accountability and Senior Protection Act - Amends title XX (Block Grants to States for Social Services and Elder Justice) of the Social Security Act (SSA) to direct the Secretary of Health and Human Services (HHS) to award grants to the highest courts of states to conduct demonstration programs that: (1) assess adult guardianship and conservatorship proceedings, including the appointment and the monitoring of the performance of court-appointed guardians and conservators; and (2) implement changes deemed necessary as a result of the assessments, such as requiring background checks for all potential guardians and conservators, and establishing systems that enable electronic filing and review of the annual accountings and other required conservatorship and guardianship filings.</p> <p>Requires any grants the Secretary awards to the highest state courts for such programs to be based on recommendations of the Attorney General and the State Justice Institute.</p> <p>Requires the highest court of a state awarded such a grant to collaborate with the state's own Unit on Aging and its Adult Protective Services agency in conducting the demonstration program.</p>]]></text>
+          <actionDesc>Reported to Senate amended</actionDesc>
+          <actionDate>2013-12-19</actionDate>
+          <updateDate>2013-12-19T14:31:48Z</updateDate>
+          <lastSummaryUpdateDate>2014-01-31T20:52:18Z</lastSummaryUpdateDate>
+          <name>Reported to Senate amended</name>
+          <versionCode>01</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Law</name>
+    </policyArea>
+    <introducedDate>2013-05-16</introducedDate>
+    <billType>S</billType>
+    <congress>113</congress>
+    <billNumber>975</billNumber>
+    <titles>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberName>Senate</chamberName>
+        <title>Court-Appointed Guardian Accountability and Senior Protection Act</title>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Court-Appointed Guardian Accountability and Senior Protection Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to provide for the inclusion of court-appointed guardianship improvement and oversight activities under the Elder Justice Act of 2009.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Court-Appointed Guardian Accountability and Senior Protection Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

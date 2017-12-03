@@ -1,0 +1,282 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee190e6c3f3">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To authorize the National Urban Search and Rescue Response System.;
+   		National Urban Search and Rescue Response System Act of 2016;S. 2971 (RS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-08-31</dateIngested>
+</extension>
+<titleInfo>
+ <title>To authorize the National Urban Search and Rescue Response System.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>National Urban Search and Rescue Response System Act of 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 2971 (RS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-08-30</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>16 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee190e6c3f3</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s2971rs</identifier>
+<identifier type="preferred citation">S. 2971</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s2971_rs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s2971rs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2971rs/html/BILLS-114s2971rs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2971rs/pdf/BILLS-114s2971rs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2971rs/xml/BILLS-114s2971rs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-08-31</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-08-31</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s2971rs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Rob Portman</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ron Johnson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Thomas R. Carper</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Cory A. Booker</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John McCain</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dianne Feinstein</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael F. Bennet</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Homeland Security and Governmental Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 8101(1)</partNumber>
+  <partNumber>Title 5 Chapter 81</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 8101(1)</identifier>
+ <identifier type="USC citation">5 U.S.C. Chapter 81</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 6 Section 101</partNumber>
+</titleInfo>
+ <identifier type="USC citation">6 U.S.C. 101</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 28 Section 1346(b)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">28 U.S.C. 1346(b)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 38 Section 4303</partNumber>
+  <partNumber>Title 38 Section 4312(b)</partNumber>
+  <partNumber>Title 38 Chapter 43</partNumber>
+</titleInfo>
+ <identifier type="USC citation">38 U.S.C. 4303</identifier>
+ <identifier type="USC citation">38 U.S.C. 4312(b)</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 43</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 3769b</partNumber>
+  <partNumber>Title 42 Section 3796b</partNumber>
+  <partNumber>Title 42 Section 3796et seq.</partNumber>
+  <partNumber>Title 42 Section 5141et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 3769b</identifier>
+ <identifier type="USC citation">42 U.S.C. 3796b</identifier>
+ <identifier type="USC citation">42 U.S.C. 3796et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 5141et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 578</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s2971rs</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2971</billNumber>
+ <billVersion reprint="false">rs</billVersion>
+ <fileSuffix>rs</fileSuffix>
+ <shortTitle>National Urban Search and Rescue Response System Act of 2016</shortTitle>
+ <action date="2016-08-30">Reported under authority of the order of the Senate of July 14, 2016, by Mr. Johnson, with an amendment</action>
+ <action date="2016-05-23">Mr. Portman (for himself, Mr. Johnson, Mr. Carper, Mr. Booker, Mr. McCain, Mrs. Feinstein, and Mr. Bennet) introduced the following bill; which was read twice and referred to the Committee on Homeland Security and Governmental Affairs</action>
+ <congCommittee authorityId="ssga00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Homeland Security and Governmental Affairs</name>
+                      <name type="authority-short">Homeland and Governmental Affairs</name>
+                </congCommittee>
+ <congMember authorityId="924" bioGuideId="P000449" chamber="S" congress="114" gpoId="8266" party="R" role="SPONSOR" state="OH">
+                      <name type="parsed">Mr. Portman</name>
+                      <name type="authority-fnf">Rob Portman</name>
+                      <name type="authority-lnf">Portman, Rob</name>
+                </congMember>
+ <congMember authorityId="2086" bioGuideId="J000293" chamber="S" congress="114" gpoId="8355" party="R" role="COSPONSOR" state="WI">
+                      <name type="parsed">Mr. Johnson</name>
+                      <name type="authority-fnf">Ron Johnson</name>
+                      <name type="authority-lnf">Johnson, Ron</name>
+                </congMember>
+ <congMember authorityId="179" bioGuideId="C000174" chamber="S" congress="114" gpoId="8283" party="D" role="COSPONSOR" state="DE">
+                      <name type="parsed">Mr. Carper</name>
+                      <name type="authority-fnf">Thomas R. Carper</name>
+                      <name type="authority-lnf">Carper, Thomas R.</name>
+                      <name type="authority-other">Thomas Carper</name>
+                </congMember>
+ <congMember authorityId="2194" bioGuideId="B001288" chamber="S" congress="114" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Booker</name>
+                      <name type="authority-fnf">Cory A. Booker</name>
+                      <name type="authority-lnf">Booker, Cory A.</name>
+                      <name type="authority-other">Mr. Cory Booker</name>
+                </congMember>
+ <congMember authorityId="754" bioGuideId="M000303" chamber="S" congress="114" gpoId="8253" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. McCain</name>
+                      <name type="authority-fnf">John McCain</name>
+                      <name type="authority-lnf">McCain, John</name>
+                      <name type="authority-other">John Sidney Mccain</name>
+                </congMember>
+ <congMember authorityId="1332" bioGuideId="F000062" chamber="S" congress="114" gpoId="8338" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mrs. Feinstein</name>
+                      <name type="authority-fnf">Dianne Feinstein</name>
+                      <name type="authority-lnf">Feinstein, Dianne</name>
+                </congMember>
+ <congMember authorityId="1965" bioGuideId="B001267" chamber="S" congress="114" gpoId="8302" party="D" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Bennet</name>
+                      <name type="authority-fnf">Michael F. Bennet</name>
+                      <name type="authority-lnf">Bennet, Michael F.</name>
+                      <name type="authority-other">Mr. Michael Bennet</name>
+                </congMember>
+ <congCalendar congress="114" number="578" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section detail="(1)" number="8101"></section>
+                      <chapter number="81"></chapter>
+                </USCode>
+ <USCode title="6">
+                      <section number="101"></section>
+                </USCode>
+ <USCode title="28">
+                      <section detail="(b)" number="1346"></section>
+                </USCode>
+ <USCode title="38">
+                      <section number="4303"></section>
+                      <section detail="(b)" number="4312"></section>
+                      <chapter number="43"></chapter>
+                </USCode>
+ <USCode title="42">
+                      <section number="3769b"></section>
+                      <section number="3796b"></section>
+                      <section detail="et seq." number="3796"></section>
+                      <section detail="et seq." number="5141"></section>
+                </USCode>
+</extension>
+</mods>

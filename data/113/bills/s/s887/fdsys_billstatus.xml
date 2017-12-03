@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-05-07</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-05-07</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-05-07</introducedDate>
+    <updateDate>2016-10-25T16:24:06Z</updateDate>
+    <createDate>2013-05-08T07:02:14Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <date>2013-05-07T21:55:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <lastName>WICKER</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+          <bioguideId>W000437</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>ROGER</firstName>
+        <sponsorshipDate>2014-06-05</sponsorshipDate>
+        <middleName>F.</middleName>
+        <bioguideId>W000437</bioguideId>
+        <state>MS</state>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>A bill to repeal the violation of sovereign nations' laws and privacy matters</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to repeal the violation of sovereign nations' laws and privacy matters</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to repeal the violation of sovereign nations' laws and privacy matters</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-06-12T18:47:09Z</lastSummaryUpdateDate>
+          <updateDate>2013-05-07T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2013-05-07</actionDate>
+          <text><![CDATA[<p>Amends the Internal Revenue Code, with respect to tax administration requirements for foreign-source income and assets, to repeal:&nbsp; (1) withholding requirements for payments to foreign financial institutions and other foreign entities, (2) information reporting for foreign financial assets, (3) penalties for underpayments of tax attributable to undisclosed foreign financial assets, (4) reporting requirements for shareholders of a passive foreign investment company and U.S. owners of foreign trusts, and (5) the additional penalty for failure to file required notices and information returns for certain foreign trusts. </p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Bank accounts, deposits, capital</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Foreign and international banking</name>
+          </item>
+          <item>
+            <name>Foreign property</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+          <item>
+            <name>U.S. and foreign investments</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2013-05-07</actionDate>
+    </latestAction>
+    <billNumber>887</billNumber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Rand</firstName>
+        <party>R</party>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+        <bioguideId>P000603</bioguideId>
+        <identifiers>
+          <lisID>2082</lisID>
+          <bioguideId>P000603</bioguideId>
+          <gpoId>8308</gpoId>
+        </identifiers>
+        <lastName>Paul</lastName>
+        <middleName />
+        <state>KY</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

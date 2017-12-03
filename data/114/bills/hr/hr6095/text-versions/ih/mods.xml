@@ -1,0 +1,312 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee191628e77">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To authorize the Secretary of Education to carry out a program to increase access to prekindergarten through grade 12 computer science education.;
+   		Computer Science for All Act of 2016;H.R. 6095 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-09-23</dateIngested>
+</extension>
+<titleInfo>
+ <title>To authorize the Secretary of Education to carry out a program to increase access to prekindergarten through grade 12 computer science education.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Computer Science for All Act of 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 6095 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-09-21</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>11 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee191628e77</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6095ih</identifier>
+<identifier type="preferred citation">H.R. 6095</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h6095_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6095ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6095ih/html/BILLS-114hr6095ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6095ih/pdf/BILLS-114hr6095ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6095ih/xml/BILLS-114hr6095ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-09-23</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-09-24</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr6095ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Barbara Lee</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Eddie Bernice Johnson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>G. K. Butterfield</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Judy Chu</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jared Polis</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Suzan K. DelBene</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ruben Hinojosa</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dina Titus</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robin L. Kelly</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael M. Honda</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Katherine M. Clark</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Marcia L. Fudge</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Education and the Workforce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1002</partNumber>
+  <partNumber>Title 20 Section 8101</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1002</identifier>
+ <identifier type="USC citation">20 U.S.C. 8101</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 2511</partNumber>
+  <partNumber>Title 25 Section 450et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 2511</identifier>
+ <identifier type="USC citation">25 U.S.C. 450et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 1751et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 1751et seq.</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr6095ih</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>6095</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle>Computer Science for All Act of 2016</shortTitle>
+ <action date="2016-09-21">Ms. Lee (for herself, Ms. Eddie Bernice Johnson of Texas, Mr. Butterfield, Ms. Judy Chu of California, Mr. Polis, Ms. DelBene, Mr. Hinojosa, Ms. Titus, Ms. Kelly of Illinois, Mr. Honda, Ms. Clark of Massachusetts, and Ms. Fudge) introduced the following bill; which was referred to the Committee on Education and the Workforce</action>
+ <congCommittee authorityId="hsed00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Education and the Workforce</name>
+                      <name type="authority-short">Education and the Workforce</name>
+                </congCommittee>
+ <congMember authorityId="1501" bioGuideId="L000551" chamber="H" congress="114" gpoId="7814" party="D" role="SPONSOR" state="CA">
+                      <name type="parsed">Ms. Lee</name>
+                      <name type="authority-fnf">Barbara Lee</name>
+                      <name type="authority-lnf">Lee, Barbara</name>
+                </congMember>
+ <congMember authorityId="599" bioGuideId="J000126" chamber="H" congress="114" gpoId="8186" party="D" role="COSPONSOR" state="TX">
+                      <name type="parsed">Ms. Eddie Bernice Johnson of Texas</name>
+                      <name type="authority-fnf">Eddie Bernice Johnson</name>
+                      <name type="authority-lnf">Johnson, Eddie Bernice</name>
+                      <name type="authority-other">Eddie Johnson</name>
+                </congMember>
+ <congMember authorityId="1761" bioGuideId="B001251" chamber="H" congress="114" gpoId="8024" party="D" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. Butterfield</name>
+                      <name type="authority-fnf">G. K. Butterfield</name>
+                      <name type="authority-lnf">Butterfield, G. K.</name>
+                </congMember>
+ <congMember authorityId="1970" bioGuideId="C001080" chamber="H" congress="114" gpoId="7837" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Judy Chu of California</name>
+                      <name type="authority-fnf">Judy Chu</name>
+                      <name type="authority-lnf">Chu, Judy</name>
+                </congMember>
+ <congMember authorityId="1910" bioGuideId="P000598" chamber="H" congress="114" gpoId="7860" party="D" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Polis</name>
+                      <name type="authority-fnf">Jared Polis</name>
+                      <name type="authority-lnf">Polis, Jared</name>
+                </congMember>
+ <congMember authorityId="2096" bioGuideId="D000617" chamber="H" congress="114" gpoId="8374" party="D" role="COSPONSOR" state="WA">
+                      <name type="parsed">Ms. DelBene</name>
+                      <name type="authority-fnf">Suzan K. DelBene</name>
+                      <name type="authority-lnf">DelBene, Suzan K.</name>
+                      <name type="authority-other">Ms. Suzan Delbene</name>
+                </congMember>
+ <congMember authorityId="1490" bioGuideId="H000636" chamber="H" congress="114" gpoId="8171" party="D" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Hinojosa</name>
+                      <name type="authority-fnf">Ruben Hinojosa</name>
+                      <name type="authority-lnf">Hinojosa, Ruben</name>
+                </congMember>
+ <congMember authorityId="1940" bioGuideId="T000468" chamber="H" congress="114" gpoId="7493" party="D" role="COSPONSOR" state="NV">
+                      <name type="parsed">Ms. Titus</name>
+                      <name type="authority-fnf">Dina Titus</name>
+                      <name type="authority-lnf">Titus, Dina</name>
+                </congMember>
+ <congMember authorityId="2190" bioGuideId="K000385" chamber="H" congress="114" party="D" role="COSPONSOR" state="IL">
+                      <name type="parsed">Ms. Kelly of Illinois</name>
+                      <name type="authority-fnf">Robin L. Kelly</name>
+                      <name type="authority-lnf">Kelly, Robin L.</name>
+                      <name type="authority-other">Ms. Robin Kelly</name>
+                </congMember>
+ <congMember authorityId="1634" bioGuideId="H001034" chamber="H" congress="114" gpoId="7820" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Honda</name>
+                      <name type="authority-fnf">Michael M. Honda</name>
+                      <name type="authority-lnf">Honda, Michael M.</name>
+                      <name type="authority-other">Michael Honda</name>
+                </congMember>
+ <congMember authorityId="2196" bioGuideId="C001101" chamber="H" congress="114" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Ms. Clark of Massachusetts</name>
+                      <name type="authority-fnf">Katherine M. Clark</name>
+                      <name type="authority-lnf">Clark, Katherine M.</name>
+                      <name type="authority-other">Ms. Katherine Clark</name>
+                </congMember>
+ <congMember authorityId="1895" bioGuideId="F000455" chamber="H" congress="114" gpoId="8101" party="D" role="COSPONSOR" state="OH">
+                      <name type="parsed">Ms. Fudge</name>
+                      <name type="authority-fnf">Marcia L. Fudge</name>
+                      <name type="authority-lnf">Fudge, Marcia L.</name>
+                      <name type="authority-other">Ms. Marcia Fudge</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="20">
+                      <section number="1002"></section>
+                      <section number="8101"></section>
+                </USCode>
+ <USCode title="25">
+                      <section number="2511"></section>
+                      <section detail="et seq." number="450"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="et seq." number="1751"></section>
+                </USCode>
+</extension>
+</mods>

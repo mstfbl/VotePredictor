@@ -1,0 +1,256 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18e765f82">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To authorize, direct, expedite, and facilitate a land exchange in Yavapai County, Arizona, and for other purposes.;
+   		Cottonwood Land Exchange Act of 2016;H.R. 4473 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-02-09</dateIngested>
+</extension>
+<titleInfo>
+ <title>To authorize, direct, expedite, and facilitate a land exchange in Yavapai County, Arizona, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Cottonwood Land Exchange Act of 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 4473 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-02-04</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>6 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18e765f82</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4473ih</identifier>
+<identifier type="preferred citation">H.R. 4473</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h4473_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4473ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4473ih/html/BILLS-114hr4473ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4473ih/pdf/BILLS-114hr4473ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4473ih/xml/BILLS-114hr4473ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-02-09</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-02-09</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr4473ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Paul A. Gosar</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Trent Franks</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Matt Salmon</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David Schweikert</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ann Kirkpatrick</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ruben Gallego</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kyrsten Sinema</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Martha McSally</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Natural Resources</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 484a</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 484a</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 30 Section 1001et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">30 U.S.C. 1001et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 43 Section 1716(b)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">43 U.S.C. 1716(b)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 90-171</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 90-171</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr4473ih</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>4473</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle>Cottonwood Land Exchange Act of 2016</shortTitle>
+ <action date="2016-02-04">Mr. Gosar (for himself, Mr. Franks of Arizona, Mr. Salmon, Mr. Schweikert, Mrs. Kirkpatrick, Mr. Gallego, Ms. Sinema, and Ms. McSally) introduced the following bill; which was referred to the Committee on Natural Resources</action>
+ <congCommittee authorityId="hsii00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Natural Resources</name>
+                      <name type="authority-short">Natural Resources</name>
+                </congCommittee>
+ <congMember authorityId="1992" bioGuideId="G000565" chamber="H" congress="114" gpoId="7798" party="R" role="SPONSOR" state="AZ">
+                      <name type="parsed">Mr. Gosar</name>
+                      <name type="authority-fnf">Paul A. Gosar</name>
+                      <name type="authority-lnf">Gosar, Paul A.</name>
+                      <name type="authority-other">Mr. Paul Gosar</name>
+                </congMember>
+ <congMember authorityId="1707" bioGuideId="F000448" chamber="H" congress="114" gpoId="7799" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Franks of Arizona</name>
+                      <name type="authority-fnf">Trent Franks</name>
+                      <name type="authority-lnf">Franks, Trent</name>
+                </congMember>
+ <congMember authorityId="1009" bioGuideId="S000018" chamber="H" congress="114" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Salmon</name>
+                      <name type="authority-fnf">Matt Salmon</name>
+                      <name type="authority-lnf">Salmon, Matt</name>
+                </congMember>
+ <congMember authorityId="1994" bioGuideId="S001183" chamber="H" congress="114" gpoId="7802" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Schweikert</name>
+                      <name type="authority-fnf">David Schweikert</name>
+                      <name type="authority-lnf">Schweikert, David</name>
+                </congMember>
+ <congMember authorityId="1907" bioGuideId="K000368" chamber="H" congress="114" gpoId="7220" party="D" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mrs. Kirkpatrick</name>
+                      <name type="authority-fnf">Ann Kirkpatrick</name>
+                      <name type="authority-lnf">Kirkpatrick, Ann</name>
+                </congMember>
+ <congMember authorityId="2226" bioGuideId="G000574" chamber="H" congress="114" party="D" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Gallego</name>
+                      <name type="authority-fnf">Ruben Gallego</name>
+                      <name type="authority-lnf">Gallego, Ruben</name>
+                </congMember>
+ <congMember authorityId="2099" bioGuideId="S001191" chamber="H" congress="114" party="D" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Ms. Sinema</name>
+                      <name type="authority-fnf">Kyrsten Sinema</name>
+                      <name type="authority-lnf">Sinema, Kyrsten</name>
+                </congMember>
+ <congMember authorityId="2225" bioGuideId="M001197" chamber="H" congress="114" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Ms. McSally</name>
+                      <name type="authority-fnf">Martha McSally</name>
+                      <name type="authority-lnf">McSally, Martha</name>
+                </congMember>
+ <law congress="90" isPrivate="false" number="171"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="16">
+                      <section number="484a"></section>
+                </USCode>
+ <USCode title="30">
+                      <section detail="et seq." number="1001"></section>
+                </USCode>
+ <USCode title="43">
+                      <section detail="(b)" number="1716"></section>
+                </USCode>
+</extension>
+</mods>

@@ -1,0 +1,203 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18bb2c606">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To direct the Secretary of Homeland Security to accept additional documentation when considering the application for veterans status of an individual who performed service as a coastwise merchant seaman during World War II, and for other purposes.;World War II Merchant Mariner Service Act;H.R. 1288 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-03-14</dateIngested>
+</extension>
+<titleInfo>
+ <title>To direct the Secretary of Homeland Security to accept additional documentation when considering the application for veterans status of an individual who performed service as a coastwise merchant seaman during World War II, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>World War II Merchant Mariner Service Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 1288 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-03-04</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>9 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18bb2c606</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1288ih</identifier>
+<identifier type="preferred citation">H.R. 1288</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h1288_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1288ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1288ih/html/BILLS-114hr1288ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1288ih/pdf/BILLS-114hr1288ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1288ih/xml/BILLS-114hr1288ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-03-14</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-13</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr1288ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>G. K. Butterfield</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Walter B. Jones Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Armed Services</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Veterans&apos; Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 38 Section 106note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">38 U.S.C. 106note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 55 Page 764</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">55 Stat. 764</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 76-379</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 76-379</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 77-294</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 77-294</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 95-202</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 95-202</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 105-368</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 105-368</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr1288ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>1288</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">World War II Merchant Mariner Service Act</shortTitle>
+ <officialTitle>To direct the Secretary of Homeland Security to accept additional documentation when considering the application for veterans status of an individual who performed service as a coastwise merchant seaman during World War II, and for other purposes.</officialTitle>
+ <action date="2015-03-04">Mr. Butterfield (for himself and Mr. Jones) introduced the following bill; which was referred to the Committee on Veterans’ Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <congCommittee authorityId="hsas00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Armed Services</name>
+                      <name type="authority-short">Armed Services</name>
+                </congCommittee>
+ <congCommittee authorityId="hsvr00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Veterans&apos; Affairs</name>
+                      <name type="authority-short">Veterans&apos; Affairs</name>
+                </congCommittee>
+ <congMember authorityId="1761" bioGuideId="B001251" chamber="H" congress="114" gpoId="8024" party="D" role="SPONSOR" state="NC">
+                      <name type="parsed">Mr. Butterfield</name>
+                      <name type="authority-fnf">G. K. Butterfield</name>
+                      <name type="authority-lnf">Butterfield, G. K.</name>
+                </congMember>
+ <congMember authorityId="612" bioGuideId="J000255" chamber="H" congress="114" gpoId="8026" party="R" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. Jones</name>
+                      <name type="authority-fnf">Walter B. Jones Jr.</name>
+                      <name type="authority-lnf">Jones, Walter B., Jr.</name>
+                      <name type="authority-other">Walter Jones Jr.</name>
+                </congMember>
+ <law congress="76" isPrivate="false" number="379"></law>
+ <law congress="77" isPrivate="false" number="294"></law>
+ <law congress="95" isPrivate="false" number="202"></law>
+ <law congress="105" isPrivate="false" number="368"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="38">
+                      <section detail="note" number="106"></section>
+                </USCode>
+ <statuteAtLarge volume="55">
+                      <pages pages="764"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>Middle Class CHANCE Act</title>
+    <createDate>2014-05-22T07:19:36Z</createDate>
+    <billNumber>2374</billNumber>
+    <billType>S</billType>
+    <sponsors>
+      <item>
+        <bioguideId>L000550</bioguideId>
+        <middleName />
+        <fullName>Sen. Landrieu, Mary L. [D-LA]</fullName>
+        <firstName>MARY</firstName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>L000550</bioguideId>
+          <gpoId>8251</gpoId>
+          <lisID>1546</lisID>
+        </identifiers>
+        <lastName>LANDRIEU</lastName>
+        <party>D</party>
+        <state>LA</state>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <state>HI</state>
+        <bioguideId>H001042</bioguideId>
+        <sponsorshipDate>2014-05-21</sponsorshipDate>
+        <identifiers>
+          <lisID>1844</lisID>
+          <gpoId>7913</gpoId>
+          <bioguideId>H001042</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <firstName>Mazie</firstName>
+        <lastName>Hirono</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>WV</state>
+        <bioguideId>R000361</bioguideId>
+        <sponsorshipDate>2014-06-05</sponsorshipDate>
+        <identifiers>
+          <bioguideId>R000361</bioguideId>
+          <lisID>1424</lisID>
+          <gpoId>8273</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Rockefeller, John D., IV [D-WV]</fullName>
+        <firstName>JAY</firstName>
+        <lastName>ROCKEFELLER</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NY</state>
+        <bioguideId>G000555</bioguideId>
+        <sponsorshipDate>2014-06-09</sponsorshipDate>
+        <identifiers>
+          <lisID>1866</lisID>
+          <bioguideId>G000555</bioguideId>
+          <gpoId>8336</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <firstName>Kirsten</firstName>
+        <lastName>Gillibrand</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <type>HR</type>
+        <number>4902</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+          <actionDate>2014-11-17</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Middle Class CHANCE Act</latestTitle>
+      </item>
+    </relatedBills>
+    <congress>113</congress>
+    <titles>
+      <item>
+        <title>Middle Class CHANCE Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Creating Higher Education Affordability Necessary to Compete Economically Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A bill to improve college affordability.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Middle Class CHANCE Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <introducedDate>2014-05-21</introducedDate>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2014-05-21</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <amendments />
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <notes />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-05-21</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2014-05-21</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Creating Higher Education Affordability Necessary to Compete Economically Act or the Middle Class CHANCE Act - Amends the Higher Education Act of 1965 to increase the maximum Federal Pell Grant for award year 2014-2015 and adjust it each subsequent award year to account for changes in the Consumer Price Index.</p> <p>Directs the Secretary of Education to award an additional Pell Grant to an eligible student who: (1) has received a Pell Grant for an award year, and (2) is enrolled in a program of study for one or more additional payment periods during the same award year that are not otherwise covered by the Pell Grant. </p> <p>Limits the total amount of the Pell Grants awarded to such student for the award year to 150% of the maximum Pell Grant for such award year.</p> <p>Raises, from 12 semesters to 15 semesters, the period during which a student may receive Federal Pell Grants.</p>]]></text>
+          <lastSummaryUpdateDate>2014-07-14T20:17:50Z</lastSummaryUpdateDate>
+          <updateDate>2014-05-21T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2014-05-21</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2016-10-25T16:30:17Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <subcommittees />
+          <systemCode>sshr00</systemCode>
+          <activities>
+            <item>
+              <date>2014-05-21T18:59:31Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

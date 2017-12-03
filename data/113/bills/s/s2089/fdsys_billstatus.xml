@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000817</bioguideId>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+          <lisID>2182</lisID>
+        </identifiers>
+        <sponsorshipDate>2014-03-06</sponsorshipDate>
+        <lastName>Warren</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>MA</state>
+        <firstName>Elizabeth</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001194</bioguideId>
+        <identifiers>
+          <lisID>2173</lisID>
+          <bioguideId>S001194</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2014-09-11</sponsorshipDate>
+        <lastName>Schatz</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>HI</state>
+        <firstName>Brian</firstName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <updateDate>2016-10-25T16:29:09Z</updateDate>
+    <recordedVotes />
+    <calendarNumbers />
+    <createDate>2014-03-07T07:01:03Z</createDate>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2014-04-08T14:11:56Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Supplemental Security Income Restoration Act of 2014 - Amends title XVI (Supplemental Security Income) (SSI) of the Social Security Act to increase from $240 to $1,320 (increased for inflation each calendar year after 2015) the first amount of general income per year excluded in determining SSI program eligibility.</p> <p>Increases from: (1) $780 to $4,284 (similarly increased) the first amount of earned income similarly excluded (including for a blind or disabled individual [or spouse] under age 65), (2) $3,000 to $15,000 in calendar year 2015 (increased for inflation) the resource limit for couples, and (3) $2,000 to $10,000 in calendar year 2015 (similarly increased) for individuals without a spouse.</p> <p>Prescribes an inflation adjustment in benefits in any calendar year after 2015.</p> <p>Removes support and maintenance furnished in kind from determination of unearned income.</p> <p>Repeals the administrative penalty that renders individuals (and spouses) ineligible for SSI for a certain period of time if after the look-back date (usually 36 months preceding their application for SSI) they dispose of their resources for less than market value.</p>]]></text>
+          <updateDate>2014-03-06T05:00:00Z</updateDate>
+          <actionDate>2014-03-06</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Medicaid</name>
+          </item>
+          <item>
+            <name>Poverty and welfare assistance</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-03-06</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2014-03-06</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <congress>113</congress>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <latestTitle>Supplemental Security Income Restoration Act of 2013</latestTitle>
+        <number>1601</number>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2013-04-17</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <title>Supplemental Security Income Restoration Act of 2014</title>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <billNumber>2089</billNumber>
+    <billType>S</billType>
+    <introducedDate>2014-03-06</introducedDate>
+    <latestAction>
+      <actionDate>2014-03-06</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2014-03-06T20:04:37Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <state>OH</state>
+        <bioguideId>B000944</bioguideId>
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <firstName>SHERROD</firstName>
+        <lastName>BROWN</lastName>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Supplemental Security Income Restoration Act of 2014</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend title XVI of the Social Security Act to update eligibility for the supplemental security income program, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Supplemental Security Income Restoration Act of 2014</title>
+      </item>
+    </titles>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

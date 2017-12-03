@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2013-06-13</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000457</bioguideId>
+        <identifiers>
+          <gpoId>8339</gpoId>
+          <lisID>1969</lisID>
+          <bioguideId>F000457</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-06-18</sponsorshipDate>
+        <lastName>Franken</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>MN</state>
+        <firstName>Al</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000817</bioguideId>
+        <identifiers>
+          <lisID>2182</lisID>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-07-08</sponsorshipDate>
+        <lastName>Warren</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>MA</state>
+        <firstName>Elizabeth</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Boxer, Barbara [D-CA]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000711</bioguideId>
+        <identifiers>
+          <bioguideId>B000711</bioguideId>
+          <lisID>116</lisID>
+          <gpoId>8306</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-07-10</sponsorshipDate>
+        <lastName>BOXER</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>CA</state>
+        <firstName>BARBARA</firstName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <links />
+      <actionDate>2013-06-13</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <number>2364</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Freedom from Discrimination in Credit Act of 2013</latestTitle>
+        <type>HR</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Financial Services.</text>
+          <actionDate>2013-06-13</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <updateDate>2016-10-25T16:25:16Z</updateDate>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-06-13</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2013-06-13</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Freedom from Discrimination in Credit Act of 2013 - Amends the Equal Credit Opportunity Act to prohibit discrimination on account of sexual orientation or gender identity when extending credit. </p> <p>Defines: (1) &quot;gender identity&quot; as the gender-related identity, appearance, or mannerisms or other gender-related characteristics of an individual with or without regard to the individual's designated sex at birth; (2) &quot;person&quot; as a natural person, corporation, government or governmental subdivision or agency, trust, estate, partnership, cooperative, or association; and (3) &quot;sexual orientation&quot; as homosexuality, heterosexuality, or bisexuality.</p>]]></text>
+          <actionDate>2013-06-13</actionDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2013-06-13T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-08-12T21:50:00Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Consumer credit</name>
+          </item>
+          <item>
+            <name>Sex, gender, sexual orientation discrimination</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Freedom from Discrimination in Credit Act of 2013</title>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <lastName>MURRAY</lastName>
+        <bioguideId>M001111</bioguideId>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <identifiers>
+          <lisID>1409</lisID>
+          <gpoId>8237</gpoId>
+          <bioguideId>M001111</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>PATTY</firstName>
+        <middleName />
+        <state>WA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2013-06-14T07:01:15Z</createDate>
+    <billNumber>1159</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-06-13T16:03:08Z</date>
+            </item>
+          </activities>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <type>Standing</type>
+          <systemCode>ssbk00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Freedom from Discrimination in Credit Act of 2013</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Equal Credit Opportunity Act to prohibit discrimination on account of sexual orientation or gender identity when extending credit.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Freedom from Discrimination in Credit Act of 2013</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

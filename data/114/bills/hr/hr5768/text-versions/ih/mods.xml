@@ -1,0 +1,165 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee19056b4bd">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend title 10, United States Code, to authorize the Secretary of Defense to enter into intergovernmental agreements to provide for health screenings in communities near formerly used defense sites that have been identified by the Secretary as sources of perfluorooctanesuflonic acid and perfluorooctanoic acid.;
+   		PFOS and PFOA Right to Know Act of 2016;H.R. 5768 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-07-22</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend title 10, United States Code, to authorize the Secretary of Defense to enter into intergovernmental agreements to provide for health screenings in communities near formerly used defense sites that have been identified by the Secretary as sources of perfluorooctanesuflonic acid and perfluorooctanoic acid.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>PFOS and PFOA Right to Know Act of 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 5768 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-07-13</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>2 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee19056b4bd</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5768ih</identifier>
+<identifier type="preferred citation">H.R. 5768</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h5768_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5768ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5768ih/html/BILLS-114hr5768ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5768ih/pdf/BILLS-114hr5768ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5768ih/xml/BILLS-114hr5768ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-07-22</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-07-22</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr5768ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Patrick Meehan</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Brendan F. Boyle</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael G. Fitzpatrick</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Armed Services</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 2679(e)(1)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 2679(e)(1)</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr5768ih</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>5768</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle>PFOS and PFOA Right to Know Act of 2016</shortTitle>
+ <action date="2016-07-13">Mr. Meehan (for himself, Mr. Brendan F. Boyle of Pennsylvania, and Mr. Fitzpatrick) introduced the following bill; which was referred to the Committee on Armed Services</action>
+ <congCommittee authorityId="hsas00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Armed Services</name>
+                      <name type="authority-short">Armed Services</name>
+                </congCommittee>
+ <congMember authorityId="2052" bioGuideId="M001181" chamber="H" congress="114" gpoId="8125" party="R" role="SPONSOR" state="PA">
+                      <name type="parsed">Mr. Meehan</name>
+                      <name type="authority-fnf">Patrick Meehan</name>
+                      <name type="authority-lnf">Meehan, Patrick</name>
+                </congMember>
+ <congMember authorityId="2267" bioGuideId="B001296" chamber="H" congress="114" party="D" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Brendan F. Boyle of Pennsylvania</name>
+                      <name type="authority-fnf">Brendan F. Boyle</name>
+                      <name type="authority-lnf">Boyle, Brendan F.</name>
+                      <name type="authority-other">Mr. Brendan Boyle</name>
+                </congMember>
+ <congMember authorityId="1797" bioGuideId="F000451" chamber="H" congress="114" gpoId="8126" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Fitzpatrick</name>
+                      <name type="authority-fnf">Michael G. Fitzpatrick</name>
+                      <name type="authority-lnf">Fitzpatrick, Michael G.</name>
+                      <name type="authority-other">Mr. Michael Fitzpatrick</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="10">
+                      <section detail="(e)(1)" number="2679"></section>
+                </USCode>
+</extension>
+</mods>

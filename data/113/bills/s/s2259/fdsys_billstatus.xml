@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2014-04-28</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <firstName>MARIA</firstName>
+        <party>D</party>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C000127</bioguideId>
+        <identifiers>
+          <lisID>172</lisID>
+          <gpoId>8288</gpoId>
+          <bioguideId>C000127</bioguideId>
+        </identifiers>
+        <lastName>CANTWELL</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>WA</state>
+        <sponsorshipDate>2014-04-28</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>BENJAMIN</firstName>
+        <party>D</party>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C000141</bioguideId>
+        <identifiers>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+          <bioguideId>C000141</bioguideId>
+        </identifiers>
+        <lastName>CARDIN</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MD</state>
+        <sponsorshipDate>2014-04-28</sponsorshipDate>
+        <middleName>L.</middleName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <links />
+      <actionDate>2014-04-28</actionDate>
+    </latestAction>
+    <relatedBills />
+    <updateDate>2016-10-25T16:29:49Z</updateDate>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-04-28</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2014-04-28</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Helping Military Children Succeed in Schools Act - Amends the school improvement program under part A of title I of the Elementary and Secondary Education Act of 1965 (ESEA) to require states to include in their annual state report cards information regarding the number of, and the academic achievement of, their military-connected students (students who have a parent who serves in the Armed Forces).</p> <p>Prohibits that academic achievement information from being used for school or local educational agency accountability purposes under the ESEA.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2014-04-28</actionDate>
+          <updateDate>2014-04-28T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-06-26T18:38:13Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Academic performance and assessments</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Helping Military Children Succeed in Schools Act</title>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <lastName>MURRAY</lastName>
+        <bioguideId>M001111</bioguideId>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <identifiers>
+          <lisID>1409</lisID>
+          <bioguideId>M001111</bioguideId>
+          <gpoId>8237</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>PATTY</firstName>
+        <middleName />
+        <state>WA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2014-04-29T07:18:53Z</createDate>
+    <billNumber>2259</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2014-04-28T20:54:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Helping Military Children Succeed in Schools Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to amend the Elementary and Secondary Education Act of 1965 to allow for data collection about military-connected students.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Helping Military Children Succeed in Schools Act</title>
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

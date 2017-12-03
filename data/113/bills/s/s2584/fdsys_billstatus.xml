@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2014-07-10</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <state>OH</state>
+        <bioguideId>P000449</bioguideId>
+        <sponsorshipDate>2014-07-10</sponsorshipDate>
+        <identifiers>
+          <lisID>924</lisID>
+          <gpoId>8266</gpoId>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <firstName>ROB</firstName>
+        <lastName>PORTMAN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>VA</state>
+        <bioguideId>W000805</bioguideId>
+        <sponsorshipDate>2014-07-10</sponsorshipDate>
+        <identifiers>
+          <lisID>1897</lisID>
+          <bioguideId>W000805</bioguideId>
+          <gpoId>8269</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <firstName>Mark</firstName>
+        <lastName>Warner</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S4408-4409)</text>
+      <links />
+      <actionDate>2014-07-10</actionDate>
+    </latestAction>
+    <relatedBills />
+    <updateDate>2016-10-25T16:31:24Z</updateDate>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-07-10</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S4408-4409</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S4408-4409</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S4408-4409)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>B00100</actionCode>
+        <actionDate>2014-07-10</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S4406-4408</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S4406-4408</url>
+          </link>
+        </links>
+        <text>Sponsor introductory remarks on measure. (CR S4406-4408)</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2014-07-10</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2014-10-24T19:09:47Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Educating Tomorrow's Workforce Act of 2014 - Amends the Carl D. Perkins Career and Technical Education Act of 2006 to revise the requirements for the plan of a state seeking federal assistance for career and technical education programs. Requires the state plan to describe how the eligible state agency will ensure the quality of any program of study culminating in an industry-recognized certificate, credential, or license.</p> <p>Requires state agency leadership activities to support career academies which:</p> <ul> <li>implement a college and career ready curriculum at the secondary education level integrating rigorous academic, technical, and employability contents;</li> <li>include experiential or work-based learning for secondary school students, in collaboration with local and regional employers;</li> <li>include opportunities for secondary school students to earn postsecondary credit while in secondary school; and</li> <li>establish and maintain ongoing partnerships between the local educational agency, business and industry, and institutions of higher education, or postsecondary vocational institutions, including local government.</li> </ul> <p>Requires the local plan for career and technical education programs to describe: (1) how the eligible recipient of assistance will assess local needs related to career and technical education as part of the local plan development process, and (2) how this needs assessment will be updated annually, especially on progress toward specific elements leading to high-quality implementation of career and technical education programs of study. </p> <p>Authorizes the local use of funds for improving such programs to support career academies.</p> <ul> <ul> </ul> </ul>]]></text>
+          <updateDate>2014-07-10T04:00:00Z</updateDate>
+          <actionDate>2014-07-10</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Teaching, teachers, curricula</name>
+          </item>
+          <item>
+            <name>Vocational and technical education</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Educating Tomorrow's Workforce Act of 2014</title>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <lastName>Kaine</lastName>
+        <bioguideId>K000384</bioguideId>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <identifiers>
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <firstName>Timothy</firstName>
+        <middleName />
+        <state>VA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2014-07-11T05:05:24Z</createDate>
+    <billNumber>2584</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sshr00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <activities>
+            <item>
+              <date>2014-07-10T17:48:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Educating Tomorrow's Workforce Act of 2014</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to amend the Carl D. Perkins Career and Technical Education Act of 2006 to raise the quality of career and technical education programs and to allow local eligible recipients to use funding to establish high-quality career academics.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Educating Tomorrow's Workforce Act of 2014</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

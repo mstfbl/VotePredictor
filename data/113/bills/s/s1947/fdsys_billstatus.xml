@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2014-01-16</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <middleName />
+        <firstName>SAXBY</firstName>
+        <identifiers>
+          <bioguideId>C000286</bioguideId>
+          <lisID>188</lisID>
+          <gpoId>8284</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>CHAMBLISS</lastName>
+        <fullName>Sen. Chambliss, Saxby [R-GA]</fullName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C000286</bioguideId>
+        <sponsorshipDate>2014-01-16</sponsorshipDate>
+        <state>GA</state>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 357.</text>
+      <links />
+      <actionDate>2014-04-10</actionDate>
+    </latestAction>
+    <relatedBills />
+    <updateDate>2016-10-25T16:28:33Z</updateDate>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionDate>2014-04-10</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 357.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2014-04-10</actionDate>
+        <committee>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Rules and Administration. Reported by Senator Schumer without amendment. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </committee>
+        <text>Committee on Rules and Administration. Reported by Senator Schumer without amendment. Without written report.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <actionDate>2014-04-10</actionDate>
+        <actionCode>14000</actionCode>
+        <links />
+      </item>
+      <item>
+        <actionDate>2014-04-09</actionDate>
+        <committee>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Rules and Administration. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-01-16</actionDate>
+        <committee>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Rules and Administration.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2014-01-16</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <orderedReported>1</orderedReported>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers>
+      <item>
+        <number>0357</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Government Publishing Office Act of 2014 - Redesignates the Government Printing Office (GPO) as the Government Publishing Office and the Public Printer and the Deputy Public Printer as the Director of the Government Publishing Office and the Deputy Director of the Government Publishing Office, respectively.&nbsp;Eliminates as a requirement&nbsp;for such positions that such&nbsp;officers be practical printers and versed in the art of bookbinding.&nbsp;</p>]]></text>
+          <updateDate>2014-01-16T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2014-03-01T13:59:59Z</lastSummaryUpdateDate>
+          <actionDate>2014-01-16</actionDate>
+        </item>
+        <item>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Government Publishing Office Act of 2014 - Redesignates the Government Printing Office (GPO) as the Government Publishing Office and the Public Printer and the Deputy Public Printer as the Director of the Government Publishing Office and the Deputy Director of the Government Publishing Office, respectively.&nbsp;Eliminates as a requirement&nbsp;for such positions that such&nbsp;officers be practical printers and versed in the art of bookbinding.&nbsp;</p>]]></text>
+          <updateDate>2014-04-10T11:27:03Z</updateDate>
+          <name>Reported to Senate without amendment</name>
+          <versionCode>80</versionCode>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2014-05-01T15:26:48Z</lastSummaryUpdateDate>
+          <actionDate>2014-04-10</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional agencies</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Government Publishing Office (GPO)</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Government Publishing Office Act of 2014</title>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <lastName>Klobuchar</lastName>
+        <bioguideId>K000367</bioguideId>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <identifiers>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Amy</firstName>
+        <middleName />
+        <state>MN</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2014-01-17T07:02:02Z</createDate>
+    <billNumber>1947</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssra00</systemCode>
+          <activities>
+            <item>
+              <date>2014-04-10T18:18:34Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2014-04-09T14:00:00Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2014-01-16T22:40:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Rules and Administration Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates>
+      <item>
+        <url>http://www.cbo.gov/publication/45282</url>
+        <pubDate>2014-04-18T19:04:38Z</pubDate>
+        <title>S. 1947, Government Publishing Office Act of 2014</title>
+      </item>
+      <item>
+        <url>https://www.cbo.gov/publication/45282</url>
+        <pubDate>2014-04-18T19:04:38Z</pubDate>
+        <title>S. 1947, Government Publishing Office Act of 2014</title>
+      </item>
+    </cboCostEstimates>
+    <titles>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <title>Government Publishing Office Act of 2014</title>
+        <chamberName>Senate</chamberName>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Government Publishing Office Act of 2014</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to rename the Government Printing Office the Government Publishing Office, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Government Publishing Office Act of 2014</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

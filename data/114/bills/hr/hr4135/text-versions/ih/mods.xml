@@ -1,0 +1,308 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18e0a28db">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To clarify the definition of nonimmigrant for purposes of chapter 44 of title 18, United States Code.;Visa Waiver Program Firearms Clarification Act of 2015;H.R. 4135 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-12-01</dateIngested>
+</extension>
+<titleInfo>
+ <title>To clarify the definition of nonimmigrant for purposes of chapter 44 of title 18, United States Code.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Visa Waiver Program Firearms Clarification Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 4135 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-11-30</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>3 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18e0a28db</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4135ih</identifier>
+<identifier type="preferred citation">H.R. 4135</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h4135_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4135ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4135ih/html/BILLS-114hr4135ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4135ih/pdf/BILLS-114hr4135ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4135ih/xml/BILLS-114hr4135ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-12-01</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr4135ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Tammy Duckworth</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jackie Speier</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Adam B. Schiff</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Steve Cohen</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mike Quigley</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Henry C. &quot;Hank&quot; Johnson, Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Chris Van Hollen</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Eliot L. Engel</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Alan Grayson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Elizabeth H. Esty</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Alan S. Lowenthal</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David Scott</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Zoe Lofgren</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on the Judiciary</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 8 Section 1187</partNumber>
+</titleInfo>
+ <identifier type="USC citation">8 U.S.C. 1187</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Section 922</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. 922</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr4135ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>4135</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Visa Waiver Program Firearms Clarification Act of 2015</shortTitle>
+ <officialTitle>To clarify the definition of nonimmigrant for purposes of chapter 44 of title 18, United States Code.</officialTitle>
+ <action date="2015-11-30">Ms. Duckworth (for herself, Ms. Speier, Mr. Schiff, Mr. Cohen, Mr. Quigley, Mr. Johnson of Georgia, Mr. Van Hollen, Mr. Engel, Mr. Grayson, Ms. Esty, Mr. Lowenthal, Mr. David Scott of Georgia, and Ms. Lofgren) introduced the following bill; which was referred to the Committee on the Judiciary</action>
+ <congCommittee authorityId="hsju00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on the Judiciary</name>
+                      <name type="authority-short">Judiciary</name>
+                </congCommittee>
+ <congMember authorityId="2123" bioGuideId="D000622" chamber="H" congress="114" party="D" role="SPONSOR" state="IL">
+                      <name type="parsed">Ms. Duckworth</name>
+                      <name type="authority-fnf">Tammy Duckworth</name>
+                      <name type="authority-lnf">Duckworth, Tammy</name>
+                </congMember>
+ <congMember authorityId="1890" bioGuideId="S001175" chamber="H" congress="114" gpoId="7817" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Speier</name>
+                      <name type="authority-fnf">Jackie Speier</name>
+                      <name type="authority-lnf">Speier, Jackie</name>
+                </congMember>
+ <congMember authorityId="1635" bioGuideId="S001150" chamber="H" congress="114" gpoId="7834" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Schiff</name>
+                      <name type="authority-fnf">Adam B. Schiff</name>
+                      <name type="authority-lnf">Schiff, Adam B.</name>
+                      <name type="authority-other">Adam Schiff</name>
+                </congMember>
+ <congMember authorityId="1878" bioGuideId="C001068" chamber="H" congress="114" gpoId="8156" party="D" role="COSPONSOR" state="TN">
+                      <name type="parsed">Mr. Cohen</name>
+                      <name type="authority-fnf">Steve Cohen</name>
+                      <name type="authority-lnf">Cohen, Steve</name>
+                </congMember>
+ <congMember authorityId="1967" bioGuideId="Q000023" chamber="H" congress="114" gpoId="7925" party="D" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Quigley</name>
+                      <name type="authority-fnf">Mike Quigley</name>
+                      <name type="authority-lnf">Quigley, Mike</name>
+                </congMember>
+ <congMember authorityId="1843" bioGuideId="J000288" chamber="H" congress="114" gpoId="7901" party="D" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Johnson of Georgia</name>
+                      <name type="authority-fnf">Henry C. &quot;Hank&quot; Johnson, Jr.</name>
+                      <name type="authority-lnf">Johnson, Henry C. &quot;Hank,&quot; Jr.</name>
+                      <name type="authority-other">Mr. Henry Johnson Jr.</name>
+                </congMember>
+ <congMember authorityId="1729" bioGuideId="V000128" chamber="H" congress="114" gpoId="7983" party="D" role="COSPONSOR" state="MD">
+                      <name type="parsed">Mr. Van Hollen</name>
+                      <name type="authority-fnf">Chris Van Hollen</name>
+                      <name type="authority-lnf">Van Hollen, Chris</name>
+                </congMember>
+ <congMember authorityId="344" bioGuideId="E000179" chamber="H" congress="114" gpoId="8078" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Engel</name>
+                      <name type="authority-fnf">Eliot L. Engel</name>
+                      <name type="authority-lnf">Engel, Eliot L.</name>
+                      <name type="authority-other">Eliot Engel</name>
+                </congMember>
+ <congMember authorityId="1914" bioGuideId="G000556" chamber="H" congress="114" gpoId="7302" party="D" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Grayson</name>
+                      <name type="authority-fnf">Alan Grayson</name>
+                      <name type="authority-lnf">Grayson, Alan</name>
+                </congMember>
+ <congMember authorityId="2114" bioGuideId="E000293" chamber="H" congress="114" party="D" role="COSPONSOR" state="CT">
+                      <name type="parsed">Ms. Esty</name>
+                      <name type="authority-fnf">Elizabeth H. Esty</name>
+                      <name type="authority-lnf">Esty, Elizabeth H.</name>
+                      <name type="authority-other">Ms. Elizabeth Esty</name>
+                </congMember>
+ <congMember authorityId="2111" bioGuideId="L000579" chamber="H" congress="114" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Lowenthal</name>
+                      <name type="authority-fnf">Alan S. Lowenthal</name>
+                      <name type="authority-lnf">Lowenthal, Alan S.</name>
+                      <name type="authority-other">Mr. Alan Lowenthal</name>
+                </congMember>
+ <congMember authorityId="1722" bioGuideId="S001157" chamber="H" congress="114" gpoId="7910" party="D" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. David Scott of Georgia</name>
+                      <name type="authority-fnf">David Scott</name>
+                      <name type="authority-lnf">Scott, David</name>
+                </congMember>
+ <congMember authorityId="701" bioGuideId="L000397" chamber="H" congress="114" gpoId="7821" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Lofgren</name>
+                      <name type="authority-fnf">Zoe Lofgren</name>
+                      <name type="authority-lnf">Lofgren, Zoe</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="8">
+                      <section number="1187"></section>
+                </USCode>
+ <USCode title="18">
+                      <section number="922"></section>
+                </USCode>
+</extension>
+</mods>

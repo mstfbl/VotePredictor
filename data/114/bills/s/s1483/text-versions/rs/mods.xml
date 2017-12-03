@@ -1,0 +1,156 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18d822357">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To direct the Secretary of the Interior to study the suitability and feasibility of designating the James K. Polk Home in Columbia, Tennessee, as a unit of the National Park System, and for other purposes.;James K. Polk Presidential Home Study Act;S. 1483 (RS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-09-10</dateIngested>
+</extension>
+<titleInfo>
+ <title>To direct the Secretary of the Interior to study the suitability and feasibility of designating the James K. Polk Home in Columbia, Tennessee, as a unit of the National Park System, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>James K. Polk Presidential Home Study Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1483 (RS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-09-09</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>6 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18d822357</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s1483rs</identifier>
+<identifier type="preferred citation">S. 1483</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1483_rs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s1483rs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1483rs/html/BILLS-114s1483rs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1483rs/pdf/BILLS-114s1483rs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1483rs/xml/BILLS-114s1483rs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-09-10</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s1483rs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Lamar Alexander</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Christopher S. Murphy</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Energy and Natural Resources</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 54 Section 100507</partNumber>
+</titleInfo>
+ <identifier type="USC citation">54 U.S.C. 100507</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 216</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s1483rs</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1483</billNumber>
+ <billVersion reprint="false">rs</billVersion>
+ <fileSuffix>rs</fileSuffix>
+ <shortTitle type="measure">James K. Polk Presidential Home Study Act</shortTitle>
+ <officialTitle>To direct the Secretary of the Interior to study the suitability and feasibility of designating the James K. Polk Home in Columbia, Tennessee, as a unit of the National Park System, and for other purposes.</officialTitle>
+ <action date="2015-06-02">Mr. Alexander (for himself and Mr. Murphy) introduced the following bill; which was read twice and referred to the Committee on Energy and Natural Resources</action>
+ <action date="2015-09-09">Reported by Ms. Murkowski, with an amendment</action>
+ <congCommittee authorityId="sseg00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Energy and Natural Resources</name>
+                      <name type="authority-short">Energy and Natural Resources</name>
+                </congCommittee>
+ <congMember authorityId="1695" bioGuideId="A000360" chamber="S" congress="114" gpoId="8304" party="R" role="SPONSOR" state="TN">
+                      <name type="parsed">Mr. Alexander</name>
+                      <name type="authority-fnf">Lamar Alexander</name>
+                      <name type="authority-lnf">Alexander, Lamar</name>
+                </congMember>
+ <congMember authorityId="1837" bioGuideId="M001169" chamber="S" congress="114" gpoId="7870" party="D" role="COSPONSOR" state="CT">
+                      <name type="parsed">Mr. Murphy</name>
+                      <name type="authority-fnf">Christopher S. Murphy</name>
+                      <name type="authority-lnf">Murphy, Christopher S.</name>
+                      <name type="authority-other">Mr. Christopher Murphy</name>
+                </congMember>
+ <congCalendar congress="114" number="216" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="54">
+                      <section number="100507"></section>
+                </USCode>
+</extension>
+</mods>

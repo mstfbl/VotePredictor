@@ -1,0 +1,239 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18cb04a06">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Homeland Security Act of 2002 to establish chemical, biological, radiological, and nuclear intelligence and information sharing functions of the Office of Intelligence and Analysis of the Department of Homeland Security and to require dissemination of information analyzed by the Department to entities with responsibilities relating to homeland security, and for other purposes.;CBRN Intelligence and Information Sharing Act of 2015;H.R. 2200 (RH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-06-18</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Homeland Security Act of 2002 to establish chemical, biological, radiological, and nuclear intelligence and information sharing functions of the Office of Intelligence and Analysis of the Department of Homeland Security and to require dissemination of information analyzed by the Department to entities with responsibilities relating to homeland security, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>CBRN Intelligence and Information Sharing Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2200 (RH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-06-17</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>8 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18cb04a06</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2200rh</identifier>
+<identifier type="preferred citation">H.R. 2200</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2200_rh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2200rh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2200rh/html/BILLS-114hr2200rh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2200rh/pdf/BILLS-114hr2200rh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2200rh/xml/BILLS-114hr2200rh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-06-18</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-11</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr2200rh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Martha McSally</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael T. McCaul</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Peter T. King</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Patrick Meehan</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bennie G. Thompson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Donald M. Payne, Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Susan W. Brooks</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Homeland Security</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 6 Section 121(d)(8)</partNumber>
+  <partNumber>Title 6 Section 121et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">6 U.S.C. 121(d)(8)</identifier>
+ <identifier type="USC citation">6 U.S.C. 121et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 50 Section 401a(4)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">50 U.S.C. 401a(4)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Union Calendar No. 120</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr2200rh</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>2200</billNumber>
+ <billVersion reprint="false">rh</billVersion>
+ <fileSuffix>rh</fileSuffix>
+ <shortTitle type="measure">CBRN Intelligence and Information Sharing Act of 2015</shortTitle>
+ <officialTitle>To amend the Homeland Security Act of 2002 to establish chemical, biological, radiological, and nuclear intelligence and information sharing functions of the Office of Intelligence and Analysis of the Department of Homeland Security and to require dissemination of information analyzed by the Department to entities with responsibilities relating to homeland security, and for other purposes.</officialTitle>
+ <action date="2015-05-01">Ms. McSally (for herself, Mr. McCaul, Mr. King of New York, Mr. Meehan, Mr. Thompson of Mississippi, and Mr. Payne) introduced the following bill; which was referred to the Committee on Homeland Security</action>
+ <action date="2015-06-17">Additional sponsor: Mrs. Brooks of Indiana</action>
+ <action date="2015-06-17">Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action>
+ <congCommittee authorityId="hshm00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Homeland Security</name>
+                      <name type="authority-short">Homeland Security</name>
+                </congCommittee>
+ <congMember authorityId="2225" bioGuideId="M001197" chamber="H" congress="114" party="R" role="SPONSOR" state="AZ">
+                      <name type="parsed">Ms. McSally</name>
+                      <name type="authority-fnf">Martha McSally</name>
+                      <name type="authority-lnf">McSally, Martha</name>
+                </congMember>
+ <congMember authorityId="1804" bioGuideId="M001157" chamber="H" congress="114" gpoId="8166" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. McCaul</name>
+                      <name type="authority-fnf">Michael T. McCaul</name>
+                      <name type="authority-lnf">McCaul, Michael T.</name>
+                      <name type="authority-other">Mr. Michael Mccaul</name>
+                </congMember>
+ <congMember authorityId="635" bioGuideId="K000210" chamber="H" congress="114" gpoId="8064" party="R" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. King of New York</name>
+                      <name type="authority-fnf">Peter T. King</name>
+                      <name type="authority-lnf">King, Peter T.</name>
+                      <name type="authority-other">Peter King</name>
+                </congMember>
+ <congMember authorityId="2052" bioGuideId="M001181" chamber="H" congress="114" gpoId="8125" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Meehan</name>
+                      <name type="authority-fnf">Patrick Meehan</name>
+                      <name type="authority-lnf">Meehan, Patrick</name>
+                </congMember>
+ <congMember authorityId="1151" bioGuideId="T000193" chamber="H" congress="114" gpoId="8020" party="D" role="COSPONSOR" state="MS">
+                      <name type="parsed">Mr. Thompson of Mississippi</name>
+                      <name type="authority-fnf">Bennie G. Thompson</name>
+                      <name type="authority-lnf">Thompson, Bennie G.</name>
+                      <name type="authority-other">Bennie Thompson</name>
+                </congMember>
+ <congMember authorityId="2097" bioGuideId="P000604" chamber="H" congress="114" gpoId="8373" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Payne</name>
+                      <name type="authority-fnf">Donald M. Payne, Jr.</name>
+                      <name type="authority-lnf">Payne, Donald M., Jr.</name>
+                      <name type="authority-other">Mr. Donald Payne Jr.</name>
+                </congMember>
+ <congMember authorityId="2129" bioGuideId="B001284" chamber="H" congress="114" party="R" role="COSPONSOR" state="IN">
+                      <name type="parsed">Mrs. Brooks of Indiana</name>
+                      <name type="authority-fnf">Susan W. Brooks</name>
+                      <name type="authority-lnf">Brooks, Susan W.</name>
+                      <name type="authority-other">Mrs. Susan Brooks</name>
+                </congMember>
+ <congCalendar congress="114" number="120" type="UNION"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="6">
+                      <section detail="(d)(8)" number="121"></section>
+                      <section detail="et seq." number="121"></section>
+                </USCode>
+ <USCode title="50">
+                      <section detail="(4)" number="401a"></section>
+                </USCode>
+</extension>
+</mods>

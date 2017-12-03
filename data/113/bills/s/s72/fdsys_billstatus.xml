@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>A bill for the relief of Luay Hadad.</title>
+    <createDate>2013-01-24T07:00:55Z</createDate>
+    <billNumber>72</billNumber>
+    <billType>S</billType>
+    <sponsors>
+      <item>
+        <bioguideId>L000261</bioguideId>
+        <middleName>MILTON</middleName>
+        <fullName>Sen. Levin, Carl [D-MI]</fullName>
+        <firstName>CARL</firstName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>L000261</bioguideId>
+          <gpoId>8243</gpoId>
+          <lisID>1384</lisID>
+        </identifiers>
+        <lastName>LEVIN</lastName>
+        <party>D</party>
+        <state>MI</state>
+      </item>
+    </sponsors>
+    <cosponsors />
+    <relatedBills />
+    <congress>113</congress>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill for the relief of Luay Hadad.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill for the relief of Luay Hadad.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <introducedDate>2013-01-23</introducedDate>
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <actionDate>2013-01-23</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <amendments />
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Private Legislation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <notes />
+    <actions>
+      <item>
+        <actionDate>2013-01-23</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2013-01-23</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2013-01-24T09:02:08Z</lastSummaryUpdateDate>
+          <actionDate>2013-01-23</actionDate>
+          <text><![CDATA[Provides for the relief of Luay Hadad.]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2013-01-23T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2016-10-25T16:19:58Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssju00</systemCode>
+          <activities>
+            <item>
+              <date>2013-01-23T17:48:38Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Private Legislation</name>
+    </policyArea>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

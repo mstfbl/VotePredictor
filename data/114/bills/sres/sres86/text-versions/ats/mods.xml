@@ -1,0 +1,204 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18b51bfbb">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>Recognizing March 3, 2015, as the centennial of the Navy Reserve.;S. Res. 86 (ATS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-02-26</dateIngested>
+</extension>
+<titleInfo>
+ <title>Recognizing March 3, 2015, as the centennial of the Navy Reserve.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. Res. 86 (ATS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-02-25</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>3 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/2:</classification>
+<identifier type="local">P0b002ee18b51bfbb</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114sres86ats</identifier>
+<identifier type="preferred citation">S. Res. 86</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325577</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate resolutions</identifier>
+<identifier type="former package identifier">f:sr86_ats.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114sres86ats/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres86ats/html/BILLS-114sres86ats.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres86ats/pdf/BILLS-114sres86ats.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres86ats/xml/BILLS-114sres86ats.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-02-26</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-13</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114sres86ats</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Susan M. Collins</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark R. Warner</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John McCain</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Christopher S. Murphy</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Kirk</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Angus S. King Jr.</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gary C. Peters</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 38 Page 928</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">38 Stat. 928</identifier>
+</relatedItem>
+<extension>
+ <docClass>sres</docClass>
+ <accessId>BILLS-114sres86ats</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>86</billNumber>
+ <billVersion reprint="false">ats</billVersion>
+ <fileSuffix>ats</fileSuffix>
+ <officialTitle>Recognizing March 3, 2015, as the centennial of the Navy Reserve.</officialTitle>
+ <action date="2015-02-25">Ms. Collins (for herself, Mr. Warner, Mr. McCain, Mr. Murphy, Mr. Kirk, Mr. King, and Mr. Peters) submitted the following resolution; which was considered and agreed to</action>
+ <congMember authorityId="1541" bioGuideId="C001035" chamber="S" congress="114" gpoId="8291" party="R" role="SPONSOR" state="ME">
+                      <name type="parsed">Ms. Collins</name>
+                      <name type="authority-fnf">Susan M. Collins</name>
+                      <name type="authority-lnf">Collins, Susan M.</name>
+                      <name type="authority-other">Susan Margaret Collins</name>
+                </congMember>
+ <congMember authorityId="1897" bioGuideId="W000805" chamber="S" congress="114" gpoId="8269" party="D" role="COSPONSOR" state="VA">
+                      <name type="parsed">Mr. Warner</name>
+                      <name type="authority-fnf">Mark R. Warner</name>
+                      <name type="authority-lnf">Warner, Mark R.</name>
+                      <name type="authority-other">Mr. Mark Warner</name>
+                </congMember>
+ <congMember authorityId="754" bioGuideId="M000303" chamber="S" congress="114" gpoId="8253" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. McCain</name>
+                      <name type="authority-fnf">John McCain</name>
+                      <name type="authority-lnf">McCain, John</name>
+                      <name type="authority-other">John Sidney Mccain</name>
+                </congMember>
+ <congMember authorityId="1837" bioGuideId="M001169" chamber="S" congress="114" gpoId="7870" party="D" role="COSPONSOR" state="CT">
+                      <name type="parsed">Mr. Murphy</name>
+                      <name type="authority-fnf">Christopher S. Murphy</name>
+                      <name type="authority-lnf">Murphy, Christopher S.</name>
+                      <name type="authority-other">Mr. Christopher Murphy</name>
+                </congMember>
+ <congMember authorityId="1647" bioGuideId="K000360" chamber="S" congress="114" gpoId="8285" party="R" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Kirk</name>
+                      <name type="authority-fnf">Mark Kirk</name>
+                      <name type="authority-lnf">Kirk, Mark Steven</name>
+                      <name type="authority-other">Mark Steven Kirk</name>
+                </congMember>
+ <congMember authorityId="2185" bioGuideId="K000383" chamber="S" congress="114" party="I" role="COSPONSOR" state="ME">
+                      <name type="parsed">Mr. King</name>
+                      <name type="authority-fnf">Angus S. King Jr.</name>
+                      <name type="authority-lnf">King, Angus S., Jr.</name>
+                      <name type="authority-other">Mr. Angus King Jr.</name>
+                </congMember>
+ <congMember authorityId="1929" bioGuideId="P000595" chamber="S" congress="114" gpoId="7994" party="D" role="COSPONSOR" state="MI">
+                      <name type="parsed">Mr. Peters</name>
+                      <name type="authority-fnf">Gary C. Peters</name>
+                      <name type="authority-lnf">Peters, Gary C.</name>
+                      <name type="authority-other">Mr. Gary Peters</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <statuteAtLarge volume="38">
+                      <pages pages="928"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

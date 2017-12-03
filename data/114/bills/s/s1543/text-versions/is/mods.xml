@@ -1,0 +1,206 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18ca8e82a">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To lift the trade embargo on Cuba, and for other purposes.;Cuba Trade Act of 2015;S. 1543 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-06-12</dateIngested>
+</extension>
+<titleInfo>
+ <title>To lift the trade embargo on Cuba, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Cuba Trade Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1543 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-06-10</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>4 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18ca8e82a</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s1543is</identifier>
+<identifier type="preferred citation">S. 1543</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1543_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s1543is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1543is/html/BILLS-114s1543is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1543is/pdf/BILLS-114s1543is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1543is/xml/BILLS-114s1543is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-06-12</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-11</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s1543is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Jerry Moran</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Angus S. King Jr.</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Banking, Housing, and Urban Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 7 Section 7401(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">7 U.S.C. 7401(a)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 22 Section 2370(a)</partNumber>
+  <partNumber>Title 22 Section 6001et seq.</partNumber>
+  <partNumber>Title 22 Section 6003</partNumber>
+  <partNumber>Title 22 Section 6004(d)</partNumber>
+  <partNumber>Title 22 Section 6005</partNumber>
+  <partNumber>Title 22 Section 6007</partNumber>
+  <partNumber>Title 22 Section 6008</partNumber>
+  <partNumber>Title 22 Section 6021</partNumber>
+  <partNumber>Title 22 Section 6032</partNumber>
+  <partNumber>Title 22 Section 6033</partNumber>
+  <partNumber>Title 22 Section 6039(a)</partNumber>
+  <partNumber>Title 22 Section 6064(b)</partNumber>
+  <partNumber>Title 22 Section 7201et seq.</partNumber>
+  <partNumber>Title 22 Section 7205(a)(1)</partNumber>
+  <partNumber>Title 22 Section 7207</partNumber>
+  <partNumber>Title 22 Section 7208</partNumber>
+</titleInfo>
+ <identifier type="USC citation">22 U.S.C. 2370(a)</identifier>
+ <identifier type="USC citation">22 U.S.C. 6001et seq.</identifier>
+ <identifier type="USC citation">22 U.S.C. 6003</identifier>
+ <identifier type="USC citation">22 U.S.C. 6004(d)</identifier>
+ <identifier type="USC citation">22 U.S.C. 6005</identifier>
+ <identifier type="USC citation">22 U.S.C. 6007</identifier>
+ <identifier type="USC citation">22 U.S.C. 6008</identifier>
+ <identifier type="USC citation">22 U.S.C. 6021</identifier>
+ <identifier type="USC citation">22 U.S.C. 6032</identifier>
+ <identifier type="USC citation">22 U.S.C. 6033</identifier>
+ <identifier type="USC citation">22 U.S.C. 6039(a)</identifier>
+ <identifier type="USC citation">22 U.S.C. 6064(b)</identifier>
+ <identifier type="USC citation">22 U.S.C. 7201et seq.</identifier>
+ <identifier type="USC citation">22 U.S.C. 7205(a)(1)</identifier>
+ <identifier type="USC citation">22 U.S.C. 7207</identifier>
+ <identifier type="USC citation">22 U.S.C. 7208</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s1543is</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1543</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle type="measure">Cuba Trade Act of 2015</shortTitle>
+ <officialTitle>To lift the trade embargo on Cuba, and for other purposes.</officialTitle>
+ <action date="2015-06-10">Mr. Moran (for himself and Mr. King) introduced the following bill; which was read twice and referred to the Committee on Banking, Housing, and Urban Affairs</action>
+ <congCommittee authorityId="ssbk00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Banking, Housing, and Urban Affairs</name>
+                      <name type="authority-short">Banking</name>
+                </congCommittee>
+ <congMember authorityId="1507" bioGuideId="M000934" chamber="S" congress="114" gpoId="8307" party="R" role="SPONSOR" state="KS">
+                      <name type="parsed">Mr. Moran</name>
+                      <name type="authority-fnf">Jerry Moran</name>
+                      <name type="authority-lnf">Moran, Jerry</name>
+                </congMember>
+ <congMember authorityId="2185" bioGuideId="K000383" chamber="S" congress="114" party="I" role="COSPONSOR" state="ME">
+                      <name type="parsed">Mr. King</name>
+                      <name type="authority-fnf">Angus S. King Jr.</name>
+                      <name type="authority-lnf">King, Angus S., Jr.</name>
+                      <name type="authority-other">Mr. Angus King Jr.</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="7">
+                      <section detail="(a)" number="7401"></section>
+                </USCode>
+ <USCode title="22">
+                      <section detail="(a)" number="2370"></section>
+                      <section detail="et seq." number="6001"></section>
+                      <section number="6003"></section>
+                      <section detail="(d)" number="6004"></section>
+                      <section number="6005"></section>
+                      <section number="6007"></section>
+                      <section number="6008"></section>
+                      <section number="6021"></section>
+                      <section number="6032"></section>
+                      <section number="6033"></section>
+                      <section detail="(a)" number="6039"></section>
+                      <section detail="(b)" number="6064"></section>
+                      <section detail="et seq." number="7201"></section>
+                      <section detail="(a)(1)" number="7205"></section>
+                      <section number="7207"></section>
+                      <section number="7208"></section>
+                </USCode>
+</extension>
+</mods>

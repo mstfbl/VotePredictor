@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2013-09-18T07:01:07Z</createDate>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <bioguideId>C001070</bioguideId>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+          <gpoId>8282</gpoId>
+          <lisID>1828</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <firstName>Bob</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-09-17</sponsorshipDate>
+        <lastName>Casey</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>PA</state>
+      </item>
+      <item>
+        <bioguideId>L000550</bioguideId>
+        <identifiers>
+          <lisID>1546</lisID>
+          <gpoId>8251</gpoId>
+          <bioguideId>L000550</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Landrieu, Mary L. [D-LA]</fullName>
+        <firstName>MARY</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-06-17</sponsorshipDate>
+        <lastName>LANDRIEU</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>LA</state>
+      </item>
+    </cosponsors>
+    <title>Removing Barriers to Adoption and Supporting Families Act of 2013</title>
+    <actions>
+      <item>
+        <actionDate>2013-09-17</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>B00100</actionCode>
+        <type>IntroReferral</type>
+        <text>Sponsor introductory remarks on measure. (CR S6523-6524)</text>
+        <links>
+          <link>
+            <name>S6523-6524</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S6523-6524</url>
+          </link>
+        </links>
+        <actionDate>2013-09-17</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-09-17</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <committeeReports />
+    <updateDate>2016-10-25T16:26:52Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Adoption and foster care</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Family relationships</name>
+          </item>
+          <item>
+            <name>Family services</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2013-09-17</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>R000361</bioguideId>
+        <state>WV</state>
+        <fullName>Sen. Rockefeller, John D., IV [D-WV]</fullName>
+        <firstName>JAY</firstName>
+        <party>D</party>
+        <lastName>ROCKEFELLER</lastName>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <lisID>1424</lisID>
+          <gpoId>8273</gpoId>
+          <bioguideId>R000361</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <type>S</type>
+        <number>1786</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Finance.</text>
+          <actionDate>2013-12-10</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Sibling Connections Act</latestTitle>
+      </item>
+    </relatedBills>
+    <laws />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <date>2013-09-17T20:24:29Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2013-09-17T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Removing Barriers to Adoption and Supporting Families Act of 2013 - Amends part E (Foster Care and Adoption Assistance) of title IV of the Social Security Act (SSA) to reauthorize the adoption incentive payment program through FY2018.</p> <p>Adds a new adoption incentive payment for states involved in sending and receiving interstate adoptions. Directs the Secretary of Health and Human Services (HHS) to pay each state that was a receiving state for an interstate adoptive placement for a fiscal year a pro rata share of the portion of the adoption incentive payment paid to the sending state.</p> <p>Requires a state to report to the Secretary data on interstate adoptions.</p> <p>Directs the Secretary to develop national standards for home studies for use in evaluating potential foster and adoptive parents.</p> <p>Establishes a matching rate for states adopting home study in compliance with national standards.</p> <p>Limits planned permanent living arrangements to children who have attained age 17.</p> <p>Directs the Comptroller General to study: (1) the number of children in each state that are assigned a permanency goal of another planned permanent living arrangement for the most recent fiscal year for which data are available; (2) the ages, gender, race, and special needs of children whose permanency goal is another planned permanent living arrangement; (3) a review and analysis of court practices for determining that another planned permanent living arrangement is the appropriate placement for a child; (4) information with respect to foster youths' involvement in deciding to enter into a permanency goal of another planned permanent living arrangement; and (5) a summary of the reasons that reunification, adoption, kinship care, or guardianship were not found to be in the best interests of the child.</p> <p>Requires a state to spend an amount equal to 20% of the amount of savings from adoption assistance de-linkage to provide post-adoption and post-permanency services to children and families.</p> <p>Requires the state foster care and adoption assistance plan to: (1) commit the state to engage in public-private partnerships to promote evidence-based child-focused recruitment practices that focus measurable attention on the adoption of children out of foster care with an emphasis on those children most at risk of aging out of care, and (2) encourage placement of children with siblings.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2013-09-17</actionDate>
+          <lastSummaryUpdateDate>2013-11-19T21:42:06Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <introducedDate>2013-09-17</introducedDate>
+    <billType>S</billType>
+    <congress>113</congress>
+    <billNumber>1511</billNumber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Removing Barriers to Adoption and Supporting Families Act of 2013</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend part E of title IV of the Social Security Act to remove barriers to the adoption of children in foster care through reauthorization and improvement of the adoption incentives program, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Removing Barriers to Adoption and Supporting Families Act of 2013</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

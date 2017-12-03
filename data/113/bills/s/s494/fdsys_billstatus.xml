@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>A bill to amend the Internal Revenue Code of 1986 to expand the types of livestock for which bonus depreciation is available.</title>
+    <createDate>2013-03-08T07:01:11Z</createDate>
+    <billNumber>494</billNumber>
+    <billType>S</billType>
+    <sponsors>
+      <item>
+        <bioguideId>S000148</bioguideId>
+        <middleName>E.</middleName>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <firstName>CHARLES</firstName>
+        <byRequestType />
+        <identifiers>
+          <lisID>1036</lisID>
+          <gpoId>8279</gpoId>
+          <bioguideId>S000148</bioguideId>
+        </identifiers>
+        <lastName>SCHUMER</lastName>
+        <party>D</party>
+        <state>NY</state>
+      </item>
+    </sponsors>
+    <cosponsors />
+    <relatedBills />
+    <congress>113</congress>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 to expand the types of livestock for which bonus depreciation is available.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 to expand the types of livestock for which bonus depreciation is available.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <introducedDate>2013-03-07</introducedDate>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2013-03-07</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <amendments />
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural prices, subsidies, credit</name>
+          </item>
+          <item>
+            <name>Business investment and capital</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Livestock</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <notes />
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-03-07</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2013-03-07</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-04-29T13:11:42Z</lastSummaryUpdateDate>
+          <updateDate>2013-03-07T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2013-03-07</actionDate>
+          <text><![CDATA[<p>Amends the Internal Revenue Code to allow the special depreciation allowance (bonus depreciation) for dairy producing calves and cows purchased for business use, regardless of whether the original use of such livestock commenced with another taxpayer. </p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2016-10-25T16:21:33Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <date>2013-03-07T19:29:33Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

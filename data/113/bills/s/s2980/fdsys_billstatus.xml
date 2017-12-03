@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <lastName>KIRK</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Kirk, Mark Steven [R-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8285</gpoId>
+          <lisID>1647</lisID>
+          <bioguideId>K000360</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>MARK</firstName>
+        <sponsorshipDate>2014-12-04</sponsorshipDate>
+        <middleName>STEVEN</middleName>
+        <bioguideId>K000360</bioguideId>
+        <state>IL</state>
+      </item>
+      <item>
+        <lastName>BURR</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>153</lisID>
+          <bioguideId>B001135</bioguideId>
+          <gpoId>8286</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>RICHARD</firstName>
+        <sponsorshipDate>2014-12-04</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001135</bioguideId>
+        <state>NC</state>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <updateDate>2016-10-25T16:32:53Z</updateDate>
+    <recordedVotes />
+    <calendarNumbers />
+    <createDate>2014-12-05T05:01:10Z</createDate>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2014-12-04T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Ensuring Equal Access to Treatments Act of 2014 - Amends title XVIII (Medicare) of the Social Security Act, with respect to the prospective payment system for hospital outpatient department (OPD) services, to direct the Secretary of Health and Human Services (HHS) to create certain additional groups of covered OPD services that classify separately, from those that do not utilize such a drug, procedures that utilize a drug (other than contrast agents and diagnostic radiopharmaceuticals) that both has a cost above the drug packaging threshold and functions as a supply when used in a diagnostic test or procedure.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2014-12-04</actionDate>
+          <lastSummaryUpdateDate>2015-01-08T19:48:14Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Drug therapy</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Home and outpatient care</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <actions>
+      <item>
+        <actionDate>2014-12-04</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2014-12-04</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <congress>113</congress>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2014-06-13</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Ensuring Equal Access to Treatments Act of 2014</latestTitle>
+        <number>4857</number>
+      </item>
+    </relatedBills>
+    <title>Ensuring Equal Access to Treatments Act of 2014</title>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <billNumber>2980</billNumber>
+    <billType>S</billType>
+    <introducedDate>2014-12-04</introducedDate>
+    <latestAction>
+      <actionDate>2014-12-04</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2014-12-04T21:28:08Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <state>NJ</state>
+        <bioguideId>M000639</bioguideId>
+        <identifiers>
+          <lisID>791</lisID>
+          <bioguideId>M000639</bioguideId>
+          <gpoId>8239</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <firstName>ROBERT</firstName>
+        <lastName>MENENDEZ</lastName>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Ensuring Equal Access to Treatments Act of 2014</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title XVIII of the Social Security Act to modify payment under the Medicare program for outpatient department procedures that utilize drugs as supplies, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Ensuring Equal Access to Treatments Act of 2014</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

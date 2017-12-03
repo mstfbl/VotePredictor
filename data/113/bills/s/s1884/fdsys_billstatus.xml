@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-12-20</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-12-20</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-12-20</introducedDate>
+    <updateDate>2016-10-25T16:28:18Z</updateDate>
+    <createDate>2013-12-21T07:01:20Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>sshr00</systemCode>
+          <activities>
+            <item>
+              <date>2013-12-20T18:05:39Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors />
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Pay It Forward College Affordability Act of 2013</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Pay It Forward College Affordability Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to establish a Pay It Forward model for funding postsecondary education.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Pay It Forward College Affordability Act of 2013</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Pay It Forward College Affordability Act of 2013 - Direct the Secretary of Education to conduct studies regarding the feasibility of, and options for, implementing the Pay It Forward model for funding postsecondary education. </p> <p>Directs the Secretary, unless the studies determine that the funding model is not feasible or beneficial, to award competitive matching grants to states to establish and carry out Pay It Forward model state pilot programs.</p> <p>Limits the number of states and students that may participate in the programs.</p> <p>Describes the &quot;Pay It Forward model&quot; as a system in which the Secretary, a state, or an institution of higher education (IHE) replaces students' need to borrow under the William D. Ford Federal Direct Loan program by covering all or part of their cost of attending an IHE in exchange for their agreement to contribute a certain percentage (not to exceed 5%) of their annual income for a specified number of years (not to exceed 25 years) after graduating or ceasing to be enrolled at the IHE.</p> <p>Requires that model to cover at least a student's cost of tuition and mandatory fees, but only to the extent they do not exceed the cost of tuition and mandatory fees at the most expensive public IHE in the state that is the same type of IHE the student attends.</p> <p>Requires states to give program priority to IHEs that have a plan, or a history of making an effort, to reduce or hold constant students' cost of attendance.</p> <p>Requires states to ensure that variations in the time that a student's tuition and mandatory fees are covered by the state are reflected in the length of the student's contribution period and the percentage of the student's annual income to be contributed.</p> <p>Continues students' eligibility for grants, scholarships, or funds that do not have to be repaid and for student loans that are not Direct loans, but requires the deduction of those amounts from the tuition and mandatory fees that the state would otherwise cover under the Pay It Forward program.</p> <p>Directs the Secretary to: (1) establish a technical advisory council to make recommendations to the Secretary regarding the implementation and evaluation of the Pay It Forward model, and (2) evaluate the model five years and ten years after its implementation.</p> <p>Authorizes the Secretary to expand the Pay It Forward model if doing so: (1) will not increase the federal cost of carrying out federal loan programs under title IV (Student Assistance) of the Higher Education Act of 1965, (2) may be accomplished using amounts available for title IV programs, and (3) is in the best interests of students and the United States.</p> <p>Establishes a Pay It Forward Fund in the Treasury into which Pay It Forward contributions are to be deposited.</p> <p>Prohibits an IHE program designed to prepare students for a recognized occupation or profession requiring licensing or other entry pre-conditions from participating in a Pay It Forward program, unless it: </p> <ul> <li> fully prepares students to satisfy those entry pre-conditions in the state in which the program is operated and in any state in which the program claims a successful program graduate will be prepared to work in the particular occupation or profession involved; </li> <li> provides timely placement of students in required pre-licensure positions, such as internships or apprenticeships; and </li> <li> meets specialized state accreditation requirements or notifies students if the program has not yet been fully accredited.</li> </ul>]]></text>
+          <lastSummaryUpdateDate>2014-03-13T22:10:40Z</lastSummaryUpdateDate>
+          <updateDate>2013-12-20T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2013-12-20</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <type>HR</type>
+        <number>3959</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+          <actionDate>2014-06-13</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Pay It Forward College Affordability Act of 2014</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2013-12-20</actionDate>
+    </latestAction>
+    <billNumber>1884</billNumber>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Jeff</firstName>
+        <party>D</party>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <bioguideId>M001176</bioguideId>
+        <identifiers>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <lastName>Merkley</lastName>
+        <middleName />
+        <state>OR</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

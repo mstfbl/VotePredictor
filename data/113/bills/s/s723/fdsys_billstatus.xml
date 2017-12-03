@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2013-04-15</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-04-15T20:01:22Z</date>
+            </item>
+          </activities>
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2013-04-16T07:02:10Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2013-04-15</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+        <actionDate>2013-04-15</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2013-04-15</introducedDate>
+    <billNumber>723</billNumber>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Huntington's Disease Parity Act of 2013 - Directs the Commissioner of Social Security, for purposes of determining cognitive, behavioral, and physical disability under titles II (Old Age, Survivors, and Disability Insurance) (OASDI) and XVI (Supplemental Security Income) (SSI) of the Social Security Act (SSA), to amend specified Listings of Impairments by providing medical and evaluation criteria for Huntington's Disease. </p> <p>Amends SSA title II to waive the 24-month waiting period for coverage under the Medicare program for individuals diagnosed with Huntington's Disease.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2013-04-15</actionDate>
+          <updateDate>2013-04-15T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-05-01T19:41:59Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Hereditary and development disorders</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Neurological disorders</name>
+          </item>
+          <item>
+            <name>Poverty and welfare assistance</name>
+          </item>
+          <item>
+            <name>Social Security Administration</name>
+          </item>
+          <item>
+            <name>Social security and elderly assistance</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Huntington's Disease Parity Act of 2013</title>
+    <updateDate>2016-10-25T16:22:37Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Huntington's Disease Parity Act of 2013</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to require the Commissioner of Social Security to revise the medical and evaluation criteria for determining disability in a person diagnosed with Huntington's Disease and to waive the 24-month waiting period for Medicare eligibility for individuals disabled by Huntington's Disease.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Huntington's Disease Parity Act of 2013</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>NY</state>
+        <firstName>Kirsten</firstName>
+        <byRequestType />
+        <bioguideId>G000555</bioguideId>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <lastName>Gillibrand</lastName>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2013-03-12</actionDate>
+        </latestAction>
+        <latestTitle>Huntington's Disease Parity Act of 2013</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>1015</number>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000464</bioguideId>
+        <firstName>Jon</firstName>
+        <identifiers>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+          <lisID>1829</lisID>
+        </identifiers>
+        <state>MT</state>
+        <sponsorshipDate>2013-04-15</sponsorshipDate>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <lastName>Tester</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001277</bioguideId>
+        <firstName>Richard</firstName>
+        <identifiers>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <state>CT</state>
+        <sponsorshipDate>2013-04-15</sponsorshipDate>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <lastName>Blumenthal</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>ANN</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000770</bioguideId>
+        <firstName>DEBORAH</firstName>
+        <identifiers>
+          <lisID>1531</lisID>
+          <bioguideId>S000770</bioguideId>
+          <gpoId>8261</gpoId>
+        </identifiers>
+        <state>MI</state>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <lastName>STABENOW</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000177</bioguideId>
+        <firstName>TIM</firstName>
+        <identifiers>
+          <lisID>604</lisID>
+          <bioguideId>J000177</bioguideId>
+          <gpoId>8319</gpoId>
+        </identifiers>
+        <state>SD</state>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <fullName>Sen. Johnson, Tim [D-SD]</fullName>
+        <lastName>JOHNSON</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000148</bioguideId>
+        <firstName>CHARLES</firstName>
+        <identifiers>
+          <lisID>1036</lisID>
+          <gpoId>8279</gpoId>
+          <bioguideId>S000148</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <sponsorshipDate>2013-06-06</sponsorshipDate>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <lastName>SCHUMER</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>R.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001049</bioguideId>
+        <firstName>Kay</firstName>
+        <identifiers>
+          <lisID>1902</lisID>
+          <bioguideId>H001049</bioguideId>
+          <gpoId>8318</gpoId>
+        </identifiers>
+        <state>NC</state>
+        <sponsorshipDate>2013-06-13</sponsorshipDate>
+        <fullName>Sen. Hagan, Kay [D-NC]</fullName>
+        <lastName>Hagan</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>JOSEPH</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000174</bioguideId>
+        <firstName>PATRICK</firstName>
+        <identifiers>
+          <lisID>1383</lisID>
+          <gpoId>8244</gpoId>
+          <bioguideId>L000174</bioguideId>
+        </identifiers>
+        <state>VT</state>
+        <sponsorshipDate>2013-06-17</sponsorshipDate>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <lastName>LEAHY</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000639</bioguideId>
+        <firstName>ROBERT</firstName>
+        <identifiers>
+          <lisID>791</lisID>
+          <bioguideId>M000639</bioguideId>
+          <gpoId>8239</gpoId>
+        </identifiers>
+        <state>NJ</state>
+        <sponsorshipDate>2013-07-23</sponsorshipDate>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <lastName>MENENDEZ</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001169</bioguideId>
+        <firstName>Christopher</firstName>
+        <identifiers>
+          <lisID>1837</lisID>
+          <bioguideId>M001169</bioguideId>
+          <gpoId>7870</gpoId>
+        </identifiers>
+        <state>CT</state>
+        <sponsorshipDate>2013-08-01</sponsorshipDate>
+        <fullName>Sen. Murphy, Christopher S. [D-CT]</fullName>
+        <lastName>Murphy</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001046</bioguideId>
+        <firstName>Martin</firstName>
+        <identifiers>
+          <lisID>1937</lisID>
+          <gpoId>8056</gpoId>
+          <bioguideId>H001046</bioguideId>
+        </identifiers>
+        <state>NM</state>
+        <sponsorshipDate>2013-10-30</sponsorshipDate>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <lastName>Heinrich</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000133</bioguideId>
+        <firstName>EDWARD</firstName>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <lisID>735</lisID>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <state>MA</state>
+        <sponsorshipDate>2013-10-30</sponsorshipDate>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <lastName>MARKEY</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000817</bioguideId>
+        <firstName>Elizabeth</firstName>
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>MA</state>
+        <sponsorshipDate>2013-10-30</sponsorshipDate>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <lastName>Warren</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>U000039</bioguideId>
+        <firstName>TOM</firstName>
+        <identifiers>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+          <lisID>1567</lisID>
+        </identifiers>
+        <state>NM</state>
+        <sponsorshipDate>2014-02-04</sponsorshipDate>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <lastName>UDALL</lastName>
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

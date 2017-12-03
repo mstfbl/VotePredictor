@@ -1,0 +1,244 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18baaa782">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To end membership of the United States in the United Nations.;American Sovereignty Restoration Act of 2015;H.R. 1205 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-03-11</dateIngested>
+</extension>
+<titleInfo>
+ <title>To end membership of the United States in the United Nations.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>American Sovereignty Restoration Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 1205 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-03-02</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>7 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18baaa782</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1205ih</identifier>
+<identifier type="preferred citation">H.R. 1205</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h1205_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1205ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1205ih/html/BILLS-114hr1205ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1205ih/pdf/BILLS-114hr1205ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1205ih/xml/BILLS-114hr1205ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-03-11</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-13</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr1205ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mike Rogers</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Thomas Massie</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John J. Duncan, Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lynn A. Westmoreland</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tim Huelskamp</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Foreign Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Chapter 35</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. Chapter 35</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 22 Section 287et seq.</partNumber>
+  <partNumber>Title 22 Section 287note</partNumber>
+  <partNumber>Title 22 Section 287met seq.</partNumber>
+  <partNumber>Title 22 Section 288et seq.</partNumber>
+  <partNumber>Title 22 Section 290</partNumber>
+</titleInfo>
+ <identifier type="USC citation">22 U.S.C. 287et seq.</identifier>
+ <identifier type="USC citation">22 U.S.C. 287note</identifier>
+ <identifier type="USC citation">22 U.S.C. 287met seq.</identifier>
+ <identifier type="USC citation">22 U.S.C. 288et seq.</identifier>
+ <identifier type="USC citation">22 U.S.C. 290</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 59 Page 669</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">59 Stat. 669</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 79-264</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 79-264</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 79-565</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 79-565</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 80-357</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 80-357</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr1205ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>1205</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">American Sovereignty Restoration Act of 2015</shortTitle>
+ <officialTitle>To end membership of the United States in the United Nations.</officialTitle>
+ <action date="2015-03-02">Mr. Rogers of Alabama (for himself, Mr. Massie, Mr. Duncan of Tennessee, Mr. Westmoreland, and Mr. Huelskamp) introduced the following bill; which was referred to the Committee on Foreign Affairs</action>
+ <congCommittee authorityId="hsfa00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Foreign Affairs</name>
+                      <name type="authority-short">Foreign Affairs</name>
+                </congCommittee>
+ <congMember authorityId="1704" bioGuideId="R000575" chamber="H" congress="114" gpoId="7788" party="R" role="SPONSOR" state="AL">
+                      <name type="parsed">Mr. Rogers of Alabama</name>
+                      <name type="authority-fnf">Mike Rogers</name>
+                      <name type="authority-lnf">Rogers, Mike D.</name>
+                </congMember>
+ <congMember authorityId="2094" bioGuideId="M001184" chamber="H" congress="114" gpoId="8371" party="R" role="COSPONSOR" state="KY">
+                      <name type="parsed">Mr. Massie</name>
+                      <name type="authority-fnf">Thomas Massie</name>
+                      <name type="authority-lnf">Massie, Thomas</name>
+                </congMember>
+ <congMember authorityId="322" bioGuideId="D000533" chamber="H" congress="114" gpoId="8149" party="R" role="COSPONSOR" state="TN">
+                      <name type="parsed">Mr. Duncan of Tennessee</name>
+                      <name type="authority-fnf">John J. Duncan, Jr.</name>
+                      <name type="authority-lnf">Duncan, John J., Jr.</name>
+                      <name type="authority-other">John Duncan Jr.</name>
+                </congMember>
+ <congMember authorityId="1779" bioGuideId="W000796" chamber="H" congress="114" gpoId="7900" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Westmoreland</name>
+                      <name type="authority-fnf">Lynn A. Westmoreland</name>
+                      <name type="authority-lnf">Westmoreland, Lynn A.</name>
+                      <name type="authority-other">Mr. Lynn Westmoreland</name>
+                </congMember>
+ <congMember authorityId="2020" bioGuideId="H001057" chamber="H" congress="114" gpoId="7949" party="R" role="COSPONSOR" state="KS">
+                      <name type="parsed">Mr. Huelskamp</name>
+                      <name type="authority-fnf">Tim Huelskamp</name>
+                      <name type="authority-lnf">Huelskamp, Tim</name>
+                </congMember>
+ <law congress="79" isPrivate="false" number="264"></law>
+ <law congress="79" isPrivate="false" number="565"></law>
+ <law congress="80" isPrivate="false" number="357"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <chapter number="35"></chapter>
+                </USCode>
+ <USCode title="22">
+                      <section detail="et seq." number="287"></section>
+                      <section detail="note" number="287"></section>
+                      <section detail="et seq." number="287m"></section>
+                      <section detail="et seq." number="288"></section>
+                      <section number="290"></section>
+                </USCode>
+ <statuteAtLarge volume="59">
+                      <pages pages="669"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

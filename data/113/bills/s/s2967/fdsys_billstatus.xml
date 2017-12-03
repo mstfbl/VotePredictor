@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2014-12-03T04:47:19Z</createDate>
+    <originChamber>Senate</originChamber>
+    <cosponsors />
+    <title>Local Control of Education Act</title>
+    <actions>
+      <item>
+        <actionDate>2014-12-02</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-12-02</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <committeeReports />
+    <updateDate>2016-10-25T16:32:49Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Academic performance and assessments</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>School administration</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Teaching, teachers, curricula</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2014-12-02</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>V000127</bioguideId>
+        <state>LA</state>
+        <fullName>Sen. Vitter, David [R-LA]</fullName>
+        <firstName>David</firstName>
+        <party>R</party>
+        <lastName>Vitter</lastName>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <bioguideId>V000127</bioguideId>
+          <lisID>1609</lisID>
+          <gpoId>8267</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <relatedBills />
+    <laws />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <type>Standing</type>
+          <systemCode>sshr00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-12-02T19:56:26Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Local Control of Education Act - Amends the Elementary and Secondary Education Act of 1965 (ESEA) to prohibit the federal government from directly or indirectly mandating, directing, controlling, incentivizing, or conditioning federal support on a state's, local educational agency's (LEA's), or school's adoption of:</p> <ul> <li> the Common Core State Standards, any other academic standards common to a number of states, or any statewide or nationally recognized content standards; or </li> <li> any assessment, instructional content, or curriculum aligned to, or based on, specific academic standards.</li> </ul> <p>Amends the American Recovery and Reinvestment Act of 2009 to make those prohibitions applicable to grants awarded under the Race to the Top program for innovations and reforms in elementary and secondary education.</p> <p>Prohibits the Secretary of Education from conditioning the provision of a statutory or regulatory waiver under the ESEA on a state, LEA, Indian tribe, or school adopting any specific instructional content, academic standard, assessment, curriculum, or program of instruction. Makes that prohibition applicable to future and previously issued waivers.</p>]]></text>
+          <updateDate>2014-12-02T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2014-12-22T22:33:30Z</lastSummaryUpdateDate>
+          <actionDate>2014-12-02</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <introducedDate>2014-12-02</introducedDate>
+    <billType>S</billType>
+    <congress>113</congress>
+    <billNumber>2967</billNumber>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Local Control of Education Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to prohibit the Federal Government from mandating, incentivizing, or coercing States to adopt the Common Core State Standards or any other specific academic standards, instructional content, curricula, assessments, or programs of instruction.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Local Control of Education Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

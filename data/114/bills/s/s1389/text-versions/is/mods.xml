@@ -1,0 +1,209 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18c7fec89">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To authorize the exportation of consumer communication devices to Cuba and the provision of telecommunications services to Cuba, and for other purposes.;Cuba Digital and Telecommunications Advancement Act of 2015;Cuba DATA Act;S. 1389 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-05-28</dateIngested>
+</extension>
+<titleInfo>
+ <title>To authorize the exportation of consumer communication devices to Cuba and the provision of telecommunications services to Cuba, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Cuba Digital and Telecommunications Advancement Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Cuba DATA Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1389 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-05-19</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>6 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18c7fec89</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s1389is</identifier>
+<identifier type="preferred citation">S. 1389</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1389_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s1389is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1389is/html/BILLS-114s1389is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1389is/pdf/BILLS-114s1389is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1389is/xml/BILLS-114s1389is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-05-28</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-12</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s1389is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Tom Udall</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jeff Flake</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Richard Durbin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael B. Enzi</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Foreign Relations</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 22 Section 6003</partNumber>
+  <partNumber>Title 22 Section 6004(d)</partNumber>
+  <partNumber>Title 22 Section 6005</partNumber>
+  <partNumber>Title 22 Section 6032</partNumber>
+  <partNumber>Title 22 Section 6033</partNumber>
+  <partNumber>Title 22 Section 6034</partNumber>
+  <partNumber>Title 22 Section 6035</partNumber>
+  <partNumber>Title 22 Section 6038</partNumber>
+  <partNumber>Title 22 Section 6039(a)</partNumber>
+  <partNumber>Title 22 Section 6064</partNumber>
+</titleInfo>
+ <identifier type="USC citation">22 U.S.C. 6003</identifier>
+ <identifier type="USC citation">22 U.S.C. 6004(d)</identifier>
+ <identifier type="USC citation">22 U.S.C. 6005</identifier>
+ <identifier type="USC citation">22 U.S.C. 6032</identifier>
+ <identifier type="USC citation">22 U.S.C. 6033</identifier>
+ <identifier type="USC citation">22 U.S.C. 6034</identifier>
+ <identifier type="USC citation">22 U.S.C. 6035</identifier>
+ <identifier type="USC citation">22 U.S.C. 6038</identifier>
+ <identifier type="USC citation">22 U.S.C. 6039(a)</identifier>
+ <identifier type="USC citation">22 U.S.C. 6064</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s1389is</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1389</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle type="measure">Cuba Digital and Telecommunications Advancement Act of 2015</shortTitle>
+ <shortTitle type="measure">Cuba DATA Act</shortTitle>
+ <officialTitle>To authorize the exportation of consumer communication devices to Cuba and the provision of telecommunications services to Cuba, and for other purposes.</officialTitle>
+ <action date="2015-05-19">Mr. Udall (for himself, Mr. Flake, Mr. Durbin, and Mr. Enzi) introduced the following bill; which was read twice and referred to the Committee on Foreign Relations</action>
+ <congCommittee authorityId="ssfr00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Foreign Relations</name>
+                      <name type="authority-short">Foreign Relations</name>
+                </congCommittee>
+ <congMember authorityId="1567" bioGuideId="U000039" chamber="S" congress="114" gpoId="8260" party="D" role="SPONSOR" state="NM">
+                      <name type="parsed">Mr. Udall</name>
+                      <name type="authority-fnf">Tom Udall</name>
+                      <name type="authority-lnf">Udall, Tom</name>
+                </congMember>
+ <congMember authorityId="1633" bioGuideId="F000444" chamber="S" congress="114" gpoId="7803" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Flake</name>
+                      <name type="authority-fnf">Jeff Flake</name>
+                      <name type="authority-lnf">Flake, Jeff</name>
+                </congMember>
+ <congMember authorityId="326" bioGuideId="D000563" chamber="S" congress="114" gpoId="8326" party="D" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Durbin</name>
+                      <name type="authority-fnf">Richard Durbin</name>
+                      <name type="authority-lnf">Durbin, Richard</name>
+                      <name type="authority-other">Richard J. Durbin</name>
+                </congMember>
+ <congMember authorityId="1542" bioGuideId="E000285" chamber="S" congress="114" gpoId="8328" party="R" role="COSPONSOR" state="WY">
+                      <name type="parsed">Mr. Enzi</name>
+                      <name type="authority-fnf">Michael B. Enzi</name>
+                      <name type="authority-lnf">Enzi, Michael B.</name>
+                      <name type="authority-other">Michael Enzi</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="22">
+                      <section number="6003"></section>
+                      <section detail="(d)" number="6004"></section>
+                      <section number="6005"></section>
+                      <section number="6032"></section>
+                      <section number="6033"></section>
+                      <section number="6034"></section>
+                      <section number="6035"></section>
+                      <section number="6038"></section>
+                      <section detail="(a)" number="6039"></section>
+                      <section number="6064"></section>
+                </USCode>
+</extension>
+</mods>

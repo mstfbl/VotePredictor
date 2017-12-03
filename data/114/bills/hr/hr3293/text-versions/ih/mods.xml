@@ -1,0 +1,390 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18d30c6a0">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To provide for greater accountability in Federal funding for scientific research, to promote the progress of science in the United States that serves that national interest.;Scientific Research in the National Interest Act;H.R. 3293 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-08-05</dateIngested>
+</extension>
+<titleInfo>
+ <title>To provide for greater accountability in Federal funding for scientific research, to promote the progress of science in the United States that serves that national interest.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Scientific Research in the National Interest Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 3293 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-07-29</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>3 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18d30c6a0</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3293ih</identifier>
+<identifier type="preferred citation">H.R. 3293</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h3293_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3293ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3293ih/html/BILLS-114hr3293ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3293ih/pdf/BILLS-114hr3293ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3293ih/xml/BILLS-114hr3293ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-08-05</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-11</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr3293ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Lamar Smith</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Daniel Lipinski</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Frank D. Lucas</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Alan Grayson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Barbara Comstock</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John R. Moolenaar</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Randy K. Weber, Sr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Stephen Knight</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jim Bridenstine</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bruce Westerman</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Brian Babin</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mo Brooks</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Barry Loudermilk</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bill Johnson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dana Rohrabacher</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Randy Neugebauer</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bill Posey</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gary J. Palmer</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ralph Lee Abraham</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dan Newhouse</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Science, Space, and Technology</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 1861et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 1861et seq.</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr3293ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>3293</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Scientific Research in the National Interest Act</shortTitle>
+ <officialTitle>To provide for greater accountability in Federal funding for scientific research, to promote the progress of science in the United States that serves that national interest.</officialTitle>
+ <action date="2015-07-29">Mr. Smith of Texas (for himself, Mr. Lipinski, Mr. Lucas, Mr. Grayson, Mrs. Comstock, Mr. Moolenaar, Mr. Weber of Texas, Mr. Knight, Mr. Bridenstine, Mr. Westerman, Mr. Babin, Mr. Brooks of Alabama, Mr. Loudermilk, Mr. Johnson of Ohio, Mr. Rohrabacher, Mr. Neugebauer, Mr. Posey, Mr. Palmer, Mr. Abraham, and Mr. Newhouse) introduced the following bill; which was referred to the Committee on Science, Space, and Technology</action>
+ <congCommittee authorityId="hssy00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Science, Space, and Technology</name>
+                      <name type="authority-short">Science, Space, and Technology</name>
+                </congCommittee>
+ <congMember authorityId="1075" bioGuideId="S000583" chamber="H" congress="114" gpoId="8177" party="R" role="SPONSOR" state="TX">
+                      <name type="parsed">Mr. Smith of Texas</name>
+                      <name type="authority-fnf">Lamar Smith</name>
+                      <name type="authority-lnf">Smith, Lamar</name>
+                </congMember>
+ <congMember authorityId="1781" bioGuideId="L000563" chamber="H" congress="114" gpoId="7923" party="D" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Lipinski</name>
+                      <name type="authority-fnf">Daniel Lipinski</name>
+                      <name type="authority-lnf">Lipinski, Daniel</name>
+                      <name type="authority-other">Mr. Daniel William Lipinski</name>
+                </congMember>
+ <congMember authorityId="711" bioGuideId="L000491" chamber="H" congress="114" gpoId="8111" party="R" role="COSPONSOR" state="OK">
+                      <name type="parsed">Mr. Lucas</name>
+                      <name type="authority-fnf">Frank D. Lucas</name>
+                      <name type="authority-lnf">Lucas, Frank D.</name>
+                      <name type="authority-other">Frank Lucas</name>
+                </congMember>
+ <congMember authorityId="1914" bioGuideId="G000556" chamber="H" congress="114" gpoId="7302" party="D" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Grayson</name>
+                      <name type="authority-fnf">Alan Grayson</name>
+                      <name type="authority-lnf">Grayson, Alan</name>
+                </congMember>
+ <congMember authorityId="2273" bioGuideId="C001105" chamber="H" congress="114" party="R" role="COSPONSOR" state="VA">
+                      <name type="parsed">Mrs. Comstock</name>
+                      <name type="authority-fnf">Barbara Comstock</name>
+                      <name type="authority-lnf">Comstock, Barbara</name>
+                </congMember>
+ <congMember authorityId="2248" bioGuideId="M001194" chamber="H" congress="114" party="R" role="COSPONSOR" state="MI">
+                      <name type="parsed">Mr. Moolenaar</name>
+                      <name type="authority-fnf">John R. Moolenaar</name>
+                      <name type="authority-lnf">Moolenaar, John R.</name>
+                      <name type="authority-other">Mr. John Moolenaar</name>
+                </congMember>
+ <congMember authorityId="2161" bioGuideId="W000814" chamber="H" congress="114" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Weber of Texas</name>
+                      <name type="authority-fnf">Randy K. Weber, Sr.</name>
+                      <name type="authority-lnf">Weber, Randy K., Sr.</name>
+                      <name type="authority-other">Mr. Randy Weber Sr.</name>
+                </congMember>
+ <congMember authorityId="2228" bioGuideId="K000387" chamber="H" congress="114" party="R" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Knight</name>
+                      <name type="authority-fnf">Stephen Knight</name>
+                      <name type="authority-lnf">Knight, Stephen</name>
+                </congMember>
+ <congMember authorityId="2155" bioGuideId="B001283" chamber="H" congress="114" party="R" role="COSPONSOR" state="OK">
+                      <name type="parsed">Mr. Bridenstine</name>
+                      <name type="authority-fnf">Jim Bridenstine</name>
+                      <name type="authority-lnf">Bridenstine, Jim</name>
+                </congMember>
+ <congMember authorityId="2224" bioGuideId="W000821" chamber="H" congress="114" party="R" role="COSPONSOR" state="AR">
+                      <name type="parsed">Mr. Westerman</name>
+                      <name type="authority-fnf">Bruce Westerman</name>
+                      <name type="authority-lnf">Westerman, Bruce</name>
+                </congMember>
+ <congMember authorityId="2270" bioGuideId="B001291" chamber="H" congress="114" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Babin</name>
+                      <name type="authority-fnf">Brian Babin</name>
+                      <name type="authority-lnf">Babin, Brian</name>
+                </congMember>
+ <congMember authorityId="1987" bioGuideId="B001274" chamber="H" congress="114" gpoId="7790" party="R" role="COSPONSOR" state="AL">
+                      <name type="parsed">Mr. Brooks of Alabama</name>
+                      <name type="authority-fnf">Mo Brooks</name>
+                      <name type="authority-lnf">Brooks, Mo</name>
+                </congMember>
+ <congMember authorityId="2238" bioGuideId="L000583" chamber="H" congress="114" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Loudermilk</name>
+                      <name type="authority-fnf">Barry Loudermilk</name>
+                      <name type="authority-lnf">Loudermilk, Barry</name>
+                </congMember>
+ <congMember authorityId="2046" bioGuideId="J000292" chamber="H" congress="114" gpoId="8096" party="R" role="COSPONSOR" state="OH">
+                      <name type="parsed">Mr. Johnson of Ohio</name>
+                      <name type="authority-fnf">Bill Johnson</name>
+                      <name type="authority-lnf">Johnson, Bill</name>
+                </congMember>
+ <congMember authorityId="979" bioGuideId="R000409" chamber="H" congress="114" gpoId="7851" party="R" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Rohrabacher</name>
+                      <name type="authority-fnf">Dana Rohrabacher</name>
+                      <name type="authority-lnf">Rohrabacher, Dana</name>
+                </congMember>
+ <congMember authorityId="1758" bioGuideId="N000182" chamber="H" congress="114" gpoId="8175" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Neugebauer</name>
+                      <name type="authority-fnf">Randy Neugebauer</name>
+                      <name type="authority-lnf">Neugebauer, Randy</name>
+                </congMember>
+ <congMember authorityId="1915" bioGuideId="P000599" chamber="H" congress="114" gpoId="7887" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Posey</name>
+                      <name type="authority-fnf">Bill Posey</name>
+                      <name type="authority-lnf">Posey, Bill</name>
+                </congMember>
+ <congMember authorityId="2221" bioGuideId="P000609" chamber="H" congress="114" party="R" role="COSPONSOR" state="AL">
+                      <name type="parsed">Mr. Palmer</name>
+                      <name type="authority-fnf">Gary J. Palmer</name>
+                      <name type="authority-lnf">Palmer, Gary J.</name>
+                      <name type="authority-other">Mr. Gary Palmer</name>
+                </congMember>
+ <congMember authorityId="2244" bioGuideId="A000374" chamber="H" congress="114" party="R" role="COSPONSOR" state="LA">
+                      <name type="parsed">Mr. Abraham</name>
+                      <name type="authority-fnf">Ralph Lee Abraham</name>
+                      <name type="authority-lnf">Abraham, Ralph Lee</name>
+                      <name type="authority-other">Mr. Ralph Abraham</name>
+                </congMember>
+ <congMember authorityId="2275" bioGuideId="N000189" chamber="H" congress="114" party="R" role="COSPONSOR" state="WA">
+                      <name type="parsed">Mr. Newhouse</name>
+                      <name type="authority-fnf">Dan Newhouse</name>
+                      <name type="authority-lnf">Newhouse, Dan</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="42">
+                      <section detail="et seq." number="1861"></section>
+                </USCode>
+</extension>
+</mods>

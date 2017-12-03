@@ -1,0 +1,322 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18daf9863">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To hold sanctuary jurisdictions accountable for defying Federal law, to increase penalties for individuals who illegally reenter the United States after being removed, and to provide liability protection for State and local law enforcement who cooperate with Federal law enforcement and for other purposes.;Stop Sanctuary Policies and Protect Americans Act;S. 2146 (PCS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-10-08</dateIngested>
+</extension>
+<titleInfo>
+ <title>To hold sanctuary jurisdictions accountable for defying Federal law, to increase penalties for individuals who illegally reenter the United States after being removed, and to provide liability protection for State and local law enforcement who cooperate with Federal law enforcement and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Stop Sanctuary Policies and Protect Americans Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 2146 (PCS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-10-07</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>18 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18daf9863</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s2146pcs</identifier>
+<identifier type="preferred citation">S. 2146</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s2146_pcs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s2146pcs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2146pcs/html/BILLS-114s2146pcs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2146pcs/pdf/BILLS-114s2146pcs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2146pcs/xml/BILLS-114s2146pcs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-10-08</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s2146pcs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>David Vitter</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Patrick J. Toomey</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Chuck Grassley</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ted Cruz</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ron Johnson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Cornyn</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David Perdue</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Johnny Isakson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Marco Rubio</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Barrasso</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dan Sullivan</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>James M. Inhofe</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 8 Section 1226</partNumber>
+  <partNumber>Title 8 Section 1231(i)</partNumber>
+  <partNumber>Title 8 Section 1326</partNumber>
+  <partNumber>Title 8 Section 1357</partNumber>
+  <partNumber>Title 8 Section 1373</partNumber>
+</titleInfo>
+ <identifier type="USC citation">8 U.S.C. 1226</identifier>
+ <identifier type="USC citation">8 U.S.C. 1231(i)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1326</identifier>
+ <identifier type="USC citation">8 U.S.C. 1357</identifier>
+ <identifier type="USC citation">8 U.S.C. 1373</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 28 Section 1346(b)</partNumber>
+  <partNumber>Title 28 Chapter 171</partNumber>
+</titleInfo>
+ <identifier type="USC citation">28 U.S.C. 1346(b)</identifier>
+ <identifier type="USC citation">28 U.S.C. Chapter 171</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 3796ddet seq.</partNumber>
+  <partNumber>Title 42 Section 5301</partNumber>
+  <partNumber>Title 42 Section 5301et seq.</partNumber>
+  <partNumber>Title 42 Section 5302</partNumber>
+  <partNumber>Title 42 Section 5304</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 3796ddet seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 5301</identifier>
+ <identifier type="USC citation">42 U.S.C. 5301et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 5302</identifier>
+ <identifier type="USC citation">42 U.S.C. 5304</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 252</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s2146pcs</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2146</billNumber>
+ <billVersion reprint="false">pcs</billVersion>
+ <fileSuffix>pcs</fileSuffix>
+ <shortTitle type="measure">Stop Sanctuary Policies and Protect Americans Act</shortTitle>
+ <officialTitle>To hold sanctuary jurisdictions accountable for defying Federal law, to increase penalties for individuals who illegally reenter the United States after being removed, and to provide liability protection for State and local law enforcement who cooperate with Federal law enforcement and for other purposes.</officialTitle>
+ <action date="2015-10-06">Mr. Vitter (for himself, Mr. Toomey, Mr. Grassley, Mr. Cruz, Mr. Johnson, Mr. Cornyn, Mr. Perdue, Mr. Isakson, Mr. Rubio, Mr. Barrasso, Mr. Sullivan, and Mr. Inhofe) introduced the following bill; which was read the first time</action>
+ <action date="2015-10-07">Read the second time and placed on the calendar</action>
+ <congMember authorityId="1609" bioGuideId="V000127" chamber="S" congress="114" gpoId="8267" party="R" role="SPONSOR" state="LA">
+                      <name type="parsed">Mr. Vitter</name>
+                      <name type="authority-fnf">David Vitter</name>
+                      <name type="authority-lnf">Vitter, David</name>
+                </congMember>
+ <congMember authorityId="1594" bioGuideId="T000461" chamber="S" congress="114" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Toomey</name>
+                      <name type="authority-fnf">Patrick J. Toomey</name>
+                      <name type="authority-lnf">Toomey, Patrick J.</name>
+                      <name type="authority-other">Patrick Toomey</name>
+                </congMember>
+ <congMember authorityId="457" bioGuideId="G000386" chamber="S" congress="114" gpoId="8316" party="R" role="COSPONSOR" state="IA">
+                      <name type="parsed">Mr. Grassley</name>
+                      <name type="authority-fnf">Chuck Grassley</name>
+                      <name type="authority-lnf">Grassley, Chuck</name>
+                      <name type="authority-other">Charles Ernest Grassley</name>
+                </congMember>
+ <congMember authorityId="2175" bioGuideId="C001098" chamber="S" congress="114" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Cruz</name>
+                      <name type="authority-fnf">Ted Cruz</name>
+                      <name type="authority-lnf">Cruz, Ted</name>
+                </congMember>
+ <congMember authorityId="2086" bioGuideId="J000293" chamber="S" congress="114" gpoId="8355" party="R" role="COSPONSOR" state="WI">
+                      <name type="parsed">Mr. Johnson</name>
+                      <name type="authority-fnf">Ron Johnson</name>
+                      <name type="authority-lnf">Johnson, Ron</name>
+                </congMember>
+ <congMember authorityId="1692" bioGuideId="C001056" chamber="S" congress="114" gpoId="8295" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Cornyn</name>
+                      <name type="authority-fnf">John Cornyn</name>
+                      <name type="authority-lnf">Cornyn, John</name>
+                </congMember>
+ <congMember authorityId="2286" bioGuideId="P000612" chamber="S" congress="114" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Perdue</name>
+                      <name type="authority-fnf">David Perdue</name>
+                      <name type="authority-lnf">Perdue, David</name>
+                      <name type="authority-other">Mr. David Alfred Perdue</name>
+                </congMember>
+ <congMember authorityId="1608" bioGuideId="I000055" chamber="S" congress="114" gpoId="8323" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Isakson</name>
+                      <name type="authority-fnf">Johnny Isakson</name>
+                      <name type="authority-lnf">Isakson, Johnny</name>
+                </congMember>
+ <congMember authorityId="2084" bioGuideId="R000595" chamber="S" congress="114" gpoId="8242" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Rubio</name>
+                      <name type="authority-fnf">Marco Rubio</name>
+                      <name type="authority-lnf">Rubio, Marco</name>
+                </congMember>
+ <congMember authorityId="1881" bioGuideId="B001261" chamber="S" congress="114" gpoId="8300" party="R" role="COSPONSOR" state="WY">
+                      <name type="parsed">Mr. Barrasso</name>
+                      <name type="authority-fnf">John Barrasso</name>
+                      <name type="authority-lnf">Barrasso, John</name>
+                </congMember>
+ <congMember authorityId="2290" bioGuideId="S001198" chamber="S" congress="114" party="R" role="COSPONSOR" state="AK">
+                      <name type="parsed">Mr. Sullivan</name>
+                      <name type="authority-fnf">Dan Sullivan</name>
+                      <name type="authority-lnf">Sullivan, Dan</name>
+                </congMember>
+ <congMember authorityId="583" bioGuideId="I000024" chamber="S" congress="114" gpoId="8322" party="R" role="COSPONSOR" state="OK">
+                      <name type="parsed">Mr. Inhofe</name>
+                      <name type="authority-fnf">James M. Inhofe</name>
+                      <name type="authority-lnf">Inhofe, James M.</name>
+                      <name type="authority-other">Jim Inhofe</name>
+                </congMember>
+ <congCalendar congress="114" number="252" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="8">
+                      <section number="1226"></section>
+                      <section detail="(i)" number="1231"></section>
+                      <section number="1326"></section>
+                      <section number="1357"></section>
+                      <section number="1373"></section>
+                </USCode>
+ <USCode title="28">
+                      <section detail="(b)" number="1346"></section>
+                      <chapter number="171"></chapter>
+                </USCode>
+ <USCode title="42">
+                      <section detail="et seq." number="3796dd"></section>
+                      <section number="5301"></section>
+                      <section detail="et seq." number="5301"></section>
+                      <section number="5302"></section>
+                      <section number="5304"></section>
+                </USCode>
+</extension>
+</mods>

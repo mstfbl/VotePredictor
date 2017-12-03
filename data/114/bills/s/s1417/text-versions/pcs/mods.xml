@@ -1,0 +1,171 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18c77a347">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To reauthorize the United States Grain Standards Act, and for other purposes.;United States Grain Standards Act Reauthorization Act of 2015;S. 1417 (PCS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-05-22</dateIngested>
+</extension>
+<titleInfo>
+ <title>To reauthorize the United States Grain Standards Act, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>United States Grain Standards Act Reauthorization Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1417 (PCS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-05-01</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>14 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18c77a347</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s1417pcs</identifier>
+<identifier type="preferred citation">S. 1417</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1417_pcs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s1417pcs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1417pcs/html/BILLS-114s1417pcs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1417pcs/pdf/BILLS-114s1417pcs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1417pcs/xml/BILLS-114s1417pcs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-05-22</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-12</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s1417pcs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Pat Roberts</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Agriculture, Nutrition, and Forestry</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 7 Section 77</partNumber>
+  <partNumber>Title 7 Section 77(a)(2)</partNumber>
+  <partNumber>Title 7 Section 79a</partNumber>
+  <partNumber>Title 7 Section 79d</partNumber>
+  <partNumber>Title 7 Section 79(e)(2)</partNumber>
+  <partNumber>Title 7 Section 79(f)(1)</partNumber>
+  <partNumber>Title 7 Section 79(g)(1)</partNumber>
+  <partNumber>Title 7 Section 79(j)(1)</partNumber>
+  <partNumber>Title 7 Section 84(b)</partNumber>
+  <partNumber>Title 7 Section 87h</partNumber>
+  <partNumber>Title 7 Section 87j(e)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">7 U.S.C. 77</identifier>
+ <identifier type="USC citation">7 U.S.C. 77(a)(2)</identifier>
+ <identifier type="USC citation">7 U.S.C. 79a</identifier>
+ <identifier type="USC citation">7 U.S.C. 79d</identifier>
+ <identifier type="USC citation">7 U.S.C. 79(e)(2)</identifier>
+ <identifier type="USC citation">7 U.S.C. 79(f)(1)</identifier>
+ <identifier type="USC citation">7 U.S.C. 79(g)(1)</identifier>
+ <identifier type="USC citation">7 U.S.C. 79(j)(1)</identifier>
+ <identifier type="USC citation">7 U.S.C. 84(b)</identifier>
+ <identifier type="USC citation">7 U.S.C. 87h</identifier>
+ <identifier type="USC citation">7 U.S.C. 87j(e)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 90</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s1417pcs</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1417</billNumber>
+ <billVersion reprint="false">pcs</billVersion>
+ <fileSuffix>pcs</fileSuffix>
+ <shortTitle type="measure">United States Grain Standards Act Reauthorization Act of 2015</shortTitle>
+ <officialTitle>To reauthorize the United States Grain Standards Act, and for other purposes.</officialTitle>
+ <action date="2015-05-01">Mr. Roberts, from the Committee on Agriculture, Nutrition, and Forestry, reported the following original bill; which was read twice and placed on the calendar</action>
+ <congCommittee authorityId="ssaf00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Agriculture, Nutrition, and Forestry</name>
+                      <name type="authority-short">Agriculture</name>
+                </congCommittee>
+ <congMember authorityId="968" bioGuideId="R000307" chamber="S" congress="114" gpoId="8275" party="R" role="SPONSOR" state="KS">
+                      <name type="parsed">Mr. Roberts</name>
+                      <name type="authority-fnf">Pat Roberts</name>
+                      <name type="authority-lnf">Roberts, Pat</name>
+                </congMember>
+ <congCalendar congress="114" number="90" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="7">
+                      <section number="77"></section>
+                      <section detail="(a)(2)" number="77"></section>
+                      <section number="79a"></section>
+                      <section number="79d"></section>
+                      <section detail="(e)(2)" number="79"></section>
+                      <section detail="(f)(1)" number="79"></section>
+                      <section detail="(g)(1)" number="79"></section>
+                      <section detail="(j)(1)" number="79"></section>
+                      <section detail="(b)" number="84"></section>
+                      <section number="87h"></section>
+                      <section detail="(e)" number="87j"></section>
+                </USCode>
+</extension>
+</mods>

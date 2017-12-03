@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2013-02-07</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Coburn, Tom [R-OK]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000560</bioguideId>
+        <identifiers>
+          <bioguideId>C000560</bioguideId>
+          <gpoId>8293</gpoId>
+          <lisID>212</lisID>
+        </identifiers>
+        <sponsorshipDate>2013-02-07</sponsorshipDate>
+        <lastName>COBURN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>OK</state>
+        <firstName>TOM</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000603</bioguideId>
+        <identifiers>
+          <gpoId>8308</gpoId>
+          <lisID>2082</lisID>
+          <bioguideId>P000603</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-02-07</sponsorshipDate>
+        <lastName>Paul</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>KY</state>
+        <firstName>Rand</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001261</bioguideId>
+        <identifiers>
+          <lisID>1881</lisID>
+          <gpoId>8300</gpoId>
+          <bioguideId>B001261</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-02-07</sponsorshipDate>
+        <lastName>Barrasso</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>WY</state>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>I000024</bioguideId>
+        <identifiers>
+          <bioguideId>I000024</bioguideId>
+          <lisID>583</lisID>
+          <gpoId>8322</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-12-10</sponsorshipDate>
+        <lastName>INHOFE</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>OK</state>
+        <firstName>JIM</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000437</bioguideId>
+        <identifiers>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+          <bioguideId>W000437</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-07-09</sponsorshipDate>
+        <lastName>WICKER</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>MS</state>
+        <firstName>ROGER</firstName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+      <actionDate>2013-02-07</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <type>HR</type>
+        <number>1310</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2013-04-10</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Medicare Patient Empowerment Act of 2013</latestTitle>
+      </item>
+      <item>
+        <congress>113</congress>
+        <type>HR</type>
+        <number>2300</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+          <actionDate>2013-07-15</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Empowering Patients First Act of 2013</latestTitle>
+      </item>
+    </relatedBills>
+    <updateDate>2016-10-25T16:20:34Z</updateDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionDate>2013-02-07</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2013-02-07</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Medicare Patient Empowerment Act - Amends title XVIII (Medicare) of the Social Security Act to allow any Medicare beneficiary to enter into a contract with a non-participating (as well as with a participating) physician or practitioner for any item or service covered by Medicare. Allows such beneficiaries to submit a claim for Medicare payment in the amount that would otherwise apply if the claim had been filed by a participating physician or practitioner in the payment area where the physician or practitioner covered by the contract resides.</p> <p>Requires a Medicare beneficiary to agree in writing in such a contract to: (1) pay the physician or practitioner for a Medicare-covered item or service; and (2) submit (in lieu of the physician or practitioner) a claim for Medicare payment. Allows a beneficiary, however, to negotiate, as a term of the contract, for the physician or practitioner to file such claims on the beneficiary's behalf.</p> <p>Preempts state laws from limiting the amount of charges for physician and practitioner services for which Medicare payment is made.</p>]]></text>
+          <lastSummaryUpdateDate>2013-03-07T22:22:57Z</lastSummaryUpdateDate>
+          <updateDate>2013-02-07T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2013-02-07</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Contracts and agency</name>
+          </item>
+          <item>
+            <name>Federal preemption</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Medicare Patient Empowerment Act</title>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <lastName>Murkowski</lastName>
+        <bioguideId>M001153</bioguideId>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <identifiers>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Lisa</firstName>
+        <middleName />
+        <state>AK</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2013-02-08T07:00:51Z</createDate>
+    <billNumber>236</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssfi00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-02-07T16:01:04Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Medicare Patient Empowerment Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title XVIII of the Social Security Act to establish a Medicare payment option for patients and physicians or practitioners to freely contract, without penalty, for Medicare fee-for-service items and services, while allowing Medicare beneficiaries to use their Medicare benefits.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Medicare Patient Empowerment Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

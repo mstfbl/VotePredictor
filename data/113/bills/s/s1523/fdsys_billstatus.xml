@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2013-09-18</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Finance Committee</name>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <date>2013-09-18T20:21:02Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2013-09-19T07:01:06Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-09-18</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>B00100</actionCode>
+        <actionDate>2013-09-18</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S6600</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S6600</url>
+          </link>
+        </links>
+        <text>Sponsor introductory remarks on measure. (CR S6600)</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2013-09-18</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2013-09-18</introducedDate>
+    <billNumber>1523</billNumber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-09-30T19:55:19Z</lastSummaryUpdateDate>
+          <updateDate>2013-09-18T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2013-09-18</actionDate>
+          <text><![CDATA[<p>Rebuilding America's Schools Act - Amends the Internal Revenue Code, with respect to tax-exempt bond funding for educational facilities, to: (1) reinstate the national qualified school construction bond limitation amount for calendar years after 2013, (2) make permanent the qualified zone academy bond (QZAB) limitation amount, (3) permit private entities to waive the 10% matching requirement for QZABs, and (4) revise the definition of QZAB for purposes of the credit for issuers of qualified tax credit bonds.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Building construction</name>
+          </item>
+          <item>
+            <name>Education of the disadvantaged</name>
+          </item>
+          <item>
+            <name>Educational facilities and institutions</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Rebuilding America's Schools Act</title>
+    <updateDate>2016-10-25T16:26:54Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Rebuilding America's Schools Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Internal Revenue Code to make permanent qualified school construction bonds and qualified zone academy bonds, to treat qualified zone academy bonds as specified tax credit bonds, and to modify the private business contribution requirement for qualified zone academy bonds.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Rebuilding America's Schools Act</title>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>WV</state>
+        <firstName>JAY</firstName>
+        <byRequestType />
+        <bioguideId>R000361</bioguideId>
+        <fullName>Sen. Rockefeller, John D., IV [D-WV]</fullName>
+        <lastName>ROCKEFELLER</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>1424</lisID>
+          <gpoId>8273</gpoId>
+          <bioguideId>R000361</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2013-04-18</actionDate>
+        </latestAction>
+        <latestTitle>Rebuilding America's Schools Act</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>1629</number>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000944</bioguideId>
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-09-18</sponsorshipDate>
+        <lastName>BROWN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>OH</state>
+        <firstName>SHERROD</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Harkin, Tom [D-IA]</fullName>
+        <middleName>RICHARD</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H000206</bioguideId>
+        <identifiers>
+          <gpoId>8317</gpoId>
+          <lisID>501</lisID>
+          <bioguideId>H000206</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-09-18</sponsorshipDate>
+        <lastName>HARKIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>IA</state>
+        <firstName>THOMAS</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Johnson, Tim [D-SD]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000177</bioguideId>
+        <identifiers>
+          <lisID>604</lisID>
+          <gpoId>8319</gpoId>
+          <bioguideId>J000177</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-09-18</sponsorshipDate>
+        <lastName>JOHNSON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>SD</state>
+        <firstName>TIM</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <middleName>L.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000141</bioguideId>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-11-12</sponsorshipDate>
+        <lastName>CARDIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>MD</state>
+        <firstName>BENJAMIN</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001042</bioguideId>
+        <identifiers>
+          <lisID>1844</lisID>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-12-20</sponsorshipDate>
+        <lastName>Hirono</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>HI</state>
+        <firstName>Mazie</firstName>
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

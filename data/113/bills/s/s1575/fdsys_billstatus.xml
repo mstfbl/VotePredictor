@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-10-16</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2013-10-16</actionDate>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-10-16</introducedDate>
+    <updateDate>2016-10-25T16:27:08Z</updateDate>
+    <createDate>2013-10-17T07:01:46Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <date>2013-10-16T23:30:31Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <lastName>BAUCUS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Baucus, Max [D-MT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>66</lisID>
+          <bioguideId>B000243</bioguideId>
+          <gpoId>8298</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>MAX</firstName>
+        <sponsorshipDate>2013-10-16</sponsorshipDate>
+        <middleName>SIEBEN</middleName>
+        <bioguideId>B000243</bioguideId>
+        <state>MT</state>
+      </item>
+      <item>
+        <lastName>UDALL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1567</lisID>
+          <gpoId>8260</gpoId>
+          <bioguideId>U000039</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>TOM</firstName>
+        <sponsorshipDate>2013-10-16</sponsorshipDate>
+        <middleName />
+        <bioguideId>U000039</bioguideId>
+        <state>NM</state>
+      </item>
+      <item>
+        <lastName>Schatz</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2173</lisID>
+          <bioguideId>S001194</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <firstName>Brian</firstName>
+        <sponsorshipDate>2013-10-16</sponsorshipDate>
+        <middleName />
+        <bioguideId>S001194</bioguideId>
+        <state>HI</state>
+      </item>
+      <item>
+        <lastName>Murkowski</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Lisa</firstName>
+        <sponsorshipDate>2013-11-04</sponsorshipDate>
+        <middleName />
+        <bioguideId>M001153</bioguideId>
+        <state>AK</state>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>A bill to correct inconsistencies in the definitions relating to Native Americans in the Patient Protection and Affordable Care Act.</title>
+    <titles>
+      <item>
+        <title>A bill to correct inconsistencies in the definitions relating to Native Americans in the Patient Protection and Affordable Care Act.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A bill to correct inconsistencies in the definitions relating to Native Americans in the Patient Protection and Affordable Care Act.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2013-11-20T20:25:34Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Amends the Patient Protection and Affordable Care Act to define an &quot;Indian&quot; for purposes of title I (Quality, Affordable Health Care for All Americans) of that Act.</p> <p>Includes within that definition an individual who is: </p> <ul> <li> a member of a federally-recognized Indian tribe;</li> <li>an Eskimo, Aleut, or other Alaska Native;</li> <li>considered by the Secretary of the Interior to be an Indian for any purpose, including eligibility for Indian health care services;</li> <li> a member of a tribe, band, or other organized group of Indians or who is a descendant, in the first or second degree, of any such member;</li> <li> determined to be an Indian under regulations promulgated by the Secretary;</li> <li>an urban center resident who fits any of the preceding categories;</li> <li>eligible for health services provided by the Indian Health Service (IHS); or </li> <li>of Indian descent and a member of an Indian community served by the IHS.</li> </ul>]]></text>
+          <updateDate>2013-10-16T04:00:00Z</updateDate>
+          <actionDate>2013-10-16</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Alaska Natives and Hawaiians</name>
+          </item>
+          <item>
+            <name>Comprehensive health care</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Minority health</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2013-10-16</actionDate>
+    </latestAction>
+    <billNumber>1575</billNumber>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Mark</firstName>
+        <party>D</party>
+        <fullName>Sen. Begich, Mark [D-AK]</fullName>
+        <bioguideId>B001265</bioguideId>
+        <identifiers>
+          <lisID>1898</lisID>
+          <gpoId>8301</gpoId>
+          <bioguideId>B001265</bioguideId>
+        </identifiers>
+        <lastName>Begich</lastName>
+        <middleName />
+        <state>AK</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

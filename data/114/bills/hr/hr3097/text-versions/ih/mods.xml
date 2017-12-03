@@ -1,0 +1,335 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18d161e8f">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To prohibit the payment of surcharges for commemorative coin programs to private organizations or entities, and for other purposes.;Commemorative Coins Reform Act of 2015;H.R. 3097 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-07-21</dateIngested>
+</extension>
+<titleInfo>
+ <title>To prohibit the payment of surcharges for commemorative coin programs to private organizations or entities, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Commemorative Coins Reform Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 3097 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-07-16</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>3 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18d161e8f</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3097ih</identifier>
+<identifier type="preferred citation">H.R. 3097</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h3097_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3097ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3097ih/html/BILLS-114hr3097ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3097ih/pdf/BILLS-114hr3097ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3097ih/xml/BILLS-114hr3097ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-07-21</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-11</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr3097ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Justin Amash</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Reid J. Ribble</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mick Mulvaney</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jim Jordan</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Raul R. Labrador</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Thomas Massie</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jeff Duncan</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Paul A. Gosar</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jim Bridenstine</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Barry Loudermilk</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Sanford</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ken Buck</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dave Brat</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jason Chaffetz</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Meadows</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Scott Perry</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Financial Services</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 5134(f)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 5134(f)</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr3097ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>3097</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Commemorative Coins Reform Act of 2015</shortTitle>
+ <officialTitle>To prohibit the payment of surcharges for commemorative coin programs to private organizations or entities, and for other purposes.</officialTitle>
+ <action date="2015-07-16">Mr. Amash (for himself, Mr. Ribble, Mr. Mulvaney, Mr. Jordan, Mr. Labrador, Mr. Massie, Mr. Duncan of South Carolina, Mr. Gosar, Mr. Bridenstine, Mr. Loudermilk, Mr. Sanford, Mr. Buck, Mr. Brat, Mr. Chaffetz, Mr. Meadows, and Mr. Perry) introduced the following bill; which was referred to the Committee on Financial Services</action>
+ <congCommittee authorityId="hsba00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Financial Services</name>
+                      <name type="authority-short">Financial Services</name>
+                </congCommittee>
+ <congMember authorityId="2029" bioGuideId="A000367" chamber="H" congress="114" gpoId="7988" party="R" role="SPONSOR" state="MI">
+                      <name type="parsed">Mr. Amash</name>
+                      <name type="authority-fnf">Justin Amash</name>
+                      <name type="authority-lnf">Amash, Justin</name>
+                </congMember>
+ <congMember authorityId="2073" bioGuideId="R000587" chamber="H" congress="114" gpoId="8221" party="R" role="COSPONSOR" state="WI">
+                      <name type="parsed">Mr. Ribble</name>
+                      <name type="authority-fnf">Reid J. Ribble</name>
+                      <name type="authority-lnf">Ribble, Reid J.</name>
+                      <name type="authority-other">Mr. Reid Ribble</name>
+                </congMember>
+ <congMember authorityId="2059" bioGuideId="M001182" chamber="H" congress="114" gpoId="8145" party="R" role="COSPONSOR" state="SC">
+                      <name type="parsed">Mr. Mulvaney</name>
+                      <name type="authority-fnf">Mick Mulvaney</name>
+                      <name type="authority-lnf">Mulvaney, Mick</name>
+                </congMember>
+ <congMember authorityId="1868" bioGuideId="J000289" chamber="H" congress="114" gpoId="8094" party="R" role="COSPONSOR" state="OH">
+                      <name type="parsed">Mr. Jordan</name>
+                      <name type="authority-fnf">Jim Jordan</name>
+                      <name type="authority-lnf">Jordan, Jim</name>
+                </congMember>
+ <congMember authorityId="2011" bioGuideId="L000573" chamber="H" congress="114" gpoId="7919" party="R" role="COSPONSOR" state="ID">
+                      <name type="parsed">Mr. Labrador</name>
+                      <name type="authority-fnf">Raul R. Labrador</name>
+                      <name type="authority-lnf">Labrador, Raul R.</name>
+                      <name type="authority-other">Mr. Raul Labrador</name>
+                </congMember>
+ <congMember authorityId="2094" bioGuideId="M001184" chamber="H" congress="114" gpoId="8371" party="R" role="COSPONSOR" state="KY">
+                      <name type="parsed">Mr. Massie</name>
+                      <name type="authority-fnf">Thomas Massie</name>
+                      <name type="authority-lnf">Massie, Thomas</name>
+                </congMember>
+ <congMember authorityId="2057" bioGuideId="D000615" chamber="H" congress="114" gpoId="8143" party="R" role="COSPONSOR" state="SC">
+                      <name type="parsed">Mr. Duncan of South Carolina</name>
+                      <name type="authority-fnf">Jeff Duncan</name>
+                      <name type="authority-lnf">Duncan, Jeff</name>
+                </congMember>
+ <congMember authorityId="1992" bioGuideId="G000565" chamber="H" congress="114" gpoId="7798" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Gosar</name>
+                      <name type="authority-fnf">Paul A. Gosar</name>
+                      <name type="authority-lnf">Gosar, Paul A.</name>
+                      <name type="authority-other">Mr. Paul Gosar</name>
+                </congMember>
+ <congMember authorityId="2155" bioGuideId="B001283" chamber="H" congress="114" party="R" role="COSPONSOR" state="OK">
+                      <name type="parsed">Mr. Bridenstine</name>
+                      <name type="authority-fnf">Jim Bridenstine</name>
+                      <name type="authority-lnf">Bridenstine, Jim</name>
+                </congMember>
+ <congMember authorityId="2238" bioGuideId="L000583" chamber="H" congress="114" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Loudermilk</name>
+                      <name type="authority-fnf">Barry Loudermilk</name>
+                      <name type="authority-lnf">Loudermilk, Barry</name>
+                </congMember>
+ <congMember authorityId="1012" bioGuideId="S000051" chamber="H" congress="114" party="R" role="COSPONSOR" state="SC">
+                      <name type="parsed">Mr. Sanford</name>
+                      <name type="authority-fnf">Mark Sanford</name>
+                      <name type="authority-lnf">Sanford, Mark</name>
+                </congMember>
+ <congMember authorityId="2233" bioGuideId="B001297" chamber="H" congress="114" party="R" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Buck</name>
+                      <name type="authority-fnf">Ken Buck</name>
+                      <name type="authority-lnf">Buck, Ken</name>
+                </congMember>
+ <congMember authorityId="2203" bioGuideId="B001290" chamber="H" congress="114" party="R" role="COSPONSOR" state="VA">
+                      <name type="parsed">Mr. Brat</name>
+                      <name type="authority-fnf">Dave Brat</name>
+                      <name type="authority-lnf">Brat, Dave</name>
+                </congMember>
+ <congMember authorityId="1956" bioGuideId="C001076" chamber="H" congress="114" gpoId="8191" party="R" role="COSPONSOR" state="UT">
+                      <name type="parsed">Mr. Chaffetz</name>
+                      <name type="authority-fnf">Jason Chaffetz</name>
+                      <name type="authority-lnf">Chaffetz, Jason</name>
+                </congMember>
+ <congMember authorityId="2142" bioGuideId="M001187" chamber="H" congress="114" party="R" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. Meadows</name>
+                      <name type="authority-fnf">Mark Meadows</name>
+                      <name type="authority-lnf">Meadows, Mark</name>
+                </congMember>
+ <congMember authorityId="2157" bioGuideId="P000605" chamber="H" congress="114" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Perry</name>
+                      <name type="authority-fnf">Scott Perry</name>
+                      <name type="authority-lnf">Perry, Scott</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="31">
+                      <section detail="(f)" number="5134"></section>
+                </USCode>
+</extension>
+</mods>

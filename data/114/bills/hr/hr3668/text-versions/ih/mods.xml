@@ -1,0 +1,342 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18daa5798">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To codify in law and expand certain off-highway vehicle recreation areas in the State of California, to designate as wilderness certain public lands in the State of California administered by the Bureau of Land Management, to expand the Death Valley National Park Wilderness and the San Gorgonio Wilderness in San Bernardino National Forest, to ensure the conservation and necessary management of wildlife in these wilderness areas, to establish the Mojave Trails Special Management Area in the State, and for other purposes.;California Minerals, Off-Road Recreation, and Conservation Act;H.R. 3668 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-10-06</dateIngested>
+</extension>
+<titleInfo>
+ <title>To codify in law and expand certain off-highway vehicle recreation areas in the State of California, to designate as wilderness certain public lands in the State of California administered by the Bureau of Land Management, to expand the Death Valley National Park Wilderness and the San Gorgonio Wilderness in San Bernardino National Forest, to ensure the conservation and necessary management of wildlife in these wilderness areas, to establish the Mojave Trails Special Management Area in the State, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>California Minerals, Off-Road Recreation, and Conservation Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 3668 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-10-01</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>130 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18daa5798</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3668ih</identifier>
+<identifier type="preferred citation">H.R. 3668</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h3668_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3668ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3668ih/html/BILLS-114hr3668ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3668ih/pdf/BILLS-114hr3668ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3668ih/xml/BILLS-114hr3668ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-10-06</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr3668ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Paul Cook</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Stephen Knight</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Natural Resources</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 1131et seq.</partNumber>
+  <partNumber>Title 16 Section 1132note</partNumber>
+  <partNumber>Title 16 Section 1133(d)</partNumber>
+  <partNumber>Title 16 Section 1133(d)(1)</partNumber>
+  <partNumber>Title 16 Section 1274(a)</partNumber>
+  <partNumber>Title 16 Section 1531et seq.</partNumber>
+  <partNumber>Title 16 Section 1539</partNumber>
+  <partNumber>Title 16 Section 410aaa-77</partNumber>
+  <partNumber>Title 16 Section 470aa</partNumber>
+  <partNumber>Title 16 Section 824q</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 1131et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 1132note</identifier>
+ <identifier type="USC citation">16 U.S.C. 1133(d)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1133(d)(1)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1274(a)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1531et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 1539</identifier>
+ <identifier type="USC citation">16 U.S.C. 410aaa-77</identifier>
+ <identifier type="USC citation">16 U.S.C. 470aa</identifier>
+ <identifier type="USC citation">16 U.S.C. 824q</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 23 Section 138</partNumber>
+  <partNumber>Title 23 Section 139</partNumber>
+</titleInfo>
+ <identifier type="USC citation">23 U.S.C. 138</identifier>
+ <identifier type="USC citation">23 U.S.C. 139</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 3001et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 3001et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 16451</partNumber>
+  <partNumber>Title 42 Section 1996</partNumber>
+  <partNumber>Title 42 Section 2000bbet seq.</partNumber>
+  <partNumber>Title 42 Section 4321et seq.</partNumber>
+  <partNumber>Title 42 Section 4321note</partNumber>
+  <partNumber>Title 42 Section 7401</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 16451</identifier>
+ <identifier type="USC citation">42 U.S.C. 1996</identifier>
+ <identifier type="USC citation">42 U.S.C. 2000bbet seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 4321et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 4321note</identifier>
+ <identifier type="USC citation">42 U.S.C. 7401</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 43 Section 1701et seq.</partNumber>
+  <partNumber>Title 43 Section 1702</partNumber>
+  <partNumber>Title 43 Section 1711</partNumber>
+  <partNumber>Title 43 Section 1712</partNumber>
+  <partNumber>Title 43 Section 1716</partNumber>
+  <partNumber>Title 43 Section 1781</partNumber>
+  <partNumber>Title 43 Section 1782</partNumber>
+  <partNumber>Title 43 Section 1782(c)</partNumber>
+  <partNumber>Title 43 Section 869et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">43 U.S.C. 1701et seq.</identifier>
+ <identifier type="USC citation">43 U.S.C. 1702</identifier>
+ <identifier type="USC citation">43 U.S.C. 1711</identifier>
+ <identifier type="USC citation">43 U.S.C. 1712</identifier>
+ <identifier type="USC citation">43 U.S.C. 1716</identifier>
+ <identifier type="USC citation">43 U.S.C. 1781</identifier>
+ <identifier type="USC citation">43 U.S.C. 1782</identifier>
+ <identifier type="USC citation">43 U.S.C. 1782(c)</identifier>
+ <identifier type="USC citation">43 U.S.C. 869et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 49 Section 303</partNumber>
+</titleInfo>
+ <identifier type="USC citation">49 U.S.C. 303</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 54 Section 200302</partNumber>
+  <partNumber>Title 54 Section 306108</partNumber>
+  <partNumber>Title 54 Section 320301</partNumber>
+  <partNumber>Title 54 Chapter 2003</partNumber>
+</titleInfo>
+ <identifier type="USC citation">54 U.S.C. 200302</identifier>
+ <identifier type="USC citation">54 U.S.C. 306108</identifier>
+ <identifier type="USC citation">54 U.S.C. 320301</identifier>
+ <identifier type="USC citation">54 U.S.C. Chapter 2003</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 47 Page 324</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">47 Stat. 324</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 127 Page 1034</partNumber>
+  <partNumber>Volume 127 Page 1037</partNumber>
+  <partNumber>Volume 127 Page 1038</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">127 Stat. 1034</identifier>
+ <identifier type="Statute citation">127 Stat. 1037</identifier>
+ <identifier type="Statute citation">127 Stat. 1038</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 95-341</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 95-341</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 103-433</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 103-433</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 104-433</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 104-433</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 113-66</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 113-66</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr3668ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>3668</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">California Minerals, Off-Road Recreation, and Conservation Act</shortTitle>
+ <officialTitle>To codify in law and expand certain off-highway vehicle recreation areas in the State of California, to designate as wilderness certain public lands in the State of California administered by the Bureau of Land Management, to expand the Death Valley National Park Wilderness and the San Gorgonio Wilderness in San Bernardino National Forest, to ensure the conservation and necessary management of wildlife in these wilderness areas, to establish the Mojave Trails Special Management Area in the State, and for other purposes.</officialTitle>
+ <action date="2015-10-01">Mr. Cook (for himself and Mr. Knight) introduced the following bill; which was referred to the Committee on Natural Resources</action>
+ <congCommittee authorityId="hsii00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Natural Resources</name>
+                      <name type="authority-short">Natural Resources</name>
+                </congCommittee>
+ <congMember authorityId="2103" bioGuideId="C001094" chamber="H" congress="114" party="R" role="SPONSOR" state="CA">
+                      <name type="parsed">Mr. Cook</name>
+                      <name type="authority-fnf">Paul Cook</name>
+                      <name type="authority-lnf">Cook, Paul</name>
+                </congMember>
+ <congMember authorityId="2228" bioGuideId="K000387" chamber="H" congress="114" party="R" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Knight</name>
+                      <name type="authority-fnf">Stephen Knight</name>
+                      <name type="authority-lnf">Knight, Stephen</name>
+                </congMember>
+ <law congress="95" isPrivate="false" number="341"></law>
+ <law congress="103" isPrivate="false" number="433"></law>
+ <law congress="104" isPrivate="false" number="433"></law>
+ <law congress="113" isPrivate="false" number="66"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="16">
+                      <section detail="et seq." number="1131"></section>
+                      <section detail="note" number="1132"></section>
+                      <section detail="(d)" number="1133"></section>
+                      <section detail="(d)(1)" number="1133"></section>
+                      <section detail="(a)" number="1274"></section>
+                      <section detail="et seq." number="1531"></section>
+                      <section number="1539"></section>
+                      <section number="410aaa-77"></section>
+                      <section number="470aa"></section>
+                      <section number="824q"></section>
+                </USCode>
+ <USCode title="23">
+                      <section number="138"></section>
+                      <section number="139"></section>
+                </USCode>
+ <USCode title="25">
+                      <section detail="et seq." number="3001"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="16451"></section>
+                      <section number="1996"></section>
+                      <section detail="et seq." number="2000bb"></section>
+                      <section detail="et seq." number="4321"></section>
+                      <section detail="note" number="4321"></section>
+                      <section number="7401"></section>
+                </USCode>
+ <USCode title="43">
+                      <section detail="et seq." number="1701"></section>
+                      <section number="1702"></section>
+                      <section number="1711"></section>
+                      <section number="1712"></section>
+                      <section number="1716"></section>
+                      <section number="1781"></section>
+                      <section number="1782"></section>
+                      <section detail="(c)" number="1782"></section>
+                      <section detail="et seq." number="869"></section>
+                </USCode>
+ <USCode title="49">
+                      <section number="303"></section>
+                </USCode>
+ <USCode title="54">
+                      <section number="200302"></section>
+                      <section number="306108"></section>
+                      <section number="320301"></section>
+                      <chapter number="2003"></chapter>
+                </USCode>
+ <statuteAtLarge volume="47">
+                      <pages pages="324"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="127">
+                      <pages pages="1034"></pages>
+                      <pages pages="1037"></pages>
+                      <pages pages="1038"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

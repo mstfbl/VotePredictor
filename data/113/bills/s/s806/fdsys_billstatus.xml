@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <lastName>STABENOW</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1531</lisID>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>DEBORAH</firstName>
+        <sponsorshipDate>2013-04-24</sponsorshipDate>
+        <middleName>ANN</middleName>
+        <bioguideId>S000770</bioguideId>
+        <state>MI</state>
+      </item>
+      <item>
+        <lastName>Casey</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1828</lisID>
+          <gpoId>8282</gpoId>
+          <bioguideId>C001070</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Bob</firstName>
+        <sponsorshipDate>2013-04-24</sponsorshipDate>
+        <middleName />
+        <bioguideId>C001070</bioguideId>
+        <state>PA</state>
+      </item>
+      <item>
+        <lastName>BROWN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+          <bioguideId>B000944</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>SHERROD</firstName>
+        <sponsorshipDate>2013-04-24</sponsorshipDate>
+        <middleName />
+        <bioguideId>B000944</bioguideId>
+        <state>OH</state>
+      </item>
+      <item>
+        <lastName>Hagan</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Hagan, Kay [D-NC]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1902</lisID>
+          <gpoId>8318</gpoId>
+          <bioguideId>H001049</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Kay</firstName>
+        <sponsorshipDate>2013-05-13</sponsorshipDate>
+        <middleName>R.</middleName>
+        <bioguideId>H001049</bioguideId>
+        <state>NC</state>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <updateDate>2016-10-25T16:23:47Z</updateDate>
+    <recordedVotes />
+    <calendarNumbers />
+    <createDate>2013-04-25T07:02:12Z</createDate>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Amends part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act to exclude from the average sales price in calculating Medicare payments for drugs and biologicals any customary prompt pay discounts from manufacturers to wholesalers</p>]]></text>
+          <actionDate>2013-04-24</actionDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2013-04-24T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-05-08T20:29:29Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <actions>
+      <item>
+        <actionDate>2013-04-24</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-04-24</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <congress>113</congress>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <latestTitle>To amend part B of title XVIII of the Social Security Act to exclude customary prompt pay discounts from manufacturers to wholesalers from the average sales price for drugs and biologicals under Medicare.</latestTitle>
+        <number>800</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2013-02-15</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <title>A bill to amend part B of title XVIII of the Social Security Act to exclude customary prompt pay discounts from manufacturers to wholesalers from the average sales price for drugs and biologicals under Medicare.</title>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <billNumber>806</billNumber>
+    <billType>S</billType>
+    <introducedDate>2013-04-24</introducedDate>
+    <latestAction>
+      <actionDate>2013-04-24</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-04-24T20:11:47Z</date>
+            </item>
+          </activities>
+          <name>Finance Committee</name>
+          <type>Standing</type>
+          <systemCode>ssfi00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <state>KS</state>
+        <bioguideId>R000307</bioguideId>
+        <identifiers>
+          <gpoId>8275</gpoId>
+          <lisID>968</lisID>
+          <bioguideId>R000307</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <firstName>PAT</firstName>
+        <lastName>ROBERTS</lastName>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to amend part B of title XVIII of the Social Security Act to exclude customary prompt pay discounts from manufacturers to wholesalers from the average sales price for drugs and biologicals under Medicare.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to amend part B of title XVIII of the Social Security Act to exclude customary prompt pay discounts from manufacturers to wholesalers from the average sales price for drugs and biologicals under Medicare.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

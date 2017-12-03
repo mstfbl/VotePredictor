@@ -1,0 +1,428 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18cc797a8">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To support Promise Neighborhoods.;Promise Neighborhoods Act of 2015;H.R. 2882 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-07-01</dateIngested>
+</extension>
+<titleInfo>
+ <title>To support Promise Neighborhoods.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Promise Neighborhoods Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2882 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-06-24</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>33 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18cc797a8</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2882ih</identifier>
+<identifier type="preferred citation">H.R. 2882</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2882_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2882ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2882ih/html/BILLS-114hr2882ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2882ih/pdf/BILLS-114hr2882ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2882ih/xml/BILLS-114hr2882ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-07-01</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-11</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr2882ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Donald M. Payne, Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Conyers, Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Danny K. Davis</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Eleanor Holmes Norton</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Corrine Brown</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Elijah E. Cummings</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Charles B. Rangel</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Cedric L. Richmond</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bonnie Watson Coleman</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bill Pascrell, Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>James P. McGovern</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Takano</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Marcia L. Fudge</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Frederica S. Wilson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Stacey E. Plaskett</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gregory W. Meeks</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Barbara Lee</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robert C. &quot;Bobby&quot; Scott</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>G. K. Butterfield</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Sheila Jackson Lee</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Yvette D. Clarke</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Education and the Workforce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1002</partNumber>
+  <partNumber>Title 20 Section 7341</partNumber>
+  <partNumber>Title 20 Section 7801</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1002</identifier>
+ <identifier type="USC citation">20 U.S.C. 7341</identifier>
+ <identifier type="USC citation">20 U.S.C. 7801</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 450b</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 450b</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr2882ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>2882</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Promise Neighborhoods Act of 2015</shortTitle>
+ <officialTitle>To support Promise Neighborhoods.</officialTitle>
+ <action date="2015-06-24">Mr. Payne (for himself, Mr. Conyers, Mr. Danny K. Davis of Illinois, Ms. Norton, Ms. Brown of Florida, Mr. Cummings, Mr. Rangel, Mr. Richmond, Mrs. Watson Coleman, Mr. Pascrell, Mr. McGovern, Mr. Takano, Ms. Fudge, Ms. Wilson of Florida, Ms. Plaskett, Mr. Meeks, Ms. Lee, Mr. Scott of Virginia, Mr. Butterfield, Ms. Jackson Lee, and Ms. Clarke of New York) introduced the following bill; which was referred to the Committee on Education and the Workforce</action>
+ <congCommittee authorityId="hsed00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Education and the Workforce</name>
+                      <name type="authority-short">Education and the Workforce</name>
+                </congCommittee>
+ <congMember authorityId="2097" bioGuideId="P000604" chamber="H" congress="114" gpoId="8373" party="D" role="SPONSOR" state="NJ">
+                      <name type="parsed">Mr. Payne</name>
+                      <name type="authority-fnf">Donald M. Payne, Jr.</name>
+                      <name type="authority-lnf">Payne, Donald M., Jr.</name>
+                      <name type="authority-other">Mr. Donald Payne Jr.</name>
+                </congMember>
+ <congMember authorityId="229" bioGuideId="C000714" chamber="H" congress="114" gpoId="7999" party="D" role="COSPONSOR" state="MI">
+                      <name type="parsed">Mr. Conyers</name>
+                      <name type="authority-fnf">John Conyers, Jr.</name>
+                      <name type="authority-lnf">Conyers, John, Jr.</name>
+                      <name type="authority-other">John Conyers Jr.</name>
+                </congMember>
+ <congMember authorityId="1477" bioGuideId="D000096" chamber="H" congress="114" gpoId="7927" party="D" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Danny K. Davis of Illinois</name>
+                      <name type="authority-fnf">Danny K. Davis</name>
+                      <name type="authority-lnf">Davis, Danny K.</name>
+                      <name type="authority-other">Danny Davis</name>
+                </congMember>
+ <congMember authorityId="868" bioGuideId="N000147" chamber="H" congress="114" gpoId="7871" party="D" role="COSPONSOR" state="DC">
+                      <name type="parsed">Ms. Norton</name>
+                      <name type="authority-fnf">Eleanor Holmes Norton</name>
+                      <name type="authority-lnf">Norton, Eleanor Holmes</name>
+                      <name type="authority-other">Eleanor Norton</name>
+                </congMember>
+ <congMember authorityId="132" bioGuideId="B000911" chamber="H" congress="114" gpoId="7875" party="D" role="COSPONSOR" state="FL">
+                      <name type="parsed">Ms. Brown of Florida</name>
+                      <name type="authority-fnf">Corrine Brown</name>
+                      <name type="authority-lnf">Brown, Corrine</name>
+                </congMember>
+ <congMember authorityId="256" bioGuideId="C000984" chamber="H" congress="114" gpoId="7982" party="D" role="COSPONSOR" state="MD">
+                      <name type="parsed">Mr. Cummings</name>
+                      <name type="authority-fnf">Elijah E. Cummings</name>
+                      <name type="authority-lnf">Cummings, Elijah E.</name>
+                      <name type="authority-other">Elijah Cummings</name>
+                </congMember>
+ <congMember authorityId="944" bioGuideId="R000053" chamber="H" congress="114" gpoId="8076" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Rangel</name>
+                      <name type="authority-fnf">Charles B. Rangel</name>
+                      <name type="authority-lnf">Rangel, Charles B.</name>
+                      <name type="authority-other">Charles Rangel</name>
+                </congMember>
+ <congMember authorityId="2023" bioGuideId="R000588" chamber="H" congress="114" gpoId="7960" party="D" role="COSPONSOR" state="LA">
+                      <name type="parsed">Mr. Richmond</name>
+                      <name type="authority-fnf">Cedric L. Richmond</name>
+                      <name type="authority-lnf">Richmond, Cedric L.</name>
+                      <name type="authority-other">Mr. Cedric Richmond</name>
+                </congMember>
+ <congMember authorityId="2259" bioGuideId="W000822" chamber="H" congress="114" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mrs. Watson Coleman</name>
+                      <name type="authority-fnf">Bonnie Watson Coleman</name>
+                      <name type="authority-lnf">Watson Coleman, Bonnie</name>
+                </congMember>
+ <congMember authorityId="1510" bioGuideId="P000096" chamber="H" congress="114" gpoId="8050" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Pascrell</name>
+                      <name type="authority-fnf">Bill Pascrell, Jr.</name>
+                      <name type="authority-lnf">Pascrell, Bill, Jr.</name>
+                      <name type="authority-other">William Pascrell Jr.</name>
+                </congMember>
+ <congMember authorityId="1504" bioGuideId="M000312" chamber="H" congress="114" gpoId="7968" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Mr. McGovern</name>
+                      <name type="authority-fnf">James P. McGovern</name>
+                      <name type="authority-lnf">McGovern, James P.</name>
+                      <name type="authority-other">James Mcgovern</name>
+                </congMember>
+ <congMember authorityId="2110" bioGuideId="T000472" chamber="H" congress="114" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Takano</name>
+                      <name type="authority-fnf">Mark Takano</name>
+                      <name type="authority-lnf">Takano, Mark</name>
+                </congMember>
+ <congMember authorityId="1895" bioGuideId="F000455" chamber="H" congress="114" gpoId="8101" party="D" role="COSPONSOR" state="OH">
+                      <name type="parsed">Ms. Fudge</name>
+                      <name type="authority-fnf">Marcia L. Fudge</name>
+                      <name type="authority-lnf">Fudge, Marcia L.</name>
+                      <name type="authority-other">Ms. Marcia Fudge</name>
+                </congMember>
+ <congMember authorityId="2004" bioGuideId="W000808" chamber="H" congress="114" gpoId="7889" party="D" role="COSPONSOR" state="FL">
+                      <name type="parsed">Ms. Wilson of Florida</name>
+                      <name type="authority-fnf">Frederica S. Wilson</name>
+                      <name type="authority-lnf">Wilson, Frederica S.</name>
+                      <name type="authority-other">Frederica Wilson</name>
+                </congMember>
+ <congMember authorityId="2274" bioGuideId="P000610" chamber="H" congress="114" party="D" role="COSPONSOR" state="VI">
+                      <name type="parsed">Ms. Plaskett</name>
+                      <name type="authority-fnf">Stacey E. Plaskett</name>
+                      <name type="authority-lnf">Plaskett, Stacey E.</name>
+                      <name type="authority-other">Ms. Stacey Plaskett</name>
+                </congMember>
+ <congMember authorityId="1506" bioGuideId="M001137" chamber="H" congress="114" gpoId="8067" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Meeks</name>
+                      <name type="authority-fnf">Gregory W. Meeks</name>
+                      <name type="authority-lnf">Meeks, Gregory W.</name>
+                      <name type="authority-other">Gregory Meeks</name>
+                </congMember>
+ <congMember authorityId="1501" bioGuideId="L000551" chamber="H" congress="114" gpoId="7814" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Lee</name>
+                      <name type="authority-fnf">Barbara Lee</name>
+                      <name type="authority-lnf">Lee, Barbara</name>
+                </congMember>
+ <congMember authorityId="1037" bioGuideId="S000185" chamber="H" congress="114" gpoId="8194" party="D" role="COSPONSOR" state="VA">
+                      <name type="parsed">Mr. Scott of Virginia</name>
+                      <name type="authority-fnf">Robert C. &quot;Bobby&quot; Scott</name>
+                      <name type="authority-lnf">Scott, Robert C. &quot;Bobby&quot;</name>
+                      <name type="authority-other">Robert Scott</name>
+                </congMember>
+ <congMember authorityId="1761" bioGuideId="B001251" chamber="H" congress="114" gpoId="8024" party="D" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. Butterfield</name>
+                      <name type="authority-fnf">G. K. Butterfield</name>
+                      <name type="authority-lnf">Butterfield, G. K.</name>
+                </congMember>
+ <congMember authorityId="588" bioGuideId="J000032" chamber="H" congress="114" gpoId="8174" party="D" role="COSPONSOR" state="TX">
+                      <name type="parsed">Ms. Jackson Lee</name>
+                      <name type="authority-fnf">Sheila Jackson Lee</name>
+                      <name type="authority-lnf">Jackson Lee, Sheila</name>
+                </congMember>
+ <congMember authorityId="1864" bioGuideId="C001067" chamber="H" congress="114" gpoId="8072" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Ms. Clarke of New York</name>
+                      <name type="authority-fnf">Yvette D. Clarke</name>
+                      <name type="authority-lnf">Clarke, Yvette D.</name>
+                      <name type="authority-other">Ms. Yvette Clarke</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="20">
+                      <section number="1002"></section>
+                      <section number="7341"></section>
+                      <section number="7801"></section>
+                </USCode>
+ <USCode title="25">
+                      <section number="450b"></section>
+                </USCode>
+</extension>
+</mods>

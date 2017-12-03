@@ -1,0 +1,601 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18b00385f">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To provide for savings, accountability, value, and efficiency, and for other purposes.;Savings, Accountability, Value, and Efficiency Act of 2015;Savings, Accountability, Value, and Efficiency II Act;SAVE II Act;Savings, Accountability, Value, and Efficiency III Act;Savings, Accountability, Value, &amp; Efficiency IV Act;H.R. 614 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-02-10</dateIngested>
+</extension>
+<titleInfo>
+ <title>To provide for savings, accountability, value, and efficiency, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Savings, Accountability, Value, and Efficiency Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Savings, Accountability, Value, and Efficiency II Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>SAVE II Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Savings, Accountability, Value, and Efficiency III Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Savings, Accountability, Value, &amp; Efficiency IV Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 614 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-01-28</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>60 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18b00385f</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr614ih</identifier>
+<identifier type="preferred citation">H.R. 614</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h614_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr614ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr614ih/html/BILLS-114hr614ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr614ih/pdf/BILLS-114hr614ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr614ih/xml/BILLS-114hr614ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-02-10</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-14</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr614ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Patrick Murphy</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David W. Jolly</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Brad Ashford</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Carlos Curbelo</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kyrsten Sinema</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mick Mulvaney</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ann M. Kuster</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael G. Fitzpatrick</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Eric Swalwell</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Andy Barr</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Agriculture</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Appropriations</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Armed Services</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Financial Services</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Foreign Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Oversight and Government Reform</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on House Administration</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Energy and Commerce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on the Judiciary</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Rules</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Veterans&apos; Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Ways and Means</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 551</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 551</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 1072(7)</partNumber>
+  <partNumber>Title 10 Section 2222note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 1072(7)</identifier>
+ <identifier type="USC citation">10 U.S.C. 2222note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 21 Section 136a(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">21 U.S.C. 136a(a)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 22 Section 211aet seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">22 U.S.C. 211aet seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 5111</partNumber>
+  <partNumber>Title 31 Section 5114(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 5111</identifier>
+ <identifier type="USC citation">31 U.S.C. 5114(a)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 38 Section 1705</partNumber>
+</titleInfo>
+ <identifier type="USC citation">38 U.S.C. 1705</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 39 Section 5005(a)(3)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">39 U.S.C. 5005(a)(3)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 40 Section 11303(b)</partNumber>
+  <partNumber>Title 40 Section 121note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">40 U.S.C. 11303(b)</identifier>
+ <identifier type="USC citation">40 U.S.C. 121note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 1320a</partNumber>
+  <partNumber>Title 42 Section 1395b-7</partNumber>
+  <partNumber>Title 42 Section 1395et seq.</partNumber>
+  <partNumber>Title 42 Section 1395kk-1(b)(1)(B)</partNumber>
+  <partNumber>Title 42 Section 1395m(j)(5)</partNumber>
+  <partNumber>Title 42 Section 2297h-10</partNumber>
+  <partNumber>Title 42 Section 7521et seq.</partNumber>
+  <partNumber>Title 42 Section 8253(f)(10)(C)</partNumber>
+  <partNumber>Title 42 Section 8253(f)(4)</partNumber>
+  <partNumber>Title 42 Section 8287c(4)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 1320a</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395b-7</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395kk-1(b)(1)(B)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395m(j)(5)</identifier>
+ <identifier type="USC citation">42 U.S.C. 2297h-10</identifier>
+ <identifier type="USC citation">42 U.S.C. 7521et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 8253(f)(10)(C)</identifier>
+ <identifier type="USC citation">42 U.S.C. 8253(f)(4)</identifier>
+ <identifier type="USC citation">42 U.S.C. 8287c(4)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 44 Chapter 7</partNumber>
+</titleInfo>
+ <identifier type="USC citation">44 U.S.C. Chapter 7</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 49 Chapter 329</partNumber>
+</titleInfo>
+ <identifier type="USC citation">49 U.S.C. Chapter 329</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 127 Page 842</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">127 Stat. 842</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 104-134</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 104-134</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 110-329</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 110-329</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-84</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-84</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 113-66</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 113-66</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr614ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>614</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Savings, Accountability, Value, and Efficiency Act of 2015</shortTitle>
+ <shortTitle level="title" type="level">Savings, Accountability, Value, and Efficiency II Act</shortTitle>
+ <shortTitle level="title" type="level">SAVE II Act</shortTitle>
+ <shortTitle level="title" type="level">Savings, Accountability, Value, and Efficiency III Act</shortTitle>
+ <shortTitle level="title" type="level">Savings, Accountability, Value, &amp; Efficiency IV Act</shortTitle>
+ <officialTitle>To provide for savings, accountability, value, and efficiency, and for other purposes.</officialTitle>
+ <action date="2015-01-28">Mr. Murphy of Florida (for himself, Mr. Jolly, Mr. Ashford, Mr. Curbelo of Florida, Ms. Sinema, Mr. Mulvaney, Ms. Kuster, Mr. Fitzpatrick, Mr. Swalwell of California, and Mr. Barr) introduced the following bill; which was referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Veterans’ Affairs, Appropriations, Agriculture, Energy and Commerce, Ways and Means, Armed Services, Foreign Affairs, the Judiciary, Financial Services, House Administration, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <congCommittee authorityId="hsag00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Agriculture</name>
+                      <name type="authority-short">Agriculture</name>
+                </congCommittee>
+ <congCommittee authorityId="hsap00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Appropriations</name>
+                      <name type="authority-short">Appropriations</name>
+                </congCommittee>
+ <congCommittee authorityId="hsas00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Armed Services</name>
+                      <name type="authority-short">Armed Services</name>
+                </congCommittee>
+ <congCommittee authorityId="hsba00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Financial Services</name>
+                      <name type="authority-short">Financial Services</name>
+                </congCommittee>
+ <congCommittee authorityId="hsfa00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Foreign Affairs</name>
+                      <name type="authority-short">Foreign Affairs</name>
+                </congCommittee>
+ <congCommittee authorityId="hsgo00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Oversight and Government Reform</name>
+                      <name type="authority-short">Oversight and Government Reform</name>
+                </congCommittee>
+ <congCommittee authorityId="hsha00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on House Administration</name>
+                      <name type="authority-short">House Administration</name>
+                </congCommittee>
+ <congCommittee authorityId="hsif00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Energy and Commerce</name>
+                      <name type="authority-short">Energy and Commerce</name>
+                </congCommittee>
+ <congCommittee authorityId="hsju00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on the Judiciary</name>
+                      <name type="authority-short">Judiciary</name>
+                </congCommittee>
+ <congCommittee authorityId="hsru00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Rules</name>
+                      <name type="authority-short">Rules</name>
+                </congCommittee>
+ <congCommittee authorityId="hsvr00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Veterans&apos; Affairs</name>
+                      <name type="authority-short">Veterans&apos; Affairs</name>
+                </congCommittee>
+ <congCommittee authorityId="hswm00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Ways and Means</name>
+                      <name type="authority-short">Ways and Means</name>
+                </congCommittee>
+ <congMember authorityId="2117" bioGuideId="M001191" chamber="H" congress="114" party="D" role="SPONSOR" state="FL">
+                      <name type="parsed">Mr. Murphy of Florida</name>
+                      <name type="authority-fnf">Patrick Murphy</name>
+                      <name type="authority-lnf">Murphy, Patrick</name>
+                </congMember>
+ <congMember authorityId="2199" bioGuideId="J000296" chamber="H" congress="114" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Jolly</name>
+                      <name type="authority-fnf">David W. Jolly</name>
+                      <name type="authority-lnf">Jolly, David</name>
+                      <name type="authority-other">Mr. David Jolly</name>
+                </congMember>
+ <congMember authorityId="2257" bioGuideId="A000373" chamber="H" congress="114" party="D" role="COSPONSOR" state="NE">
+                      <name type="parsed">Mr. Ashford</name>
+                      <name type="authority-fnf">Brad Ashford</name>
+                      <name type="authority-lnf">Ashford, Brad</name>
+                </congMember>
+ <congMember authorityId="2235" bioGuideId="C001107" chamber="H" congress="114" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Curbelo of Florida</name>
+                      <name type="authority-fnf">Carlos Curbelo</name>
+                      <name type="authority-lnf">Curbelo, Carlos</name>
+                </congMember>
+ <congMember authorityId="2099" bioGuideId="S001191" chamber="H" congress="114" party="D" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Ms. Sinema</name>
+                      <name type="authority-fnf">Kyrsten Sinema</name>
+                      <name type="authority-lnf">Sinema, Kyrsten</name>
+                </congMember>
+ <congMember authorityId="2059" bioGuideId="M001182" chamber="H" congress="114" gpoId="8145" party="R" role="COSPONSOR" state="SC">
+                      <name type="parsed">Mr. Mulvaney</name>
+                      <name type="authority-fnf">Mick Mulvaney</name>
+                      <name type="authority-lnf">Mulvaney, Mick</name>
+                </congMember>
+ <congMember authorityId="2145" bioGuideId="K000382" chamber="H" congress="114" party="D" role="COSPONSOR" state="NH">
+                      <name type="parsed">Ms. Kuster</name>
+                      <name type="authority-fnf">Ann M. Kuster</name>
+                      <name type="authority-lnf">Kuster, Ann M.</name>
+                      <name type="authority-other">Ms. Ann Kuster</name>
+                </congMember>
+ <congMember authorityId="1797" bioGuideId="F000451" chamber="H" congress="114" gpoId="8126" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Fitzpatrick</name>
+                      <name type="authority-fnf">Michael G. Fitzpatrick</name>
+                      <name type="authority-lnf">Fitzpatrick, Michael G.</name>
+                      <name type="authority-other">Mr. Michael Fitzpatrick</name>
+                </congMember>
+ <congMember authorityId="2104" bioGuideId="S001193" chamber="H" congress="114" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Swalwell of California</name>
+                      <name type="authority-fnf">Eric Swalwell</name>
+                      <name type="authority-lnf">Swalwell, Eric</name>
+                </congMember>
+ <congMember authorityId="2131" bioGuideId="B001282" chamber="H" congress="114" party="R" role="COSPONSOR" state="KY">
+                      <name type="parsed">Mr. Barr</name>
+                      <name type="authority-fnf">Andy Barr</name>
+                      <name type="authority-lnf">Barr, Andy</name>
+                </congMember>
+ <law congress="104" isPrivate="false" number="134"></law>
+ <law congress="110" isPrivate="false" number="329"></law>
+ <law congress="111" isPrivate="false" number="84"></law>
+ <law congress="113" isPrivate="false" number="66"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="551"></section>
+                </USCode>
+ <USCode title="10">
+                      <section detail="(7)" number="1072"></section>
+                      <section detail="note" number="2222"></section>
+                </USCode>
+ <USCode title="21">
+                      <section detail="(a)" number="136a"></section>
+                </USCode>
+ <USCode title="22">
+                      <section detail="et seq." number="211a"></section>
+                </USCode>
+ <USCode title="31">
+                      <section number="5111"></section>
+                      <section detail="(a)" number="5114"></section>
+                </USCode>
+ <USCode title="38">
+                      <section number="1705"></section>
+                </USCode>
+ <USCode title="39">
+                      <section detail="(a)(3)" number="5005"></section>
+                </USCode>
+ <USCode title="40">
+                      <section detail="(b)" number="11303"></section>
+                      <section detail="note" number="121"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="1320a"></section>
+                      <section number="1395b-7"></section>
+                      <section detail="et seq." number="1395"></section>
+                      <section detail="(b)(1)(B)" number="1395kk-1"></section>
+                      <section detail="(j)(5)" number="1395m"></section>
+                      <section number="2297h-10"></section>
+                      <section detail="et seq." number="7521"></section>
+                      <section detail="(f)(10)(C)" number="8253"></section>
+                      <section detail="(f)(4)" number="8253"></section>
+                      <section detail="(4)" number="8287c"></section>
+                </USCode>
+ <USCode title="44">
+                      <chapter number="7"></chapter>
+                </USCode>
+ <USCode title="49">
+                      <chapter number="329"></chapter>
+                </USCode>
+ <statuteAtLarge volume="127">
+                      <pages pages="842"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

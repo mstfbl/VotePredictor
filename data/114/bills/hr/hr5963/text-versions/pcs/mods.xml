@@ -1,0 +1,271 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1917484aa">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To reauthorize and improve the Juvenile Justice and Delinquency Prevention Act of 1974, and for other purposes.;Supporting Youth Opportunity and Preventing Delinquency Act of 2016;H.R. 5963 (PCS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-09-28</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To reauthorize and improve the Juvenile Justice and Delinquency Prevention Act of 1974, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Supporting Youth Opportunity and Preventing Delinquency Act of 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 5963 (PCS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-09-27</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>96 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee1917484aa</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5963pcs</identifier>
+<identifier type="preferred citation">H.R. 5963</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h5963_pcs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5963pcs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5963pcs/html/BILLS-114hr5963pcs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5963pcs/pdf/BILLS-114hr5963pcs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5963pcs/xml/BILLS-114hr5963pcs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-09-28</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-09-28</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr5963pcs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 552</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 552</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Section 922(x)(2)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. 922(x)(2)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 6311et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 6311et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 1751et seq.</partNumber>
+  <partNumber>Title 42 Section 290ii</partNumber>
+  <partNumber>Title 42 Section 5601(a)(9)</partNumber>
+  <partNumber>Title 42 Section 5601et seq.</partNumber>
+  <partNumber>Title 42 Section 5601note</partNumber>
+  <partNumber>Title 42 Section 5602</partNumber>
+  <partNumber>Title 42 Section 5603</partNumber>
+  <partNumber>Title 42 Section 5614</partNumber>
+  <partNumber>Title 42 Section 5616</partNumber>
+  <partNumber>Title 42 Section 5617</partNumber>
+  <partNumber>Title 42 Section 5631(b)(1)</partNumber>
+  <partNumber>Title 42 Section 5632</partNumber>
+  <partNumber>Title 42 Section 5633</partNumber>
+  <partNumber>Title 42 Section 5651et seq.</partNumber>
+  <partNumber>Title 42 Section 5661</partNumber>
+  <partNumber>Title 42 Section 5662</partNumber>
+  <partNumber>Title 42 Section 5672</partNumber>
+  <partNumber>Title 42 Section 5701et seq.</partNumber>
+  <partNumber>Title 42 Section 5771et seq.</partNumber>
+  <partNumber>Title 42 Section 5776a</partNumber>
+  <partNumber>Title 42 Section 5781</partNumber>
+  <partNumber>Title 42 Section 5781et seq.</partNumber>
+  <partNumber>Title 42 Section 5782</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 1751et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 290ii</identifier>
+ <identifier type="USC citation">42 U.S.C. 5601(a)(9)</identifier>
+ <identifier type="USC citation">42 U.S.C. 5601et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 5601note</identifier>
+ <identifier type="USC citation">42 U.S.C. 5602</identifier>
+ <identifier type="USC citation">42 U.S.C. 5603</identifier>
+ <identifier type="USC citation">42 U.S.C. 5614</identifier>
+ <identifier type="USC citation">42 U.S.C. 5616</identifier>
+ <identifier type="USC citation">42 U.S.C. 5617</identifier>
+ <identifier type="USC citation">42 U.S.C. 5631(b)(1)</identifier>
+ <identifier type="USC citation">42 U.S.C. 5632</identifier>
+ <identifier type="USC citation">42 U.S.C. 5633</identifier>
+ <identifier type="USC citation">42 U.S.C. 5651et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 5661</identifier>
+ <identifier type="USC citation">42 U.S.C. 5662</identifier>
+ <identifier type="USC citation">42 U.S.C. 5672</identifier>
+ <identifier type="USC citation">42 U.S.C. 5701et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 5771et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 5776a</identifier>
+ <identifier type="USC citation">42 U.S.C. 5781</identifier>
+ <identifier type="USC citation">42 U.S.C. 5781et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 5782</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 88 Page 1133</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">88 Stat. 1133</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 107 Page 285</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">107 Stat. 285</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 124 Page 2261</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">124 Stat. 2261</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 93-415</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 93-415</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 103-62</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 103-62</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-211</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-211</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 649</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr5963pcs</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>5963</billNumber>
+ <billVersion reprint="false">pcs</billVersion>
+ <fileSuffix>pcs</fileSuffix>
+ <shortTitle type="measure">Supporting Youth Opportunity and Preventing Delinquency Act of 2016</shortTitle>
+ <officialTitle>To reauthorize and improve the Juvenile Justice and Delinquency Prevention Act of 1974, and for other purposes.</officialTitle>
+ <action date="2016-09-26">Received</action>
+ <action date="2016-09-27">Read twice and placed on the calendar</action>
+ <law congress="93" isPrivate="false" number="415"></law>
+ <law congress="103" isPrivate="false" number="62"></law>
+ <law congress="111" isPrivate="false" number="211"></law>
+ <congCalendar congress="114" number="649" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="552"></section>
+                </USCode>
+ <USCode title="18">
+                      <section detail="(x)(2)" number="922"></section>
+                </USCode>
+ <USCode title="20">
+                      <section detail="et seq." number="6311"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="et seq." number="1751"></section>
+                      <section number="290ii"></section>
+                      <section detail="(a)(9)" number="5601"></section>
+                      <section detail="et seq." number="5601"></section>
+                      <section detail="note" number="5601"></section>
+                      <section number="5602"></section>
+                      <section number="5603"></section>
+                      <section number="5614"></section>
+                      <section number="5616"></section>
+                      <section number="5617"></section>
+                      <section detail="(b)(1)" number="5631"></section>
+                      <section number="5632"></section>
+                      <section number="5633"></section>
+                      <section detail="et seq." number="5651"></section>
+                      <section number="5661"></section>
+                      <section number="5662"></section>
+                      <section number="5672"></section>
+                      <section detail="et seq." number="5701"></section>
+                      <section detail="et seq." number="5771"></section>
+                      <section number="5776a"></section>
+                      <section number="5781"></section>
+                      <section detail="et seq." number="5781"></section>
+                      <section number="5782"></section>
+                </USCode>
+ <statuteAtLarge volume="88">
+                      <pages pages="1133"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="107">
+                      <pages pages="285"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="124">
+                      <pages pages="2261"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

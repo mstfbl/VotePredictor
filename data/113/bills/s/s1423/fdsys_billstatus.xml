@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2013-08-02T05:52:43Z</createDate>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <lastName>Alexander</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1695</lisID>
+          <gpoId>8304</gpoId>
+          <bioguideId>A000360</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Lamar</firstName>
+        <sponsorshipDate>2013-08-01</sponsorshipDate>
+        <middleName />
+        <bioguideId>A000360</bioguideId>
+        <state>TN</state>
+      </item>
+      <item>
+        <lastName>Murkowski</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Lisa</firstName>
+        <sponsorshipDate>2013-08-01</sponsorshipDate>
+        <middleName />
+        <bioguideId>M001153</bioguideId>
+        <state>AK</state>
+      </item>
+      <item>
+        <lastName>UDALL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1567</lisID>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>TOM</firstName>
+        <sponsorshipDate>2013-08-01</sponsorshipDate>
+        <middleName />
+        <bioguideId>U000039</bioguideId>
+        <state>NM</state>
+      </item>
+      <item>
+        <lastName>Heinrich</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1937</lisID>
+          <gpoId>8056</gpoId>
+          <bioguideId>H001046</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Martin</firstName>
+        <sponsorshipDate>2013-08-01</sponsorshipDate>
+        <middleName />
+        <bioguideId>H001046</bioguideId>
+        <state>NM</state>
+      </item>
+      <item>
+        <lastName>Bennet</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1965</lisID>
+          <bioguideId>B001267</bioguideId>
+          <gpoId>8302</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Michael</firstName>
+        <sponsorshipDate>2013-09-09</sponsorshipDate>
+        <middleName>F.</middleName>
+        <bioguideId>B001267</bioguideId>
+        <state>CO</state>
+      </item>
+    </cosponsors>
+    <title>Toxic Substances and Worker Health Advisory Board Act</title>
+    <actions>
+      <item>
+        <actionDate>2013-08-01</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>B00100</actionCode>
+        <type>IntroReferral</type>
+        <text>Sponsor introductory remarks on measure. (CR S6216)</text>
+        <links>
+          <link>
+            <name>S6216</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S6216</url>
+          </link>
+        </links>
+        <actionDate>2013-08-01</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-08-01</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <committeeReports />
+    <updateDate>2016-10-25T16:26:33Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Cardiovascular and respiratory health</name>
+          </item>
+          <item>
+            <name>Department of Energy</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government liability</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Nuclear weapons</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Radiation</name>
+          </item>
+          <item>
+            <name>Radioactive wastes and releases</name>
+          </item>
+          <item>
+            <name>Worker safety and health</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2013-08-01</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>U000038</bioguideId>
+        <state>CO</state>
+        <fullName>Sen. Udall, Mark [D-CO]</fullName>
+        <firstName>MARK</firstName>
+        <party>D</party>
+        <lastName>UDALL</lastName>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <bioguideId>U000038</bioguideId>
+          <lisID>1595</lisID>
+          <gpoId>8259</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <latestTitle>Nuclear Workers Health Advisory Board Act</latestTitle>
+        <number>2905</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on Workforce Protections.</text>
+          <actionDate>2013-09-13</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Carl Levin National Defense Authorization Act for Fiscal Year 2015</latestTitle>
+        <number>2410</number>
+        <latestAction>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 402.</text>
+          <actionDate>2014-06-02</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>sshr00</systemCode>
+          <activities>
+            <item>
+              <date>2013-08-01T16:42:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Toxic Substances and Worker Health Advisory Board Act - Amends the Energy Employees Occupational Illness Compensation Program Act of 2000 to require the President to establish an Advisory Board on Toxic Substances and Worker Health.</p> <p>Requires the Board to provide advice to the President on the review and approval of the Department of Labor site exposure matrix (SEM) used to determine the eligibility of Department of Energy (DOE) employee contractor claims for compensation for lung disease resulting from exposure to toxic substances.</p>]]></text>
+          <updateDate>2013-08-01T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2013-10-30T22:16:03Z</lastSummaryUpdateDate>
+          <actionDate>2013-08-01</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <introducedDate>2013-08-01</introducedDate>
+    <billType>S</billType>
+    <congress>113</congress>
+    <billNumber>1423</billNumber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Toxic Substances and Worker Health Advisory Board Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Energy Employees Occupational Illness Compensation Program Act of 2000 to strengthen the quality control measures in place for part B lung disease claims and to establish the Advisory Board on Toxic Substances and Worker Health for the contractor employee compensation program under subtitle E of such Act.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Toxic Substances and Worker Health Advisory Board Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

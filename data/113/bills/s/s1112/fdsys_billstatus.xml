@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-06-07</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-06-07</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-06-07</introducedDate>
+    <updateDate>2016-10-25T16:25:05Z</updateDate>
+    <createDate>2013-06-08T07:01:27Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sshr00</systemCode>
+          <activities>
+            <item>
+              <date>2013-06-07T14:08:34Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors />
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>STELLAR Act</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>STELLAR Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Securing Teacher Effectiveness, Leadership, Learning, And Results Act of 2013</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Elementary and Secondary Education Act of 1965 to require the establishment of teacher evaluation programs.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>STELLAR Act</title>
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-06-29T17:01:15Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2013-06-07T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <actionDate>2013-06-07</actionDate>
+          <text><![CDATA[<p>Securing Teacher Effectiveness, Leadership, Learning, And Results Act of 2013 or STELLAR Act - Amends the Elementary and Secondary Education Act of 1965 to require each state receiving school improvement funds to: (1) define teacher and principal effectiveness and establish performance ratings; (2) demonstrate that it has developed, in collaboration with teachers and principals, a model teacher and principal evaluation program; (3) demonstrate that each of its local educational agencies (LEAs) has adopted a teacher and principal evaluation program; (4) demonstrate that each LEA is collaborating with teachers and principals in developing and making annual improvements to such program; (5) review, report on, and assist LEAs in improving such evaluation programs; and (6) establish procedures to ensure that ineffective teachers and principals facing unemployment are treated fairly.</p> <p>Requires teacher evaluations to: (1) emphasize student academic growth, (2) include observations of the teacher's classroom performance, (3) rate teachers using at least four performance categories, and (4) provide results that are comparable for all teachers in grade levels and subject areas across the state and within the teacher's LEA.</p> <p>Requires principal evaluations to: (1) emphasize student academic growth; (2) factor in their school's graduation rates; (3) assess the principal's success in recruiting, developing, evaluating, and retaining effective teachers; (4) assess the principal's leadership abilities through observations and other relevant data; (5) rate principals using at least four performance categories; and (6) provide results that are comparable across all principals within the LEA.</p> <p>Requires states to take steps to ensure that poor and minority children are not taught at higher rates than other children by teachers rated as less than effective.</p> <p>Requires states and LEAs to report the number and percentage of teachers and principals in each performance rating at: (1) the state, LEA, and school level; and (2) their LEAs and schools that have the highest and lowest poverty rates or the highest and lowest percentages of minority students. Requires states to report student attendance rates, disaggregated by each school and each teacher and principal at each school within specified jurisdictions.</p> <p>Directs the Secretary of Education to: (1) recognize each LEA that has innovative, high-quality, and effective teacher or principal evaluation programs that lead to professional development and improved student performance; and (2) establish a clearinghouse to share the best practices of such programs with educators.<br> </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <number>768</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-04-23</actionDate>
+          <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+        </latestAction>
+        <latestTitle>STELLAR Act</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Academic performance and assessments</name>
+          </item>
+          <item>
+            <name>Education of the disadvantaged</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>School administration</name>
+          </item>
+          <item>
+            <name>Teaching, teachers, curricula</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2013-06-07</actionDate>
+    </latestAction>
+    <billNumber>1112</billNumber>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>MARY</firstName>
+        <party>D</party>
+        <fullName>Sen. Landrieu, Mary L. [D-LA]</fullName>
+        <bioguideId>L000550</bioguideId>
+        <identifiers>
+          <lisID>1546</lisID>
+          <gpoId>8251</gpoId>
+          <bioguideId>L000550</bioguideId>
+        </identifiers>
+        <lastName>LANDRIEU</lastName>
+        <middleName />
+        <state>LA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

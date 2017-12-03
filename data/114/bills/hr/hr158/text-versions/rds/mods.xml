@@ -1,0 +1,178 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18e20f1d9">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To amend the Immigration and Nationality Act to provide enhanced security measures for the visa waiver program, and for other purposes.;Visa Waiver Program Improvement and Terrorist Travel Prevention Act of 2015;H.R. 158 (RDS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-12-11</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To amend the Immigration and Nationality Act to provide enhanced security measures for the visa waiver program, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Visa Waiver Program Improvement and Terrorist Travel Prevention Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 158 (RDS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-12-09</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>21 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18e20f1d9</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr158rds</identifier>
+<identifier type="preferred citation">H.R. 158</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h158_rds.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr158rds/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr158rds/html/BILLS-114hr158rds.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr158rds/pdf/BILLS-114hr158rds.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr158rds/xml/BILLS-114hr158rds.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-12-11</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr158rds</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 8 Section 1187</partNumber>
+  <partNumber>Title 8 Section 1187(a)</partNumber>
+  <partNumber>Title 8 Section 1187(a)(3)</partNumber>
+  <partNumber>Title 8 Section 1187(c)</partNumber>
+  <partNumber>Title 8 Section 1187(c)(2)</partNumber>
+  <partNumber>Title 8 Section 1187(c)(2)(B)</partNumber>
+  <partNumber>Title 8 Section 1187(c)(2)(D)</partNumber>
+  <partNumber>Title 8 Section 1187(c)(2)(F)</partNumber>
+  <partNumber>Title 8 Section 1187(f)</partNumber>
+  <partNumber>Title 8 Section 1187(h)(3)</partNumber>
+  <partNumber>Title 8 Section 1732(c)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">8 U.S.C. 1187</identifier>
+ <identifier type="USC citation">8 U.S.C. 1187(a)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1187(a)(3)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1187(c)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1187(c)(2)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1187(c)(2)(B)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1187(c)(2)(D)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1187(c)(2)(F)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1187(f)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1187(h)(3)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1732(c)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 22 Section 2371</partNumber>
+  <partNumber>Title 22 Section 2780</partNumber>
+</titleInfo>
+ <identifier type="USC citation">22 U.S.C. 2371</identifier>
+ <identifier type="USC citation">22 U.S.C. 2780</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 50 Section 1701</partNumber>
+  <partNumber>Title 50 Section 1701et seq.</partNumber>
+  <partNumber>Title 50 Section 2405</partNumber>
+</titleInfo>
+ <identifier type="USC citation">50 U.S.C. 1701</identifier>
+ <identifier type="USC citation">50 U.S.C. 1701et seq.</identifier>
+ <identifier type="USC citation">50 U.S.C. 2405</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr158rds</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>158</billNumber>
+ <billVersion reprint="false">rds</billVersion>
+ <fileSuffix>rds</fileSuffix>
+ <shortTitle type="measure">Visa Waiver Program Improvement and Terrorist Travel Prevention Act of 2015</shortTitle>
+ <officialTitle>To amend the Immigration and Nationality Act to provide enhanced security measures for the visa waiver program, and for other purposes.</officialTitle>
+ <action date="2015-12-09">Received</action>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="8">
+                      <section number="1187"></section>
+                      <section detail="(a)" number="1187"></section>
+                      <section detail="(a)(3)" number="1187"></section>
+                      <section detail="(c)" number="1187"></section>
+                      <section detail="(c)(2)" number="1187"></section>
+                      <section detail="(c)(2)(B)" number="1187"></section>
+                      <section detail="(c)(2)(D)" number="1187"></section>
+                      <section detail="(c)(2)(F)" number="1187"></section>
+                      <section detail="(f)" number="1187"></section>
+                      <section detail="(h)(3)" number="1187"></section>
+                      <section detail="(c)" number="1732"></section>
+                </USCode>
+ <USCode title="22">
+                      <section number="2371"></section>
+                      <section number="2780"></section>
+                </USCode>
+ <USCode title="50">
+                      <section number="1701"></section>
+                      <section detail="et seq." number="1701"></section>
+                      <section number="2405"></section>
+                </USCode>
+</extension>
+</mods>

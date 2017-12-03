@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2013-10-30</actionDate>
+      <text>Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 113-280.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Veterans' Affairs Committee</name>
+          <subcommittees />
+          <systemCode>ssva00</systemCode>
+          <activities>
+            <item>
+              <date>2013-10-30T18:00:00Z</date>
+              <name>Hearings by</name>
+            </item>
+            <item>
+              <date>2013-10-28T19:50:24Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2013-10-29T01:29:48Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2013-10-30</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 113-280.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-10-28</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-10-28</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <hearingsHeld>1</hearingsHeld>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2013-10-28</introducedDate>
+    <billNumber>1580</billNumber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2013-10-28T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Ensuring Safe Shelter for Homeless Veterans Act of 2013 - Prohibits a per diem payment from being made to providers of services for homeless veterans unless the Secretary of Veterans Affairs (VA) certifies that: (1) the building where the entity provides housing or services is in compliance with codes relevant to the operations and level of care provided; and (2) such building and the housing or services provided are in compliance with licensing, fire and safety, and other requirements of the relevant jurisdiction regarding the condition of the building and the provision of such housing or services.</p> <p> Authorizes the Secretary to revoke any certification upon determining that it is no longer accurate. Requires the Secretary to: (1) inspect such facilities at least annually, and (2) notify Congress of any such revocation and termination of per diem payments.</p> <p>Requires the Secretary's annual report on assistance to homeless veterans to include an evaluation of the safety and accessibility of such providers' facilities.</p> <p>Directs the Secretary to assess the compliance of the building and housing and services provided by current per diem payment recipients. Prohibits additional payments to a recipient that is not, within two years after enactment of this Act, certified to be in compliance until the Secretary certifies that the building and housing and services provided are in compliance.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2013-10-28</actionDate>
+          <lastSummaryUpdateDate>2013-12-17T22:28:30Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Building construction</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>Homelessness and emergency shelter</name>
+          </item>
+          <item>
+            <name>Housing and community development funding</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Veterans' loans, housing, homeless programs</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Ensuring Safe Shelter for Homeless Veterans Act of 2013</title>
+    <updateDate>2016-10-25T16:27:09Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Ensuring Safe Shelter for Homeless Veterans Act of 2013</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title 38, United States Code, to require recipients of per diem payments from the Secretary of Veterans Affairs for the provision of services for homeless veterans to comply with codes relevant to operations and level of care provided, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Ensuring Safe Shelter for Homeless Veterans Act of 2013</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>AK</state>
+        <firstName>Mark</firstName>
+        <byRequestType />
+        <bioguideId>B001265</bioguideId>
+        <fullName>Sen. Begich, Mark [D-AK]</fullName>
+        <lastName>Begich</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>1898</lisID>
+          <gpoId>8301</gpoId>
+          <bioguideId>B001265</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>1950</number>
+        <type>S</type>
+        <latestTitle>Comprehensive Veterans Health and Benefits and Military Retirement Pay Restoration Act of 2014</latestTitle>
+        <latestAction>
+          <actionDate>2014-02-04</actionDate>
+          <text>Motion to proceed to consideration of measure withdrawn in Senate. (consideration: CR S736)</text>
+        </latestAction>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>1982</number>
+        <type>S</type>
+        <latestTitle>Comprehensive Veterans Health and Benefits and Military Retirement Pay Restoration Act of 2014</latestTitle>
+        <latestAction>
+          <actionDate>2014-02-27</actionDate>
+          <text>Motion by Senator Reid to commit to Senate Committee on Veterans' Affairs with instructions to report back forthwith with amendment (SA 2767) fell when the bill was committed in Senate. (consideration: CR S1209-1210)</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cosponsors />
+    <billType>S</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

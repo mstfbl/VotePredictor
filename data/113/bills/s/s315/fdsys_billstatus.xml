@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-07-23</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 478.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2014-07-23</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute and an amendment to the title. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>14000</actionCode>
+        <text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute and an amendment to the title. Without written report.</text>
+        <links />
+        <actionDate>2014-07-23</actionDate>
+      </item>
+      <item>
+        <actionDate>2014-07-23</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-02-13</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-02-13</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-02-13</introducedDate>
+    <updateDate>2016-10-25T16:20:54Z</updateDate>
+    <createDate>2013-02-14T07:00:52Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <subcommittees />
+          <systemCode>sshr00</systemCode>
+          <activities>
+            <item>
+              <date>2014-07-23T20:10:56Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2014-07-23T18:30:00Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2013-02-13T22:10:38Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <firstName>ROGER</firstName>
+        <party>R</party>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000437</bioguideId>
+        <identifiers>
+          <lisID>1226</lisID>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <lastName>WICKER</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MS</state>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <middleName>F.</middleName>
+      </item>
+      <item>
+        <firstName>BERNARD</firstName>
+        <party>I</party>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000033</bioguideId>
+        <identifiers>
+          <gpoId>8270</gpoId>
+          <lisID>1010</lisID>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+        <lastName>SANDERS</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>VT</state>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>SUSAN</firstName>
+        <party>R</party>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001035</bioguideId>
+        <identifiers>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <lastName>COLLINS</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>ME</state>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <middleName>MARGARET</middleName>
+      </item>
+      <item>
+        <firstName>ROBERT</firstName>
+        <party>D</party>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M000639</bioguideId>
+        <identifiers>
+          <lisID>791</lisID>
+          <bioguideId>M000639</bioguideId>
+          <gpoId>8239</gpoId>
+        </identifiers>
+        <lastName>MENENDEZ</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Johnny</firstName>
+        <party>R</party>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>I000055</bioguideId>
+        <identifiers>
+          <bioguideId>I000055</bioguideId>
+          <lisID>1608</lisID>
+          <gpoId>8323</gpoId>
+        </identifiers>
+        <lastName>Isakson</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>GA</state>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>BARBARA</firstName>
+        <party>D</party>
+        <fullName>Sen. Mikulski, Barbara A. [D-MD]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M000702</bioguideId>
+        <identifiers>
+          <gpoId>8240</gpoId>
+          <lisID>802</lisID>
+          <bioguideId>M000702</bioguideId>
+        </identifiers>
+        <lastName>MIKULSKI</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MD</state>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <middleName>ANN</middleName>
+      </item>
+      <item>
+        <firstName>PATRICK</firstName>
+        <party>D</party>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000174</bioguideId>
+        <identifiers>
+          <lisID>1383</lisID>
+          <bioguideId>L000174</bioguideId>
+          <gpoId>8244</gpoId>
+        </identifiers>
+        <lastName>LEAHY</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>VT</state>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <middleName>JOSEPH</middleName>
+      </item>
+      <item>
+        <firstName>FRANK</firstName>
+        <party>D</party>
+        <fullName>Sen. Lautenberg, Frank R. [D-NJ]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000123</bioguideId>
+        <identifiers>
+          <lisID>1381</lisID>
+          <gpoId>8245</gpoId>
+          <bioguideId>L000123</bioguideId>
+        </identifiers>
+        <lastName>LAUTENBERG</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <middleName>R.</middleName>
+      </item>
+      <item>
+        <firstName>CLARENCE</firstName>
+        <party>D</party>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>N000032</bioguideId>
+        <identifiers>
+          <lisID>859</lisID>
+          <bioguideId>N000032</bioguideId>
+          <gpoId>8236</gpoId>
+        </identifiers>
+        <lastName>NELSON</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <sponsorshipDate>2013-02-13</sponsorshipDate>
+        <middleName>WILLIAM</middleName>
+      </item>
+      <item>
+        <firstName>CHARLES</firstName>
+        <party>D</party>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S000148</bioguideId>
+        <identifiers>
+          <lisID>1036</lisID>
+          <bioguideId>S000148</bioguideId>
+          <gpoId>8279</gpoId>
+        </identifiers>
+        <lastName>SCHUMER</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <sponsorshipDate>2013-02-25</sponsorshipDate>
+        <middleName>E.</middleName>
+      </item>
+      <item>
+        <firstName>Thad</firstName>
+        <party>R</party>
+        <fullName>Sen. Cochran, Thad [R-MS]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C000567</bioguideId>
+        <identifiers>
+          <gpoId>8292</gpoId>
+          <lisID>213</lisID>
+          <bioguideId>C000567</bioguideId>
+        </identifiers>
+        <lastName>Cochran</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MS</state>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>BARBARA</firstName>
+        <party>D</party>
+        <fullName>Sen. Boxer, Barbara [D-CA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B000711</bioguideId>
+        <identifiers>
+          <lisID>116</lisID>
+          <gpoId>8306</gpoId>
+          <bioguideId>B000711</bioguideId>
+        </identifiers>
+        <lastName>BOXER</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <sponsorshipDate>2013-02-28</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Angus</firstName>
+        <party>I</party>
+        <fullName>Sen. King, Angus S. Jr. [I-ME]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000383</bioguideId>
+        <identifiers>
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>King</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>ME</state>
+        <sponsorshipDate>2013-03-11</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Michael</firstName>
+        <party>D</party>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001267</bioguideId>
+        <identifiers>
+          <lisID>1965</lisID>
+          <bioguideId>B001267</bioguideId>
+          <gpoId>8302</gpoId>
+        </identifiers>
+        <lastName>Bennet</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>CO</state>
+        <sponsorshipDate>2013-04-22</sponsorshipDate>
+        <middleName>F.</middleName>
+      </item>
+      <item>
+        <firstName>DEBORAH</firstName>
+        <party>D</party>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S000770</bioguideId>
+        <identifiers>
+          <lisID>1531</lisID>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <lastName>STABENOW</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MI</state>
+        <sponsorshipDate>2013-06-17</sponsorshipDate>
+        <middleName>ANN</middleName>
+      </item>
+      <item>
+        <firstName>Roy</firstName>
+        <party>R</party>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B000575</bioguideId>
+        <identifiers>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+        <lastName>Blunt</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MO</state>
+        <sponsorshipDate>2013-07-31</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Jeanne</firstName>
+        <party>D</party>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001181</bioguideId>
+        <identifiers>
+          <bioguideId>S001181</bioguideId>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+        </identifiers>
+        <lastName>Shaheen</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>NH</state>
+        <sponsorshipDate>2013-09-23</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>EDWARD</firstName>
+        <party>D</party>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M000133</bioguideId>
+        <identifiers>
+          <lisID>735</lisID>
+          <gpoId>7972</gpoId>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <lastName>MARKEY</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <sponsorshipDate>2014-02-03</sponsorshipDate>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <firstName>Kirsten</firstName>
+        <party>D</party>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000555</bioguideId>
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <lastName>Gillibrand</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <sponsorshipDate>2014-02-24</sponsorshipDate>
+        <middleName>E.</middleName>
+      </item>
+      <item>
+        <firstName>SHERROD</firstName>
+        <party>D</party>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B000944</bioguideId>
+        <identifiers>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+          <bioguideId>B000944</bioguideId>
+        </identifiers>
+        <lastName>BROWN</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <sponsorshipDate>2014-02-26</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Jon</firstName>
+        <party>D</party>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000464</bioguideId>
+        <identifiers>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <lastName>Tester</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MT</state>
+        <sponsorshipDate>2014-02-26</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>LINDSEY</firstName>
+        <party>R</party>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000359</bioguideId>
+        <identifiers>
+          <bioguideId>G000359</bioguideId>
+          <gpoId>8335</gpoId>
+          <lisID>452</lisID>
+        </identifiers>
+        <lastName>GRAHAM</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>SC</state>
+        <sponsorshipDate>2014-03-06</sponsorshipDate>
+        <middleName>O.</middleName>
+      </item>
+      <item>
+        <firstName>Christopher</firstName>
+        <party>D</party>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001088</bioguideId>
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+        </identifiers>
+        <lastName>Coons</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>DE</state>
+        <sponsorshipDate>2014-03-06</sponsorshipDate>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <firstName>Elizabeth</firstName>
+        <party>D</party>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000817</bioguideId>
+        <identifiers>
+          <lisID>2182</lisID>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <lastName>Warren</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <sponsorshipDate>2014-04-03</sponsorshipDate>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <firstName>MARIA</firstName>
+        <party>D</party>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C000127</bioguideId>
+        <identifiers>
+          <lisID>172</lisID>
+          <bioguideId>C000127</bioguideId>
+          <gpoId>8288</gpoId>
+        </identifiers>
+        <lastName>CANTWELL</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>WA</state>
+        <sponsorshipDate>2014-04-08</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Mark</firstName>
+        <party>D</party>
+        <fullName>Sen. Pryor, Mark L. [D-AR]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000590</bioguideId>
+        <identifiers>
+          <lisID>1701</lisID>
+          <bioguideId>P000590</bioguideId>
+          <gpoId>8241</gpoId>
+        </identifiers>
+        <lastName>Pryor</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>AR</state>
+        <sponsorshipDate>2014-04-30</sponsorshipDate>
+        <middleName>Lunsford</middleName>
+      </item>
+      <item>
+        <firstName>Cory</firstName>
+        <party>D</party>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001288</bioguideId>
+        <identifiers>
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Booker</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <sponsorshipDate>2014-06-18</sponsorshipDate>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <firstName>Al</firstName>
+        <party>D</party>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>F000457</bioguideId>
+        <identifiers>
+          <lisID>1969</lisID>
+          <gpoId>8339</gpoId>
+          <bioguideId>F000457</bioguideId>
+        </identifiers>
+        <lastName>Franken</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <sponsorshipDate>2014-07-21</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>THOMAS</firstName>
+        <party>D</party>
+        <fullName>Sen. Harkin, Tom [D-IA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H000206</bioguideId>
+        <identifiers>
+          <bioguideId>H000206</bioguideId>
+          <lisID>501</lisID>
+          <gpoId>8317</gpoId>
+        </identifiers>
+        <lastName>HARKIN</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>IA</state>
+        <sponsorshipDate>2014-07-22</sponsorshipDate>
+        <middleName>RICHARD</middleName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Paul D. Wellstone Muscular Dystrophy Community Assistance, Research and Education Amendments of 2014</title>
+    <titles>
+      <item>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+        <title>Paul D. Wellstone Muscular Dystrophy Community Assistance, Research and Education Amendments of 2014</title>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Paul D. Wellstone Muscular Dystrophy Community Assistance, Research and Education (MD-CARE) Amendments of 2013</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to reauthorize and extend the Paul D. Wellstone Muscular Dystrophy Community Assistance, Research, and Education Amendments of 2008.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Paul D. Wellstone Muscular Dystrophy Community Assistance, Research and Education Amendments of 2014</title>
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Paul D. Wellstone Muscular Dystrophy Community Assistance, Research and Education (MD-CARE) Amendments of 2013 - Amends the Public Health Service Act to revise the muscular dystrophy research program of the National Institutes of Health (NIH).</p> <p>Multiplies the forms of muscular dystrophy included within the program. Requires the research conducted through Paul D. Wellstone Muscular Dystrophy Cooperative Research Centers to include cardiac and pulmonary function research. Requires the Director of NIH to ensure the sharing of data between such centers.</p> <p>Revises the composition of the Muscular Dystrophy Coordinating Committee (MDCC) to include the Social Security Administration and the United States Administration for Community Living.</p> <p>Requires the MDCC to meet at least two times per year. Requires the MDCC Action Plan to provide for: (1) health economic studies to demonstrate the cost-effectiveness of providing independent living resources and support to patients with various forms of muscular dystrophy, (2) studies to determine optimal clinical care interventions for adults with various forms of muscular dystrophy, and (3) the development of clinical interventions to improve the health of adults with various forms of muscular dystrophy.</p> <p>Requires the MDCC to develop a plan to expedite the evaluation and approval of emerging therapies and personalized medicines that have the potential to decrease fatal disease progression across the various forms of muscular dystrophy.</p> <p>Requires the Secretary of Health and Human Services (HHS), in carrying out epidemiological activities regarding Duchenne and other forms of muscular dystrophies, to ensure that data from different racial and ethnic populations is captured and made publicly available to investigators conducting public or private research on muscular dystrophy. Directs the Secretary to foster ongoing engagement and collaboration between the surveillance program and the research centers.</p> <p>Amends the Muscular Dystrophy Community Assistance, Research, and Education Amendments of 2001 to authorize the Secretary to: (1) update and disseminate widely existing Duchenne-Becker muscular dystrophy care considerations for pediatric patients, and (2) develop and disseminate widely Duchenne-Becker muscular dystrophy considerations for adult patients and acute care considerations for all muscular dystrophy populations. Directs that such care considerations should build upon existing efforts currently underway for specified forms of muscular dystrophy and incorporate strategies specifically responding to the findings of the national transitions survey of minority, young adult, and adult communities of muscular dystrophy patients.</p>]]></text>
+          <actionDate>2013-02-13</actionDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2013-02-13T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-04-08T19:07:29Z</lastSummaryUpdateDate>
+        </item>
+        <item>
+          <actionDesc>Reported to Senate amended</actionDesc>
+          <versionCode>01</versionCode>
+          <text><![CDATA[<p>Paul D. Wellstone Muscular Dystrophy Community Assistance, Research and Education Amendments of 2014 - (Sec. 2) Amends the Public Health Service Act to revise the muscular dystrophy research program of the National Institutes of Health (NIH).</p> <p>Expands the range of forms of muscular dystrophy included within the program. Requires the research conducted through Paul D. Wellstone Muscular Dystrophy Cooperative Research Centers to include cardiac and pulmonary function research. Requires the Director of NIH to ensure the sharing of data between such centers.</p> <p>Revises the composition of the Muscular Dystrophy Coordinating Committee (MDCC) to include the Social Security Administration and the United States Administration for Community Living.</p> <p>Requires the MDCC to meet at least two times per year. Requires the MDCC Action Plan to provide for: (1) health economic studies to demonstrate the cost-effectiveness of providing independent living resources and support to patients with various forms of muscular dystrophy, (2) studies to determine optimal clinical care interventions for adults with various forms of muscular dystrophy, and (3) the development of clinical interventions to improve the health of adults with various forms of muscular dystrophy.</p> <p>(Sec. 3) Requires the Secretary of Health and Human Services (HHS), in carrying out epidemiological activities regarding Duchenne and other forms of muscular dystrophy, to ensure that data are representative of all affected populations and shared in a timely manner.</p> (Sec. 4) Amends the Muscular Dystrophy Community Assistance, Research, and Education Amendments of 2001 to authorize the Secretary to cooperate with professional organizations and the patient community in the development and issuance of care considerations, including acute care considerations, for pediatric and adult muscular dystrophy patients. Authorizes the Secretary, in developing and updating care considerations, to incorporate strategies specifically responding to the findings of the national transitions survey of minority, young adult, and adult communities of muscular dystrophy patients.]]></text>
+          <actionDate>2014-07-23</actionDate>
+          <name>Reported to Senate amended</name>
+          <updateDate>2014-07-23T14:20:09Z</updateDate>
+          <lastSummaryUpdateDate>2014-09-23T16:08:29Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes>
+      <item>
+        <links>
+          <link>
+            <name>H.R.594</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/594</url>
+          </link>
+        </links>
+        <text><![CDATA[For further action, see H.R.594, which became Public Law 113-166 on 9/26/2014.]]></text>
+      </item>
+    </notes>
+    <cboCostEstimates>
+      <item>
+        <title>S. 315, Paul D. Wellstone Muscular Dystrophy Community Assistance, Research, and Education Amendments of 2014</title>
+        <url>http://www.cbo.gov/publication/45588</url>
+        <pubDate>2014-07-25T21:36:34Z</pubDate>
+      </item>
+      <item>
+        <title>S. 315, Paul D. Wellstone Muscular Dystrophy Community Assistance, Research, and Education Amendments of 2014</title>
+        <url>https://www.cbo.gov/publication/45588</url>
+        <pubDate>2014-07-25T21:36:34Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <latestTitle>Paul D. Wellstone Muscular Dystrophy Community Assistance, Research and Education Amendments of 2014</latestTitle>
+        <number>594</number>
+        <latestAction>
+          <text>Became Public Law No: 113-166.</text>
+          <actionDate>2014-09-26</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Cardiovascular and respiratory health</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Drug safety, medical device, and laboratory regulation</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Medical education</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Minority health</name>
+          </item>
+          <item>
+            <name>Musculoskeletal and skin diseases</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 478.</text>
+      <actionDate>2014-07-23</actionDate>
+    </latestAction>
+    <billNumber>315</billNumber>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Amy</firstName>
+        <party>D</party>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <bioguideId>K000367</bioguideId>
+        <identifiers>
+          <gpoId>8249</gpoId>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <lastName>Klobuchar</lastName>
+        <middleName />
+        <state>MN</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers>
+      <item>
+        <number>0478</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

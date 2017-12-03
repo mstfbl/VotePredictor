@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-05-14</actionDate>
+        <committee>
+          <name>Armed Services Committee</name>
+          <systemCode>ssas00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2014-05-14</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2014-05-14</introducedDate>
+    <updateDate>2016-10-25T16:30:07Z</updateDate>
+    <createDate>2014-05-15T07:18:38Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssas00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Armed Services Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-05-14T17:36:09Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>B000575</bioguideId>
+        <state>MO</state>
+        <sponsorshipDate>2014-05-14</sponsorshipDate>
+        <middleName />
+        <firstName>Roy</firstName>
+        <party>R</party>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <lastName>Blunt</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000555</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2014-05-14</sponsorshipDate>
+        <middleName>E.</middleName>
+        <firstName>Kirsten</firstName>
+        <party>D</party>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <lastName>Gillibrand</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1866</lisID>
+          <bioguideId>G000555</bioguideId>
+          <gpoId>8336</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <state>FL</state>
+        <sponsorshipDate>2014-05-14</sponsorshipDate>
+        <middleName />
+        <firstName>Marco</firstName>
+        <party>R</party>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <lastName>Rubio</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <state>MN</state>
+        <sponsorshipDate>2014-05-20</sponsorshipDate>
+        <middleName />
+        <firstName>Amy</firstName>
+        <party>D</party>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <lastName>Klobuchar</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S001194</bioguideId>
+        <state>HI</state>
+        <sponsorshipDate>2014-06-19</sponsorshipDate>
+        <middleName />
+        <firstName>Brian</firstName>
+        <party>D</party>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <lastName>Schatz</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2173</lisID>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M001169</bioguideId>
+        <state>CT</state>
+        <sponsorshipDate>2014-07-30</sponsorshipDate>
+        <middleName />
+        <firstName>Christopher</firstName>
+        <party>D</party>
+        <fullName>Sen. Murphy, Christopher S. [D-CT]</fullName>
+        <lastName>Murphy</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001169</bioguideId>
+          <lisID>1837</lisID>
+          <gpoId>7870</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001265</bioguideId>
+        <state>AK</state>
+        <sponsorshipDate>2014-07-31</sponsorshipDate>
+        <middleName />
+        <firstName>Mark</firstName>
+        <party>D</party>
+        <fullName>Sen. Begich, Mark [D-AK]</fullName>
+        <lastName>Begich</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1898</lisID>
+          <gpoId>8301</gpoId>
+          <bioguideId>B001265</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Caring for Military Children with Developmental Disabilities Act of 2014</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Caring for Military Children with Developmental Disabilities Act of 2014</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title 10, United States Code, to provide for certain behavioral health treatment under TRICARE for children and adults with developmental disabilities.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Caring for Military Children with Developmental Disabilities Act of 2014</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Caring for Military Children with Developmental Disabilities Act of 2014 - Includes in the treatment of military dependents' developmental disabilities under the Department of Defense (DOD) TRICARE program behavioral health treatment, including applied behavior analysis, that is prescribed by a physician or psychologist.</p> <p>Allows such behavioral health treatment to be provided only to the extent that amounts are appropriated in advance for such treatment to a Defense Dependents Developmental Disabilities Account.</p> <p>Establishes in the Treasury the Defense Dependents Developmental Disabilities Account, which is to be separate from the DOD's Defense Health Program Account.</p> <p>Authorizes appropriations for, and transfers funds to, the Defense Dependents Developmental Disabilities Account.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2014-05-14</actionDate>
+          <updateDate>2014-05-14T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-07-08T20:09:13Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestTitle>Caring for Military Children with Developmental Disabilities Act of 2014</latestTitle>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+          <actionDate>2014-06-20</actionDate>
+        </latestAction>
+        <number>4630</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Defense spending</name>
+          </item>
+          <item>
+            <name>Department of Defense</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Hereditary and development disorders</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Military medicine</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+      <actionDate>2014-05-14</actionDate>
+    </latestAction>
+    <billNumber>2333</billNumber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>PATTY</firstName>
+        <party>D</party>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <bioguideId>M001111</bioguideId>
+        <identifiers>
+          <lisID>1409</lisID>
+          <bioguideId>M001111</bioguideId>
+          <gpoId>8237</gpoId>
+        </identifiers>
+        <lastName>MURRAY</lastName>
+        <middleName />
+        <state>WA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

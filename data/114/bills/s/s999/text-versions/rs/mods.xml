@@ -1,0 +1,198 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18ca6c8b5">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Small Business Act to provide for improvements to small business development centers.;Small Business Development Centers Improvement Act of 2015;S. 999 (RS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-06-11</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Small Business Act to provide for improvements to small business development centers.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Small Business Development Centers Improvement Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 999 (RS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-06-10</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>16 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18ca6c8b5</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s999rs</identifier>
+<identifier type="preferred citation">S. 999</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s999_rs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s999rs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s999rs/html/BILLS-114s999rs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s999rs/pdf/BILLS-114s999rs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s999rs/xml/BILLS-114s999rs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-06-11</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-11</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s999rs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>David Vitter</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Small Business and Entrepreneurship</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 10101</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 10101</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 631et seq.</partNumber>
+  <partNumber>Title 15 Section 648</partNumber>
+  <partNumber>Title 15 Section 648(a)(3)(A)</partNumber>
+  <partNumber>Title 15 Section 648(a)(3)(C)</partNumber>
+  <partNumber>Title 15 Section 648(a)(4)(C)(v)</partNumber>
+  <partNumber>Title 15 Section 648(a)(4)(C)(v)(I)</partNumber>
+  <partNumber>Title 15 Section 648(a)(7)(A)</partNumber>
+  <partNumber>Title 15 Section 648(b)(3)</partNumber>
+  <partNumber>Title 15 Section 649bnote</partNumber>
+  <partNumber>Title 15 Section 657d</partNumber>
+  <partNumber>Title 15 Section 689g</partNumber>
+  <partNumber>Title 15 Section 6901et seq.</partNumber>
+  <partNumber>Title 15 Section 690h</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 631et seq.</identifier>
+ <identifier type="USC citation">15 U.S.C. 648</identifier>
+ <identifier type="USC citation">15 U.S.C. 648(a)(3)(A)</identifier>
+ <identifier type="USC citation">15 U.S.C. 648(a)(3)(C)</identifier>
+ <identifier type="USC citation">15 U.S.C. 648(a)(4)(C)(v)</identifier>
+ <identifier type="USC citation">15 U.S.C. 648(a)(4)(C)(v)(I)</identifier>
+ <identifier type="USC citation">15 U.S.C. 648(a)(7)(A)</identifier>
+ <identifier type="USC citation">15 U.S.C. 648(b)(3)</identifier>
+ <identifier type="USC citation">15 U.S.C. 649bnote</identifier>
+ <identifier type="USC citation">15 U.S.C. 657d</identifier>
+ <identifier type="USC citation">15 U.S.C. 689g</identifier>
+ <identifier type="USC citation">15 U.S.C. 6901et seq.</identifier>
+ <identifier type="USC citation">15 U.S.C. 690h</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 5170</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 5170</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 109</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s999rs</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>999</billNumber>
+ <billVersion reprint="false">rs</billVersion>
+ <fileSuffix>rs</fileSuffix>
+ <shortTitle type="measure">Small Business Development Centers Improvement Act of 2015</shortTitle>
+ <officialTitle>To amend the Small Business Act to provide for improvements to small business development centers.</officialTitle>
+ <action date="2015-04-16">Mr. Vitter introduced the following bill; which was read twice and referred to the Committee on Small Business and Entrepreneurship</action>
+ <action date="2015-06-10">Reported by Mr. Vitter, with an amendment</action>
+ <congCommittee authorityId="sssb00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Small Business and Entrepreneurship</name>
+                      <name type="authority-short">Small Business</name>
+                </congCommittee>
+ <congMember authorityId="1609" bioGuideId="V000127" chamber="S" congress="114" gpoId="8267" party="R" role="SPONSOR" state="LA">
+                      <name type="parsed">Mr. Vitter</name>
+                      <name type="authority-fnf">David Vitter</name>
+                      <name type="authority-lnf">Vitter, David</name>
+                </congMember>
+ <congCalendar congress="114" number="109" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="10">
+                      <section number="10101"></section>
+                </USCode>
+ <USCode title="15">
+                      <section detail="et seq." number="631"></section>
+                      <section number="648"></section>
+                      <section detail="(a)(3)(A)" number="648"></section>
+                      <section detail="(a)(3)(C)" number="648"></section>
+                      <section detail="(a)(4)(C)(v)" number="648"></section>
+                      <section detail="(a)(4)(C)(v)(I)" number="648"></section>
+                      <section detail="(a)(7)(A)" number="648"></section>
+                      <section detail="(b)(3)" number="648"></section>
+                      <section detail="note" number="649b"></section>
+                      <section number="657d"></section>
+                      <section number="689g"></section>
+                      <section detail="et seq." number="6901"></section>
+                      <section number="690h"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="5170"></section>
+                </USCode>
+</extension>
+</mods>

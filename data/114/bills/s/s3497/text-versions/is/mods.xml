@@ -1,0 +1,181 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee19300bd5f">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To provide the force and effect of law for certain regulations relating to the taking of double-crested cormorants to reduce depredation at aquaculture facilities and protect public resources.;Safeguard Aquaculture Farmers Act;S. 3497 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-12-08</dateIngested>
+</extension>
+<titleInfo>
+ <title>To provide the force and effect of law for certain regulations relating to the taking of double-crested cormorants to reduce depredation at aquaculture facilities and protect public resources.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Safeguard Aquaculture Farmers Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 3497 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-12-05</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>2 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee19300bd5f</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s3497is</identifier>
+<identifier type="preferred citation">S. 3497</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s3497_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s3497is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s3497is/html/BILLS-114s3497is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s3497is/pdf/BILLS-114s3497is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s3497is/xml/BILLS-114s3497is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-12-08</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-12-09</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s3497is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Tom Cotton</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Roger F. Wicker</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Boozman</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Thad Cochran</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Richard C. Shelby</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Environment and Public Works</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s3497is</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>3497</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle type="measure">Safeguard Aquaculture Farmers Act</shortTitle>
+ <officialTitle>To provide the force and effect of law for certain regulations relating to the taking of double-crested cormorants to reduce depredation at aquaculture facilities and protect public resources.</officialTitle>
+ <action date="2016-12-05">Mr. Cotton (for himself, Mr. Wicker, Mr. Boozman, Mr. Cochran, and Mr. Shelby) introduced the following bill; which was read twice and referred to the Committee on Environment and Public Works</action>
+ <congCommittee authorityId="ssev00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Environment and Public Works</name>
+                      <name type="authority-short">Environment and Public Works</name>
+                </congCommittee>
+ <congMember authorityId="2098" bioGuideId="C001095" chamber="S" congress="114" party="R" role="SPONSOR" state="AR">
+                      <name type="parsed">Mr. Cotton</name>
+                      <name type="authority-fnf">Tom Cotton</name>
+                      <name type="authority-lnf">Cotton, Tom</name>
+                </congMember>
+ <congMember authorityId="1226" bioGuideId="W000437" chamber="S" congress="114" gpoId="8263" party="R" role="COSPONSOR" state="MS">
+                      <name type="parsed">Mr. Wicker</name>
+                      <name type="authority-fnf">Roger F. Wicker</name>
+                      <name type="authority-lnf">Wicker, Roger F.</name>
+                      <name type="authority-other">Roger Wicker</name>
+                </congMember>
+ <congMember authorityId="1687" bioGuideId="B001236" chamber="S" congress="114" gpoId="8247" party="R" role="COSPONSOR" state="AR">
+                      <name type="parsed">Mr. Boozman</name>
+                      <name type="authority-fnf">John Boozman</name>
+                      <name type="authority-lnf">Boozman, John</name>
+                </congMember>
+ <congMember authorityId="213" bioGuideId="C000567" chamber="S" congress="114" gpoId="8292" party="R" role="COSPONSOR" state="MS">
+                      <name type="parsed">Mr. Cochran</name>
+                      <name type="authority-fnf">Thad Cochran</name>
+                      <name type="authority-lnf">Cochran, Thad</name>
+                </congMember>
+ <congMember authorityId="1049" bioGuideId="S000320" chamber="S" congress="114" gpoId="8277" party="R" role="COSPONSOR" state="AL">
+                      <name type="parsed">Mr. Shelby</name>
+                      <name type="authority-fnf">Richard C. Shelby</name>
+                      <name type="authority-lnf">Shelby, Richard C.</name>
+                      <name type="authority-other">Richard Craig Shelby</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

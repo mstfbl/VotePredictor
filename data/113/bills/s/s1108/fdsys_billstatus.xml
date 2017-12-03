@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2013-06-06</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000250</bioguideId>
+        <identifiers>
+          <lisID>1534</lisID>
+          <gpoId>8257</gpoId>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-06-06</sponsorshipDate>
+        <lastName>THUNE</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>SD</state>
+        <firstName>JOHN</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000555</bioguideId>
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-09-24</sponsorshipDate>
+        <lastName>Gillibrand</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>NY</state>
+        <firstName>Kirsten</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001111</bioguideId>
+        <identifiers>
+          <lisID>1409</lisID>
+          <gpoId>8237</gpoId>
+          <bioguideId>M001111</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-09-25</sponsorshipDate>
+        <lastName>MURRAY</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>WA</state>
+        <firstName>PATTY</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000127</bioguideId>
+        <identifiers>
+          <bioguideId>C000127</bioguideId>
+          <gpoId>8288</gpoId>
+          <lisID>172</lisID>
+        </identifiers>
+        <sponsorshipDate>2013-09-25</sponsorshipDate>
+        <lastName>CANTWELL</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>WA</state>
+        <firstName>MARIA</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Johnson, Tim [D-SD]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000177</bioguideId>
+        <identifiers>
+          <lisID>604</lisID>
+          <gpoId>8319</gpoId>
+          <bioguideId>J000177</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-12-18</sponsorshipDate>
+        <lastName>JOHNSON</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>SD</state>
+        <firstName>TIM</firstName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <links />
+      <actionDate>2013-06-06</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <number>2296</number>
+        <latestAction>
+          <actionDate>2013-07-08</actionDate>
+          <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>Local Taxpayer Relief Act</latestTitle>
+      </item>
+      <item>
+        <number>2378</number>
+        <latestAction>
+          <actionDate>2013-07-08</actionDate>
+          <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>Impact Aid Fairness and Equity Act of 2013</latestTitle>
+      </item>
+    </relatedBills>
+    <updateDate>2016-10-25T16:25:04Z</updateDate>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-06-06</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-06-06</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Local Taxpayer Relief Act - Amends the Elementary and Secondary Education Act of 1965 (ESEA) to make permanent amendments made to the Impact Aid program (which compensates local educational agencies [LEAs] for the financial burden of federal activities affecting their school districts) by the Impact Aid Improvement Act of 2012 that: </p> <ul> <li>require the valuation of the federal property located within the boundaries of an LEA by calculating the valuation, for property tax purposes, of all property within the LEA's boundaries and then multiplying that value by the proportion of that property that is federal property; </li> <li>alter the formula for determining the foundation payments due LEAs for federal ownership of property when appropriations for a fiscal year are insufficient to provide them with full compensation; </li> <li> alter the formula for determining the payments due LEAs for eligible federally-connected children who are displaced from federal property or Indian lands due to housing renovation or rebuilding; and </li> <li> direct the Secretary of Education to complete Impact Aid payments to eligible LEAs within three fiscal years of their appropriation. </li></ul> <p>(Such amendments are currently set to expire on January 2, 2015.)</p> <p>Alters the formula for determining the payments due LEAs for eligible federally-connected children. </p> <p>Includes not only children in average daily attendance, but also those enrolled pursuant to a state open enrollment policy. </p> <p>Continues an LEA's eligibility for such payments while activities associated with military base closures and realignments or force structure changes or relocations are ongoing. </p> <p>Allows the calculation of such payments using current student counts instead of prior fiscal year data when LEAs experience a specified influx of new federally-connected students due to federal activities or the closure of an LEA that was receiving Impact Aid due to federally-connected children.</p> <p>Requires the Secretary to allow LEAs to count their federally-connected children using the date they register their students for the fiscal year for which their application is filed. </p> <p>Alters the formula for determining the construction payments due LEAs that are eligible for other Impact Aid payments. </p> <p>Divides 80% of the construction funds evenly between LEAs impacted by military dependent children and LEAs impacted by children residing on Indian lands, with the remainder reserved for emergency repair and modernization grants to LEAs serving Indian lands or experiencing a specified influx of new students due to federal activities.</p> <p>Alters the formula for determining whether a state's plan for equalizing assistance to its LEAs will except it from the prohibition on state aid to LEAs being affected by Impact Aid payments.</p> <p>Requires new LEAs applying for Impact Aid to have boundaries established by state law and the authority to tax or receive an imputed local tax.</p> <p>Reauthorizes appropriations for the Impact Aid program through FY2017. </p>]]></text>
+          <updateDate>2013-06-06T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2013-06-28T21:10:37Z</lastSummaryUpdateDate>
+          <actionDate>2013-06-06</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Military facilities and property</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Minority education</name>
+          </item>
+          <item>
+            <name>Property tax</name>
+          </item>
+          <item>
+            <name>Residential rehabilitation and home repair</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+          <item>
+            <name>State and local taxation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Local Taxpayer Relief Act</title>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <lastName>Hirono</lastName>
+        <bioguideId>H001042</bioguideId>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <identifiers>
+          <lisID>1844</lisID>
+          <gpoId>7913</gpoId>
+          <bioguideId>H001042</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Mazie</firstName>
+        <middleName>K.</middleName>
+        <state>HI</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2013-06-07T07:01:19Z</createDate>
+    <billNumber>1108</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <type>Standing</type>
+          <systemCode>sshr00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-06-06T16:38:25Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Local Taxpayer Relief Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to reauthorize the impact aid program under the Elementary and Secondary Education Act of 1965.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Local Taxpayer Relief Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

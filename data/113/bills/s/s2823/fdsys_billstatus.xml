@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2014-09-17T04:56:54Z</createDate>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <state>IN</state>
+        <bioguideId>D000607</bioguideId>
+        <sponsorshipDate>2014-09-16</sponsorshipDate>
+        <identifiers>
+          <lisID>1850</lisID>
+          <gpoId>7941</gpoId>
+          <bioguideId>D000607</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <firstName>Joe</firstName>
+        <lastName>Donnelly</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>AK</state>
+        <bioguideId>M001153</bioguideId>
+        <sponsorshipDate>2014-09-16</sponsorshipDate>
+        <identifiers>
+          <gpoId>8234</gpoId>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <firstName>Lisa</firstName>
+        <lastName>Murkowski</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>WV</state>
+        <bioguideId>M001183</bioguideId>
+        <sponsorshipDate>2014-09-16</sponsorshipDate>
+        <identifiers>
+          <lisID>1983</lisID>
+          <gpoId>8256</gpoId>
+          <bioguideId>M001183</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <firstName>Joe</firstName>
+        <lastName>Manchin</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <title>North American Energy Infrastructure Act</title>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-09-16</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S5632-5634</url>
+            <name>S5632-5634</name>
+          </link>
+        </links>
+        <type>IntroReferral</type>
+        <actionCode>B00100</actionCode>
+        <text>Sponsor introductory remarks on measure. (CR S5632-5634)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2014-09-16</actionDate>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2014-09-16</actionDate>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <committeeReports />
+    <updateDate>2016-10-25T16:32:18Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Alaska</name>
+          </item>
+          <item>
+            <name>Arizona</name>
+          </item>
+          <item>
+            <name>California</name>
+          </item>
+          <item>
+            <name>Canada</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Commerce</name>
+          </item>
+          <item>
+            <name>Department of Energy</name>
+          </item>
+          <item>
+            <name>Electric power generation and transmission</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Federal Energy Regulatory Commission (FERC)</name>
+          </item>
+          <item>
+            <name>Idaho</name>
+          </item>
+          <item>
+            <name>Latin America</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Maine</name>
+          </item>
+          <item>
+            <name>Mexico</name>
+          </item>
+          <item>
+            <name>Michigan</name>
+          </item>
+          <item>
+            <name>Minnesota</name>
+          </item>
+          <item>
+            <name>Montana</name>
+          </item>
+          <item>
+            <name>New Hampshire</name>
+          </item>
+          <item>
+            <name>New Mexico</name>
+          </item>
+          <item>
+            <name>New York State</name>
+          </item>
+          <item>
+            <name>North Dakota</name>
+          </item>
+          <item>
+            <name>Ohio</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+          <item>
+            <name>Pennsylvania</name>
+          </item>
+          <item>
+            <name>Pipelines</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>Texas</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+          <item>
+            <name>Vermont</name>
+          </item>
+          <item>
+            <name>Washington State</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2014-09-16</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>H001061</bioguideId>
+        <state>ND</state>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <firstName>John</firstName>
+        <party>R</party>
+        <lastName>Hoeven</lastName>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <lisID>2079</lisID>
+          <bioguideId>H001061</bioguideId>
+          <gpoId>8331</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2014-11-17</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 601.</text>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>American Energy Solutions for Lower Costs and More American Jobs Act</latestTitle>
+        <number>2</number>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2014-06-26</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 442.</text>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>North American Energy Infrastructure Act</latestTitle>
+        <number>3301</number>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2014-04-16</actionDate>
+          <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>American Energy Renaissance Act of 2014</latestTitle>
+        <number>4286</number>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2014-09-15</actionDate>
+          <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>American Renaissance in Manufacturing Act</latestTitle>
+        <number>5360</number>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2014-03-27</actionDate>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        </latestAction>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>American Energy Renaissance Act of 2014</latestTitle>
+        <number>2170</number>
+      </item>
+    </relatedBills>
+    <laws />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-09-16T21:13:22Z</date>
+            </item>
+          </activities>
+          <name>Energy and Natural Resources Committee</name>
+          <type>Standing</type>
+          <systemCode>sseg00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2014-09-16T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>North American Energy Infrastructure Act - Prohibits any person from constructing, connecting, operating, or maintaining a cross-border segment of an oil or natural gas pipeline or electric transmission facility at the national boundary of the United States for the import or export of oil, natural gas, or electricity to or from Canada or Mexico without obtaining a certificate of crossing under this Act. </p> <p>Requires the Secretary of State, with respect to oil pipelines, or the Secretary of Energy (DOE), with respect to electric transmission facilities, to issue a certificate of crossing for the cross-border segment within 120 days after final action is taken under the National Environmental Policy Act of 1969, unless it is not in U.S. public interest.</p> <p>Directs DOE, as a condition of issuing a certificate, to require that the cross-border segment be constructed, connected, operated, or maintained consistent with specified policies and standards.</p>  <p>Amends the Natural Gas Act to require the Federal Energy Regulatory Commission (FERC) to approve within 30 days after receipt any application for the importation or exportation of natural gas to or from Canada or Mexico.</p> <p> Declares that no presidential permit shall be necessary for the construction, connection, operation, or maintenance of an oil or natural gas pipeline or electric transmission facility, including any cross-border segment.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2014-09-16</actionDate>
+          <lastSummaryUpdateDate>2014-10-30T17:05:38Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <introducedDate>2014-09-16</introducedDate>
+    <billType>S</billType>
+    <congress>113</congress>
+    <billNumber>2823</billNumber>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>North American Energy Infrastructure Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to require approval for the construction, connection, operation, or maintenance of oil or natural gas pipelines or electric transmission facilities at the national boundary of the United States for the import or export of oil, natural gas, or electricity to or from Canada or Mexico, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>North American Energy Infrastructure Act</title>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

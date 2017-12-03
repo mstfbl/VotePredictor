@@ -1,0 +1,170 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1904a72cf">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>Recognizing the 100th anniversary of the establishment of Hawaii Volcanoes National Park and Haleakala National Park in the State of Hawaii, and designating August 1, 2016, as Hawaii Volcanoes and Haleakala National Parks Day.;
+   		S. Res. 541 (ATS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-07-15</dateIngested>
+</extension>
+<titleInfo>
+ <title>Recognizing the 100th anniversary of the establishment of Hawaii Volcanoes National Park and Haleakala National Park in the State of Hawaii, and designating August 1, 2016, as Hawaii Volcanoes and Haleakala National Parks Day.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. Res. 541 (ATS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-07-14</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>5 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/2:</classification>
+<identifier type="local">P0b002ee1904a72cf</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114sres541ats</identifier>
+<identifier type="preferred citation">S. Res. 541</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325577</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate resolutions</identifier>
+<identifier type="former package identifier">f:sr541_ats.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114sres541ats/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres541ats/html/BILLS-114sres541ats.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres541ats/pdf/BILLS-114sres541ats.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres541ats/xml/BILLS-114sres541ats.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-07-15</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-07-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114sres541ats</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mazie K. Hirono</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Brian Schatz</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 1132note</partNumber>
+  <partNumber>Title 16 Section 391d</partNumber>
+  <partNumber>Title 16 Section 391</partNumber>
+  <partNumber>Title 16 Section 396b</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 1132note</identifier>
+ <identifier type="USC citation">16 U.S.C. 391d</identifier>
+ <identifier type="USC citation">16 U.S.C. 391</identifier>
+ <identifier type="USC citation">16 U.S.C. 396b</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 86-744</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 86-744</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 87-278</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 87-278</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 94-567</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 94-567</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 95-625</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 95-625</identifier>
+</relatedItem>
+<extension>
+ <docClass>sres</docClass>
+ <accessId>BILLS-114sres541ats</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>541</billNumber>
+ <billVersion reprint="false">ats</billVersion>
+ <fileSuffix>ats</fileSuffix>
+ <action date="2016-07-14">Ms. Hirono (for herself and Mr. Schatz) submitted the following resolution; which was considered and agreed to</action>
+ <congMember authorityId="1844" bioGuideId="H001042" chamber="S" congress="114" gpoId="7913" party="D" role="SPONSOR" state="HI">
+                      <name type="parsed">Ms. Hirono</name>
+                      <name type="authority-fnf">Mazie K. Hirono</name>
+                      <name type="authority-lnf">Hirono, Mazie K.</name>
+                      <name type="authority-other">Ms. Mazie Hirono</name>
+                </congMember>
+ <congMember authorityId="2173" bioGuideId="S001194" chamber="S" congress="114" party="D" role="COSPONSOR" state="HI">
+                      <name type="parsed">Mr. Schatz</name>
+                      <name type="authority-fnf">Brian Schatz</name>
+                      <name type="authority-lnf">Schatz, Brian</name>
+                </congMember>
+ <law congress="86" isPrivate="false" number="744"></law>
+ <law congress="87" isPrivate="false" number="278"></law>
+ <law congress="94" isPrivate="false" number="567"></law>
+ <law congress="95" isPrivate="false" number="625"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="16">
+                      <section detail="note" number="1132"></section>
+                      <section number="391d"></section>
+                      <section number="391"></section>
+                      <section number="396b"></section>
+                </USCode>
+</extension>
+</mods>

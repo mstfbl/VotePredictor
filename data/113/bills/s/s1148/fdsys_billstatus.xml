@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>Veterans Benefits Claims Faster Filing Act</title>
+    <createDate>2013-06-13T07:01:20Z</createDate>
+    <billNumber>1148</billNumber>
+    <billType>S</billType>
+    <sponsors>
+      <item>
+        <bioguideId>H001046</bioguideId>
+        <middleName />
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <firstName>Martin</firstName>
+        <byRequestType />
+        <identifiers>
+          <lisID>1937</lisID>
+          <bioguideId>H001046</bioguideId>
+          <gpoId>8056</gpoId>
+        </identifiers>
+        <lastName>Heinrich</lastName>
+        <party>D</party>
+        <state>NM</state>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <state>NV</state>
+        <bioguideId>H001041</bioguideId>
+        <sponsorshipDate>2013-06-12</sponsorshipDate>
+        <identifiers>
+          <bioguideId>H001041</bioguideId>
+          <gpoId>8060</gpoId>
+          <lisID>1863</lisID>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <firstName>Dean</firstName>
+        <lastName>Heller</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>AR</state>
+        <bioguideId>P000590</bioguideId>
+        <sponsorshipDate>2013-06-27</sponsorshipDate>
+        <identifiers>
+          <gpoId>8241</gpoId>
+          <lisID>1701</lisID>
+          <bioguideId>P000590</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Pryor, Mark L. [D-AR]</fullName>
+        <firstName>Mark</firstName>
+        <lastName>Pryor</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>Lunsford</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <latestTitle>To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to provide notice of average times for processing claims and percentage of claims approved, and for other purposes.</latestTitle>
+        <number>1809</number>
+        <latestAction>
+          <text>Subcommittee Hearings Held.</text>
+          <actionDate>2013-06-28</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <congress>113</congress>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Veterans Benefits Claims Faster Filing Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title 38, United States Code, to direct the Secretary of Veterans Affairs to provide notice of average times for processing claims, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Veterans Benefits Claims Faster Filing Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <introducedDate>2013-06-12</introducedDate>
+    <latestAction>
+      <text>Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 113-280.</text>
+      <actionDate>2013-10-30</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <amendments />
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Disability assistance</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Veterans' pensions and compensation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <notes />
+    <actions>
+      <item>
+        <actionDate>2013-10-30</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 113-280.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-06-12</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2013-06-12</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Veterans Benefits Claims Faster Filing Act - Directs the Secretary of Veterans Affairs (VA) to post in a conspicuous place in each VA regional office and claims intake facility and on the VA website information on: (1) the average processing time for fully developed and not fully developed VA benefits claims submitted in specified forms, and (2) the percentage of such claims filed by specified methods for which benefits are awarded.</p> <p>Requires the Secretary to notify each person submitting a claim for a VA benefit of such information and of the person's eligibility to receive up to an extra year of benefit payments if the person files a claim that is fully developed.</p> <p>Requires the notice information to be updated at least quarterly.</p>]]></text>
+          <lastSummaryUpdateDate>2013-09-25T21:22:59Z</lastSummaryUpdateDate>
+          <updateDate>2013-06-12T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2013-06-12</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2016-10-25T16:25:13Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-10-30T18:00:00Z</date>
+              <name>Hearings by</name>
+            </item>
+            <item>
+              <date>2013-06-12T20:33:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Veterans' Affairs Committee</name>
+          <subcommittees />
+          <systemCode>ssva00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

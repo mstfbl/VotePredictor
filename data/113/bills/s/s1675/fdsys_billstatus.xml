@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-12-09</actionDate>
+        <committee>
+          <systemCode>ssju21</systemCode>
+          <name>Constitution, Civil Rights and Human Rights Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on the Judiciary Subcommittee on the Constitution, Civil Rights and Human Rights. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-03-11</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 321.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2014-03-11</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>14000</actionCode>
+        <type>Committee</type>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2014-03-11</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.</text>
+      </item>
+      <item>
+        <actionDate>2014-03-06</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-11-07</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2013-11-07</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>7</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+        <hearingsHeld>1</hearingsHeld>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-11-07</introducedDate>
+    <updateDate>2016-10-25T16:27:30Z</updateDate>
+    <createDate>2013-11-08T07:01:06Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <name>Constitution, Civil Rights and Human Rights Subcommittee</name>
+              <systemCode>ssju21</systemCode>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2014-12-09T23:45:46Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2014-03-11T18:58:18Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2014-03-06T15:00:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2013-11-07T22:33:48Z</date>
+            </item>
+          </activities>
+          <systemCode>ssju00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000449</bioguideId>
+        <identifiers>
+          <lisID>924</lisID>
+          <gpoId>8266</gpoId>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-11-13</sponsorshipDate>
+        <lastName>PORTMAN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>OH</state>
+        <firstName>ROB</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001056</bioguideId>
+        <identifiers>
+          <gpoId>8295</gpoId>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <lastName>Cornyn</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>TX</state>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000148</bioguideId>
+        <identifiers>
+          <lisID>1036</lisID>
+          <gpoId>8279</gpoId>
+          <bioguideId>S000148</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <lastName>SCHUMER</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>NY</state>
+        <firstName>CHARLES</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000577</bioguideId>
+        <identifiers>
+          <lisID>2080</lisID>
+          <gpoId>8303</gpoId>
+          <bioguideId>L000577</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <lastName>Lee</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>UT</state>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001277</bioguideId>
+        <identifiers>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <lastName>Blumenthal</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>CT</state>
+        <firstName>Richard</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <middleName>GRANT</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H000338</bioguideId>
+        <identifiers>
+          <gpoId>8314</gpoId>
+          <lisID>1351</lisID>
+          <bioguideId>H000338</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <lastName>HATCH</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>UT</state>
+        <firstName>ORRIN</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000595</bioguideId>
+        <identifiers>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-05-14</sponsorshipDate>
+        <lastName>Rubio</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>FL</state>
+        <firstName>Marco</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000603</bioguideId>
+        <identifiers>
+          <lisID>2082</lisID>
+          <gpoId>8308</gpoId>
+          <bioguideId>P000603</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-07-10</sponsorshipDate>
+        <lastName>Paul</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>KY</state>
+        <firstName>Rand</firstName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Recidivism Reduction and Public Safety Act of 2014</title>
+    <titles>
+      <item>
+        <title>Recidivism Reduction and Public Safety Act of 2014</title>
+        <chamberName>Senate</chamberName>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <title>Recidivism Reduction and Public Safety Act of 2013</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A bill to reduce recidivism and increase public safety, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Recidivism Reduction and Public Safety Act of 2014</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2014-01-02T19:33:57Z</lastSummaryUpdateDate>
+          <actionDate>2013-11-07</actionDate>
+          <text><![CDATA[<p>Recidivism Reduction and Public Safety Act of 2013 - Amends the federal criminal code to direct the Bureau of Prisons to offer evidence-based recidivism reduction programs to prisoners who have been assessed to need to participate in such programs. Permits a reduction in the period a prisoner remains in custody after successfully participating in such a program, at the Bureau's discretion, by no more than 60 days per year of participation. Prohibits the combined credit awarded for successful completion of such a program and a program of residential substance abuse treatment from exceeding 15% of the prisoner's total sentence. </p> <p>Directs the Attorney General to develop, and the Bureau to use, a methodology and procedures to assess the recidivism risk factors of all prisoners committed to the Bureau's custody for a term of imprisonment other than life imprisonment and to identify programming to reduce the risk factors. Requires United States Probation and Pretrial Services (USPPS) to report annually on rates of recidivism among individuals who have been released from federal prison and who are under USPPS supervision.</p> <p>Requires: (1) the Administrative Office of the Courts to evaluate best practices used for the reentry into society of individuals released from the custody of the Bureau, (2) the Attorney General to select an appropriate number of federal judicial districts to conduct federal reentry demonstration projects using such best practices, (3) such Office to evaluate the results from each district selected, and (4) the Attorney General to report on the impact of reentry of prisoners on communities in which a disproportionate number of individuals reside upon release from incarceration.</p>  <p>Requires a probation officer's pre-sentence report to include: (1) information about the defendant's history of substance abuse and addiction; and (2) a detailed plan to reduce the likelihood the defendant will abuse drugs or alcohol, to reduce the likelihood of recidivism by addressing the defendant's specific risk factors, and to assist the defendant preparing for reentry into the community.</p> <p>Requires the Bureau to ensure that each eligible prisoner has an opportunity to commence participation in a substance abuse treatment program by the date necessary to ensure that the prisoner completes such treatment not later than one year before the prisoner would otherwise be released from custody prior to any reduction in sentence for such participation.</p> <p>Directs USPPS to establish a five-year recidivism reduction and recovery enhancement pilot program in selected federal judicial districts.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2013-11-07T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <name>Reported to Senate amended</name>
+          <actionDesc>Reported to Senate amended</actionDesc>
+          <lastSummaryUpdateDate>2014-06-11T20:41:51Z</lastSummaryUpdateDate>
+          <actionDate>2014-03-11</actionDate>
+          <text><![CDATA[<p>Recidivism Reduction and Public Safety Act of 2014 - (Sec. 2) Directs the Attorney General to: (1) conduct a review of recidivism reduction programming and productive activities, including prison jobs, offered in correctional institutions; (2) conduct a survey to identify products currently manufactured overseas that could be manufactured by prisoners without reducing job opportunities for other U.S. workers; and (3) submit to the House and Senate Committees on Appropriations and the Judiciary a strategic plan for the expansion of recidivism reduction programming and productive activities, including prison jobs, in Bureau of Prison facilities. </p> <p>Amends the federal criminal code to direct the Director of the Bureau of Prisons to make available appropriate recidivism reduction programming or productive activities, including prison jobs, to all eligible prisoners and to assign such prisoners to such activities using the Post-Sentencing Risk and Needs Assessment System developed by the Attorney General. Defines &quot;eligible prisoner&quot; to mean a prisoner serving a sentence of incarceration for conviction of a federal offense, but excludes a prisoner whom the Bureau of Prisons determines: (1) is medically unable to successfully complete recidivism reduction activities, (2) would present a security risk if permitted to participate in such activities, or (3) is serving a sentence of incarceration of less than one month. </p> <p>Directs the Attorney General to issue regulations requiring the official in charge of each correctional facility to enter into partnerships with nonprofit organizations, including faith-based and community-based organizations, educational organizations, and private entities, to make recidivism reduction programming and productive activities available to eligible prisoners. </p> <p>Grants eligibility to a prisoner who has successfully completed a recidivism reduction program or productive activity for time credits for each period of 30 days of successful completion of such a program or activity, except prisoners who have been convicted of certain federal crimes, including crimes involving terrorism, violence, or child exploitation. Sets forth criteria for determining whether a prisoner has successfully completed such a program or activity. </p> <p>(Sec. 3) Requires the Attorney General to develop the Post-Sentencing Risk and Needs Assessment System for use by the Bureau of Prisons to: (1) assess and determine the recidivism risk level of all prisoners and classify each prisoner as having a low, moderate, or high risk of recidivism, (2) ensure that low-risk prisoners are grouped together in housing and assignment decisions, and (3) provide information on best practices. Directs the Attorney General to: (1) develop training protocols and programs for Bureau of Prisons officials and employees responsible for administering the System, and (2) monitor and assess the use of the System and conduct periodic audits of its use at Bureau of Prisons facilities. </p> <p>(Sec. 4) Amends the federal criminal code to allow a prisoner: (1) a period of home confinement as part of a program of prerelease custody, not to exceed 10% of the prisoner's imposed sentence; (2) to enter into prerelease custody if such prisoner is classified as low or moderate risk; and (3) to serve a certain portion of his or her sentence on community supervision if such prisoner is classified as low risk, complies with all conditions of prerelease custody, remains current on financial obligations, and refrains from committing any federal, state, or local offense. </p> <p>Prohibits the Director of the Bureau of Prisons from transferring a prisoner to prerelease custody if the prisoner has been sentenced to a term of incarceration of more than three years unless the Director gives six-month's prior notice to the sentencing court of such transfer.</p> <p>(Sec. 5) Requires the Attorney General to report to specified congressional committees on: (1) activities and accomplishments of the Attorney General in carrying out this Act, an assessment of the status and use of the Post-Sentencing Risk and Needs Assessment System by the Bureau of Prisons, a summary and assessment of recidivism reduction programs operated by the Bureau of Prisons, and an assessment of budgetary saving resulting from this Act; (2) the status of prison work programs; (3) rates of recidivism; and (4) the effectiveness of recidivism reduction programs and activities offered to prisoners who are ineligible for time credits.</p> <p>(Sec. 6) Directs the Attorney General to: (1) evaluate best practices used for the reentry of federal prisoners released from custody and report to the House and Senate Judiciary Committees on such evaluation; (2) select an appropriate number of federal judicial districts to conduct federal reentry demonstration projects using such best practices, and (3) report on the impact of reentry of prisoners on communities in which a disproportionate number of individuals reside upon release from incarceration.</p> <p>Requires the Director of the Bureau of Prisons to: (1) notify the Secretary of Veterans Affairs (VA) if a prisoner's presentence report indicates that the prisoner has previously served in the U.S. Armed Forces, and (2) provide VA with reasonable access to such prisoner to facilitate reentry.</p> <p>(Sec. 7) Amends the federal criminal code to require a presentence report to include: (1) information about the defendant's history of substance abuse and addiction; (2) information about the defendant's service in the Armed Forces and veteran status; and (3) a detailed plan that the probation officer determines will reduce the likelihood that the defendant will abuse drugs or alcohol, will reduce the defendant's likelihood of recidivism by addressing the defendant's specific recidivism risk factors, and will assist the defendant in preparing for reentry into the community. </p> <p>Requires the Director of the Bureau of Prisons to ensure that each prisoner eligible for substance abuse treatment completes treatment not later than one year prior to such prisoner's release date. </p> <p>Requires the Administrative Office of the United States Courts to: (1) establish a five-year recidivism reduction and recovery enhancement pilot program, premised on high-intensity supervision and the use of sanctions for noncompliance with program rules; and (2) conduct an evaluation of the pilot program and report to Congress on the results of the evaluation. Sets forth requirements for participation in the pilot program. </p>]]></text>
+          <versionCode>01</versionCode>
+          <updateDate>2014-03-11T11:58:49Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Correctional facilities and imprisonment</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>U.S. Sentencing Commission</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Committee on the Judiciary Subcommittee on the Constitution, Civil Rights and Human Rights. Hearings held.</text>
+      <actionDate>2014-12-09</actionDate>
+    </latestAction>
+    <billNumber>1675</billNumber>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Sheldon</firstName>
+        <party>D</party>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <bioguideId>W000802</bioguideId>
+        <identifiers>
+          <gpoId>8264</gpoId>
+          <lisID>1823</lisID>
+          <bioguideId>W000802</bioguideId>
+        </identifiers>
+        <lastName>Whitehouse</lastName>
+        <middleName />
+        <state>RI</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers>
+      <item>
+        <number>0321</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

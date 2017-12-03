@@ -1,0 +1,345 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18c04cc1d">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To reauthorize the Federal Land Transaction Facilitation Act, and for other purposes.;Federal Land Transaction Facilitation Act Reauthorization of 2015;H.R. 1651 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-04-04</dateIngested>
+</extension>
+<titleInfo>
+ <title>To reauthorize the Federal Land Transaction Facilitation Act, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Federal Land Transaction Facilitation Act Reauthorization of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 1651 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-03-26</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>5 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18c04cc1d</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1651ih</identifier>
+<identifier type="preferred citation">H.R. 1651</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h1651_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1651ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1651ih/html/BILLS-114hr1651ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1651ih/pdf/BILLS-114hr1651ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1651ih/xml/BILLS-114hr1651ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-04-04</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-13</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr1651ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Dan Newhouse</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Cynthia M. Lummis</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dana Rohrabacher</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Paul A. Gosar</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Chris Stewart</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Raul M. Grijalva</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael K. Simpson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Suzan K. DelBene</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mike Coffman</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Raul R. Labrador</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Natural Resources</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 1132note</partNumber>
+  <partNumber>Title 16 Section 460wwwnote</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 1132note</identifier>
+ <identifier type="USC citation">16 U.S.C. 460wwwnote</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 43 Section 1712</partNumber>
+  <partNumber>Title 43 Section 2302(1)</partNumber>
+  <partNumber>Title 43 Section 2304</partNumber>
+  <partNumber>Title 43 Section 2305(c)(2)</partNumber>
+  <partNumber>Title 43 Section 2305(c)(3)</partNumber>
+  <partNumber>Title 43 Section 2305(f)</partNumber>
+  <partNumber>Title 43 Section 2306(b)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">43 U.S.C. 1712</identifier>
+ <identifier type="USC citation">43 U.S.C. 2302(1)</identifier>
+ <identifier type="USC citation">43 U.S.C. 2304</identifier>
+ <identifier type="USC citation">43 U.S.C. 2305(c)(2)</identifier>
+ <identifier type="USC citation">43 U.S.C. 2305(c)(3)</identifier>
+ <identifier type="USC citation">43 U.S.C. 2305(f)</identifier>
+ <identifier type="USC citation">43 U.S.C. 2306(b)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 118 Page 2403</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">118 Stat. 2403</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 120 Page 3028</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">120 Stat. 3028</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 123 Page 1108</partNumber>
+  <partNumber>Volume 123 Page 1121</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">123 Stat. 1108</identifier>
+ <identifier type="Statute citation">123 Stat. 1121</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 108-424</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 108-424</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 109-432</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 109-432</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-11</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-11</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr1651ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>1651</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Federal Land Transaction Facilitation Act Reauthorization of 2015</shortTitle>
+ <officialTitle>To reauthorize the Federal Land Transaction Facilitation Act, and for other purposes.</officialTitle>
+ <action date="2015-03-26">Mr. Newhouse (for himself, Mrs. Lummis, Mr. Rohrabacher, Mr. Gosar, Mr. Stewart, Mr. Grijalva, Mr. Simpson, Ms. DelBene, Mr. Coffman, Mr. Labrador, and Mr. Ben Ray Luján of New Mexico) introduced the following bill; which was referred to the Committee on Natural Resources</action>
+ <congCommittee authorityId="hsii00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Natural Resources</name>
+                      <name type="authority-short">Natural Resources</name>
+                </congCommittee>
+ <congMember authorityId="2275" bioGuideId="N000189" chamber="H" congress="114" party="R" role="SPONSOR" state="WA">
+                      <name type="parsed">Mr. Newhouse</name>
+                      <name type="authority-fnf">Dan Newhouse</name>
+                      <name type="authority-lnf">Newhouse, Dan</name>
+                </congMember>
+ <congMember authorityId="1960" bioGuideId="L000571" chamber="H" congress="114" gpoId="8225" party="R" role="COSPONSOR" state="WY">
+                      <name type="parsed">Mrs. Lummis</name>
+                      <name type="authority-fnf">Cynthia M. Lummis</name>
+                      <name type="authority-lnf">Lummis, Cynthia M.</name>
+                      <name type="authority-other">Ms. Cynthia Lummis</name>
+                </congMember>
+ <congMember authorityId="979" bioGuideId="R000409" chamber="H" congress="114" gpoId="7851" party="R" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Rohrabacher</name>
+                      <name type="authority-fnf">Dana Rohrabacher</name>
+                      <name type="authority-lnf">Rohrabacher, Dana</name>
+                </congMember>
+ <congMember authorityId="1992" bioGuideId="G000565" chamber="H" congress="114" gpoId="7798" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Gosar</name>
+                      <name type="authority-fnf">Paul A. Gosar</name>
+                      <name type="authority-lnf">Gosar, Paul A.</name>
+                      <name type="authority-other">Mr. Paul Gosar</name>
+                </congMember>
+ <congMember authorityId="2168" bioGuideId="S001192" chamber="H" congress="114" party="R" role="COSPONSOR" state="UT">
+                      <name type="parsed">Mr. Stewart</name>
+                      <name type="authority-fnf">Chris Stewart</name>
+                      <name type="authority-lnf">Stewart, Chris</name>
+                </congMember>
+ <congMember authorityId="1708" bioGuideId="G000551" chamber="H" congress="114" gpoId="7804" party="D" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Grijalva</name>
+                      <name type="authority-fnf">Raul M. Grijalva</name>
+                      <name type="authority-lnf">Grijalva, Raul M.</name>
+                      <name type="authority-other">Mr. Raul Grijalva</name>
+                </congMember>
+ <congMember authorityId="1590" bioGuideId="S001148" chamber="H" congress="114" gpoId="7920" party="R" role="COSPONSOR" state="ID">
+                      <name type="parsed">Mr. Simpson</name>
+                      <name type="authority-fnf">Michael K. Simpson</name>
+                      <name type="authority-lnf">Simpson, Michael K.</name>
+                      <name type="authority-other">Michael Simpson</name>
+                </congMember>
+ <congMember authorityId="2096" bioGuideId="D000617" chamber="H" congress="114" gpoId="8374" party="D" role="COSPONSOR" state="WA">
+                      <name type="parsed">Ms. DelBene</name>
+                      <name type="authority-fnf">Suzan K. DelBene</name>
+                      <name type="authority-lnf">DelBene, Suzan K.</name>
+                      <name type="authority-other">Ms. Suzan Delbene</name>
+                </congMember>
+ <congMember authorityId="1912" bioGuideId="C001077" chamber="H" congress="114" gpoId="7864" party="R" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Coffman</name>
+                      <name type="authority-fnf">Mike Coffman</name>
+                      <name type="authority-lnf">Coffman, Mike</name>
+                </congMember>
+ <congMember authorityId="2011" bioGuideId="L000573" chamber="H" congress="114" gpoId="7919" party="R" role="COSPONSOR" state="ID">
+                      <name type="parsed">Mr. Labrador</name>
+                      <name type="authority-fnf">Raul R. Labrador</name>
+                      <name type="authority-lnf">Labrador, Raul R.</name>
+                      <name type="authority-other">Mr. Raul Labrador</name>
+                </congMember>
+ <law congress="108" isPrivate="false" number="424"></law>
+ <law congress="109" isPrivate="false" number="432"></law>
+ <law congress="111" isPrivate="false" number="11"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="16">
+                      <section detail="note" number="1132"></section>
+                      <section detail="note" number="460www"></section>
+                </USCode>
+ <USCode title="43">
+                      <section number="1712"></section>
+                      <section detail="(1)" number="2302"></section>
+                      <section number="2304"></section>
+                      <section detail="(c)(2)" number="2305"></section>
+                      <section detail="(c)(3)" number="2305"></section>
+                      <section detail="(f)" number="2305"></section>
+                      <section detail="(b)" number="2306"></section>
+                </USCode>
+ <statuteAtLarge volume="118">
+                      <pages pages="2403"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="120">
+                      <pages pages="3028"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="123">
+                      <pages pages="1108"></pages>
+                      <pages pages="1121"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

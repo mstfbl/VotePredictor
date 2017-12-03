@@ -1,0 +1,239 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18d8fa7ed">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To amend the Agricultural Marketing Act of 1946 to extend the livestock mandatory price reporting requirements, and for other purposes.;Mandatory Price Reporting Act of 2015;Agriculture Reauthorizations Act of 2015;H.R. 2051 (RS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-09-18</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To amend the Agricultural Marketing Act of 1946 to extend the livestock mandatory price reporting requirements, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Mandatory Price Reporting Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Agriculture Reauthorizations Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2051 (RS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-09-17</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>30 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18d8fa7ed</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2051rs</identifier>
+<identifier type="preferred citation">H.R. 2051</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2051_rs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2051rs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2051rs/html/BILLS-114hr2051rs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2051rs/pdf/BILLS-114hr2051rs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2051rs/xml/BILLS-114hr2051rs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-09-18</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr2051rs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Pat Roberts</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Agriculture, Nutrition, and Forestry</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 7 Section 1635a(12)(C)</partNumber>
+  <partNumber>Title 7 Section 1635et seq.</partNumber>
+  <partNumber>Title 7 Section 1635note</partNumber>
+  <partNumber>Title 7 Section 1635i</partNumber>
+  <partNumber>Title 7 Section 1635j(c)</partNumber>
+  <partNumber>Title 7 Section 1636i</partNumber>
+  <partNumber>Title 7 Section 77</partNumber>
+  <partNumber>Title 7 Section 77(a)(1)</partNumber>
+  <partNumber>Title 7 Section 77(a)(2)</partNumber>
+  <partNumber>Title 7 Section 79a</partNumber>
+  <partNumber>Title 7 Section 79a(i)(2)</partNumber>
+  <partNumber>Title 7 Section 79d</partNumber>
+  <partNumber>Title 7 Section 79(e)(2)</partNumber>
+  <partNumber>Title 7 Section 79(f)(1)</partNumber>
+  <partNumber>Title 7 Section 79(f)(2)</partNumber>
+  <partNumber>Title 7 Section 79(g)(1)</partNumber>
+  <partNumber>Title 7 Section 79(j)(1)</partNumber>
+  <partNumber>Title 7 Section 84(b)</partNumber>
+  <partNumber>Title 7 Section 87h</partNumber>
+  <partNumber>Title 7 Section 87j(e)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">7 U.S.C. 1635a(12)(C)</identifier>
+ <identifier type="USC citation">7 U.S.C. 1635et seq.</identifier>
+ <identifier type="USC citation">7 U.S.C. 1635note</identifier>
+ <identifier type="USC citation">7 U.S.C. 1635i</identifier>
+ <identifier type="USC citation">7 U.S.C. 1635j(c)</identifier>
+ <identifier type="USC citation">7 U.S.C. 1636i</identifier>
+ <identifier type="USC citation">7 U.S.C. 77</identifier>
+ <identifier type="USC citation">7 U.S.C. 77(a)(1)</identifier>
+ <identifier type="USC citation">7 U.S.C. 77(a)(2)</identifier>
+ <identifier type="USC citation">7 U.S.C. 79a</identifier>
+ <identifier type="USC citation">7 U.S.C. 79a(i)(2)</identifier>
+ <identifier type="USC citation">7 U.S.C. 79d</identifier>
+ <identifier type="USC citation">7 U.S.C. 79(e)(2)</identifier>
+ <identifier type="USC citation">7 U.S.C. 79(f)(1)</identifier>
+ <identifier type="USC citation">7 U.S.C. 79(f)(2)</identifier>
+ <identifier type="USC citation">7 U.S.C. 79(g)(1)</identifier>
+ <identifier type="USC citation">7 U.S.C. 79(j)(1)</identifier>
+ <identifier type="USC citation">7 U.S.C. 84(b)</identifier>
+ <identifier type="USC citation">7 U.S.C. 87h</identifier>
+ <identifier type="USC citation">7 U.S.C. 87j(e)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 583j-2</partNumber>
+  <partNumber>Title 16 Section 583j-3(b)</partNumber>
+  <partNumber>Title 16 Section 583j-5(b)</partNumber>
+  <partNumber>Title 16 Section 583j-8(b)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 583j-2</identifier>
+ <identifier type="USC citation">16 U.S.C. 583j-3(b)</identifier>
+ <identifier type="USC citation">16 U.S.C. 583j-5(b)</identifier>
+ <identifier type="USC citation">16 U.S.C. 583j-8(b)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 106-78</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 106-78</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 231</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr2051rs</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2051</billNumber>
+ <billVersion reprint="false">rs</billVersion>
+ <fileSuffix>rs</fileSuffix>
+ <shortTitle type="measure">Mandatory Price Reporting Act of 2015</shortTitle>
+ <shortTitle type="measure">Agriculture Reauthorizations Act of 2015</shortTitle>
+ <officialTitle>To amend the Agricultural Marketing Act of 1946 to extend the livestock mandatory price reporting requirements, and for other purposes.</officialTitle>
+ <action date="2015-06-10">Received; read twice and referred to the Committee on Agriculture, Nutrition, and Forestry</action>
+ <action date="2015-09-17">Reported by Mr. Roberts, with an amendment</action>
+ <congCommittee authorityId="ssaf00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Agriculture, Nutrition, and Forestry</name>
+                      <name type="authority-short">Agriculture</name>
+                </congCommittee>
+ <congMember authorityId="968" bioGuideId="R000307" chamber="S" congress="114" gpoId="8275" party="R" role="SPONSOR" state="KS">
+                      <name type="parsed">Mr. Roberts</name>
+                      <name type="authority-fnf">Pat Roberts</name>
+                      <name type="authority-lnf">Roberts, Pat</name>
+                </congMember>
+ <law congress="106" isPrivate="false" number="78"></law>
+ <congCalendar congress="114" number="231" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="7">
+                      <section detail="(12)(C)" number="1635a"></section>
+                      <section detail="et seq." number="1635"></section>
+                      <section detail="note" number="1635"></section>
+                      <section number="1635i"></section>
+                      <section detail="(c)" number="1635j"></section>
+                      <section number="1636i"></section>
+                      <section number="77"></section>
+                      <section detail="(a)(1)" number="77"></section>
+                      <section detail="(a)(2)" number="77"></section>
+                      <section number="79a"></section>
+                      <section detail="(i)(2)" number="79a"></section>
+                      <section number="79d"></section>
+                      <section detail="(e)(2)" number="79"></section>
+                      <section detail="(f)(1)" number="79"></section>
+                      <section detail="(f)(2)" number="79"></section>
+                      <section detail="(g)(1)" number="79"></section>
+                      <section detail="(j)(1)" number="79"></section>
+                      <section detail="(b)" number="84"></section>
+                      <section number="87h"></section>
+                      <section detail="(e)" number="87j"></section>
+                </USCode>
+ <USCode title="16">
+                      <section number="583j-2"></section>
+                      <section detail="(b)" number="583j-3"></section>
+                      <section detail="(b)" number="583j-5"></section>
+                      <section detail="(b)" number="583j-8"></section>
+                </USCode>
+</extension>
+</mods>

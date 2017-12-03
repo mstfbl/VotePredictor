@@ -1,0 +1,310 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18db6e818">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>Designating the week beginning on October 11, 2015, as National Wildlife Refuge Week.;S. Res. 286 (ATS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-10-14</dateIngested>
+</extension>
+<titleInfo>
+ <title>Designating the week beginning on October 11, 2015, as National Wildlife Refuge Week.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. Res. 286 (ATS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-10-08</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>6 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/2:</classification>
+<identifier type="local">P0b002ee18db6e818</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114sres286ats</identifier>
+<identifier type="preferred citation">S. Res. 286</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325577</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate resolutions</identifier>
+<identifier type="former package identifier">f:sr286_ats.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114sres286ats/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres286ats/html/BILLS-114sres286ats.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres286ats/pdf/BILLS-114sres286ats.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres286ats/xml/BILLS-114sres286ats.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-10-14</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114sres286ats</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Christopher A. Coons</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jeff Sessions</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ron Wyden</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Susan M. Collins</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jack Reed</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Cory A. Booker</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Benjamin L. Cardin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Barbara A. Mikulski</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mazie K. Hirono</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gary C. Peters</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Martin Heinrich</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Joe Manchin III</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jeanne Shaheen</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dianne Feinstein</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Al Franken</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 40 Page 755</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">40 Stat. 755</identifier>
+</relatedItem>
+<extension>
+ <docClass>sres</docClass>
+ <accessId>BILLS-114sres286ats</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>286</billNumber>
+ <billVersion reprint="false">ats</billVersion>
+ <fileSuffix>ats</fileSuffix>
+ <officialTitle>Designating the week beginning on October 11, 2015, as National Wildlife Refuge Week.</officialTitle>
+ <action date="2015-10-08">Mr. Coons (for himself, Mr. Sessions, Mr. Wyden, Ms. Collins, Mr. Reed, Mr. Booker, Mr. Cardin, Ms. Mikulski, Ms. Hirono, Mr. Peters, Mr. Heinrich, Mr. Manchin, Mrs. Shaheen, Mrs. Feinstein, and Mr. Franken) submitted the following resolution; which was considered and agreed to</action>
+ <congMember authorityId="1984" bioGuideId="C001088" chamber="S" congress="114" gpoId="8297" party="D" role="SPONSOR" state="DE">
+                      <name type="parsed">Mr. Coons</name>
+                      <name type="authority-fnf">Christopher A. Coons</name>
+                      <name type="authority-lnf">Coons, Christopher A.</name>
+                      <name type="authority-other">Mr. Christopher Coons</name>
+                </congMember>
+ <congMember authorityId="1548" bioGuideId="S001141" chamber="S" congress="114" gpoId="8281" party="R" role="COSPONSOR" state="AL">
+                      <name type="parsed">Mr. Sessions</name>
+                      <name type="authority-fnf">Jeff Sessions</name>
+                      <name type="authority-lnf">Sessions, Jeff</name>
+                </congMember>
+ <congMember authorityId="1247" bioGuideId="W000779" chamber="S" congress="114" gpoId="8265" party="D" role="COSPONSOR" state="OR">
+                      <name type="parsed">Mr. Wyden</name>
+                      <name type="authority-fnf">Ron Wyden</name>
+                      <name type="authority-lnf">Wyden, Ron</name>
+                </congMember>
+ <congMember authorityId="1541" bioGuideId="C001035" chamber="S" congress="114" gpoId="8291" party="R" role="COSPONSOR" state="ME">
+                      <name type="parsed">Ms. Collins</name>
+                      <name type="authority-fnf">Susan M. Collins</name>
+                      <name type="authority-lnf">Collins, Susan M.</name>
+                      <name type="authority-other">Susan Margaret Collins</name>
+                </congMember>
+ <congMember authorityId="949" bioGuideId="R000122" chamber="S" congress="114" gpoId="8272" party="D" role="COSPONSOR" state="RI">
+                      <name type="parsed">Mr. Reed</name>
+                      <name type="authority-fnf">Jack Reed</name>
+                      <name type="authority-lnf">Reed, Jack</name>
+                      <name type="authority-other">John Reed</name>
+                </congMember>
+ <congMember authorityId="2194" bioGuideId="B001288" chamber="S" congress="114" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Booker</name>
+                      <name type="authority-fnf">Cory A. Booker</name>
+                      <name type="authority-lnf">Booker, Cory A.</name>
+                      <name type="authority-other">Mr. Cory Booker</name>
+                </congMember>
+ <congMember authorityId="174" bioGuideId="C000141" chamber="S" congress="114" gpoId="8287" party="D" role="COSPONSOR" state="MD">
+                      <name type="parsed">Mr. Cardin</name>
+                      <name type="authority-fnf">Benjamin L. Cardin</name>
+                      <name type="authority-lnf">Cardin, Benjamin L.</name>
+                      <name type="authority-other">Benjamin Cardin</name>
+                </congMember>
+ <congMember authorityId="802" bioGuideId="M000702" chamber="S" congress="114" gpoId="8240" party="D" role="COSPONSOR" state="MD">
+                      <name type="parsed">Ms. Mikulski</name>
+                      <name type="authority-fnf">Barbara A. Mikulski</name>
+                      <name type="authority-lnf">Mikulski, Barbara A.</name>
+                      <name type="authority-other">Barbara Ann Mikulski</name>
+                </congMember>
+ <congMember authorityId="1844" bioGuideId="H001042" chamber="S" congress="114" gpoId="7913" party="D" role="COSPONSOR" state="HI">
+                      <name type="parsed">Ms. Hirono</name>
+                      <name type="authority-fnf">Mazie K. Hirono</name>
+                      <name type="authority-lnf">Hirono, Mazie K.</name>
+                      <name type="authority-other">Ms. Mazie Hirono</name>
+                </congMember>
+ <congMember authorityId="1929" bioGuideId="P000595" chamber="S" congress="114" gpoId="7994" party="D" role="COSPONSOR" state="MI">
+                      <name type="parsed">Mr. Peters</name>
+                      <name type="authority-fnf">Gary C. Peters</name>
+                      <name type="authority-lnf">Peters, Gary C.</name>
+                      <name type="authority-other">Mr. Gary Peters</name>
+                </congMember>
+ <congMember authorityId="1937" bioGuideId="H001046" chamber="S" congress="114" gpoId="8056" party="D" role="COSPONSOR" state="NM">
+                      <name type="parsed">Mr. Heinrich</name>
+                      <name type="authority-fnf">Martin Heinrich</name>
+                      <name type="authority-lnf">Heinrich, Martin</name>
+                </congMember>
+ <congMember authorityId="1983" bioGuideId="M001183" chamber="S" congress="114" gpoId="8256" party="D" role="COSPONSOR" state="WV">
+                      <name type="parsed">Mr. Manchin</name>
+                      <name type="authority-fnf">Joe Manchin III</name>
+                      <name type="authority-lnf">Manchin, Joe, III</name>
+                      <name type="authority-other">Mr. Joe Manchin III</name>
+                </congMember>
+ <congMember authorityId="1901" bioGuideId="S001181" chamber="S" congress="114" gpoId="8276" party="D" role="COSPONSOR" state="NH">
+                      <name type="parsed">Mrs. Shaheen</name>
+                      <name type="authority-fnf">Jeanne Shaheen</name>
+                      <name type="authority-lnf">Shaheen, Jeanne</name>
+                </congMember>
+ <congMember authorityId="1332" bioGuideId="F000062" chamber="S" congress="114" gpoId="8338" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mrs. Feinstein</name>
+                      <name type="authority-fnf">Dianne Feinstein</name>
+                      <name type="authority-lnf">Feinstein, Dianne</name>
+                </congMember>
+ <congMember authorityId="1969" bioGuideId="F000457" chamber="S" congress="114" gpoId="8339" party="D" role="COSPONSOR" state="MN">
+                      <name type="parsed">Mr. Franken</name>
+                      <name type="authority-fnf">Al Franken</name>
+                      <name type="authority-lnf">Franken, Al</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <statuteAtLarge volume="40">
+                      <pages pages="755"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

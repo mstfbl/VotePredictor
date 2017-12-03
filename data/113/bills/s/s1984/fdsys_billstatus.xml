@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Credit Card Theft Sentencing Act of 2014</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to enhance penalties for computer crimes, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Credit Card Theft Sentencing Act of 2014</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-02-03T23:40:10Z</date>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <systemCode>ssju00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>113</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2014-04-01T22:03:56Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Credit Card Theft Sentencing Act of 2014 - Amends the Computer Fraud and Abuse Act to set penalties of a fine, imprisonment for at least 25 years or for life, or both for intentionally accessing a computer without authorization or exceeding authorized access and thereby obtaining information of 1 million or more credit card holders contained in a financial record of a financial institution or a card issuer, contained in a file of a consumer reporting agency on a consumer, from any federal agency, or from any protected computer.</p>]]></text>
+          <updateDate>2014-02-03T05:00:00Z</updateDate>
+          <actionDate>2014-02-03</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <middleName>STEVEN</middleName>
+        <firstName>MARK</firstName>
+        <identifiers>
+          <lisID>1647</lisID>
+          <gpoId>8285</gpoId>
+          <bioguideId>K000360</bioguideId>
+        </identifiers>
+        <lastName>KIRK</lastName>
+        <fullName>Sen. Kirk, Mark Steven [R-IL]</fullName>
+        <party>R</party>
+        <byRequestType />
+        <bioguideId>K000360</bioguideId>
+        <state>IL</state>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <calendarNumbers />
+    <billType>S</billType>
+    <updateDate>2016-10-25T16:28:42Z</updateDate>
+    <cboCostEstimates />
+    <notes />
+    <latestAction>
+      <actionDate>2014-02-03</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </latestAction>
+    <createDate>2014-02-04T07:02:02Z</createDate>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Johanns, Mike [R-NE]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000291</bioguideId>
+        <identifiers>
+          <bioguideId>J000291</bioguideId>
+          <gpoId>8325</gpoId>
+          <lisID>1899</lisID>
+        </identifiers>
+        <sponsorshipDate>2014-02-06</sponsorshipDate>
+        <lastName>Johanns</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>NE</state>
+        <firstName>Mike</firstName>
+      </item>
+    </cosponsors>
+    <originChamber>Senate</originChamber>
+    <actions>
+      <item>
+        <actionDate>2014-02-03</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+        <actionDate>2014-02-03</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <title>Credit Card Theft Sentencing Act of 2014</title>
+    <relatedBills />
+    <billNumber>1984</billNumber>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Consumer credit</name>
+          </item>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2014-02-03</introducedDate>
+    <amendments />
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

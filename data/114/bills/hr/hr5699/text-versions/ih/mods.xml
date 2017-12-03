@@ -1,0 +1,177 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee190416ffd">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To award grants to school food authorities for the purchase of equipment for school meal programs, and for other purposes.;
+   		Serve More Kids Act;H.R. 5699 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-07-14</dateIngested>
+</extension>
+<titleInfo>
+ <title>To award grants to school food authorities for the purchase of equipment for school meal programs, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Serve More Kids Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 5699 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-07-08</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>26 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee190416ffd</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5699ih</identifier>
+<identifier type="preferred citation">H.R. 5699</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h5699_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5699ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5699ih/html/BILLS-114hr5699ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5699ih/pdf/BILLS-114hr5699ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5699ih/xml/BILLS-114hr5699ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-07-14</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-07-14</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr5699ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Gwen Moore</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Pocan</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Education and the Workforce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 1751</partNumber>
+  <partNumber>Title 42 Section 1751et seq.</partNumber>
+  <partNumber>Title 42 Section 1755</partNumber>
+  <partNumber>Title 42 Section 1758(b)(3)(D)</partNumber>
+  <partNumber>Title 42 Section 1759(a)(1)(F)</partNumber>
+  <partNumber>Title 42 Section 1761</partNumber>
+  <partNumber>Title 42 Section 1771</partNumber>
+  <partNumber>Title 42 Section 1771et seq.</partNumber>
+  <partNumber>Title 42 Section 1773</partNumber>
+  <partNumber>Title 42 Section 1786</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 1751</identifier>
+ <identifier type="USC citation">42 U.S.C. 1751et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 1755</identifier>
+ <identifier type="USC citation">42 U.S.C. 1758(b)(3)(D)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1759(a)(1)(F)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1761</identifier>
+ <identifier type="USC citation">42 U.S.C. 1771</identifier>
+ <identifier type="USC citation">42 U.S.C. 1771et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 1773</identifier>
+ <identifier type="USC citation">42 U.S.C. 1786</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr5699ih</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>5699</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle>Serve More Kids Act</shortTitle>
+ <action date="2016-07-08">Ms. Moore (for herself and Mr. Pocan) introduced the following bill; which was referred to the Committee on Education and the Workforce</action>
+ <congCommittee authorityId="hsed00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Education and the Workforce</name>
+                      <name type="authority-short">Education and the Workforce</name>
+                </congCommittee>
+ <congMember authorityId="1811" bioGuideId="M001160" chamber="H" congress="114" gpoId="8217" party="D" role="SPONSOR" state="WI">
+                      <name type="parsed">Ms. Moore</name>
+                      <name type="authority-fnf">Gwen Moore</name>
+                      <name type="authority-lnf">Moore, Gwen</name>
+                </congMember>
+ <congMember authorityId="2171" bioGuideId="P000607" chamber="H" congress="114" party="D" role="COSPONSOR" state="WI">
+                      <name type="parsed">Mr. Pocan</name>
+                      <name type="authority-fnf">Mark Pocan</name>
+                      <name type="authority-lnf">Pocan, Mark</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="42">
+                      <section number="1751"></section>
+                      <section detail="et seq." number="1751"></section>
+                      <section number="1755"></section>
+                      <section detail="(b)(3)(D)" number="1758"></section>
+                      <section detail="(a)(1)(F)" number="1759"></section>
+                      <section number="1761"></section>
+                      <section number="1771"></section>
+                      <section detail="et seq." number="1771"></section>
+                      <section number="1773"></section>
+                      <section number="1786"></section>
+                </USCode>
+</extension>
+</mods>

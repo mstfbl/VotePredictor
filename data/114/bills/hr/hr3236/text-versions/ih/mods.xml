@@ -1,0 +1,512 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18d23e80b">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To provide an extension of Federal-aid highway, highway safety, motor carrier safety, transit, and other programs funded out of the Highway Trust Fund, to provide resource flexibility to the Department of Veterans Affairs for health care services, and for other purposes.;Surface Transportation and Veterans Health Care Choice Improvement Act of 2015;VA Budget and Choice Improvement Act;H.R. 3236 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-07-29</dateIngested>
+</extension>
+<titleInfo>
+ <title>To provide an extension of Federal-aid highway, highway safety, motor carrier safety, transit, and other programs funded out of the Highway Trust Fund, to provide resource flexibility to the Department of Veterans Affairs for health care services, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Surface Transportation and Veterans Health Care Choice Improvement Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>VA Budget and Choice Improvement Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 3236 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-07-28</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>64 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18d23e80b</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3236ih</identifier>
+<identifier type="preferred citation">H.R. 3236</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h3236_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3236ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3236ih/html/BILLS-114hr3236ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3236ih/pdf/BILLS-114hr3236ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3236ih/xml/BILLS-114hr3236ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-07-29</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-11</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr3236ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Bill Shuster</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Paul D. Ryan</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jeff Miller</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on the Budget</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Education and the Workforce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Homeland Security</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Energy and Commerce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Natural Resources</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Transportation and Infrastructure</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Science, Space, and Technology</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Veterans&apos; Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Ways and Means</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 2 Section 901a</partNumber>
+  <partNumber>Title 2 Section 933(g)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">2 U.S.C. 901a</identifier>
+ <identifier type="USC citation">2 U.S.C. 933(g)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Chapter 55</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. Chapter 55</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 777c</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 777c</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 23 Section 104note</partNumber>
+  <partNumber>Title 23 Section 202note</partNumber>
+  <partNumber>Title 23 Section 402note</partNumber>
+  <partNumber>Title 23 Section 403(f)(1)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">23 U.S.C. 104note</identifier>
+ <identifier type="USC citation">23 U.S.C. 202note</identifier>
+ <identifier type="USC citation">23 U.S.C. 402note</identifier>
+ <identifier type="USC citation">23 U.S.C. 403(f)(1)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 29 Section 1021(e)(3)</partNumber>
+  <partNumber>Title 29 Section 1103(c)(1)</partNumber>
+  <partNumber>Title 29 Section 1108(b)(13)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">29 U.S.C. 1021(e)(3)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1103(c)(1)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1108(b)(13)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 1105</partNumber>
+  <partNumber>Title 31 Chapter 39</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 1105</identifier>
+ <identifier type="USC citation">31 U.S.C. Chapter 39</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 38 Section 101(16)</partNumber>
+  <partNumber>Title 38 Section 1701</partNumber>
+  <partNumber>Title 38 Section 1701note</partNumber>
+  <partNumber>Title 38 Section 1703</partNumber>
+  <partNumber>Title 38 Section 1703note</partNumber>
+  <partNumber>Title 38 Section 1705</partNumber>
+  <partNumber>Title 38 Section 1705(a)</partNumber>
+  <partNumber>Title 38 Section 1725</partNumber>
+  <partNumber>Title 38 Section 1728</partNumber>
+  <partNumber>Title 38 Chapter 17</partNumber>
+</titleInfo>
+ <identifier type="USC citation">38 U.S.C. 101(16)</identifier>
+ <identifier type="USC citation">38 U.S.C. 1701</identifier>
+ <identifier type="USC citation">38 U.S.C. 1701note</identifier>
+ <identifier type="USC citation">38 U.S.C. 1703</identifier>
+ <identifier type="USC citation">38 U.S.C. 1703note</identifier>
+ <identifier type="USC citation">38 U.S.C. 1705</identifier>
+ <identifier type="USC citation">38 U.S.C. 1705(a)</identifier>
+ <identifier type="USC citation">38 U.S.C. 1725</identifier>
+ <identifier type="USC citation">38 U.S.C. 1728</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 17</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 49 Section 31104(a)</partNumber>
+  <partNumber>Title 49 Section 31104(i)(1)</partNumber>
+  <partNumber>Title 49 Section 31104(k)(2)</partNumber>
+  <partNumber>Title 49 Section 31144(g)(5)(B)</partNumber>
+  <partNumber>Title 49 Section 31301note</partNumber>
+  <partNumber>Title 49 Section 44940(i)</partNumber>
+  <partNumber>Title 49 Section 5128(a)</partNumber>
+  <partNumber>Title 49 Section 5128(b)</partNumber>
+  <partNumber>Title 49 Section 5128(c)</partNumber>
+  <partNumber>Title 49 Section 5311(c)(1)</partNumber>
+  <partNumber>Title 49 Section 5336(h)(1)</partNumber>
+  <partNumber>Title 49 Section 5338(a)</partNumber>
+  <partNumber>Title 49 Section 5338(b)</partNumber>
+  <partNumber>Title 49 Section 5338(c)</partNumber>
+  <partNumber>Title 49 Section 5338(d)</partNumber>
+  <partNumber>Title 49 Section 5338(e)</partNumber>
+  <partNumber>Title 49 Section 5338(g)</partNumber>
+  <partNumber>Title 49 Section 5338(h)</partNumber>
+  <partNumber>Title 49 Section 5339(d)(1)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">49 U.S.C. 31104(a)</identifier>
+ <identifier type="USC citation">49 U.S.C. 31104(i)(1)</identifier>
+ <identifier type="USC citation">49 U.S.C. 31104(k)(2)</identifier>
+ <identifier type="USC citation">49 U.S.C. 31144(g)(5)(B)</identifier>
+ <identifier type="USC citation">49 U.S.C. 31301note</identifier>
+ <identifier type="USC citation">49 U.S.C. 44940(i)</identifier>
+ <identifier type="USC citation">49 U.S.C. 5128(a)</identifier>
+ <identifier type="USC citation">49 U.S.C. 5128(b)</identifier>
+ <identifier type="USC citation">49 U.S.C. 5128(c)</identifier>
+ <identifier type="USC citation">49 U.S.C. 5311(c)(1)</identifier>
+ <identifier type="USC citation">49 U.S.C. 5336(h)(1)</identifier>
+ <identifier type="USC citation">49 U.S.C. 5338(a)</identifier>
+ <identifier type="USC citation">49 U.S.C. 5338(b)</identifier>
+ <identifier type="USC citation">49 U.S.C. 5338(c)</identifier>
+ <identifier type="USC citation">49 U.S.C. 5338(d)</identifier>
+ <identifier type="USC citation">49 U.S.C. 5338(e)</identifier>
+ <identifier type="USC citation">49 U.S.C. 5338(g)</identifier>
+ <identifier type="USC citation">49 U.S.C. 5338(h)</identifier>
+ <identifier type="USC citation">49 U.S.C. 5339(d)(1)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 119 Page 1715</partNumber>
+  <partNumber>Volume 119 Page 1741</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">119 Stat. 1715</identifier>
+ <identifier type="Statute citation">119 Stat. 1741</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 126 Page 733</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">126 Stat. 733</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 128 Page 1802</partNumber>
+  <partNumber>Volume 128 Page 1840</partNumber>
+  <partNumber>Volume 128 Page 1842</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">128 Stat. 1802</identifier>
+ <identifier type="Statute citation">128 Stat. 1840</identifier>
+ <identifier type="Statute citation">128 Stat. 1842</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 110-387</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 110-387</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-141</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-141</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 113-146</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 113-146</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr3236ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>3236</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Surface Transportation and Veterans Health Care Choice Improvement Act of 2015</shortTitle>
+ <shortTitle level="title" type="level">VA Budget and Choice Improvement Act</shortTitle>
+ <officialTitle>To provide an extension of Federal-aid highway, highway safety, motor carrier safety, transit, and other programs funded out of the Highway Trust Fund, to provide resource flexibility to the Department of Veterans Affairs for health care services, and for other purposes.</officialTitle>
+ <action date="2015-07-28">Mr. Shuster (for himself, Mr. Ryan of Wisconsin, and Mr. Miller of Florida) introduced the following bill; which was referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Ways and Means, Energy and Commerce, Science, Space, and Technology, Natural Resources, Veterans’ Affairs, Education and the Workforce, the Budget, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <congCommittee authorityId="hsbu00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on the Budget</name>
+                      <name type="authority-short">The Budget</name>
+                </congCommittee>
+ <congCommittee authorityId="hsed00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Education and the Workforce</name>
+                      <name type="authority-short">Education and the Workforce</name>
+                </congCommittee>
+ <congCommittee authorityId="hshm00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Homeland Security</name>
+                      <name type="authority-short">Homeland Security</name>
+                </congCommittee>
+ <congCommittee authorityId="hsif00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Energy and Commerce</name>
+                      <name type="authority-short">Energy and Commerce</name>
+                </congCommittee>
+ <congCommittee authorityId="hsii00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Natural Resources</name>
+                      <name type="authority-short">Natural Resources</name>
+                </congCommittee>
+ <congCommittee authorityId="hspw00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Transportation and Infrastructure</name>
+                      <name type="authority-short">Transportation</name>
+                </congCommittee>
+ <congCommittee authorityId="hssy00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Science, Space, and Technology</name>
+                      <name type="authority-short">Science, Space, and Technology</name>
+                </congCommittee>
+ <congCommittee authorityId="hsvr00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Veterans&apos; Affairs</name>
+                      <name type="authority-short">Veterans&apos; Affairs</name>
+                </congCommittee>
+ <congCommittee authorityId="hswm00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Ways and Means</name>
+                      <name type="authority-short">Ways and Means</name>
+                </congCommittee>
+ <congMember authorityId="1681" bioGuideId="S001154" chamber="H" congress="114" gpoId="8127" party="R" role="SPONSOR" state="PA">
+                      <name type="parsed">Mr. Shuster</name>
+                      <name type="authority-fnf">Bill Shuster</name>
+                      <name type="authority-lnf">Shuster, Bill</name>
+                </congMember>
+ <congMember authorityId="1560" bioGuideId="R000570" chamber="H" congress="114" gpoId="8214" party="R" role="COSPONSOR" state="WI">
+                      <name type="parsed">Mr. Ryan of Wisconsin</name>
+                      <name type="authority-fnf">Paul D. Ryan</name>
+                      <name type="authority-lnf">Ryan, Paul</name>
+                      <name type="authority-other">Paul Ryan</name>
+                </congMember>
+ <congMember authorityId="1685" bioGuideId="M001144" chamber="H" congress="114" gpoId="7873" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Miller of Florida</name>
+                      <name type="authority-fnf">Jeff Miller</name>
+                      <name type="authority-lnf">Miller, Jeff</name>
+                </congMember>
+ <law congress="110" isPrivate="false" number="387"></law>
+ <law congress="112" isPrivate="false" number="141"></law>
+ <law congress="113" isPrivate="false" number="146"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="2">
+                      <section number="901a"></section>
+                      <section detail="(g)" number="933"></section>
+                </USCode>
+ <USCode title="10">
+                      <chapter number="55"></chapter>
+                </USCode>
+ <USCode title="16">
+                      <section number="777c"></section>
+                </USCode>
+ <USCode title="23">
+                      <section detail="note" number="104"></section>
+                      <section detail="note" number="202"></section>
+                      <section detail="note" number="402"></section>
+                      <section detail="(f)(1)" number="403"></section>
+                </USCode>
+ <USCode title="29">
+                      <section detail="(e)(3)" number="1021"></section>
+                      <section detail="(c)(1)" number="1103"></section>
+                      <section detail="(b)(13)" number="1108"></section>
+                </USCode>
+ <USCode title="31">
+                      <section number="1105"></section>
+                      <chapter number="39"></chapter>
+                </USCode>
+ <USCode title="38">
+                      <section detail="(16)" number="101"></section>
+                      <section number="1701"></section>
+                      <section detail="note" number="1701"></section>
+                      <section number="1703"></section>
+                      <section detail="note" number="1703"></section>
+                      <section number="1705"></section>
+                      <section detail="(a)" number="1705"></section>
+                      <section number="1725"></section>
+                      <section number="1728"></section>
+                      <chapter number="17"></chapter>
+                </USCode>
+ <USCode title="49">
+                      <section detail="(a)" number="31104"></section>
+                      <section detail="(i)(1)" number="31104"></section>
+                      <section detail="(k)(2)" number="31104"></section>
+                      <section detail="(g)(5)(B)" number="31144"></section>
+                      <section detail="note" number="31301"></section>
+                      <section detail="(i)" number="44940"></section>
+                      <section detail="(a)" number="5128"></section>
+                      <section detail="(b)" number="5128"></section>
+                      <section detail="(c)" number="5128"></section>
+                      <section detail="(c)(1)" number="5311"></section>
+                      <section detail="(h)(1)" number="5336"></section>
+                      <section detail="(a)" number="5338"></section>
+                      <section detail="(b)" number="5338"></section>
+                      <section detail="(c)" number="5338"></section>
+                      <section detail="(d)" number="5338"></section>
+                      <section detail="(e)" number="5338"></section>
+                      <section detail="(g)" number="5338"></section>
+                      <section detail="(h)" number="5338"></section>
+                      <section detail="(d)(1)" number="5339"></section>
+                </USCode>
+ <statuteAtLarge volume="119">
+                      <pages pages="1715"></pages>
+                      <pages pages="1741"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="126">
+                      <pages pages="733"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="128">
+                      <pages pages="1802"></pages>
+                      <pages pages="1840"></pages>
+                      <pages pages="1842"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

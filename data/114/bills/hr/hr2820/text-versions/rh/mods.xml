@@ -1,0 +1,445 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18d7e3e7d">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To reauthorize the Stem Cell Therapeutic and Research Act of 2005, and for other purposes.;Stem Cell Therapeutic and Research Reauthorization Act of 2015;H.R. 2820 (RH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-09-09</dateIngested>
+</extension>
+<titleInfo>
+ <title>To reauthorize the Stem Cell Therapeutic and Research Act of 2005, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Stem Cell Therapeutic and Research Reauthorization Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2820 (RH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-09-08</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>4 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18d7e3e7d</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2820rh</identifier>
+<identifier type="preferred citation">H.R. 2820</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2820_rh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2820rh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2820rh/html/BILLS-114hr2820rh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2820rh/pdf/BILLS-114hr2820rh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2820rh/xml/BILLS-114hr2820rh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-09-09</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr2820rh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Christopher H. Smith</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Doris O. Matsui</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David W. Jolly</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Chaka Fattah</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Raul M. Grijalva</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tim Huelskamp</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gus M. Bilirakis</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tim Murphy</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Renee L. Ellmers</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Peter J. Roskam</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Andy Harris</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Peter A. DeFazio</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robert B. Aderholt</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Richard M. Nolan</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dan Newhouse</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dennis A. Ross</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Leonard Lance</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lou Barletta</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael C. Burgess</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Anna G. Eshoo</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David Loebsack</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Richard Hudson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Chellie Pingree</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Energy and Commerce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 274knote</partNumber>
+  <partNumber>Title 42 Section 274m</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 274knote</identifier>
+ <identifier type="USC citation">42 U.S.C. 274m</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Union Calendar No. 183</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr2820rh</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>2820</billNumber>
+ <billVersion reprint="false">rh</billVersion>
+ <fileSuffix>rh</fileSuffix>
+ <shortTitle type="measure">Stem Cell Therapeutic and Research Reauthorization Act of 2015</shortTitle>
+ <officialTitle>To reauthorize the Stem Cell Therapeutic and Research Act of 2005, and for other purposes.</officialTitle>
+ <action date="2015-06-18">Mr. Smith of New Jersey (for himself, Ms. Matsui, Mr. Jolly, and Mr. Fattah) introduced the following bill; which was referred to the Committee on Energy and Commerce</action>
+ <action date="2015-09-08">Additional sponsors: Mr. Grijalva, Mr. Huelskamp, Mr. Bilirakis, Mr. Murphy of Pennsylvania, Mrs. Ellmers of North Carolina, Mr. Roskam, Mr. Harris, Mr. DeFazio, Mr. Aderholt, Mr. Nolan, Mr. Newhouse, Mr. Ross, Mr. Lance, Mr. Barletta, Mr. Burgess, Ms. Eshoo, Mr. Loebsack, Mr. Hudson, and Ms. Pingree</action>
+ <action date="2015-09-08">Committed to the Committee of the Whole House on the State of the Union and ordered to be printed</action>
+ <congCommittee authorityId="hsif00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Energy and Commerce</name>
+                      <name type="authority-short">Energy and Commerce</name>
+                </congCommittee>
+ <congMember authorityId="1071" bioGuideId="S000522" chamber="H" congress="114" gpoId="8046" party="R" role="SPONSOR" state="NJ">
+                      <name type="parsed">Mr. Smith of New Jersey</name>
+                      <name type="authority-fnf">Christopher H. Smith</name>
+                      <name type="authority-lnf">Smith, Christopher H.</name>
+                      <name type="authority-other">Christopher Smith</name>
+                </congMember>
+ <congMember authorityId="1814" bioGuideId="M001163" chamber="H" congress="114" gpoId="7810" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Matsui</name>
+                      <name type="authority-fnf">Doris O. Matsui</name>
+                      <name type="authority-lnf">Matsui, Doris O.</name>
+                      <name type="authority-other">Ms. Doris Matsui</name>
+                </congMember>
+ <congMember authorityId="2199" bioGuideId="J000296" chamber="H" congress="114" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Jolly</name>
+                      <name type="authority-fnf">David W. Jolly</name>
+                      <name type="authority-lnf">Jolly, David</name>
+                      <name type="authority-other">Mr. David Jolly</name>
+                </congMember>
+ <congMember authorityId="371" bioGuideId="F000043" chamber="H" congress="114" gpoId="8120" party="D" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Fattah</name>
+                      <name type="authority-fnf">Chaka Fattah</name>
+                      <name type="authority-lnf">Fattah, Chaka</name>
+                </congMember>
+ <congMember authorityId="1708" bioGuideId="G000551" chamber="H" congress="114" gpoId="7804" party="D" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Grijalva</name>
+                      <name type="authority-fnf">Raul M. Grijalva</name>
+                      <name type="authority-lnf">Grijalva, Raul M.</name>
+                      <name type="authority-other">Mr. Raul Grijalva</name>
+                </congMember>
+ <congMember authorityId="2020" bioGuideId="H001057" chamber="H" congress="114" gpoId="7949" party="R" role="COSPONSOR" state="KS">
+                      <name type="parsed">Mr. Huelskamp</name>
+                      <name type="authority-fnf">Tim Huelskamp</name>
+                      <name type="authority-lnf">Huelskamp, Tim</name>
+                </congMember>
+ <congMember authorityId="1838" bioGuideId="B001257" chamber="H" congress="114" gpoId="7881" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Bilirakis</name>
+                      <name type="authority-fnf">Gus M. Bilirakis</name>
+                      <name type="authority-lnf">Bilirakis, Gus M.</name>
+                      <name type="authority-other">Mr. Gus Bilirakis</name>
+                </congMember>
+ <congMember authorityId="1744" bioGuideId="M001151" chamber="H" congress="114" gpoId="8723" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Murphy of Pennsylvania</name>
+                      <name type="authority-fnf">Tim Murphy</name>
+                      <name type="authority-lnf">Murphy, Tim</name>
+                </congMember>
+ <congMember authorityId="2036" bioGuideId="E000291" chamber="H" congress="114" gpoId="8025" party="R" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mrs. Ellmers of North Carolina</name>
+                      <name type="authority-fnf">Renee L. Ellmers</name>
+                      <name type="authority-lnf">Ellmers, Renee L.</name>
+                      <name type="authority-other">Mrs. Renee Ellmers</name>
+                </congMember>
+ <congMember authorityId="1848" bioGuideId="R000580" chamber="H" congress="114" gpoId="7926" party="R" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Roskam</name>
+                      <name type="authority-fnf">Peter J. Roskam</name>
+                      <name type="authority-lnf">Roskam, Peter J.</name>
+                      <name type="authority-other">Mr. Peter Roskam</name>
+                </congMember>
+ <congMember authorityId="2026" bioGuideId="H001052" chamber="H" congress="114" gpoId="7976" party="R" role="COSPONSOR" state="MD">
+                      <name type="parsed">Mr. Harris</name>
+                      <name type="authority-fnf">Andy Harris</name>
+                      <name type="authority-lnf">Harris, Andy</name>
+                </congMember>
+ <congMember authorityId="279" bioGuideId="D000191" chamber="H" congress="114" gpoId="8117" party="D" role="COSPONSOR" state="OR">
+                      <name type="parsed">Mr. DeFazio</name>
+                      <name type="authority-fnf">Peter A. DeFazio</name>
+                      <name type="authority-lnf">DeFazio, Peter A.</name>
+                      <name type="authority-other">Peter Defazio</name>
+                </congMember>
+ <congMember authorityId="1460" bioGuideId="A000055" chamber="H" congress="114" gpoId="7789" party="R" role="COSPONSOR" state="AL">
+                      <name type="parsed">Mr. Aderholt</name>
+                      <name type="authority-fnf">Robert B. Aderholt</name>
+                      <name type="authority-lnf">Aderholt, Robert B.</name>
+                      <name type="authority-other">Robert Aderholt</name>
+                </congMember>
+ <congMember authorityId="867" bioGuideId="N000127" chamber="H" congress="114" party="D" role="COSPONSOR" state="MN">
+                      <name type="parsed">Mr. Nolan</name>
+                      <name type="authority-fnf">Richard M. Nolan</name>
+                      <name type="authority-lnf">Nolan, Richard M.</name>
+                      <name type="authority-other">Richard Nolan</name>
+                </congMember>
+ <congMember authorityId="2275" bioGuideId="N000189" chamber="H" congress="114" party="R" role="COSPONSOR" state="WA">
+                      <name type="parsed">Mr. Newhouse</name>
+                      <name type="authority-fnf">Dan Newhouse</name>
+                      <name type="authority-lnf">Newhouse, Dan</name>
+                </congMember>
+ <congMember authorityId="2003" bioGuideId="R000593" chamber="H" congress="114" gpoId="7884" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Ross</name>
+                      <name type="authority-fnf">Dennis A. Ross</name>
+                      <name type="authority-lnf">Ross, Dennis A.</name>
+                      <name type="authority-other">Dennis Ross</name>
+                </congMember>
+ <congMember authorityId="1936" bioGuideId="L000567" chamber="H" congress="114" gpoId="8049" party="R" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Lance</name>
+                      <name type="authority-fnf">Leonard Lance</name>
+                      <name type="authority-lnf">Lance, Leonard</name>
+                </congMember>
+ <congMember authorityId="2054" bioGuideId="B001269" chamber="H" congress="114" gpoId="8129" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Barletta</name>
+                      <name type="authority-fnf">Lou Barletta</name>
+                      <name type="authority-lnf">Barletta, Lou</name>
+                </congMember>
+ <congMember authorityId="1751" bioGuideId="B001248" chamber="H" congress="114" gpoId="8182" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Burgess</name>
+                      <name type="authority-fnf">Michael C. Burgess</name>
+                      <name type="authority-lnf">Burgess, Michael C.</name>
+                      <name type="authority-other">Mr. Michael Burgess</name>
+                </congMember>
+ <congMember authorityId="355" bioGuideId="E000215" chamber="H" congress="114" gpoId="7819" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Eshoo</name>
+                      <name type="authority-fnf">Anna G. Eshoo</name>
+                      <name type="authority-lnf">Eshoo, Anna G.</name>
+                      <name type="authority-other">Anna Eshoo</name>
+                </congMember>
+ <congMember authorityId="1846" bioGuideId="L000565" chamber="H" congress="114" gpoId="7915" party="D" role="COSPONSOR" state="IA">
+                      <name type="parsed">Mr. Loebsack</name>
+                      <name type="authority-fnf">David Loebsack</name>
+                      <name type="authority-lnf">Loebsack, David</name>
+                </congMember>
+ <congMember authorityId="2140" bioGuideId="H001067" chamber="H" congress="114" party="R" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. Hudson</name>
+                      <name type="authority-fnf">Richard Hudson</name>
+                      <name type="authority-lnf">Hudson, Richard</name>
+                </congMember>
+ <congMember authorityId="1927" bioGuideId="P000597" chamber="H" congress="114" gpoId="7984" party="D" role="COSPONSOR" state="ME">
+                      <name type="parsed">Ms. Pingree</name>
+                      <name type="authority-fnf">Chellie Pingree</name>
+                      <name type="authority-lnf">Pingree, Chellie</name>
+                </congMember>
+ <congCalendar congress="114" number="183" type="UNION"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="42">
+                      <section detail="note" number="274k"></section>
+                      <section number="274m"></section>
+                </USCode>
+</extension>
+</mods>

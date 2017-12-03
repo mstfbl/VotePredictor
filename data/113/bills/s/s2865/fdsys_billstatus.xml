@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-09-18</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Rules and Administration.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2014-09-18</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-09-18</introducedDate>
+    <updateDate>2016-10-25T16:32:27Z</updateDate>
+    <createDate>2014-09-19T05:28:31Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Rules and Administration Committee</name>
+          <subcommittees />
+          <systemCode>ssra00</systemCode>
+          <activities>
+            <item>
+              <date>2014-09-18T19:08:08Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <firstName>Jeff</firstName>
+        <party>D</party>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001176</bioguideId>
+        <identifiers>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <lastName>Merkley</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Mark</firstName>
+        <party>D</party>
+        <fullName>Sen. Begich, Mark [D-AK]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001265</bioguideId>
+        <identifiers>
+          <lisID>1898</lisID>
+          <bioguideId>B001265</bioguideId>
+          <gpoId>8301</gpoId>
+        </identifiers>
+        <lastName>Begich</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>AK</state>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <middleName />
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Voter Registration Modernization Act</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Voter Registration Modernization Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the National Voter Registration Act of 1993 to provide for voter registration through the Internet, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Voter Registration Modernization Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2014-10-28T16:18:39Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Voter Registration Modernization Act - Amends the National Voter Registration Act of 1993 (NVRA) to require each state to make available official public websites for online voter registration. </p> <p>Directs the appropriate state or local election official to ensure that information on the computerized statewide voter registration list may be updated through the official public website. </p> <p>Directs the Director of the National Institute of Standards and Technology (NIST) to study best practices for implementing the requirements for Internet registration and the online updating of voter registration information.</p> <p>Authorizes the provision of election information by electronic mail to individuals registered to vote who have requested to receive it.</p> <p>Directs the Election Assistance Commission (EAC) to make an implementation payment each year to enable each state to meet the requirements of this Act and to carry out activities to improve the administration of federal elections.</p>]]></text>
+          <updateDate>2014-09-18T04:00:00Z</updateDate>
+          <actionDate>2014-09-18</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <number>12</number>
+        <latestAction>
+          <actionDate>2013-04-23</actionDate>
+          <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>Voter Empowerment Act of 2013</latestTitle>
+      </item>
+      <item>
+        <number>123</number>
+        <latestAction>
+          <actionDate>2013-01-23</actionDate>
+          <text>Read twice and referred to the Committee on Rules and Administration.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>S</type>
+        <latestTitle>Voter Empowerment Act of 2013</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Technology assessment</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+      <actionDate>2014-09-18</actionDate>
+    </latestAction>
+    <billNumber>2865</billNumber>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Kirsten</firstName>
+        <party>D</party>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <bioguideId>G000555</bioguideId>
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <lastName>Gillibrand</lastName>
+        <middleName>E.</middleName>
+        <state>NY</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

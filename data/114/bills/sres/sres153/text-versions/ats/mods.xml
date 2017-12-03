@@ -1,0 +1,216 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18c294e3a">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>Recognizing the importance of the United States-Japan relationship to safeguarding global security, prosperity, and human rights.;S. Res. 153 (ATS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-04-29</dateIngested>
+</extension>
+<titleInfo>
+ <title>Recognizing the importance of the United States-Japan relationship to safeguarding global security, prosperity, and human rights.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. Res. 153 (ATS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-04-28</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>6 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/2:</classification>
+<identifier type="local">P0b002ee18c294e3a</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114sres153ats</identifier>
+<identifier type="preferred citation">S. Res. 153</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325577</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate resolutions</identifier>
+<identifier type="former package identifier">f:sr153_ats.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114sres153ats/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres153ats/html/BILLS-114sres153ats.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres153ats/pdf/BILLS-114sres153ats.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres153ats/xml/BILLS-114sres153ats.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-04-29</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-12</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114sres153ats</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Bob Corker</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Benjamin L. Cardin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Cory Gardner</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Marco Rubio</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jeanne Shaheen</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mazie K. Hirono</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Brian Schatz</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robert Menendez</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David Perdue</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<extension>
+ <docClass>sres</docClass>
+ <accessId>BILLS-114sres153ats</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>153</billNumber>
+ <billVersion reprint="false">ats</billVersion>
+ <fileSuffix>ats</fileSuffix>
+ <officialTitle>Recognizing the importance of the United States-Japan relationship to safeguarding global security, prosperity, and human rights.</officialTitle>
+ <action date="2015-04-28">Mr. Corker (for himself, Mr. Cardin, Mr. Gardner, Mr. Rubio, Mrs. Shaheen, Ms. Hirono, Mr. Schatz, Mr. Menendez, and Mr. Perdue) submitted the following resolution; which was considered and agreed to</action>
+ <congMember authorityId="1825" bioGuideId="C001071" chamber="S" congress="114" gpoId="8294" party="R" role="SPONSOR" state="TN">
+                      <name type="parsed">Mr. Corker</name>
+                      <name type="authority-fnf">Bob Corker</name>
+                      <name type="authority-lnf">Corker, Bob</name>
+                </congMember>
+ <congMember authorityId="174" bioGuideId="C000141" chamber="S" congress="114" gpoId="8287" party="D" role="COSPONSOR" state="MD">
+                      <name type="parsed">Mr. Cardin</name>
+                      <name type="authority-fnf">Benjamin L. Cardin</name>
+                      <name type="authority-lnf">Cardin, Benjamin L.</name>
+                      <name type="authority-other">Benjamin Cardin</name>
+                </congMember>
+ <congMember authorityId="1998" bioGuideId="G000562" chamber="S" congress="114" gpoId="7862" party="R" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Gardner</name>
+                      <name type="authority-fnf">Cory Gardner</name>
+                      <name type="authority-lnf">Gardner, Cory</name>
+                </congMember>
+ <congMember authorityId="2084" bioGuideId="R000595" chamber="S" congress="114" gpoId="8242" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Rubio</name>
+                      <name type="authority-fnf">Marco Rubio</name>
+                      <name type="authority-lnf">Rubio, Marco</name>
+                </congMember>
+ <congMember authorityId="1901" bioGuideId="S001181" chamber="S" congress="114" gpoId="8276" party="D" role="COSPONSOR" state="NH">
+                      <name type="parsed">Mrs. Shaheen</name>
+                      <name type="authority-fnf">Jeanne Shaheen</name>
+                      <name type="authority-lnf">Shaheen, Jeanne</name>
+                </congMember>
+ <congMember authorityId="1844" bioGuideId="H001042" chamber="S" congress="114" gpoId="7913" party="D" role="COSPONSOR" state="HI">
+                      <name type="parsed">Ms. Hirono</name>
+                      <name type="authority-fnf">Mazie K. Hirono</name>
+                      <name type="authority-lnf">Hirono, Mazie K.</name>
+                      <name type="authority-other">Ms. Mazie Hirono</name>
+                </congMember>
+ <congMember authorityId="2173" bioGuideId="S001194" chamber="S" congress="114" party="D" role="COSPONSOR" state="HI">
+                      <name type="parsed">Mr. Schatz</name>
+                      <name type="authority-fnf">Brian Schatz</name>
+                      <name type="authority-lnf">Schatz, Brian</name>
+                </congMember>
+ <congMember authorityId="791" bioGuideId="M000639" chamber="S" congress="114" gpoId="8239" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Menendez</name>
+                      <name type="authority-fnf">Robert Menendez</name>
+                      <name type="authority-lnf">Menendez, Robert</name>
+                </congMember>
+ <congMember authorityId="2286" bioGuideId="P000612" chamber="S" congress="114" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Perdue</name>
+                      <name type="authority-fnf">David Perdue</name>
+                      <name type="authority-lnf">Perdue, David</name>
+                      <name type="authority-other">Mr. David Alfred Perdue</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

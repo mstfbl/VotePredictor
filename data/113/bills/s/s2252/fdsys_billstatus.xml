@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-04-10</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2014-04-10</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2014-04-10</introducedDate>
+    <updateDate>2016-10-25T16:29:47Z</updateDate>
+    <createDate>2014-04-11T07:23:08Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssbk00</systemCode>
+          <activities>
+            <item>
+              <date>2014-04-10T21:23:17Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001069</bioguideId>
+        <firstName>Heidi</firstName>
+        <identifiers>
+          <lisID>2174</lisID>
+          <gpoId />
+          <bioguideId>H001069</bioguideId>
+        </identifiers>
+        <state>ND</state>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <lastName>Heitkamp</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName>STEVEN</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000360</bioguideId>
+        <firstName>MARK</firstName>
+        <identifiers>
+          <lisID>1647</lisID>
+          <gpoId>8285</gpoId>
+          <bioguideId>K000360</bioguideId>
+        </identifiers>
+        <state>IL</state>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Sen. Kirk, Mark Steven [R-IL]</fullName>
+        <lastName>KIRK</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000550</bioguideId>
+        <firstName>MARY</firstName>
+        <identifiers>
+          <lisID>1546</lisID>
+          <gpoId>8251</gpoId>
+          <bioguideId>L000550</bioguideId>
+        </identifiers>
+        <state>LA</state>
+        <sponsorshipDate>2014-04-11</sponsorshipDate>
+        <fullName>Sen. Landrieu, Mary L. [D-LA]</fullName>
+        <lastName>LANDRIEU</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000575</bioguideId>
+        <firstName>Roy</firstName>
+        <identifiers>
+          <gpoId>8313</gpoId>
+          <lisID>1464</lisID>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+        <state>MO</state>
+        <sponsorshipDate>2014-04-29</sponsorshipDate>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <lastName>Blunt</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000560</bioguideId>
+        <firstName>TOM</firstName>
+        <identifiers>
+          <lisID>212</lisID>
+          <bioguideId>C000560</bioguideId>
+          <gpoId>8293</gpoId>
+        </identifiers>
+        <state>OK</state>
+        <sponsorshipDate>2014-04-30</sponsorshipDate>
+        <fullName>Sen. Coburn, Tom [R-OK]</fullName>
+        <lastName>COBURN</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName>RAY</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000542</bioguideId>
+        <firstName>DANIEL</firstName>
+        <identifiers>
+          <lisID>209</lisID>
+          <gpoId>8299</gpoId>
+          <bioguideId>C000542</bioguideId>
+        </identifiers>
+        <state>IN</state>
+        <sponsorshipDate>2014-05-01</sponsorshipDate>
+        <fullName>Sen. Coats, Daniel [R-IN]</fullName>
+        <lastName>COATS</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001261</bioguideId>
+        <firstName>John</firstName>
+        <identifiers>
+          <lisID>1881</lisID>
+          <bioguideId>B001261</bioguideId>
+          <gpoId>8300</gpoId>
+        </identifiers>
+        <state>WY</state>
+        <sponsorshipDate>2014-05-01</sponsorshipDate>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <lastName>Barrasso</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName>B.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>E000285</bioguideId>
+        <firstName>MICHAEL</firstName>
+        <identifiers>
+          <gpoId>8328</gpoId>
+          <lisID>1542</lisID>
+          <bioguideId>E000285</bioguideId>
+        </identifiers>
+        <state>WY</state>
+        <sponsorshipDate>2014-06-09</sponsorshipDate>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <lastName>ENZI</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName>R.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000250</bioguideId>
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <lisID>1534</lisID>
+          <gpoId>8257</gpoId>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+        <state>SD</state>
+        <sponsorshipDate>2014-07-14</sponsorshipDate>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <lastName>THUNE</lastName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Community Bank Preservation Act of 2014</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Community Bank Preservation Act of 2014</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to reaffirm the importance of community banking and community banking regulatory experience on the Federal Reserve Board of Governors, to ensure that the Federal Reserve Board of Governors has a member who has previous experience in community banking or community banking supervision, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Community Bank Preservation Act of 2014</title>
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2014-06-20T15:42:20Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Community Bank Preservation Act of 2014 - Amends the Federal Reserve Act to require that membership on the Board of Governors of the Federal Reserve include at least one person with demonstrated experience working in or supervising community banks having less than $10 billion total assets.</p>]]></text>
+          <updateDate>2014-04-10T04:00:00Z</updateDate>
+          <actionDate>2014-04-10</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Banking and financial institutions regulation</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal Reserve System</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Monetary policy</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <actionDate>2014-04-10</actionDate>
+    </latestAction>
+    <billNumber>2252</billNumber>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>David</firstName>
+        <party>R</party>
+        <fullName>Sen. Vitter, David [R-LA]</fullName>
+        <bioguideId>V000127</bioguideId>
+        <identifiers>
+          <bioguideId>V000127</bioguideId>
+          <lisID>1609</lisID>
+          <gpoId>8267</gpoId>
+        </identifiers>
+        <lastName>Vitter</lastName>
+        <middleName />
+        <state>LA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+
