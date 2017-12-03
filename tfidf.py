@@ -48,7 +48,7 @@ def calcInverseDocumentFrequency(allSeenWords,tfDict):
 def calcTF_IDF(tfDict,idfDict):
     tfidfDict = {}
     for billCode in tfDict:
-        for word in idfDict:
+        for word in tfDict[billCode]:
             tfidfDict[word] = tfDict[billCode][word] * idfDict[word]
     return tfidfDict
 
