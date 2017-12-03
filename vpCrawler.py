@@ -25,7 +25,7 @@ def main():
                     mergedData[billCode]["votes"] = data["votes"]
             
     with open('mergedData.json', 'w') as f:
-     json.dump(mergedData, f)
+     json.dump(mergedData, f, sort_keys=True, indent=4, separators=(',', ': '))
         
 if __name__ == "__main__":
     main()
