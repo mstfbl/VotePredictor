@@ -5,7 +5,6 @@ from pprint import pprint
 def getDateOfBill(fullDate):
     return fullDate[:10]
 
-
 def main():
     parentPath = "./years/"
     startingYear = 2015
