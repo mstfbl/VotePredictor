@@ -1,0 +1,223 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18c21b5b5">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To improve cybersecurity in the United States through enhanced sharing of information about cybersecurity threats, to amend the Homeland Security Act of 2002 to enhance multi-directional sharing of information related to cybersecurity risks and strengthen privacy and civil liberties protections, and for other purposes.;Protecting Cyber Networks Act;H.R. 1560 (EH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-04-24</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To improve cybersecurity in the United States through enhanced sharing of information about cybersecurity threats, to amend the Homeland Security Act of 2002 to enhance multi-directional sharing of information related to cybersecurity risks and strengthen privacy and civil liberties protections, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Protecting Cyber Networks Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 1560 (EH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-04-22</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>122 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18c21b5b5</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1560eh</identifier>
+<identifier type="preferred citation">H.R. 1560</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h1560_eh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1560eh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1560eh/html/BILLS-114hr1560eh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1560eh/pdf/BILLS-114hr1560eh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1560eh/xml/BILLS-114hr1560eh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-04-24</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-12</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr1560eh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 2302(b)(8)</partNumber>
+  <partNumber>Title 5 Section 552a</partNumber>
+  <partNumber>Title 5 Section 552</partNumber>
+  <partNumber>Title 5 Section 552(b)(3)</partNumber>
+  <partNumber>Title 5 Section 7211</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 2302(b)(8)</identifier>
+ <identifier type="USC citation">5 U.S.C. 552a</identifier>
+ <identifier type="USC citation">5 U.S.C. 552</identifier>
+ <identifier type="USC citation">5 U.S.C. 552(b)(3)</identifier>
+ <identifier type="USC citation">5 U.S.C. 7211</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 6 Section 113</partNumber>
+  <partNumber>Title 6 Section 131</partNumber>
+  <partNumber>Title 6 Section 141et seq.</partNumber>
+  <partNumber>Title 6 Section 148</partNumber>
+  <partNumber>Title 6 Section 149</partNumber>
+  <partNumber>Title 6 Section 181et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">6 U.S.C. 113</identifier>
+ <identifier type="USC citation">6 U.S.C. 131</identifier>
+ <identifier type="USC citation">6 U.S.C. 141et seq.</identifier>
+ <identifier type="USC citation">6 U.S.C. 148</identifier>
+ <identifier type="USC citation">6 U.S.C. 149</identifier>
+ <identifier type="USC citation">6 U.S.C. 181et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 1034</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 1034</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Section 1030</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. 1030</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 450b</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 450b</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 2000ee-1</partNumber>
+  <partNumber>Title 42 Section 2000ee</partNumber>
+  <partNumber>Title 42 Section 2000ee(e)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 2000ee-1</identifier>
+ <identifier type="USC citation">42 U.S.C. 2000ee</identifier>
+ <identifier type="USC citation">42 U.S.C. 2000ee(e)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 44 Section 3502</partNumber>
+</titleInfo>
+ <identifier type="USC citation">44 U.S.C. 3502</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 50 Section 1801</partNumber>
+  <partNumber>Title 50 Section 3003</partNumber>
+  <partNumber>Title 50 Section 3021et seq.</partNumber>
+  <partNumber>Title 50 Section 3045</partNumber>
+  <partNumber>Title 50 Section 3234</partNumber>
+</titleInfo>
+ <identifier type="USC citation">50 U.S.C. 1801</identifier>
+ <identifier type="USC citation">50 U.S.C. 3003</identifier>
+ <identifier type="USC citation">50 U.S.C. 3021et seq.</identifier>
+ <identifier type="USC citation">50 U.S.C. 3045</identifier>
+ <identifier type="USC citation">50 U.S.C. 3234</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr1560eh</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>1560</billNumber>
+ <billVersion reprint="false">eh</billVersion>
+ <fileSuffix>eh</fileSuffix>
+ <shortTitle level="title" type="level">Protecting Cyber Networks Act</shortTitle>
+ <officialTitle>To improve cybersecurity in the United States through enhanced sharing of information about cybersecurity threats, to amend the Homeland Security Act of 2002 to enhance multi-directional sharing of information related to cybersecurity risks and strengthen privacy and civil liberties protections, and for other purposes.</officialTitle>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section detail="(b)(8)" number="2302"></section>
+                      <section number="552a"></section>
+                      <section number="552"></section>
+                      <section detail="(b)(3)" number="552"></section>
+                      <section number="7211"></section>
+                </USCode>
+ <USCode title="6">
+                      <section number="113"></section>
+                      <section number="131"></section>
+                      <section detail="et seq." number="141"></section>
+                      <section number="148"></section>
+                      <section number="149"></section>
+                      <section detail="et seq." number="181"></section>
+                </USCode>
+ <USCode title="10">
+                      <section number="1034"></section>
+                </USCode>
+ <USCode title="18">
+                      <section number="1030"></section>
+                </USCode>
+ <USCode title="25">
+                      <section number="450b"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="2000ee-1"></section>
+                      <section number="2000ee"></section>
+                      <section detail="(e)" number="2000ee"></section>
+                </USCode>
+ <USCode title="44">
+                      <section number="3502"></section>
+                </USCode>
+ <USCode title="50">
+                      <section number="1801"></section>
+                      <section number="3003"></section>
+                      <section detail="et seq." number="3021"></section>
+                      <section number="3045"></section>
+                      <section number="3234"></section>
+                </USCode>
+</extension>
+</mods>
