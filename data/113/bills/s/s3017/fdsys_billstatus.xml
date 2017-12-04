@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2014-12-12</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors />
+    <recordedVotes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <links />
+      <actionDate>2014-12-12</actionDate>
+    </latestAction>
+    <relatedBills />
+    <updateDate>2016-10-25T16:33:01Z</updateDate>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionDate>2014-12-12</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2014-12-12</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2015-03-24T19:43:14Z</lastSummaryUpdateDate>
+          <actionDate>2014-12-12</actionDate>
+          <text><![CDATA[<p>Sage-Grouse Habitat Conservation and Restoration Act of 2014 - Provides a categorical  exclusion under the National Environmental  Policy Act of 1969 (NEPA) for a vegetation management project by the  Bureau of Land  Management (BLM) or the Forest Service involving removal or  treatment of  any Pinyon or Juniper tree to conserve or restore the  habitat of the greater sage-grouse.</p> <p>(Under NEPA a categorical exclusion is a category of actions which do not individually or cumulatively have a significant effect on the human environment and which have been found to have no such effect in procedures adopted by a federal agency in implementing environmental regulations and for which, therefore, neither an Environmental Assessment nor an Environmental Impact Statement is required.)</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2014-12-12T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Birds</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Sage-Grouse Habitat Conservation and Restoration Act of 2014</title>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <lastName>HATCH</lastName>
+        <bioguideId>H000338</bioguideId>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <identifiers>
+          <gpoId>8314</gpoId>
+          <lisID>1351</lisID>
+          <bioguideId>H000338</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>ORRIN</firstName>
+        <middleName>GRANT</middleName>
+        <state>UT</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2014-12-13T01:51:57Z</createDate>
+    <billNumber>3017</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssev00</systemCode>
+          <activities>
+            <item>
+              <date>2014-12-13T02:13:43Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Environment and Public Works Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Sage-Grouse Habitat Conservation and Restoration Act of 2014</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to provide a categorical exclusion under the National Environmental Policy Act of 1969 to allow the Director of the Bureau of Land Management and the Chief of the Forest Service to remove Pinyon-Juniper trees to conserve and restore the habitat of the greater sage-grouse.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Sage-Grouse Habitat Conservation and Restoration Act of 2014</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

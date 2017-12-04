@@ -1,0 +1,411 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18c468fb8">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To authorize appropriations for assistance under the Low-Income Home Energy Assistance Act of 1981, and for other purposes.;Home Energy Utility Assistance Act;H.R. 2226 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-05-09</dateIngested>
+</extension>
+<titleInfo>
+ <title>To authorize appropriations for assistance under the Low-Income Home Energy Assistance Act of 1981, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Home Energy Utility Assistance Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2226 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-05-01</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>2 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18c468fb8</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2226ih</identifier>
+<identifier type="preferred citation">H.R. 2226</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2226_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2226ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2226ih/html/BILLS-114hr2226ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2226ih/pdf/BILLS-114hr2226ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2226ih/xml/BILLS-114hr2226ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-05-09</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-12</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr2226ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Donald M. Payne, Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Takai</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Donald Norcross</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Sanford D. Bishop, Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bonnie Watson Coleman</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Eleanor Holmes Norton</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Frederica S. Wilson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Yvette D. Clarke</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Barbara Lee</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Sheila Jackson Lee</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Brian Higgins</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Charles B. Rangel</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jared Polis</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gregorio Kilili Camacho Sablan</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Frank A. LoBiondo</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Alma S. Adams</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Peter T. King</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Leonard Lance</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Takano</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Lewis</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Education and the Workforce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Energy and Commerce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 8621(b)</partNumber>
+  <partNumber>Title 42 Section 8624(b)(8)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 8621(b)</identifier>
+ <identifier type="USC citation">42 U.S.C. 8624(b)(8)</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr2226ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>2226</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Home Energy Utility Assistance Act</shortTitle>
+ <officialTitle>To authorize appropriations for assistance under the Low-Income Home Energy Assistance Act of 1981, and for other purposes.</officialTitle>
+ <action date="2015-05-01">Mr. Payne (for himself, Mr. Takai, Mr. Norcross, Mr. Bishop of Georgia, Mrs. Watson Coleman, Ms. Norton, Ms. Wilson of Florida, Ms. Clarke of New York, Ms. Lee, Ms. Jackson Lee, Mr. Higgins, Mr. Rangel, Mr. Polis, Mr. Sablan, Mr. LoBiondo, Ms. Adams, Mr. King of New York, Mr. Lance, Mr. Takano, and Mr. Lewis) introduced the following bill; which was referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <congCommittee authorityId="hsed00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Education and the Workforce</name>
+                      <name type="authority-short">Education and the Workforce</name>
+                </congCommittee>
+ <congCommittee authorityId="hsif00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Energy and Commerce</name>
+                      <name type="authority-short">Energy and Commerce</name>
+                </congCommittee>
+ <congMember authorityId="2097" bioGuideId="P000604" chamber="H" congress="114" gpoId="8373" party="D" role="SPONSOR" state="NJ">
+                      <name type="parsed">Mr. Payne</name>
+                      <name type="authority-fnf">Donald M. Payne, Jr.</name>
+                      <name type="authority-lnf">Payne, Donald M., Jr.</name>
+                      <name type="authority-other">Mr. Donald Payne Jr.</name>
+                </congMember>
+ <congMember authorityId="2240" bioGuideId="T000473" chamber="H" congress="114" party="D" role="COSPONSOR" state="HI">
+                      <name type="parsed">Mr. Takai</name>
+                      <name type="authority-fnf">Mark Takai</name>
+                      <name type="authority-lnf">Takai, Mark</name>
+                </congMember>
+ <congMember authorityId="2202" bioGuideId="N000188" chamber="H" congress="114" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Norcross</name>
+                      <name type="authority-fnf">Donald Norcross</name>
+                      <name type="authority-lnf">Norcross, Donald</name>
+                </congMember>
+ <congMember authorityId="91" bioGuideId="B000490" chamber="H" congress="114" gpoId="7899" party="D" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Bishop of Georgia</name>
+                      <name type="authority-fnf">Sanford D. Bishop, Jr.</name>
+                      <name type="authority-lnf">Bishop, Sanford D., Jr.</name>
+                      <name type="authority-other">Sanford Bishop Jr.</name>
+                </congMember>
+ <congMember authorityId="2259" bioGuideId="W000822" chamber="H" congress="114" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mrs. Watson Coleman</name>
+                      <name type="authority-fnf">Bonnie Watson Coleman</name>
+                      <name type="authority-lnf">Watson Coleman, Bonnie</name>
+                </congMember>
+ <congMember authorityId="868" bioGuideId="N000147" chamber="H" congress="114" gpoId="7871" party="D" role="COSPONSOR" state="DC">
+                      <name type="parsed">Ms. Norton</name>
+                      <name type="authority-fnf">Eleanor Holmes Norton</name>
+                      <name type="authority-lnf">Norton, Eleanor Holmes</name>
+                      <name type="authority-other">Eleanor Norton</name>
+                </congMember>
+ <congMember authorityId="2004" bioGuideId="W000808" chamber="H" congress="114" gpoId="7889" party="D" role="COSPONSOR" state="FL">
+                      <name type="parsed">Ms. Wilson of Florida</name>
+                      <name type="authority-fnf">Frederica S. Wilson</name>
+                      <name type="authority-lnf">Wilson, Frederica S.</name>
+                      <name type="authority-other">Frederica Wilson</name>
+                </congMember>
+ <congMember authorityId="1864" bioGuideId="C001067" chamber="H" congress="114" gpoId="8072" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Ms. Clarke of New York</name>
+                      <name type="authority-fnf">Yvette D. Clarke</name>
+                      <name type="authority-lnf">Clarke, Yvette D.</name>
+                      <name type="authority-other">Ms. Yvette Clarke</name>
+                </congMember>
+ <congMember authorityId="1501" bioGuideId="L000551" chamber="H" congress="114" gpoId="7814" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Lee</name>
+                      <name type="authority-fnf">Barbara Lee</name>
+                      <name type="authority-lnf">Lee, Barbara</name>
+                </congMember>
+ <congMember authorityId="588" bioGuideId="J000032" chamber="H" congress="114" gpoId="8174" party="D" role="COSPONSOR" state="TX">
+                      <name type="parsed">Ms. Jackson Lee</name>
+                      <name type="authority-fnf">Sheila Jackson Lee</name>
+                      <name type="authority-lnf">Jackson Lee, Sheila</name>
+                </congMember>
+ <congMember authorityId="1794" bioGuideId="H001038" chamber="H" congress="114" gpoId="8088" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Higgins</name>
+                      <name type="authority-fnf">Brian Higgins</name>
+                      <name type="authority-lnf">Higgins, Brian</name>
+                </congMember>
+ <congMember authorityId="944" bioGuideId="R000053" chamber="H" congress="114" gpoId="8076" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Rangel</name>
+                      <name type="authority-fnf">Charles B. Rangel</name>
+                      <name type="authority-lnf">Rangel, Charles B.</name>
+                      <name type="authority-other">Charles Rangel</name>
+                </congMember>
+ <congMember authorityId="1910" bioGuideId="P000598" chamber="H" congress="114" gpoId="7860" party="D" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Polis</name>
+                      <name type="authority-fnf">Jared Polis</name>
+                      <name type="authority-lnf">Polis, Jared</name>
+                </congMember>
+ <congMember authorityId="1962" bioGuideId="S001177" chamber="H" congress="114" gpoId="8018" party="D" role="COSPONSOR" state="MP">
+                      <name type="parsed">Mr. Sablan</name>
+                      <name type="authority-fnf">Gregorio Kilili Camacho Sablan</name>
+                      <name type="authority-lnf">Sablan, Gregorio Kilili Camacho</name>
+                      <name type="authority-other">Gregorio Sablan</name>
+                </congMember>
+ <congMember authorityId="699" bioGuideId="L000554" chamber="H" congress="114" gpoId="8044" party="R" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. LoBiondo</name>
+                      <name type="authority-fnf">Frank A. LoBiondo</name>
+                      <name type="authority-lnf">LoBiondo, Frank A.</name>
+                      <name type="authority-other">Frank Lobiondo</name>
+                </congMember>
+ <congMember authorityId="2201" bioGuideId="A000370" chamber="H" congress="114" party="D" role="COSPONSOR" state="NC">
+                      <name type="parsed">Ms. Adams</name>
+                      <name type="authority-fnf">Alma S. Adams</name>
+                      <name type="authority-lnf">Adams, Alma S.</name>
+                      <name type="authority-other">Ms. Alma Adams</name>
+                </congMember>
+ <congMember authorityId="635" bioGuideId="K000210" chamber="H" congress="114" gpoId="8064" party="R" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. King of New York</name>
+                      <name type="authority-fnf">Peter T. King</name>
+                      <name type="authority-lnf">King, Peter T.</name>
+                      <name type="authority-other">Peter King</name>
+                </congMember>
+ <congMember authorityId="1936" bioGuideId="L000567" chamber="H" congress="114" gpoId="8049" party="R" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Lance</name>
+                      <name type="authority-fnf">Leonard Lance</name>
+                      <name type="authority-lnf">Lance, Leonard</name>
+                </congMember>
+ <congMember authorityId="2110" bioGuideId="T000472" chamber="H" congress="114" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Takano</name>
+                      <name type="authority-fnf">Mark Takano</name>
+                      <name type="authority-lnf">Takano, Mark</name>
+                </congMember>
+ <congMember authorityId="688" bioGuideId="L000287" chamber="H" congress="114" gpoId="7902" party="D" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Lewis</name>
+                      <name type="authority-fnf">John Lewis</name>
+                      <name type="authority-lnf">Lewis, John</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="42">
+                      <section detail="(b)" number="8621"></section>
+                      <section detail="(b)(8)" number="8624"></section>
+                </USCode>
+</extension>
+</mods>

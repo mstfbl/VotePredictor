@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2014-03-20</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <activities>
+                <item>
+                  <date>2014-03-20T14:34:41Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2014-01-09T20:06:06Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <date>2014-01-10T17:00:04Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <activities>
+            <item>
+              <date>2014-01-09T20:06:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2014-01-08T23:11:26Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2013-06-17T20:31:28Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2013-06-18T07:08:42Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2014-03-20</actionDate>
+        <committee>
+          <systemCode>hsju08</systemCode>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-01-10</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <text>Referred to House Judiciary</text>
+        <links />
+        <actionDate>2014-01-09</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H11100-A</actionCode>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <links />
+        <actionDate>2014-01-09</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <text>Referred to House Energy and Commerce</text>
+        <links />
+        <actionDate>2014-01-09</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H14000</actionCode>
+        <type>Floor</type>
+        <actionTime>12:30:42</actionTime>
+        <text>Received in the House.</text>
+        <committee />
+        <links />
+        <actionDate>2014-01-09</actionDate>
+      </item>
+      <item>
+        <actionDate>2014-01-09</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2014-01-08</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S185</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S185</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (text: CR S185)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>17000</actionCode>
+        <type>Floor</type>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S185)</text>
+        <links>
+          <link>
+            <name>S185</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S185</url>
+          </link>
+        </links>
+        <actionDate>2014-01-08</actionDate>
+      </item>
+      <item>
+        <actionDate>2014-01-08</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S185</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S185</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S185)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionCode>14500</actionCode>
+        <type>Committee</type>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S185)</text>
+        <links>
+          <link>
+            <name>S185</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S185</url>
+          </link>
+        </links>
+        <actionDate>2014-01-08</actionDate>
+      </item>
+      <item>
+        <actionDate>2013-06-17</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-06-17</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>7</senate>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <referredToCommittee>1</referredToCommittee>
+        <committeeDischarged>1</committeeDischarged>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <sentToHouse>1</sentToHouse>
+        <passedSenate>1</passedSenate>
+        <billReferrals>2</billReferrals>
+        <introducedInSenate>1</introducedInSenate>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2013-06-17</introducedDate>
+    <billNumber>1171</billNumber>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Amends the Controlled Substances Act to prohibit a veterinarian who is registered to manufacture or distribute controlled substances from being required to have a separate registration in order to transport and dispense controlled substances in the usual course of veterinary practice at a site other than such veterinarian's principal place of business or professional practice, as long as the site of transporting and dispensing is located in a state where the veterinarian is licensed to practice.</p>]]></text>
+          <updateDate>2013-06-17T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2013-08-15T18:59:59Z</lastSummaryUpdateDate>
+          <actionDate>2013-06-17</actionDate>
+        </item>
+        <item>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Amends the Controlled Substances Act to prohibit a veterinarian who is registered to manufacture or distribute controlled substances from being required to have a separate registration in order to transport and dispense controlled substances in the usual course of veterinary practice at a site other than such veterinarian's principal place of business or professional practice, as long as the site of transporting and dispensing is located in a state where the veterinarian is licensed to practice.</p>]]></text>
+          <updateDate>2014-01-08T13:45:06Z</updateDate>
+          <name>Passed Senate without amendment</name>
+          <versionCode>82</versionCode>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2014-02-03T19:43:32Z</lastSummaryUpdateDate>
+          <actionDate>2014-01-08</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Veterinary medicine and animal diseases</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>A bill to amend the Controlled Substances Act to allow a veterinarian to transport and dispense controlled substances in the usual course of veterinary practice outside of the registered location.</title>
+    <updateDate>2016-10-25T16:25:19Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to amend the Controlled Substances Act to allow a veterinarian to transport and dispense controlled substances in the usual course of veterinary practice outside of the registered location.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to amend the Controlled Substances Act to allow a veterinarian to transport and dispense controlled substances in the usual course of veterinary practice outside of the registered location.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>KS</state>
+        <firstName>JERRY</firstName>
+        <byRequestType />
+        <bioguideId>M000934</bioguideId>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <lastName>MORAN</lastName>
+        <party>R</party>
+        <middleName />
+        <identifiers>
+          <lisID>1507</lisID>
+          <gpoId>8307</gpoId>
+          <bioguideId>M000934</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>1528</number>
+        <type>HR</type>
+        <latestTitle>Veterinary Medicine Mobility Act of 2014</latestTitle>
+        <latestAction>
+          <actionDate>2014-08-01</actionDate>
+          <text>Became Public Law No: 113-143.</text>
+        </latestAction>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>950</number>
+        <type>S</type>
+        <latestTitle>Veterinary Medicine Mobility Act of 2013</latestTitle>
+        <latestAction>
+          <actionDate>2013-05-14</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <bioguideId>K000383</bioguideId>
+        <state>ME</state>
+        <sponsorshipDate>2013-06-17</sponsorshipDate>
+        <middleName />
+        <firstName>Angus</firstName>
+        <party>I</party>
+        <fullName>Sen. King, Angus S. Jr. [I-ME]</fullName>
+        <lastName>King</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>K000383</bioguideId>
+          <lisID>2185</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S000770</bioguideId>
+        <state>MI</state>
+        <sponsorshipDate>2013-06-17</sponsorshipDate>
+        <middleName>ANN</middleName>
+        <firstName>DEBORAH</firstName>
+        <party>D</party>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <lastName>STABENOW</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S000770</bioguideId>
+          <gpoId>8261</gpoId>
+          <lisID>1531</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C000567</bioguideId>
+        <state>MS</state>
+        <sponsorshipDate>2013-06-17</sponsorshipDate>
+        <middleName />
+        <firstName>Thad</firstName>
+        <party>R</party>
+        <fullName>Sen. Cochran, Thad [R-MS]</fullName>
+        <lastName>Cochran</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8292</gpoId>
+          <lisID>213</lisID>
+          <bioguideId>C000567</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000386</bioguideId>
+        <state>IA</state>
+        <sponsorshipDate>2013-06-17</sponsorshipDate>
+        <middleName>ERNEST</middleName>
+        <firstName>CHARLES</firstName>
+        <party>R</party>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <lastName>GRASSLEY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>G000386</bioguideId>
+          <lisID>457</lisID>
+          <gpoId>8316</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001261</bioguideId>
+        <state>WY</state>
+        <sponsorshipDate>2013-06-17</sponsorshipDate>
+        <middleName />
+        <firstName>John</firstName>
+        <party>R</party>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <lastName>Barrasso</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1881</lisID>
+          <bioguideId>B001261</bioguideId>
+          <gpoId>8300</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>E000285</bioguideId>
+        <state>WY</state>
+        <sponsorshipDate>2013-06-17</sponsorshipDate>
+        <middleName>B.</middleName>
+        <firstName>MICHAEL</firstName>
+        <party>R</party>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <lastName>ENZI</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>E000285</bioguideId>
+          <gpoId>8328</gpoId>
+          <lisID>1542</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000555</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2013-06-17</sponsorshipDate>
+        <middleName>E.</middleName>
+        <firstName>Kirsten</firstName>
+        <party>D</party>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <lastName>Gillibrand</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1866</lisID>
+          <bioguideId>G000555</bioguideId>
+          <gpoId>8336</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>R000307</bioguideId>
+        <state>KS</state>
+        <sponsorshipDate>2013-07-09</sponsorshipDate>
+        <middleName />
+        <firstName>PAT</firstName>
+        <party>R</party>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <lastName>ROBERTS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>968</lisID>
+          <gpoId>8275</gpoId>
+          <bioguideId>R000307</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>F000463</bioguideId>
+        <state>NE</state>
+        <sponsorshipDate>2013-07-11</sponsorshipDate>
+        <middleName />
+        <firstName>Deb</firstName>
+        <party>R</party>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <lastName>Fischer</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2179</lisID>
+          <gpoId />
+          <bioguideId>F000463</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001035</bioguideId>
+        <state>ME</state>
+        <sponsorshipDate>2013-07-16</sponsorshipDate>
+        <middleName>MARGARET</middleName>
+        <firstName>SUSAN</firstName>
+        <party>R</party>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <lastName>COLLINS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>D000563</bioguideId>
+        <state>IL</state>
+        <sponsorshipDate>2013-11-12</sponsorshipDate>
+        <middleName>J.</middleName>
+        <firstName>RICHARD</firstName>
+        <party>D</party>
+        <fullName>Sen. Durbin, Richard [D-IL]</fullName>
+        <lastName>DURBIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+          <bioguideId>D000563</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001135</bioguideId>
+        <state>NC</state>
+        <sponsorshipDate>2013-12-19</sponsorshipDate>
+        <middleName />
+        <firstName>RICHARD</firstName>
+        <party>R</party>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <lastName>BURR</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001135</bioguideId>
+          <lisID>153</lisID>
+          <gpoId>8286</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <notes>
+      <item>
+        <text><![CDATA[For further action, see H.R.1528, which became Public Law 113-143 on 8/1/2014.]]></text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/1528</url>
+            <name>H.R.1528</name>
+          </link>
+        </links>
+      </item>
+    </notes>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

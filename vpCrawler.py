@@ -2,8 +2,8 @@ import os
 import json
 from pprint import pprint
 
-def crawl():
-    pass
+def getDateOfBill(fullDate):
+    return fullDate[:10]
 
 
 def main():
@@ -15,17 +15,16 @@ def main():
         currentParentPath = parentPath+str(year)+"/"
         for directory in os.listdir(currentParentPath):
             if not directory.startswith('.'): #Ignore hidden files/dirs
-                count += 1
                 currentParentPath = parentPath+str(year)+"/"+str(directory)
                 data = json.load(open(currentParentPath+'/data.json'))
                 if "bill" in data and "amendment" not in data:
-                    billCode = str(startingYear) + str(data["bill"]["type"])+str(data["bill"]["number"])
+                    count += 1
+                    billCode = getDateOfBill(data["date"]) + str(data["bill"]["type"])+str(data["bill"]["number"])
                     mergedData[billCode] = {}
                     mergedData[billCode]["bill"] = data["bill"]
                     mergedData[billCode]["votes"] = data["votes"]
             
     with open('mergedData.json', 'w') as f:
      json.dump(mergedData, f, sort_keys=True, indent=4, separators=(',', ': '))
-        
 if __name__ == "__main__":
     main()

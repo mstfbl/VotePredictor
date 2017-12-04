@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-07-30</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2014-07-30</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-07-30</introducedDate>
+    <updateDate>2016-10-25T16:31:50Z</updateDate>
+    <createDate>2014-07-31T05:20:47Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2014-07-30T19:15:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <lastName>Warner</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8269</gpoId>
+          <lisID>1897</lisID>
+          <bioguideId>W000805</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2014-07-30</sponsorshipDate>
+        <middleName>R.</middleName>
+        <bioguideId>W000805</bioguideId>
+        <state>VA</state>
+      </item>
+      <item>
+        <lastName>REED</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>949</lisID>
+          <gpoId>8272</gpoId>
+          <bioguideId>R000122</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>JOHN</firstName>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <middleName>F.</middleName>
+        <bioguideId>R000122</bioguideId>
+        <state>RI</state>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>A bill to require the National Credit Union Administration to provide pass-through share insurance for the deposits or shares of any interest on lawyers trust accounts, and for other purposes.</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to require the National Credit Union Administration to provide pass-through share insurance for the deposits or shares of any interest on lawyers trust accounts, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A bill to require the National Credit Union Administration to provide pass-through share insurance for the deposits or shares of any interest on lawyers trust accounts, and for other purposes.</title>
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Amends the Federal Credit Union Act regarding insured amounts payable in connection with a bankrupt state-chartered credit union for which the National Credit Union Administration (NCUA) Board is the liquidating agent. </p> <p>Revises requirements relating to the limitation to the standard maximum share insurance amount ($250,000) for the net amount of share insurance payable to any member at an insured credit union in the event of such a bankruptcy. Applies the limitation also to any person with funds lawfully held in a member account.</p> <p>Requires the Board to provide pass-through share insurance paid by certain lawyers administering deposits or shares of any interest on a lawyer's trust account (IOLTA), or paid by the escrow agent administering other similar escrow accounts.</p> <p>Defines "IOLTA" as a system in which lawyers place certain client funds in interest-bearing or dividend-bearing accounts, with the interest or dividends then used to fund programs such as legal service organizations providing services to clients in need.</p> <p>Treats IOLTAs as escrow accounts for share insurance purposes, and considers them as member accounts if the administering attorney or escrow agent is a member of the insured credit union in which the funds are held.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2014-07-30</actionDate>
+          <updateDate>2014-07-30T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-10-08T19:57:47Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes>
+      <item>
+        <links>
+          <link>
+            <name>H.R.3468</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/3468</url>
+          </link>
+        </links>
+        <text><![CDATA[For further action, see H.R.3468, which became Public Law 113-252 on 12/18/2014.]]></text>
+      </item>
+    </notes>
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <latestTitle>Credit Union Share Insurance Fund Parity Act</latestTitle>
+        <number>3468</number>
+        <latestAction>
+          <text>Became Public Law No: 113-252.</text>
+          <actionDate>2014-12-18</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>RELIEVE Act</latestTitle>
+        <number>2698</number>
+        <latestAction>
+          <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+          <actionDate>2014-09-16</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Bank accounts, deposits, capital</name>
+          </item>
+          <item>
+            <name>Banking and financial institutions regulation</name>
+          </item>
+          <item>
+            <name>Bankruptcy</name>
+          </item>
+          <item>
+            <name>Interest, dividends, interest rates</name>
+          </item>
+          <item>
+            <name>Lawyers and legal services</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <actionDate>2014-07-30</actionDate>
+    </latestAction>
+    <billNumber>2699</billNumber>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Angus</firstName>
+        <party>I</party>
+        <fullName>Sen. King, Angus S. Jr. [I-ME]</fullName>
+        <bioguideId>K000383</bioguideId>
+        <identifiers>
+          <lisID>2185</lisID>
+          <gpoId />
+          <bioguideId>K000383</bioguideId>
+        </identifiers>
+        <lastName>King</lastName>
+        <middleName />
+        <state>ME</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

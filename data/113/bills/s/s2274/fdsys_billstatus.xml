@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-04-30</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2014-04-30</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-04-30</introducedDate>
+    <updateDate>2016-10-25T16:29:54Z</updateDate>
+    <createDate>2014-05-01T07:19:38Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Energy and Natural Resources Committee</name>
+          <subcommittees />
+          <systemCode>sseg00</systemCode>
+          <activities>
+            <item>
+              <date>2014-04-30T22:40:27Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>AK</state>
+        <sponsorshipDate>2014-04-30</sponsorshipDate>
+        <bioguideId>B001265</bioguideId>
+        <firstName>Mark</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Begich, Mark [D-AK]</fullName>
+        <party>D</party>
+        <lastName>Begich</lastName>
+        <identifiers>
+          <lisID>1898</lisID>
+          <gpoId>8301</gpoId>
+          <bioguideId>B001265</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>ND</state>
+        <sponsorshipDate>2014-04-30</sponsorshipDate>
+        <bioguideId>H001069</bioguideId>
+        <firstName>Heidi</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <party>D</party>
+        <lastName>Heitkamp</lastName>
+        <identifiers>
+          <lisID>2174</lisID>
+          <gpoId />
+          <bioguideId>H001069</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>A bill to expedite decisions on applications for authorization to export natural gas, and for other purposes.</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to expedite decisions on applications for authorization to export natural gas, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to expedite decisions on applications for authorization to export natural gas, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2014-07-08T20:35:15Z</lastSummaryUpdateDate>
+          <updateDate>2014-04-30T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2014-04-30</actionDate>
+          <text><![CDATA[<p>Directs the Secretary of Energy (DOE) to issue a decision on an application for authorization to export natural gas within 90 days after the later of: (1) the end of the comment period for that decision as set forth in the Federal Register, or (2) the date of enactment of this Act. </p> <p>Grants original and exclusive jurisdiction to the U.S. Court of Appeals for the circuit in which the export facility under an application will be located over any civil action for the review of: (1) an order by the Secretary about the application, or (2) the&nbsp; failure of the Secretary to issue a decision on the application.</p> <p>Requires the Court, if it finds in a civil action that the Secretary has failed to issue a decision on an application, to order the Secretary to issue one within 30 days.</p> <p>Requires the Court to set any civil action brought under this Act on the docket, for expedited consideration, as soon as practical after the filing date of the initial pleading.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+          <actionDate>2014-07-22</actionDate>
+        </latestAction>
+        <latestTitle>Natural Gas Export Certainty Act of 2014</latestTitle>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>2638</number>
+      </item>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Received in the Senate.</text>
+          <actionDate>2014-06-26</actionDate>
+        </latestAction>
+        <latestTitle>Domestic Prosperity and Global Freedom Act</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>6</number>
+      </item>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+          <actionDate>2014-06-18</actionDate>
+        </latestAction>
+        <latestTitle>Natural Gas Export Promotion Act of 2014</latestTitle>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>2494</number>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Department of Energy</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2014-04-30</actionDate>
+    </latestAction>
+    <billNumber>2274</billNumber>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>MARK</firstName>
+        <party>D</party>
+        <fullName>Sen. Udall, Mark [D-CO]</fullName>
+        <bioguideId>U000038</bioguideId>
+        <identifiers>
+          <bioguideId>U000038</bioguideId>
+          <lisID>1595</lisID>
+          <gpoId>8259</gpoId>
+        </identifiers>
+        <lastName>UDALL</lastName>
+        <middleName />
+        <state>CO</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

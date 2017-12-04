@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2013-06-04T07:01:45Z</createDate>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <state>ME</state>
+        <bioguideId>C001035</bioguideId>
+        <sponsorshipDate>2013-06-03</sponsorshipDate>
+        <identifiers>
+          <lisID>1541</lisID>
+          <bioguideId>C001035</bioguideId>
+          <gpoId>8291</gpoId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <firstName>SUSAN</firstName>
+        <lastName>COLLINS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>MARGARET</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>HI</state>
+        <bioguideId>S001194</bioguideId>
+        <sponsorshipDate>2013-07-08</sponsorshipDate>
+        <identifiers>
+          <lisID>2173</lisID>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <firstName>Brian</firstName>
+        <lastName>Schatz</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <title>Streamlining Energy Efficiency for Schools Act of 2013</title>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-06-25</actionDate>
+        <committee>
+          <systemCode>sseg01</systemCode>
+          <name>Energy Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held. With printed Hearing: S.Hrg. 113-70.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-06-03</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2013-06-03</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <committeeReports />
+    <updateDate>2016-10-25T16:24:58Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Alternative and renewable resources</name>
+          </item>
+          <item>
+            <name>Building construction</name>
+          </item>
+          <item>
+            <name>Educational facilities and institutions</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Energy efficiency and conservation</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <latestAction>
+      <text>Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held. With printed Hearing: S.Hrg. 113-70.</text>
+      <actionDate>2013-06-25</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>U000038</bioguideId>
+        <state>CO</state>
+        <fullName>Sen. Udall, Mark [D-CO]</fullName>
+        <firstName>MARK</firstName>
+        <party>D</party>
+        <lastName>UDALL</lastName>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <lisID>1595</lisID>
+          <bioguideId>U000038</bioguideId>
+          <gpoId>8259</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <latestTitle>Streamlining Energy Efficiency for Schools Act of 2014</latestTitle>
+        <number>4092</number>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+          <actionDate>2014-06-24</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <laws />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>sseg00</systemCode>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>sseg01</systemCode>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2013-06-25T22:04:30Z</date>
+                </item>
+              </activities>
+              <name>Energy Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Energy and Natural Resources Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-06-03T19:50:42Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-06-03</actionDate>
+          <updateDate>2013-06-03T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2014-10-31T21:05:42Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Streamlining Energy Efficiency for Schools Act of 2013 - Amends the Energy Policy and Conservation Act to direct the Secretary of Energy (DOE), acting through the Office of Energy Efficiency and Renewable Energy, to act as the lead federal agency for coordinating and disseminating information on existing federal programs and assistance that may be used to help initiate, develop, and finance energy efficiency, renewable energy, and energy retrofitting projects for schools. </p> <p>Requires the Secretary to: (1) carry out a review of existing programs and financing mechanisms available in or from appropriate federal agencies with jurisdiction over energy financing and facilitation that are currently used or may be used for such purposes; (2) establish a federal cross-departmental collaborative coordination, education, and outreach effort to streamline communication and promote available federal opportunities and assistance for such projects that enables states, local educational agencies, and schools to use existing federal opportunities more effectively and to form partnerships with governors, state energy programs, local educational, financial, and energy officials, state and local officials, nonprofit organizations, and other appropriate entities to support project initiation; (3) provide technical assistance for states, local educational agencies, and schools to help develop and finance projects that meet specified requirements; (4) develop and maintain a single online resource website with contact information for relevant technical assistance and support staff in the Office for states, local educational agencies, and schools to effectively access and use federal opportunities and assistance to develop such projects; and (5) establish a process for recognition of schools that have successfully implemented such projects and are willing to serve as resources for other local educational agencies and schools to assist initiation of similar efforts.</p>]]></text>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <introducedDate>2013-06-03</introducedDate>
+    <billType>S</billType>
+    <congress>113</congress>
+    <billNumber>1084</billNumber>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Streamlining Energy Efficiency for Schools Act of 2013</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to amend the Energy Policy and Conservation Act to establish the Office of Energy Efficiency and Renewable Energy as the lead Federal agency for coordinating Federal, State, and local assistance provided to promote the energy retrofitting of schools.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Streamlining Energy Efficiency for Schools Act of 2013</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

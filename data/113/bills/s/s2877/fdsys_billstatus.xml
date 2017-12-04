@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Federal Debt Management Act of 2014</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to appropriately manage the debt of the United States by limiting the use of extraordinary measures.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Federal Debt Management Act of 2014</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <activities>
+            <item>
+              <date>2014-09-18T21:32:01Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>113</congress>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Federal Debt Management Act of 2014 - Limits the Department of the Treasury's authority to manage the debt of the United States by using extraordinary measures to prevent the public debt limit from being exceeded. </p> <p>Limits the authority of the Secretary of the Treasury to suspend the investing of amounts or the issuance of obligations for the Civil Service Retirement and Disability Fund, the Thrift Savings Fund, the Exchange Stabilization Fund, or any other fund or account for the purposes of preventing the public debt of the United States from exceeding the public debt limit. </p> <p>Requires the Secretary to submit to Congress additional information regarding the Daily Treasury Statement, including: (1) all cash flow and debt transaction information used in preparing the Daily Treasury Statement, and (2) forecasts for the cash flow and debt transactions of the federal government. </p>]]></text>
+          <actionDate>2014-09-18</actionDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2014-09-18T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-11-13T20:32:21Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <sponsors>
+      <item>
+        <middleName />
+        <firstName>David</firstName>
+        <identifiers>
+          <lisID>1609</lisID>
+          <gpoId>8267</gpoId>
+          <bioguideId>V000127</bioguideId>
+        </identifiers>
+        <lastName>Vitter</lastName>
+        <fullName>Sen. Vitter, David [R-LA]</fullName>
+        <party>R</party>
+        <byRequestType />
+        <bioguideId>V000127</bioguideId>
+        <state>LA</state>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <calendarNumbers />
+    <billType>S</billType>
+    <updateDate>2016-10-25T16:32:30Z</updateDate>
+    <cboCostEstimates />
+    <notes />
+    <latestAction>
+      <actionDate>2014-09-18</actionDate>
+      <links />
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </latestAction>
+    <createDate>2014-09-19T05:28:31Z</createDate>
+    <cosponsors />
+    <originChamber>Senate</originChamber>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-09-18</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2014-09-18</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <title>Federal Debt Management Act of 2014</title>
+    <relatedBills />
+    <billNumber>2877</billNumber>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2014-09-18</introducedDate>
+    <amendments />
+    <committeeReports />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

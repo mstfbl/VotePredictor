@@ -1,0 +1,183 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1904e80b3">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule relating to the extent to which an employer may offer an inducement to an employee for the employee&apos;s spouse to provide information about the spouse&apos;s manifestation of disease or disorder in connection with an employer-sponsored wellness program.;
+   		S.J. Res. 37 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-07-18</dateIngested>
+</extension>
+<titleInfo>
+ <title>Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule relating to the extent to which an employer may offer an inducement to an employee for the employee&apos;s spouse to provide information about the spouse&apos;s manifestation of disease or disorder in connection with an employer-sponsored wellness program.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S.J. Res. 37 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-07-14</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>2 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/3:</classification>
+<identifier type="local">P0b002ee1904e80b3</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114sjres37is</identifier>
+<identifier type="preferred citation">S.J. Res. 37</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325572</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate joint resolutions</identifier>
+<identifier type="former package identifier">f:sj37_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114sjres37is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sjres37is/html/BILLS-114sjres37is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sjres37is/pdf/BILLS-114sjres37is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sjres37is/xml/BILLS-114sjres37is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-07-18</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-07-19</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114sjres37is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Lamar Alexander</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Johnny Isakson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Pat Roberts</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David Perdue</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Health, Education, Labor, and Pensions</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Chapter 8</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. Chapter 8</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 2000ffet seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 2000ffet seq.</identifier>
+</relatedItem>
+<extension>
+ <docClass>sjres</docClass>
+ <accessId>BILLS-114sjres37is</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>37</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <action date="2016-07-14">Mr. Alexander (for himself, Mr. Isakson, Mr. Roberts, and Mr. Perdue) introduced the following joint resolution; which was read twice and referred to the Committee on Health, Education, Labor, and Pensions</action>
+ <congCommittee authorityId="sshr00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Health, Education, Labor, and Pensions</name>
+                      <name type="authority-short">HELP</name>
+                </congCommittee>
+ <congMember authorityId="1695" bioGuideId="A000360" chamber="S" congress="114" gpoId="8304" party="R" role="SPONSOR" state="TN">
+                      <name type="parsed">Mr. Alexander</name>
+                      <name type="authority-fnf">Lamar Alexander</name>
+                      <name type="authority-lnf">Alexander, Lamar</name>
+                </congMember>
+ <congMember authorityId="1608" bioGuideId="I000055" chamber="S" congress="114" gpoId="8323" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Isakson</name>
+                      <name type="authority-fnf">Johnny Isakson</name>
+                      <name type="authority-lnf">Isakson, Johnny</name>
+                </congMember>
+ <congMember authorityId="968" bioGuideId="R000307" chamber="S" congress="114" gpoId="8275" party="R" role="COSPONSOR" state="KS">
+                      <name type="parsed">Mr. Roberts</name>
+                      <name type="authority-fnf">Pat Roberts</name>
+                      <name type="authority-lnf">Roberts, Pat</name>
+                </congMember>
+ <congMember authorityId="2286" bioGuideId="P000612" chamber="S" congress="114" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Perdue</name>
+                      <name type="authority-fnf">David Perdue</name>
+                      <name type="authority-lnf">Perdue, David</name>
+                      <name type="authority-other">Mr. David Alfred Perdue</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <chapter number="8"></chapter>
+                </USCode>
+ <USCode title="42">
+                      <section detail="et seq." number="2000ff"></section>
+                </USCode>
+</extension>
+</mods>

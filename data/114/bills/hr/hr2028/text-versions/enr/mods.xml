@@ -1,0 +1,347 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee193076cee">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act Making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2016, and for other purposes.;Security Assistance Appropriations Act, 2017;Continued Health Benefits for Miners Act;H.R. 2028 (ENR)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-12-13</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act Making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2016, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Security Assistance Appropriations Act, 2017</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Continued Health Benefits for Miners Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2028 (ENR)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-12-13</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>28 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee193076cee</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2028enr</identifier>
+<identifier type="preferred citation">H.R. 2028</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2028_enr.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2028enr/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2028enr/html/BILLS-114hr2028enr.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2028enr/pdf/BILLS-114hr2028enr.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2028enr/xml/BILLS-114hr2028enr.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-12-13</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-12-13</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr2028enr</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 2 Section 1301et seq.</partNumber>
+  <partNumber>Title 2 Section 1351(e)(2)(C)</partNumber>
+  <partNumber>Title 2 Section 1961</partNumber>
+  <partNumber>Title 2 Section 4501</partNumber>
+  <partNumber>Title 2 Section 6154</partNumber>
+  <partNumber>Title 2 Section 6156</partNumber>
+  <partNumber>Title 2 Section 6314(e)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">2 U.S.C. 1301et seq.</identifier>
+ <identifier type="USC citation">2 U.S.C. 1351(e)(2)(C)</identifier>
+ <identifier type="USC citation">2 U.S.C. 1961</identifier>
+ <identifier type="USC citation">2 U.S.C. 4501</identifier>
+ <identifier type="USC citation">2 U.S.C. 6154</identifier>
+ <identifier type="USC citation">2 U.S.C. 6156</identifier>
+ <identifier type="USC citation">2 U.S.C. 6314(e)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 6 Section 279</partNumber>
+</titleInfo>
+ <identifier type="USC citation">6 U.S.C. 279</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 7 Section 935</partNumber>
+</titleInfo>
+ <identifier type="USC citation">7 U.S.C. 935</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 8 Section 1232</partNumber>
+</titleInfo>
+ <identifier type="USC citation">8 U.S.C. 1232</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 113(a)</partNumber>
+  <partNumber>Title 10 Section 2306b</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 113(a)</identifier>
+ <identifier type="USC citation">10 U.S.C. 2306b</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Section 207</partNumber>
+  <partNumber>Title 18 Section 207(e)(9)(M)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. 207</identifier>
+ <identifier type="USC citation">18 U.S.C. 207(e)(9)(M)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1087h(a)(4)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1087h(a)(4)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 23 Section 125</partNumber>
+</titleInfo>
+ <identifier type="USC citation">23 U.S.C. 125</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 30 Section 1232(h)(2)(C)</partNumber>
+  <partNumber>Title 30 Section 1232(i)(3)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">30 U.S.C. 1232(h)(2)(C)</identifier>
+ <identifier type="USC citation">30 U.S.C. 1232(i)(3)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 33 Section 3901et seq.</partNumber>
+  <partNumber>Title 33 Section 3908</partNumber>
+  <partNumber>Title 33 Section 3909</partNumber>
+  <partNumber>Title 33 Section 3912</partNumber>
+  <partNumber>Title 33 Section 701n</partNumber>
+</titleInfo>
+ <identifier type="USC citation">33 U.S.C. 3901et seq.</identifier>
+ <identifier type="USC citation">33 U.S.C. 3908</identifier>
+ <identifier type="USC citation">33 U.S.C. 3909</identifier>
+ <identifier type="USC citation">33 U.S.C. 3912</identifier>
+ <identifier type="USC citation">33 U.S.C. 701n</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 40 Chapter 51</partNumber>
+</titleInfo>
+ <identifier type="USC citation">40 U.S.C. Chapter 51</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 1769g(d)</partNumber>
+  <partNumber>Title 42 Section 247b-1</partNumber>
+  <partNumber>Title 42 Section 254c-8</partNumber>
+  <partNumber>Title 42 Section 280g-17</partNumber>
+  <partNumber>Title 42 Section 300u-11</partNumber>
+  <partNumber>Title 42 Section 3514a</partNumber>
+  <partNumber>Title 42 Section 6239note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 1769g(d)</identifier>
+ <identifier type="USC citation">42 U.S.C. 247b-1</identifier>
+ <identifier type="USC citation">42 U.S.C. 254c-8</identifier>
+ <identifier type="USC citation">42 U.S.C. 280g-17</identifier>
+ <identifier type="USC citation">42 U.S.C. 300u-11</identifier>
+ <identifier type="USC citation">42 U.S.C. 3514a</identifier>
+ <identifier type="USC citation">42 U.S.C. 6239note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 128 Page 2732</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">128 Stat. 2732</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-80</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-80</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-148</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-148</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 113-235</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 113-235</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 114-10</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 114-10</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 114-74</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 114-74</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 114-113</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 114-113</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 114-223</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 114-223</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr2028enr</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>JOINT</currentChamber>
+ <billNumber>2028</billNumber>
+ <billVersion reprint="false">enr</billVersion>
+ <fileSuffix>enr</fileSuffix>
+ <shortTitle level="division" type="level">Security Assistance Appropriations Act, 2017</shortTitle>
+ <shortTitle level="section" type="level">Continued Health Benefits for Miners Act</shortTitle>
+ <officialTitle>Making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2016, and for other purposes.</officialTitle>
+ <law congress="111" isPrivate="false" number="80"></law>
+ <law congress="111" isPrivate="false" number="148"></law>
+ <law congress="113" isPrivate="false" number="235"></law>
+ <law congress="114" isPrivate="false" number="10"></law>
+ <law congress="114" isPrivate="false" number="74"></law>
+ <law congress="114" isPrivate="false" number="113"></law>
+ <law congress="114" isPrivate="false" number="223"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="2">
+                      <section detail="et seq." number="1301"></section>
+                      <section detail="(e)(2)(C)" number="1351"></section>
+                      <section number="1961"></section>
+                      <section number="4501"></section>
+                      <section number="6154"></section>
+                      <section number="6156"></section>
+                      <section detail="(e)" number="6314"></section>
+                </USCode>
+ <USCode title="6">
+                      <section number="279"></section>
+                </USCode>
+ <USCode title="7">
+                      <section number="935"></section>
+                </USCode>
+ <USCode title="8">
+                      <section number="1232"></section>
+                </USCode>
+ <USCode title="10">
+                      <section detail="(a)" number="113"></section>
+                      <section number="2306b"></section>
+                </USCode>
+ <USCode title="18">
+                      <section number="207"></section>
+                      <section detail="(e)(9)(M)" number="207"></section>
+                </USCode>
+ <USCode title="20">
+                      <section detail="(a)(4)" number="1087h"></section>
+                </USCode>
+ <USCode title="23">
+                      <section number="125"></section>
+                </USCode>
+ <USCode title="30">
+                      <section detail="(h)(2)(C)" number="1232"></section>
+                      <section detail="(i)(3)" number="1232"></section>
+                </USCode>
+ <USCode title="33">
+                      <section detail="et seq." number="3901"></section>
+                      <section number="3908"></section>
+                      <section number="3909"></section>
+                      <section number="3912"></section>
+                      <section number="701n"></section>
+                </USCode>
+ <USCode title="40">
+                      <chapter number="51"></chapter>
+                </USCode>
+ <USCode title="42">
+                      <section detail="(d)" number="1769g"></section>
+                      <section number="247b-1"></section>
+                      <section number="254c-8"></section>
+                      <section number="280g-17"></section>
+                      <section number="300u-11"></section>
+                      <section number="3514a"></section>
+                      <section detail="note" number="6239"></section>
+                </USCode>
+ <statuteAtLarge volume="128">
+                      <pages pages="2732"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

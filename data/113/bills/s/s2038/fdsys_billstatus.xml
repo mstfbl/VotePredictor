@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2014-02-26T06:02:59Z</createDate>
+    <originChamber>Senate</originChamber>
+    <cosponsors />
+    <title>Solutions to Long-Term Unemployment Act</title>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-02-25</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2014-02-25</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <committeeReports />
+    <updateDate>2016-10-25T16:28:56Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Adult education and literacy</name>
+          </item>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Assault and harassment offenses</name>
+          </item>
+          <item>
+            <name>Census and government statistics</name>
+          </item>
+          <item>
+            <name>Comprehensive health care</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Correctional facilities and imprisonment</name>
+          </item>
+          <item>
+            <name>Crimes against children</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Department of Education</name>
+          </item>
+          <item>
+            <name>Department of Labor</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Disability assistance</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Employment taxes</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Food assistance and relief</name>
+          </item>
+          <item>
+            <name>Foreign labor</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Labor-management relations</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Long-term, rehabilitative, and terminal care</name>
+          </item>
+          <item>
+            <name>Manufacturing</name>
+          </item>
+          <item>
+            <name>Migrant, seasonal, agricultural labor</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>National Guard and reserves</name>
+          </item>
+          <item>
+            <name>Oceania</name>
+          </item>
+          <item>
+            <name>Palau</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Poverty and welfare assistance</name>
+          </item>
+          <item>
+            <name>Public participation and lobbying</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Railroads</name>
+          </item>
+          <item>
+            <name>Refugees, asylum, displaced persons</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+          <item>
+            <name>Social security and elderly assistance</name>
+          </item>
+          <item>
+            <name>Special education</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Temporary and part-time employment</name>
+          </item>
+          <item>
+            <name>Transportation employees</name>
+          </item>
+          <item>
+            <name>Unemployment</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+          <item>
+            <name>Veterans' loans, housing, homeless programs</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+          <item>
+            <name>Vocational and technical education</name>
+          </item>
+          <item>
+            <name>Youth employment and child labor</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes>
+      <item>
+        <text><![CDATA[For further action, see H.R.803, which became Public Law 113-128 on 7/22/2014.]]></text>
+        <links>
+          <link>
+            <name>H.R.803</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/803</url>
+          </link>
+        </links>
+      </item>
+    </notes>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2014-02-25</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>T000250</bioguideId>
+        <state>SD</state>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <firstName>JOHN</firstName>
+        <party>R</party>
+        <lastName>THUNE</lastName>
+        <middleName>R.</middleName>
+        <byRequestType />
+        <identifiers>
+          <lisID>1534</lisID>
+          <gpoId>8257</gpoId>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <latestTitle>Supporting Knowledge and Investing in Lifelong Skills Act</latestTitle>
+        <number>1911</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+          <actionDate>2014-01-09</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <latestTitle>Workforce Innovation and Opportunity Act</latestTitle>
+        <number>803</number>
+        <latestAction>
+          <text>Became Public Law No: 113-128.</text>
+          <actionDate>2014-07-22</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <laws />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Finance Committee</name>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <date>2014-02-25T16:35:54Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2014-04-15T14:44:52Z</lastSummaryUpdateDate>
+          <actionDate>2014-02-25</actionDate>
+          <text><![CDATA[<p>Solutions to Long-Term Unemployment Act - Amends the Internal Revenue Code to exclude from the definition of full-time employee, for purposes of the employer mandate to provide minimum essential health care coverage, any individual who is a long-term unemployed individual. </p> <p>Defines &quot;long-term unemployed individual&quot; as an individual who: (1) begins employment after enactment of this Act, and (2) has been unemployed for 27 weeks or longer.</p> <p>Exempts from the payment of old-age, survivors, and disability insurance (OASDI), hospital insurance, and railroad retirement taxes any </a>employers who employ long-term unemployed individuals for specified period. Makes appropriations to the Federal Old-Age and Survivors Trust Fund and the Federal Disability Insurance Trust Fund in amounts equal to the reduction in revenues by reason of this exemption.</p> <p>Authorizes the Secretary to issue employment relocation loans of up to $10,000 to long-term unemployed individuals to enable them to relocate to a residence: (1) more than 50 miles away from their initial residence in order to allow them to begin a new job; or (2) in a state or metropolitan area that is not the location of their initial residence, and that has an unemployment rate two or more percentage points less than the unemployment rate of the state or metropolitan area of their initial residence.</p> <p>Authorizes the Secretary to forgive any remaining amount of interest and principal due on a loan in any case where the individual's new job is eliminated within the first year of employment through no fault of the individual.</p> <p>Supporting Knowledge and Investing in Lifelong Skills Act or SKILLS Act - Amends the Workforce Investment Act of 1998 (WIA) to revise requirements and reauthorize appropriations for: (1) WIA title I, workforce investment systems for job training and employment services; and (2) WIA title II, adult education and family literacy education programs. </p> <p>Revises requirements to: (1) eliminate representatives of labor organizations from state workforce investment boards, and (2) specify that representatives of business on a board represent large and small businesses each of which has immediate and long-term employment opportunities in an in-demand industry or other occupation important to the state economy.</p> <p>Requires a state board to assist the state governor by developing: (1) policies and programs that support a comprehensive statewide workforce development system, and (2) a statewide workforce and labor market information system.</p> <p>Revises requirements for: (1) a state workforce development plan; (2) local workforce investment areas, boards, and plans; (3) one-stop delivery systems; and (4) the allotment of federal funds among states for employment and training activities.</p> <p>Eliminates specific funding for adult and dislocated worker employment and training. Specifies state use of federal funds to set up a Workforce Investment Fund. </p> <p>Revises requirements for: (1) within state allocations of funds; and (2) the use of funds for state and local employment and training activities, including statewide rapid response, individuals with barriers to employment grants, and adults with barriers to employment grants. </p> <p>Converts the national emergency grants program into a national dislocated worker grants program. Authorizes the Secretary to award national dislocated worker grants to spouses of active duty members of the Armed Forces or full-time duty members of the National Guard (or members who recently separated from such duties) and are in need of employment and training assistance to obtain or retain employment.</p> <p>Requires the Employment and Training Administration of the Department of Labor to be the principal agency to administer WIA title I workforce investment systems for job training and employment services. </p> <p> Prohibits the use of funds for lobbying (with specified exceptions) and political activities (including voter registration activities). </p> <p>Adult Education and Family Literacy Education Act - Revises requirements for the state unified plan for adult education and literacy programs.</p> <p>Amends the Wagner-Peyser Act to eliminate the U.S. Employment Service. Replaces the nationwide employment statistics system, which the Secretary is required to oversee, with a nationwide workforce and labor market information system. </p> <p>Repeals the Youth Conservation Corps Act of 1970 and specified other laws. </p> <p>Amends the Food and Nutrition Act of 2008 to require employment and training services to eligible members of households participating in the supplemental nutrition assistance program be provided through the statewide workforce development system, including the one-stop delivery system.</p> <p>Amends the Immigration and Nationality Act (INA) with respect to employment and training services for refugees, and the Second Chance Act of 2007 as well as the Omnibus Crime Control and Safe Streets Act of 1968 with respect to such services through the statewide workforce investment system for federal, state, and local prisoner reentry programs.</p> <p>Amends the Rehabilitation Act of 1973 (RA73) to: (1) redesignate the Commissioner of the Rehabilitation Services Administration the Director, and (2) require an eligible state to use a certain percentage of the federal share of the cost of vocational rehabilitation services to award grants to pay for the federal share of the cost of carrying out collaborative programs, create practical job and career readiness and training programs, and provide job placements and career advancement.</p> <p>Repeals the authority of the Commissioner of the Rehabilitation Services Administration in the Department of Education to make grants and contracts for: (1) vocational rehabilitation services to individuals with disabilities who are migrant or seasonal farmworkers; (2) recreational programs for such individuals; and (3) in-service training of vocational rehabilitation personnel.</p> <p>Repeals title VI (Employment Opportunities for Individuals with Disabilities) of the RA73.</p> <p>Revises requirements and reauthorizes appropriations for vocational rehabilitation services under the RA73.</p> <p>Directs the Comptroller General (GAO) to report to Congress on whether, before receiving workforce investment system training services, adults and dislocated workers have first exhausted funds received through the Federal Pell Grant program under title IV of the Higher Education Act of 1965.</p> <p> Directs the Comptroller General to report to Congress a determination of the amount of administrative costs savings at the federal and state levels as a result of workforce investment system programs repealed or consolidated under this Act. </p> <p>Amends the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act) to decrease from $492.356 billion to $482.356 billion the nondefense discretionary spending limit for FY2014.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2014-02-25T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <introducedDate>2014-02-25</introducedDate>
+    <billType>S</billType>
+    <congress>113</congress>
+    <billNumber>2038</billNumber>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced for portions of this bill</titleType>
+        <title>Adult Education and Family Literacy Education Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced for portions of this bill</titleType>
+        <title>SKILLS Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced for portions of this bill</titleType>
+        <title>Supporting Knowledge and Investing in Lifelong Skills Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Solutions to Long-Term Unemployment Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to provide for the extension of certain unemployment benefits, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Solutions to Long-Term Unemployment Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

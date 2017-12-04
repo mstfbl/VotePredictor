@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2013-02-12</actionDate>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-02-12T20:45:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2013-02-13T07:00:51Z</createDate>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-02-12</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-02-12</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2013-02-12</introducedDate>
+    <billNumber>288</billNumber>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Women and Minorities in STEM Booster Act of 2013 - Requires the Director of the National Science Foundation (NSF), acting through the Human Resources Directorate and not less than one research directorate of the NSF, to award competitive grants to eligible entities to enable them to carry out the activities specified below in order to increase the participation of women and underrepresented minorities in the fields of science, technology, engineering, and mathematics (STEM).</p> <p>Requires an eligible entity that receives a grant to use those grant funds to carry out the following activities designed to increase the participation of women and underrepresented minorities in STEM fields: (1) online workshops, (2) mentoring programs that partner STEM professionals with students, (3) internships for undergraduate and graduate students in STEM, and (4) conducting outreach programs providing elementary and secondary school students with opportunities to increase their exposure to STEM. </p>]]></text>
+          <actionDate>2013-02-12</actionDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2013-02-12T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-03-01T17:29:42Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Minority education</name>
+          </item>
+          <item>
+            <name>Minority employment</name>
+          </item>
+          <item>
+            <name>Science and engineering education</name>
+          </item>
+          <item>
+            <name>Teaching, teachers, curricula</name>
+          </item>
+          <item>
+            <name>Women's education</name>
+          </item>
+          <item>
+            <name>Women's employment</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Women and Minorities in STEM Booster Act of 2013</title>
+    <updateDate>2016-10-25T16:20:47Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Women and Minorities in STEM Booster Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to increase the participation of historically underrepresented demographic groups in science, technology, engineering, and mathematics education and industry.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Women and Minorities in STEM Booster Act of 2013</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>LA</state>
+        <firstName>MARY</firstName>
+        <byRequestType />
+        <bioguideId>L000550</bioguideId>
+        <fullName>Sen. Landrieu, Mary L. [D-LA]</fullName>
+        <lastName>LANDRIEU</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>L000550</bioguideId>
+          <gpoId>8251</gpoId>
+          <lisID>1546</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <number>4833</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-07-15</actionDate>
+          <text>Referred to the Subcommittee on Research and Technology.</text>
+        </latestAction>
+        <latestTitle>Women and Minorities in STEM Booster Act of 2014</latestTitle>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <bioguideId>P000590</bioguideId>
+        <state>AR</state>
+        <sponsorshipDate>2013-02-12</sponsorshipDate>
+        <middleName>Lunsford</middleName>
+        <firstName>Mark</firstName>
+        <party>D</party>
+        <fullName>Sen. Pryor, Mark L. [D-AR]</fullName>
+        <lastName>Pryor</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1701</lisID>
+          <bioguideId>P000590</bioguideId>
+          <gpoId>8241</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>G000555</bioguideId>
+        <state>NY</state>
+        <sponsorshipDate>2013-03-20</sponsorshipDate>
+        <middleName>E.</middleName>
+        <firstName>Kirsten</firstName>
+        <party>D</party>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <lastName>Gillibrand</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>F000062</bioguideId>
+        <state>CA</state>
+        <sponsorshipDate>2013-10-29</sponsorshipDate>
+        <middleName />
+        <firstName>DIANNE</firstName>
+        <party>D</party>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <lastName>FEINSTEIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <state>MN</state>
+        <sponsorshipDate>2013-11-19</sponsorshipDate>
+        <middleName />
+        <firstName>Amy</firstName>
+        <party>D</party>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <lastName>Klobuchar</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8249</gpoId>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <hearingsHeld>1</hearingsHeld>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-09-17</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on the Judiciary. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-06-17</actionDate>
+        <committee>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <systemCode>sscm00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S3721</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S3721</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S3721)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>B00100</actionCode>
+        <actionDate>2014-06-17</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S3720-3721</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S3720-3721</url>
+          </link>
+        </links>
+        <text>Sponsor introductory remarks on measure. (CR S3720-3721)</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2014-06-17</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2014-06-17</introducedDate>
+    <updateDate>2016-10-25T16:30:55Z</updateDate>
+    <createDate>2014-06-18T07:26:32Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssju00</systemCode>
+          <activities>
+            <item>
+              <date>2014-09-17T19:31:45Z</date>
+              <name>Hearings by</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+        </item>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>sscm00</systemCode>
+          <activities>
+            <item>
+              <date>2014-06-17T16:49:49Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Commerce, Science, and Transportation Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>F000457</bioguideId>
+        <identifiers>
+          <lisID>1969</lisID>
+          <gpoId>8339</gpoId>
+          <bioguideId>F000457</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <firstName>Al</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2014-06-17</sponsorshipDate>
+        <lastName>Franken</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>MN</state>
+      </item>
+      <item>
+        <bioguideId>S000033</bioguideId>
+        <identifiers>
+          <lisID>1010</lisID>
+          <gpoId>8270</gpoId>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <firstName>BERNARD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2014-06-17</sponsorshipDate>
+        <lastName>SANDERS</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>I</party>
+        <state>VT</state>
+      </item>
+      <item>
+        <bioguideId>W000802</bioguideId>
+        <identifiers>
+          <lisID>1823</lisID>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <firstName>Sheldon</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-06-18</sponsorshipDate>
+        <lastName>Whitehouse</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>RI</state>
+      </item>
+      <item>
+        <bioguideId>H001046</bioguideId>
+        <identifiers>
+          <bioguideId>H001046</bioguideId>
+          <lisID>1937</lisID>
+          <gpoId>8056</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <firstName>Martin</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2014-06-19</sponsorshipDate>
+        <lastName>Heinrich</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>NM</state>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Online Competition and Consumer Choice Act of 2014</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Online Competition and Consumer Choice Act of 2014</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to direct the Federal Communications Commission to promulgate regulations that prohibit certain preferential treatment or prioritization of Internet traffic.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Online Competition and Consumer Choice Act of 2014</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Online Competition and Consumer Choice Act of 2014 - Directs the Federal Communications Commission (FCC) to promulgate regulations that prohibit broadband providers, in transmitting network traffic over the broadband Internet access service of an end user, from: (1) entering an agreement with an edge provider (a provider of Internet content, applications, services, or access devices) to give preferential treatment or priority to the traffic of such edge provider in exchange for consideration (commonly referred to as &quot;paid prioritization&quot;); and (2) giving preferential treatment or priority to content, applications, services, or devices that are provided or operated by such broadband provider or an affiliate of such broadband provider.</p> <p>Prohibits this Act from superseding any obligation or authorization of a broadband provider to address the needs of emergency communications, law enforcement, public safety, or national security authorities.</p> <p>Sets forth enforcement authority under the Communications Act of 1934, with modified forfeiture standards.</p>]]></text>
+          <actionDate>2014-06-17</actionDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2014-06-17T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-07-14T17:47:31Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <latestTitle>Online Competition and Consumer Choice Act of 2014</latestTitle>
+        <number>4880</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+          <actionDate>2014-06-20</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Federal Communications Commission (FCC)</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Committee on the Judiciary. Hearings held.</text>
+      <actionDate>2014-09-17</actionDate>
+    </latestAction>
+    <billNumber>2476</billNumber>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>PATRICK</firstName>
+        <party>D</party>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <bioguideId>L000174</bioguideId>
+        <identifiers>
+          <lisID>1383</lisID>
+          <gpoId>8244</gpoId>
+          <bioguideId>L000174</bioguideId>
+        </identifiers>
+        <lastName>LEAHY</lastName>
+        <middleName>JOSEPH</middleName>
+        <state>VT</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

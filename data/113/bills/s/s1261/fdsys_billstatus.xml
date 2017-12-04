@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2013-06-28T07:01:14Z</createDate>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <firstName>James</firstName>
+        <party>R</party>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000584</bioguideId>
+        <identifiers>
+          <lisID>1896</lisID>
+          <gpoId>8274</gpoId>
+          <bioguideId>R000584</bioguideId>
+        </identifiers>
+        <lastName>Risch</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>ID</state>
+        <sponsorshipDate>2013-06-27</sponsorshipDate>
+        <middleName>E.</middleName>
+      </item>
+      <item>
+        <firstName>Martin</firstName>
+        <party>D</party>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001046</bioguideId>
+        <identifiers>
+          <lisID>1937</lisID>
+          <gpoId>8056</gpoId>
+          <bioguideId>H001046</bioguideId>
+        </identifiers>
+        <lastName>Heinrich</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>NM</state>
+        <sponsorshipDate>2014-07-09</sponsorshipDate>
+        <middleName />
+      </item>
+    </cosponsors>
+    <title>Energy Efficient Government Technology Act</title>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-06-27</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2013-06-27</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <committeeReports />
+    <updateDate>2016-10-25T16:25:49Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Energy efficiency and conservation</name>
+          </item>
+          <item>
+            <name>Environmental technology</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Office of Management and Budget (OMB)</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2013-06-27</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>U000038</bioguideId>
+        <state>CO</state>
+        <fullName>Sen. Udall, Mark [D-CO]</fullName>
+        <firstName>MARK</firstName>
+        <party>D</party>
+        <lastName>UDALL</lastName>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <lisID>1595</lisID>
+          <gpoId>8259</gpoId>
+          <bioguideId>U000038</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Energy and Power.</text>
+          <actionDate>2013-02-08</actionDate>
+        </latestAction>
+        <latestTitle>Energy Efficient Government Technology Act</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>540</number>
+      </item>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+          <actionDate>2014-12-03</actionDate>
+        </latestAction>
+        <latestTitle>Energy Efficiency Improvement Act of 2014</latestTitle>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>2971</number>
+      </item>
+    </relatedBills>
+    <laws />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>sseg00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Energy and Natural Resources Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-06-27T21:32:52Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Energy Efficient Government Technology Act - Amends the National Energy Conservation Policy Act, with respect to federal agency energy management, to require each agency to collaborate with the Director of the Office of the Management and Budget (OMB) to develop an implementation strategy for the maintenance, purchase, and use of energy-efficient and energy-saving information and communications technologies (ICT) and practices that is based on the agency's operating requirements and statutory mission. Includes as part of such a strategy consideration of ICT and related infrastructure and practices.</p> <p>Requires the OMB Director to: (1) establish performance goals for evaluating the efforts of agencies in improving such technology systems and practices; and (2) maintain a data centers task force responsible for sharing progress toward individual agency goals and the overall target for increased energy efficiency, including through exchanges of best practices and energy efficiency information with the private sector.</p> <p>Sets forth reporting requirements.</p> <p>Amends the Energy Independence and Security Act of 2007, with respect to data center energy efficiency, to require: <ul> <li> publication of the designation of the information technology industry organization that coordinates the voluntary national information program for such centers;</li> <li>updating and publication of a report on server and data center efficiency, including an analysis of the impact of ICT asset and related infrastructure utilization solutions;</li> <li>maintenance of a data center energy practitioner program that leads to the certification of practitioners qualified to evaluate energy usage and efficiency opportunities;</li> <li>evaluation of agency data centers every four years by such certified energy practitioners employed by the agency;</li> <li>establishment of an open data initiative for federal data center usage data;</li> <li>consideration of the online Data Center Maturity Model in establishing the initiative;</li> <li>active participation by the Secretary of Energy (DOE) in efforts to harmonize global specifications and metrics for data center energy efficiency; and</li> <li>assistance by the Secretary in the development of an efficiency metric that measures the energy efficiency of the overall data center. </li> </ul>]]></text>
+          <updateDate>2013-06-27T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2013-09-18T21:12:22Z</lastSummaryUpdateDate>
+          <actionDate>2013-06-27</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <introducedDate>2013-06-27</introducedDate>
+    <billType>S</billType>
+    <congress>113</congress>
+    <billNumber>1261</billNumber>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Energy Efficient Government Technology Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend the National Energy Conservation Policy Act and the Energy Independence and Security Act of 2007 to promote energy efficiency via information and computing technologies, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Energy Efficient Government Technology Act</title>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

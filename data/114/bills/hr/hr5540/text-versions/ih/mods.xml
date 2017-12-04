@@ -1,0 +1,405 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1900e936d">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To establish a fair and transparent process that will result in the timely consolidation, closure, and realignment of military installations inside the United States and will realize improved efficiencies in the cost and management of military installations, and for other purposes.;
+   		H.R. 5540 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-06-24</dateIngested>
+</extension>
+<titleInfo>
+ <title>To establish a fair and transparent process that will result in the timely consolidation, closure, and realignment of military installations inside the United States and will realize improved efficiencies in the cost and management of military installations, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 5540 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-06-21</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>103 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee1900e936d</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5540ih</identifier>
+<identifier type="preferred citation">H.R. 5540</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h5540_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5540ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5540ih/html/BILLS-114hr5540ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5540ih/pdf/BILLS-114hr5540ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5540ih/xml/BILLS-114hr5540ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-06-24</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-06-24</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr5540ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Adam Smith</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Sam Farr</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Susan A. Davis</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jim Cooper</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Madeleine Z. Bordallo</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jackie Speier</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Beto O&apos;Rourke</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Appropriations</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Armed Services</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 3109</partNumber>
+  <partNumber>Title 5 Section 5311</partNumber>
+  <partNumber>Title 5 Section 5314</partNumber>
+  <partNumber>Title 5 Section 5315</partNumber>
+  <partNumber>Title 5 Section 5702</partNumber>
+  <partNumber>Title 5 Section 5703</partNumber>
+  <partNumber>Title 5 Section 6304(d)(3)(A)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 3109</identifier>
+ <identifier type="USC citation">5 U.S.C. 5311</identifier>
+ <identifier type="USC citation">5 U.S.C. 5314</identifier>
+ <identifier type="USC citation">5 U.S.C. 5315</identifier>
+ <identifier type="USC citation">5 U.S.C. 5702</identifier>
+ <identifier type="USC citation">5 U.S.C. 5703</identifier>
+ <identifier type="USC citation">5 U.S.C. 6304(d)(3)(A)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 101(a)(17)</partNumber>
+  <partNumber>Title 10 Section 1034</partNumber>
+  <partNumber>Title 10 Section 221note</partNumber>
+  <partNumber>Title 10 Section 2662</partNumber>
+  <partNumber>Title 10 Section 2667(e)</partNumber>
+  <partNumber>Title 10 Section 2687</partNumber>
+  <partNumber>Title 10 Section 2687note</partNumber>
+  <partNumber>Title 10 Section 2701note</partNumber>
+  <partNumber>Title 10 Section 2802(a)</partNumber>
+  <partNumber>Title 10 Section 480</partNumber>
+  <partNumber>Title 10 Chapter 169</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 101(a)(17)</identifier>
+ <identifier type="USC citation">10 U.S.C. 1034</identifier>
+ <identifier type="USC citation">10 U.S.C. 221note</identifier>
+ <identifier type="USC citation">10 U.S.C. 2662</identifier>
+ <identifier type="USC citation">10 U.S.C. 2667(e)</identifier>
+ <identifier type="USC citation">10 U.S.C. 2687</identifier>
+ <identifier type="USC citation">10 U.S.C. 2687note</identifier>
+ <identifier type="USC citation">10 U.S.C. 2701note</identifier>
+ <identifier type="USC citation">10 U.S.C. 2802(a)</identifier>
+ <identifier type="USC citation">10 U.S.C. 480</identifier>
+ <identifier type="USC citation">10 U.S.C. Chapter 169</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 667b</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 667b</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Section 208</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. 208</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 1555</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 1555</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 40 Section 550</partNumber>
+  <partNumber>Title 40 Chapter 5</partNumber>
+</titleInfo>
+ <identifier type="USC citation">40 U.S.C. 550</identifier>
+ <identifier type="USC citation">40 U.S.C. Chapter 5</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 11411(i)(4)</partNumber>
+  <partNumber>Title 42 Section 4321et seq.</partNumber>
+  <partNumber>Title 42 Section 6901et seq.</partNumber>
+  <partNumber>Title 42 Section 9601et seq.</partNumber>
+  <partNumber>Title 42 Section 9620(h)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 11411(i)(4)</identifier>
+ <identifier type="USC citation">42 U.S.C. 4321et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 6901et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 9601et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 9620(h)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 49 Section 47151</partNumber>
+  <partNumber>Title 49 Section 47151(g)</partNumber>
+  <partNumber>Title 49 Section 47153</partNumber>
+</titleInfo>
+ <identifier type="USC citation">49 U.S.C. 47151</identifier>
+ <identifier type="USC citation">49 U.S.C. 47151(g)</identifier>
+ <identifier type="USC citation">49 U.S.C. 47153</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 50 Appendix 1622</partNumber>
+</titleInfo>
+ <identifier type="USC citation">50 U.S.C. App. 1622</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 101-510</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 101-510</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 102-484</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 102-484</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 103-160</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 103-160</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 107-249</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 107-249</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr5540ih</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>5540</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <action date="2016-06-21">Mr. Smith of Washington (for himself, Mr. Farr, Mrs. Davis of California, Mr. Cooper, Ms. Bordallo, Ms. Speier, and Mr. O&apos;Rourke) introduced the following bill; which was referred to the Committee on Armed Services, and in addition to the Committee on Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <congCommittee authorityId="hsap00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Appropriations</name>
+                      <name type="authority-short">Appropriations</name>
+                </congCommittee>
+ <congCommittee authorityId="hsas00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Armed Services</name>
+                      <name type="authority-short">Armed Services</name>
+                </congCommittee>
+ <congMember authorityId="1528" bioGuideId="S000510" chamber="H" congress="114" gpoId="8213" party="D" role="SPONSOR" state="WA">
+                      <name type="parsed">Mr. Smith of Washington</name>
+                      <name type="authority-fnf">Adam Smith</name>
+                      <name type="authority-lnf">Smith, Adam</name>
+                </congMember>
+ <congMember authorityId="368" bioGuideId="F000030" chamber="H" congress="114" gpoId="7822" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Farr</name>
+                      <name type="authority-fnf">Sam Farr</name>
+                      <name type="authority-lnf">Farr, Sam</name>
+                </congMember>
+ <congMember authorityId="1641" bioGuideId="D000598" chamber="H" congress="114" gpoId="7858" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mrs. Davis of California</name>
+                      <name type="authority-fnf">Susan A. Davis</name>
+                      <name type="authority-lnf">Davis, Susan A.</name>
+                      <name type="authority-other">Susan Davis</name>
+                </congMember>
+ <congMember authorityId="231" bioGuideId="C000754" chamber="H" congress="114" gpoId="8152" party="D" role="COSPONSOR" state="TN">
+                      <name type="parsed">Mr. Cooper</name>
+                      <name type="authority-fnf">Jim Cooper</name>
+                      <name type="authority-lnf">Cooper, Jim</name>
+                      <name type="authority-other">James Cooper</name>
+                </congMember>
+ <congMember authorityId="1723" bioGuideId="B001245" chamber="H" congress="114" gpoId="7911" party="D" role="COSPONSOR" state="GU">
+                      <name type="parsed">Ms. Bordallo</name>
+                      <name type="authority-fnf">Madeleine Z. Bordallo</name>
+                      <name type="authority-lnf">Bordallo, Madeleine Z.</name>
+                      <name type="authority-other">Ms. Madeleine Bordallo</name>
+                </congMember>
+ <congMember authorityId="1890" bioGuideId="S001175" chamber="H" congress="114" gpoId="7817" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Speier</name>
+                      <name type="authority-fnf">Jackie Speier</name>
+                      <name type="authority-lnf">Speier, Jackie</name>
+                </congMember>
+ <congMember authorityId="2162" bioGuideId="O000170" chamber="H" congress="114" party="D" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. O&apos;Rourke</name>
+                      <name type="authority-fnf">Beto O&apos;Rourke</name>
+                      <name type="authority-lnf">O&apos;Rourke, Beto</name>
+                </congMember>
+ <law congress="101" isPrivate="false" number="510"></law>
+ <law congress="102" isPrivate="false" number="484"></law>
+ <law congress="103" isPrivate="false" number="160"></law>
+ <law congress="107" isPrivate="false" number="249"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="3109"></section>
+                      <section number="5311"></section>
+                      <section number="5314"></section>
+                      <section number="5315"></section>
+                      <section number="5702"></section>
+                      <section number="5703"></section>
+                      <section detail="(d)(3)(A)" number="6304"></section>
+                </USCode>
+ <USCode title="10">
+                      <section detail="(a)(17)" number="101"></section>
+                      <section number="1034"></section>
+                      <section detail="note" number="221"></section>
+                      <section number="2662"></section>
+                      <section detail="(e)" number="2667"></section>
+                      <section number="2687"></section>
+                      <section detail="note" number="2687"></section>
+                      <section detail="note" number="2701"></section>
+                      <section detail="(a)" number="2802"></section>
+                      <section number="480"></section>
+                      <chapter number="169"></chapter>
+                </USCode>
+ <USCode title="16">
+                      <section number="667b"></section>
+                </USCode>
+ <USCode title="18">
+                      <section number="208"></section>
+                </USCode>
+ <USCode title="31">
+                      <section number="1555"></section>
+                </USCode>
+ <USCode title="40">
+                      <section number="550"></section>
+                      <chapter number="5"></chapter>
+                </USCode>
+ <USCode title="42">
+                      <section detail="(i)(4)" number="11411"></section>
+                      <section detail="et seq." number="4321"></section>
+                      <section detail="et seq." number="6901"></section>
+                      <section detail="et seq." number="9601"></section>
+                      <section detail="(h)" number="9620"></section>
+                </USCode>
+ <USCode title="49">
+                      <section number="47151"></section>
+                      <section detail="(g)" number="47151"></section>
+                      <section number="47153"></section>
+                </USCode>
+ <USCode title="50">
+                      <appendix detail="(g)" number="1622"></appendix>
+                </USCode>
+</extension>
+</mods>

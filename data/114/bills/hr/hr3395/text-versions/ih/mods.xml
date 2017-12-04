@@ -1,0 +1,338 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18d36354a">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To prevent the illegal sale of firearms, and for other purposes.;Trafficking Reduction And Criminal Enforcement (TRACE) Act;H.R. 3395 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-08-08</dateIngested>
+</extension>
+<titleInfo>
+ <title>To prevent the illegal sale of firearms, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Trafficking Reduction And Criminal Enforcement (TRACE) Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 3395 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-07-29</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>5 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18d36354a</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3395ih</identifier>
+<identifier type="preferred citation">H.R. 3395</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h3395_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3395ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3395ih/html/BILLS-114hr3395ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3395ih/pdf/BILLS-114hr3395ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3395ih/xml/BILLS-114hr3395ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-08-08</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-11</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr3395ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mike Quigley</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tony Cardenas</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Barbara Lee</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Earl Blumenauer</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David N. Cicilline</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Pocan</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David E. Price</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>James P. McGovern</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Raul M. Grijalva</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on the Judiciary</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Section 922(t)(2)(C)</partNumber>
+  <partNumber>Title 18 Section 922note</partNumber>
+  <partNumber>Title 18 Section 923(g)</partNumber>
+  <partNumber>Title 18 Section 923(g)(8)</partNumber>
+  <partNumber>Title 18 Section 923note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. 922(t)(2)(C)</identifier>
+ <identifier type="USC citation">18 U.S.C. 922note</identifier>
+ <identifier type="USC citation">18 U.S.C. 923(g)</identifier>
+ <identifier type="USC citation">18 U.S.C. 923(g)(8)</identifier>
+ <identifier type="USC citation">18 U.S.C. 923note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 119 Page 2295-2296</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">119 Stat. 2295-2296</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 121 Page 1903-1904</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">121 Stat. 1903-1904</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 123 Page 574-576</partNumber>
+  <partNumber>Volume 123 Page 3128-3129</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">123 Stat. 574-576</identifier>
+ <identifier type="Statute citation">123 Stat. 3128-3129</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 125 Page 609-610</partNumber>
+  <partNumber>Volume 125 Page 632</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">125 Stat. 609-610</identifier>
+ <identifier type="Statute citation">125 Stat. 632</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 109-108</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 109-108</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 110-161</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 110-161</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-8</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-8</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-117</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-117</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-55</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-55</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr3395ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>3395</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Trafficking Reduction And Criminal Enforcement (TRACE) Act</shortTitle>
+ <officialTitle>To prevent the illegal sale of firearms, and for other purposes.</officialTitle>
+ <action date="2015-07-29">Mr. Quigley (for himself, Mr. Cárdenas, Ms. Lee, Mr. Blumenauer, Mr. Cicilline, Mr. Pocan, Mr. Price of North Carolina, Mr. McGovern, and Mr. Grijalva) introduced the following bill; which was referred to the Committee on the Judiciary</action>
+ <congCommittee authorityId="hsju00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on the Judiciary</name>
+                      <name type="authority-short">Judiciary</name>
+                </congCommittee>
+ <congMember authorityId="1967" bioGuideId="Q000023" chamber="H" congress="114" gpoId="7925" party="D" role="SPONSOR" state="IL">
+                      <name type="parsed">Mr. Quigley</name>
+                      <name type="authority-fnf">Mike Quigley</name>
+                      <name type="authority-lnf">Quigley, Mike</name>
+                </congMember>
+ <congMember authorityId="2107" bioGuideId="C001097" chamber="H" congress="114" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Cárdenas</name>
+                      <name type="authority-fnf">Tony Cardenas</name>
+                      <name type="authority-lnf">Cardenas, Tony</name>
+                </congMember>
+ <congMember authorityId="1501" bioGuideId="L000551" chamber="H" congress="114" gpoId="7814" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Lee</name>
+                      <name type="authority-fnf">Barbara Lee</name>
+                      <name type="authority-lnf">Lee, Barbara</name>
+                </congMember>
+ <congMember authorityId="99" bioGuideId="B000574" chamber="H" congress="114" gpoId="8116" party="D" role="COSPONSOR" state="OR">
+                      <name type="parsed">Mr. Blumenauer</name>
+                      <name type="authority-fnf">Earl Blumenauer</name>
+                      <name type="authority-lnf">Blumenauer, Earl</name>
+                </congMember>
+ <congMember authorityId="2055" bioGuideId="C001084" chamber="H" congress="114" gpoId="8139" party="D" role="COSPONSOR" state="RI">
+                      <name type="parsed">Mr. Cicilline</name>
+                      <name type="authority-fnf">David N. Cicilline</name>
+                      <name type="authority-lnf">Cicilline, David N.</name>
+                      <name type="authority-other">Mr. David Cicilline</name>
+                </congMember>
+ <congMember authorityId="2171" bioGuideId="P000607" chamber="H" congress="114" party="D" role="COSPONSOR" state="WI">
+                      <name type="parsed">Mr. Pocan</name>
+                      <name type="authority-fnf">Mark Pocan</name>
+                      <name type="authority-lnf">Pocan, Mark</name>
+                </congMember>
+ <congMember authorityId="930" bioGuideId="P000523" chamber="H" congress="114" gpoId="8027" party="D" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. Price of North Carolina</name>
+                      <name type="authority-fnf">David E. Price</name>
+                      <name type="authority-lnf">Price, David E.</name>
+                      <name type="authority-other">David Price</name>
+                </congMember>
+ <congMember authorityId="1504" bioGuideId="M000312" chamber="H" congress="114" gpoId="7968" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Mr. McGovern</name>
+                      <name type="authority-fnf">James P. McGovern</name>
+                      <name type="authority-lnf">McGovern, James P.</name>
+                      <name type="authority-other">James Mcgovern</name>
+                </congMember>
+ <congMember authorityId="1708" bioGuideId="G000551" chamber="H" congress="114" gpoId="7804" party="D" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Grijalva</name>
+                      <name type="authority-fnf">Raul M. Grijalva</name>
+                      <name type="authority-lnf">Grijalva, Raul M.</name>
+                      <name type="authority-other">Mr. Raul Grijalva</name>
+                </congMember>
+ <law congress="109" isPrivate="false" number="108"></law>
+ <law congress="110" isPrivate="false" number="161"></law>
+ <law congress="111" isPrivate="false" number="8"></law>
+ <law congress="111" isPrivate="false" number="117"></law>
+ <law congress="112" isPrivate="false" number="55"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="18">
+                      <section detail="(t)(2)(C)" number="922"></section>
+                      <section detail="note" number="922"></section>
+                      <section detail="(g)" number="923"></section>
+                      <section detail="(g)(8)" number="923"></section>
+                      <section detail="note" number="923"></section>
+                </USCode>
+ <statuteAtLarge volume="119">
+                      <pages pages="2295-2296"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="121">
+                      <pages pages="1903-1904"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="123">
+                      <pages pages="574-576"></pages>
+                      <pages pages="3128-3129"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="125">
+                      <pages pages="609-610"></pages>
+                      <pages pages="632"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

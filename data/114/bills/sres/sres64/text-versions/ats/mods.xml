@@ -1,0 +1,231 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18afa577c">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>Designating February 2 through 6, 2015, as National School Counseling Week.;S. Res. 64 (ATS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-02-04</dateIngested>
+</extension>
+<titleInfo>
+ <title>Designating February 2 through 6, 2015, as National School Counseling Week.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. Res. 64 (ATS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-02-03</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>3 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/2:</classification>
+<identifier type="local">P0b002ee18afa577c</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114sres64ats</identifier>
+<identifier type="preferred citation">S. Res. 64</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325577</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate resolutions</identifier>
+<identifier type="former package identifier">f:sr64_ats.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114sres64ats/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres64ats/html/BILLS-114sres64ats.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres64ats/pdf/BILLS-114sres64ats.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres64ats/xml/BILLS-114sres64ats.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-02-04</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-13</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114sres64ats</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Patty Murray</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Susan M. Collins</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robert P. Casey Jr.</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Debbie Stabenow</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dianne Feinstein</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Richard Durbin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Johnny Isakson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Brian Schatz</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Angus S. King Jr.</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Cornyn</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<extension>
+ <docClass>sres</docClass>
+ <accessId>BILLS-114sres64ats</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>64</billNumber>
+ <billVersion reprint="false">ats</billVersion>
+ <fileSuffix>ats</fileSuffix>
+ <officialTitle>Designating February 2 through 6, 2015, as National School Counseling Week.</officialTitle>
+ <action date="2015-02-03">Mrs. Murray (for herself, Ms. Collins, Mr. Casey, Ms. Stabenow, Mrs. Feinstein, Mr. Durbin, Mr. Isakson, Mr. Schatz, Mr. King, and Mr. Cornyn) submitted the following resolution; which was considered and agreed to</action>
+ <congMember authorityId="1409" bioGuideId="M001111" chamber="S" congress="114" gpoId="8237" party="D" role="SPONSOR" state="WA">
+                      <name type="parsed">Mrs. Murray</name>
+                      <name type="authority-fnf">Patty Murray</name>
+                      <name type="authority-lnf">Murray, Patty</name>
+                </congMember>
+ <congMember authorityId="1541" bioGuideId="C001035" chamber="S" congress="114" gpoId="8291" party="R" role="COSPONSOR" state="ME">
+                      <name type="parsed">Ms. Collins</name>
+                      <name type="authority-fnf">Susan M. Collins</name>
+                      <name type="authority-lnf">Collins, Susan M.</name>
+                      <name type="authority-other">Susan Margaret Collins</name>
+                </congMember>
+ <congMember authorityId="1828" bioGuideId="C001070" chamber="S" congress="114" gpoId="8282" party="D" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Casey</name>
+                      <name type="authority-fnf">Robert P. Casey Jr.</name>
+                      <name type="authority-lnf">Casey, Robert P., Jr.</name>
+                      <name type="authority-other">Mr. Bob Casey Jr.</name>
+                </congMember>
+ <congMember authorityId="1531" bioGuideId="S000770" chamber="S" congress="114" gpoId="8261" party="D" role="COSPONSOR" state="MI">
+                      <name type="parsed">Ms. Stabenow</name>
+                      <name type="authority-fnf">Debbie Stabenow</name>
+                      <name type="authority-lnf">Stabenow, Debbie</name>
+                      <name type="authority-other">Deborah Ann Stabenow</name>
+                </congMember>
+ <congMember authorityId="1332" bioGuideId="F000062" chamber="S" congress="114" gpoId="8338" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mrs. Feinstein</name>
+                      <name type="authority-fnf">Dianne Feinstein</name>
+                      <name type="authority-lnf">Feinstein, Dianne</name>
+                </congMember>
+ <congMember authorityId="326" bioGuideId="D000563" chamber="S" congress="114" gpoId="8326" party="D" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Durbin</name>
+                      <name type="authority-fnf">Richard Durbin</name>
+                      <name type="authority-lnf">Durbin, Richard</name>
+                      <name type="authority-other">Richard J. Durbin</name>
+                </congMember>
+ <congMember authorityId="1608" bioGuideId="I000055" chamber="S" congress="114" gpoId="8323" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Isakson</name>
+                      <name type="authority-fnf">Johnny Isakson</name>
+                      <name type="authority-lnf">Isakson, Johnny</name>
+                </congMember>
+ <congMember authorityId="2173" bioGuideId="S001194" chamber="S" congress="114" party="D" role="COSPONSOR" state="HI">
+                      <name type="parsed">Mr. Schatz</name>
+                      <name type="authority-fnf">Brian Schatz</name>
+                      <name type="authority-lnf">Schatz, Brian</name>
+                </congMember>
+ <congMember authorityId="2185" bioGuideId="K000383" chamber="S" congress="114" party="I" role="COSPONSOR" state="ME">
+                      <name type="parsed">Mr. King</name>
+                      <name type="authority-fnf">Angus S. King Jr.</name>
+                      <name type="authority-lnf">King, Angus S., Jr.</name>
+                      <name type="authority-other">Mr. Angus King Jr.</name>
+                </congMember>
+ <congMember authorityId="1692" bioGuideId="C001056" chamber="S" congress="114" gpoId="8295" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Cornyn</name>
+                      <name type="authority-fnf">John Cornyn</name>
+                      <name type="authority-lnf">Cornyn, John</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

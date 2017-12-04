@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2014-07-31</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <bioguideId>M000934</bioguideId>
+        <state>KS</state>
+        <sponsorshipDate>2014-07-31</sponsorshipDate>
+        <middleName />
+        <firstName>JERRY</firstName>
+        <party>R</party>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <lastName>MORAN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1507</lisID>
+          <bioguideId>M000934</bioguideId>
+          <gpoId>8307</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001265</bioguideId>
+        <state>AK</state>
+        <sponsorshipDate>2014-07-31</sponsorshipDate>
+        <middleName />
+        <firstName>Mark</firstName>
+        <party>D</party>
+        <fullName>Sen. Begich, Mark [D-AK]</fullName>
+        <lastName>Begich</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8301</gpoId>
+          <lisID>1898</lisID>
+          <bioguideId>B001265</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001035</bioguideId>
+        <state>ME</state>
+        <sponsorshipDate>2014-09-15</sponsorshipDate>
+        <middleName>MARGARET</middleName>
+        <firstName>SUSAN</firstName>
+        <party>R</party>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <lastName>COLLINS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <state>MN</state>
+        <sponsorshipDate>2014-11-18</sponsorshipDate>
+        <middleName />
+        <firstName>Amy</firstName>
+        <party>D</party>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <lastName>Klobuchar</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M001176</bioguideId>
+        <state>OR</state>
+        <sponsorshipDate>2014-12-02</sponsorshipDate>
+        <middleName />
+        <firstName>Jeff</firstName>
+        <party>D</party>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <lastName>Merkley</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <links />
+      <actionDate>2014-07-31</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <number>4816</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Toxic Exposure Research and Military Family Support Act of 2014</latestTitle>
+        <type>HR</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+          <actionDate>2014-07-01</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <number>1602</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Toxic Exposure Research and Military Family Support Act of 2013</latestTitle>
+        <type>S</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+          <actionDate>2013-10-29</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <number>5484</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Toxic Exposure Research Act of 2014</latestTitle>
+        <type>HR</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2014-09-29</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <updateDate>2016-10-25T16:31:59Z</updateDate>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionDate>2014-07-31</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <actionDate>2014-07-31</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Toxic Exposure Research Act of 2014 - Directs the Secretary of Veterans Affairs to select a medical center in the Department of Veterans Affairs (VA) to serve as the national center for research on the diagnosis and treatment of health conditions of descendants (i.e., a biological child, grandchild, or great-grandchild) of individuals exposed to toxic substances while serving as members of the Armed Forces that are related to that exposure.</p> <p>Requires the national research center to employ at least one licensed clinical social worker to coordinate the access of individuals to appropriate federal, state, and local social and health care programs and to handle case management.</p> <p>Directs the Secretary to establish an advisory board to: (1) advise the national research center, (2) determine which health conditions in the descendants of individuals who were exposed to toxic substances while serving in the Armed Forces result from such exposure for purposes of determining those descendants' eligibility for VA medical care, and (3) study and evaluate claims of service-related exposure to toxic substances by current and former members of the Armed Forces.</p> <p>Authorizes the Secretary of Defense (DOD) to declassify documents (other than documents that would materially and immediately threaten national security) related to any known incident in which not less than 100 members of the Armed Forces were exposed to a toxic substance that resulted in at least one case of disability.</p> <p>Directs the Secretary, the Secretary of Health and Human Services (HHS), and the DOD Secretary to jointly conduct a national outreach and education campaign directed at members of the Armed Forces, veterans, and their family members to communicate information on: (1) incidents of exposure to toxic substances, health conditions resulting form such exposure, and the potential long-term effects of such exposure; and (2) the national research center.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2014-07-31</actionDate>
+          <updateDate>2014-07-31T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-10-07T15:13:16Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Birth defects</name>
+          </item>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Disability assistance</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Family relationships</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Hereditary and development disorders</name>
+          </item>
+          <item>
+            <name>Intelligence activities, surveillance, classified information</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+          <item>
+            <name>Veterans' pensions and compensation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Toxic Exposure Research Act of 2014</title>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <lastName>Blumenthal</lastName>
+        <bioguideId>B001277</bioguideId>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Richard</firstName>
+        <middleName />
+        <state>CT</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2014-08-01T10:29:47Z</createDate>
+    <billNumber>2738</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssva00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Veterans' Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2014-07-31T19:32:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Toxic Exposure Research Act of 2014</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to establish in the Department of Veterans Affairs a national center for research on the diagnosis and treatment of health conditions of the descendants of veterans exposed to toxic substances during service in the Armed Forces, to establish an advisory board on exposure to toxic substances, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Toxic Exposure Research Act of 2014</title>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

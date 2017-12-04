@@ -1,0 +1,145 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1916fc7ff">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>Commemorating the 50th anniversary of the Alaska Federation of Natives.;
+   		S. Res. 577 (ATS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-09-27</dateIngested>
+</extension>
+<titleInfo>
+ <title>Commemorating the 50th anniversary of the Alaska Federation of Natives.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. Res. 577 (ATS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-09-26</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>4 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/2:</classification>
+<identifier type="local">P0b002ee1916fc7ff</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114sres577ats</identifier>
+<identifier type="preferred citation">S. Res. 577</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325577</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate resolutions</identifier>
+<identifier type="former package identifier">f:sr577_ats.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114sres577ats/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres577ats/html/BILLS-114sres577ats.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres577ats/pdf/BILLS-114sres577ats.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres577ats/xml/BILLS-114sres577ats.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-09-27</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-09-28</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114sres577ats</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Lisa Murkowski</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dan Sullivan</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 43 Section 1601</partNumber>
+  <partNumber>Title 43 Section 1601et seq.</partNumber>
+  <partNumber>Title 43 Section 1601note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">43 U.S.C. 1601</identifier>
+ <identifier type="USC citation">43 U.S.C. 1601et seq.</identifier>
+ <identifier type="USC citation">43 U.S.C. 1601note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 100-241</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 100-241</identifier>
+</relatedItem>
+<extension>
+ <docClass>sres</docClass>
+ <accessId>BILLS-114sres577ats</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>577</billNumber>
+ <billVersion reprint="false">ats</billVersion>
+ <fileSuffix>ats</fileSuffix>
+ <action date="2016-09-26">Ms. Murkowski (for herself and Mr. Sullivan) submitted the following resolution; which was considered and agreed to</action>
+ <congMember authorityId="1694" bioGuideId="M001153" chamber="S" congress="114" gpoId="8234" party="R" role="SPONSOR" state="AK">
+                      <name type="parsed">Ms. Murkowski</name>
+                      <name type="authority-fnf">Lisa Murkowski</name>
+                      <name type="authority-lnf">Murkowski, Lisa</name>
+                </congMember>
+ <congMember authorityId="2290" bioGuideId="S001198" chamber="S" congress="114" party="R" role="COSPONSOR" state="AK">
+                      <name type="parsed">Mr. Sullivan</name>
+                      <name type="authority-fnf">Dan Sullivan</name>
+                      <name type="authority-lnf">Sullivan, Dan</name>
+                </congMember>
+ <law congress="100" isPrivate="false" number="241"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="43">
+                      <section number="1601"></section>
+                      <section detail="et seq." number="1601"></section>
+                      <section detail="note" number="1601"></section>
+                </USCode>
+</extension>
+</mods>

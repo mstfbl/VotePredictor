@@ -1,0 +1,175 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18cb6bb9a">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To amend title XVIII of the Social Security Act with respect to the treatment of patient encounters in ambulatory surgical centers in determining meaningful EHR use, establish a demonstration program requiring the utilization of Value-Based Insurance Design to demonstrate that reducing the copayments or coinsurance charged to Medicare beneficiaries for selected high-value prescription medications and clinical services can increase their utilization and ultimately improve clinical outcomes and lower health care expenditures, and for other purposes.;Strengthening Medicare Advantage through Innovation and Transparency for Seniors Act of 2015;H.R. 2570 (RFS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-06-22</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To amend title XVIII of the Social Security Act with respect to the treatment of patient encounters in ambulatory surgical centers in determining meaningful EHR use, establish a demonstration program requiring the utilization of Value-Based Insurance Design to demonstrate that reducing the copayments or coinsurance charged to Medicare beneficiaries for selected high-value prescription medications and clinical services can increase their utilization and ultimately improve clinical outcomes and lower health care expenditures, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Strengthening Medicare Advantage through Innovation and Transparency for Seniors Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2570 (RFS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-06-18</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>17 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18cb6bb9a</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2570rfs</identifier>
+<identifier type="preferred citation">H.R. 2570</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2570_rfs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2570rfs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2570rfs/html/BILLS-114hr2570rfs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2570rfs/pdf/BILLS-114hr2570rfs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2570rfs/xml/BILLS-114hr2570rfs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-06-22</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-11</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr2570rfs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Finance</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 1315a</partNumber>
+  <partNumber>Title 42 Section 1395i</partNumber>
+  <partNumber>Title 42 Section 1395iii(b)(1)</partNumber>
+  <partNumber>Title 42 Section 1395t</partNumber>
+  <partNumber>Title 42 Section 1395u(o)(1)</partNumber>
+  <partNumber>Title 42 Section 1395u(o)(1)(D)(ii)</partNumber>
+  <partNumber>Title 42 Section 1395w-21</partNumber>
+  <partNumber>Title 42 Section 1395w-21(a)(3)</partNumber>
+  <partNumber>Title 42 Section 1395w-21et seq.</partNumber>
+  <partNumber>Title 42 Section 1395w-23</partNumber>
+  <partNumber>Title 42 Section 1395w-23(o)</partNumber>
+  <partNumber>Title 42 Section 1395w-28(b)</partNumber>
+  <partNumber>Title 42 Section 1395w-28(b)(6)(A)</partNumber>
+  <partNumber>Title 42 Section 1395w-3(a)(2)(A)</partNumber>
+  <partNumber>Title 42 Section 1395w</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 1315a</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395i</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395iii(b)(1)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395t</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395u(o)(1)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395u(o)(1)(D)(ii)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395w-21</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395w-21(a)(3)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395w-21et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395w-23</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395w-23(o)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395w-28(b)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395w-28(b)(6)(A)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395w-3(a)(2)(A)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395w</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr2570rfs</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2570</billNumber>
+ <billVersion reprint="false">rfs</billVersion>
+ <fileSuffix>rfs</fileSuffix>
+ <shortTitle type="measure">Strengthening Medicare Advantage through Innovation and Transparency for Seniors Act of 2015</shortTitle>
+ <officialTitle>To amend title XVIII of the Social Security Act with respect to the treatment of patient encounters in ambulatory surgical centers in determining meaningful EHR use, establish a demonstration program requiring the utilization of Value-Based Insurance Design to demonstrate that reducing the copayments or coinsurance charged to Medicare beneficiaries for selected high-value prescription medications and clinical services can increase their utilization and ultimately improve clinical outcomes and lower health care expenditures, and for other purposes.</officialTitle>
+ <action date="2015-06-18">Received; read twice and referred to the Committee on Finance</action>
+ <congCommittee authorityId="ssfi00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Finance</name>
+                      <name type="authority-short">Finance</name>
+                </congCommittee>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="42">
+                      <section number="1315a"></section>
+                      <section number="1395i"></section>
+                      <section detail="(b)(1)" number="1395iii"></section>
+                      <section number="1395t"></section>
+                      <section detail="(o)(1)" number="1395u"></section>
+                      <section detail="(o)(1)(D)(ii)" number="1395u"></section>
+                      <section number="1395w-21"></section>
+                      <section detail="(a)(3)" number="1395w-21"></section>
+                      <section detail="et seq." number="1395w-21"></section>
+                      <section number="1395w-23"></section>
+                      <section detail="(o)" number="1395w-23"></section>
+                      <section detail="(b)" number="1395w-28"></section>
+                      <section detail="(b)(6)(A)" number="1395w-28"></section>
+                      <section detail="(a)(2)(A)" number="1395w-3"></section>
+                      <section number="1395w"></section>
+                </USCode>
+</extension>
+</mods>

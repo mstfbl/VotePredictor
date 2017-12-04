@@ -1,0 +1,1713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <passedSenate>1</passedSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <sentToHouse>1</sentToHouse>
+        <introducedInSenate>1</introducedInSenate>
+        <committeeDischarged>1</committeeDischarged>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionTime>14:24:48</actionTime>
+        <actionCode>H15000</actionCode>
+        <actionDate>2014-03-27</actionDate>
+        <type>Floor</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Held at the desk.</text>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2014-03-27</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>13:26:50</actionTime>
+        <actionCode>H14000</actionCode>
+        <actionDate>2014-03-27</actionDate>
+        <type>Floor</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Received in the House.</text>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2014-03-26</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S1779</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S1779</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (text: CR S1779)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <actionDate>2014-03-26</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S1779</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S1779</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S1779)</text>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2014-03-26</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S1778-1779</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S1778-1779</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S1778-1779)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionCode>14500</actionCode>
+        <actionDate>2014-03-26</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S1778-1779</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S1778-1779</url>
+          </link>
+        </links>
+        <text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.(consideration: CR S1778-1779)</text>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2013-12-15</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2013-12-15</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>7</senate>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2013-12-15</introducedDate>
+    <updateDate>2016-10-25T16:28:05Z</updateDate>
+    <createDate>2013-12-16T07:31:19Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <subcommittees />
+          <systemCode>ssbk00</systemCode>
+          <activities>
+            <item>
+              <date>2014-03-26T23:16:30Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2013-12-15T18:42:02Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <lastName>INHOFE</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>583</lisID>
+          <gpoId>8322</gpoId>
+          <bioguideId>I000024</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>JIM</firstName>
+        <sponsorshipDate>2013-12-15</sponsorshipDate>
+        <middleName />
+        <bioguideId>I000024</bioguideId>
+        <state>OK</state>
+      </item>
+      <item>
+        <lastName>Cruz</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2175</lisID>
+          <bioguideId>C001098</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Ted</firstName>
+        <sponsorshipDate>2013-12-19</sponsorshipDate>
+        <middleName />
+        <bioguideId>C001098</bioguideId>
+        <state>TX</state>
+      </item>
+      <item>
+        <lastName>Murphy</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Murphy, Christopher S. [D-CT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1837</lisID>
+          <gpoId>7870</gpoId>
+          <bioguideId>M001169</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Christopher</firstName>
+        <sponsorshipDate>2013-12-19</sponsorshipDate>
+        <middleName />
+        <bioguideId>M001169</bioguideId>
+        <state>CT</state>
+      </item>
+      <item>
+        <lastName>MURRAY</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1409</lisID>
+          <bioguideId>M001111</bioguideId>
+          <gpoId>8237</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>PATTY</firstName>
+        <sponsorshipDate>2013-12-19</sponsorshipDate>
+        <middleName />
+        <bioguideId>M001111</bioguideId>
+        <state>WA</state>
+      </item>
+      <item>
+        <lastName>Schatz</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2173</lisID>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Brian</firstName>
+        <sponsorshipDate>2013-12-19</sponsorshipDate>
+        <middleName />
+        <bioguideId>S001194</bioguideId>
+        <state>HI</state>
+      </item>
+      <item>
+        <lastName>Klobuchar</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Amy</firstName>
+        <sponsorshipDate>2013-12-20</sponsorshipDate>
+        <middleName />
+        <bioguideId>K000367</bioguideId>
+        <state>MN</state>
+      </item>
+      <item>
+        <lastName>MIKULSKI</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Mikulski, Barbara A. [D-MD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M000702</bioguideId>
+          <lisID>802</lisID>
+          <gpoId>8240</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>BARBARA</firstName>
+        <sponsorshipDate>2014-01-15</sponsorshipDate>
+        <middleName>ANN</middleName>
+        <bioguideId>M000702</bioguideId>
+        <state>MD</state>
+      </item>
+      <item>
+        <lastName>MARKEY</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>EDWARD</firstName>
+        <sponsorshipDate>2014-01-29</sponsorshipDate>
+        <middleName>J.</middleName>
+        <bioguideId>M000133</bioguideId>
+        <state>MA</state>
+      </item>
+      <item>
+        <lastName>ROBERTS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000307</bioguideId>
+          <gpoId>8275</gpoId>
+          <lisID>968</lisID>
+        </identifiers>
+        <party>R</party>
+        <firstName>PAT</firstName>
+        <sponsorshipDate>2014-01-29</sponsorshipDate>
+        <middleName />
+        <bioguideId>R000307</bioguideId>
+        <state>KS</state>
+      </item>
+      <item>
+        <lastName>Heller</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1863</lisID>
+          <bioguideId>H001041</bioguideId>
+          <gpoId>8060</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Dean</firstName>
+        <sponsorshipDate>2014-01-29</sponsorshipDate>
+        <middleName />
+        <bioguideId>H001041</bioguideId>
+        <state>NV</state>
+      </item>
+      <item>
+        <lastName>Murkowski</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Lisa</firstName>
+        <sponsorshipDate>2014-01-29</sponsorshipDate>
+        <middleName />
+        <bioguideId>M001153</bioguideId>
+        <state>AK</state>
+      </item>
+      <item>
+        <lastName>Rubio</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Marco</firstName>
+        <sponsorshipDate>2014-01-29</sponsorshipDate>
+        <middleName />
+        <bioguideId>R000595</bioguideId>
+        <state>FL</state>
+      </item>
+      <item>
+        <lastName>ENZI</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>E000285</bioguideId>
+          <lisID>1542</lisID>
+          <gpoId>8328</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>MICHAEL</firstName>
+        <sponsorshipDate>2014-01-29</sponsorshipDate>
+        <middleName>B.</middleName>
+        <bioguideId>E000285</bioguideId>
+        <state>WY</state>
+      </item>
+      <item>
+        <lastName>Sessions</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Sessions, Jeff [R-AL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>S001141</bioguideId>
+          <gpoId>8281</gpoId>
+          <lisID>1548</lisID>
+        </identifiers>
+        <party>R</party>
+        <firstName>Jeff</firstName>
+        <sponsorshipDate>2014-01-29</sponsorshipDate>
+        <middleName />
+        <bioguideId>S001141</bioguideId>
+        <state>AL</state>
+      </item>
+      <item>
+        <lastName>Blunt</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Roy</firstName>
+        <sponsorshipDate>2014-01-29</sponsorshipDate>
+        <middleName />
+        <bioguideId>B000575</bioguideId>
+        <state>MO</state>
+      </item>
+      <item>
+        <lastName>Johanns</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Johanns, Mike [R-NE]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1899</lisID>
+          <gpoId>8325</gpoId>
+          <bioguideId>J000291</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Mike</firstName>
+        <sponsorshipDate>2014-01-29</sponsorshipDate>
+        <middleName />
+        <bioguideId>J000291</bioguideId>
+        <state>NE</state>
+      </item>
+      <item>
+        <lastName>Boozman</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8247</gpoId>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>John</firstName>
+        <sponsorshipDate>2014-02-04</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001236</bioguideId>
+        <state>AR</state>
+      </item>
+      <item>
+        <lastName>Ayotte</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Ayotte, Kelly [R-NH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2075</lisID>
+          <bioguideId>A000368</bioguideId>
+          <gpoId>8315</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Kelly</firstName>
+        <sponsorshipDate>2014-02-04</sponsorshipDate>
+        <middleName />
+        <bioguideId>A000368</bioguideId>
+        <state>NH</state>
+      </item>
+      <item>
+        <lastName>Franken</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1969</lisID>
+          <bioguideId>F000457</bioguideId>
+          <gpoId>8339</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Al</firstName>
+        <sponsorshipDate>2014-02-04</sponsorshipDate>
+        <middleName />
+        <bioguideId>F000457</bioguideId>
+        <state>MN</state>
+      </item>
+      <item>
+        <lastName>Cochran</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Cochran, Thad [R-MS]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>213</lisID>
+          <bioguideId>C000567</bioguideId>
+          <gpoId>8292</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Thad</firstName>
+        <sponsorshipDate>2014-02-04</sponsorshipDate>
+        <middleName />
+        <bioguideId>C000567</bioguideId>
+        <state>MS</state>
+      </item>
+      <item>
+        <lastName>Whitehouse</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1823</lisID>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Sheldon</firstName>
+        <sponsorshipDate>2014-02-04</sponsorshipDate>
+        <middleName />
+        <bioguideId>W000802</bioguideId>
+        <state>RI</state>
+      </item>
+      <item>
+        <lastName>Alexander</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Alexander, Lamar [R-TN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1695</lisID>
+          <bioguideId>A000360</bioguideId>
+          <gpoId>8304</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Lamar</firstName>
+        <sponsorshipDate>2014-02-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>A000360</bioguideId>
+        <state>TN</state>
+      </item>
+      <item>
+        <lastName>Warren</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Elizabeth</firstName>
+        <sponsorshipDate>2014-02-10</sponsorshipDate>
+        <middleName>A.</middleName>
+        <bioguideId>W000817</bioguideId>
+        <state>MA</state>
+      </item>
+      <item>
+        <lastName>COLLINS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001035</bioguideId>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>SUSAN</firstName>
+        <sponsorshipDate>2014-02-10</sponsorshipDate>
+        <middleName>MARGARET</middleName>
+        <bioguideId>C001035</bioguideId>
+        <state>ME</state>
+      </item>
+      <item>
+        <lastName>Coons</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+        </identifiers>
+        <party>D</party>
+        <firstName>Christopher</firstName>
+        <sponsorshipDate>2014-02-10</sponsorshipDate>
+        <middleName>A.</middleName>
+        <bioguideId>C001088</bioguideId>
+        <state>DE</state>
+      </item>
+      <item>
+        <lastName>Booker</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2194</lisID>
+          <gpoId />
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Cory</firstName>
+        <sponsorshipDate>2014-02-10</sponsorshipDate>
+        <middleName>A.</middleName>
+        <bioguideId>B001288</bioguideId>
+        <state>NJ</state>
+      </item>
+      <item>
+        <lastName>Heitkamp</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2174</lisID>
+          <bioguideId>H001069</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <firstName>Heidi</firstName>
+        <sponsorshipDate>2014-02-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>H001069</bioguideId>
+        <state>ND</state>
+      </item>
+      <item>
+        <lastName>Hirono</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1844</lisID>
+          <gpoId>7913</gpoId>
+          <bioguideId>H001042</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Mazie</firstName>
+        <sponsorshipDate>2014-02-10</sponsorshipDate>
+        <middleName>K.</middleName>
+        <bioguideId>H001042</bioguideId>
+        <state>HI</state>
+      </item>
+      <item>
+        <lastName>Shaheen</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Jeanne</firstName>
+        <sponsorshipDate>2014-02-12</sponsorshipDate>
+        <middleName />
+        <bioguideId>S001181</bioguideId>
+        <state>NH</state>
+      </item>
+      <item>
+        <lastName>Gillibrand</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Kirsten</firstName>
+        <sponsorshipDate>2014-02-12</sponsorshipDate>
+        <middleName>E.</middleName>
+        <bioguideId>G000555</bioguideId>
+        <state>NY</state>
+      </item>
+      <item>
+        <lastName>Risch</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8274</gpoId>
+          <lisID>1896</lisID>
+          <bioguideId>R000584</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>James</firstName>
+        <sponsorshipDate>2014-02-12</sponsorshipDate>
+        <middleName>E.</middleName>
+        <bioguideId>R000584</bioguideId>
+        <state>ID</state>
+      </item>
+      <item>
+        <lastName>DURBIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Durbin, Richard [D-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+          <bioguideId>D000563</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>RICHARD</firstName>
+        <sponsorshipDate>2014-03-05</sponsorshipDate>
+        <middleName>J.</middleName>
+        <bioguideId>D000563</bioguideId>
+        <state>IL</state>
+      </item>
+      <item>
+        <lastName>BROWN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+          <bioguideId>B000944</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>SHERROD</firstName>
+        <sponsorshipDate>2014-03-05</sponsorshipDate>
+        <middleName />
+        <bioguideId>B000944</bioguideId>
+        <state>OH</state>
+      </item>
+      <item>
+        <lastName>Begich</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Begich, Mark [D-AK]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001265</bioguideId>
+          <lisID>1898</lisID>
+          <gpoId>8301</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001265</bioguideId>
+        <state>AK</state>
+      </item>
+      <item>
+        <lastName>BOXER</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Boxer, Barbara [D-CA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>116</lisID>
+          <bioguideId>B000711</bioguideId>
+          <gpoId>8306</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>BARBARA</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>B000711</bioguideId>
+        <state>CA</state>
+      </item>
+      <item>
+        <lastName>CARDIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>BENJAMIN</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName>L.</middleName>
+        <bioguideId>C000141</bioguideId>
+        <state>MD</state>
+      </item>
+      <item>
+        <lastName>CHAMBLISS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Chambliss, Saxby [R-GA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>188</lisID>
+          <gpoId>8284</gpoId>
+          <bioguideId>C000286</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>SAXBY</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>C000286</bioguideId>
+        <state>GA</state>
+      </item>
+      <item>
+        <lastName>CRAPO</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8289</gpoId>
+          <lisID>250</lisID>
+          <bioguideId>C000880</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>MICHAEL</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName>D.</middleName>
+        <bioguideId>C000880</bioguideId>
+        <state>ID</state>
+      </item>
+      <item>
+        <lastName>Donnelly</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1850</lisID>
+          <gpoId>7941</gpoId>
+          <bioguideId>D000607</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Joe</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>D000607</bioguideId>
+        <state>IN</state>
+      </item>
+      <item>
+        <lastName>FEINSTEIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>DIANNE</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>F000062</bioguideId>
+        <state>CA</state>
+      </item>
+      <item>
+        <lastName>FLAKE</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1633</lisID>
+          <gpoId>7803</gpoId>
+          <bioguideId>F000444</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>JEFF</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>F000444</bioguideId>
+        <state>AZ</state>
+      </item>
+      <item>
+        <lastName>GRASSLEY</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>457</lisID>
+          <bioguideId>G000386</bioguideId>
+          <gpoId>8316</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>CHARLES</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName>ERNEST</middleName>
+        <bioguideId>G000386</bioguideId>
+        <state>IA</state>
+      </item>
+      <item>
+        <lastName>HARKIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Harkin, Tom [D-IA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>501</lisID>
+          <bioguideId>H000206</bioguideId>
+          <gpoId>8317</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>THOMAS</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName>RICHARD</middleName>
+        <bioguideId>H000206</bioguideId>
+        <state>IA</state>
+      </item>
+      <item>
+        <lastName>Heinrich</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001046</bioguideId>
+          <gpoId>8056</gpoId>
+          <lisID>1937</lisID>
+        </identifiers>
+        <party>D</party>
+        <firstName>Martin</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>H001046</bioguideId>
+        <state>NM</state>
+      </item>
+      <item>
+        <lastName>Kaine</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <firstName>Timothy</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>K000384</bioguideId>
+        <state>VA</state>
+      </item>
+      <item>
+        <lastName>King</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. King, Angus S. Jr. [I-ME]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>I</party>
+        <firstName>Angus</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>K000383</bioguideId>
+        <state>ME</state>
+      </item>
+      <item>
+        <lastName>KIRK</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Kirk, Mark Steven [R-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8285</gpoId>
+          <lisID>1647</lisID>
+          <bioguideId>K000360</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>MARK</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName>STEVEN</middleName>
+        <bioguideId>K000360</bioguideId>
+        <state>IL</state>
+      </item>
+      <item>
+        <lastName>LANDRIEU</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Landrieu, Mary L. [D-LA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1546</lisID>
+          <gpoId>8251</gpoId>
+          <bioguideId>L000550</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>MARY</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>L000550</bioguideId>
+        <state>LA</state>
+      </item>
+      <item>
+        <lastName>LEAHY</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1383</lisID>
+          <bioguideId>L000174</bioguideId>
+          <gpoId>8244</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>PATRICK</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName>JOSEPH</middleName>
+        <bioguideId>L000174</bioguideId>
+        <state>VT</state>
+      </item>
+      <item>
+        <lastName>Lee</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2080</lisID>
+          <bioguideId>L000577</bioguideId>
+          <gpoId>8303</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Mike</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>L000577</bioguideId>
+        <state>UT</state>
+      </item>
+      <item>
+        <lastName>MENENDEZ</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>791</lisID>
+          <bioguideId>M000639</bioguideId>
+          <gpoId>8239</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>ROBERT</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>M000639</bioguideId>
+        <state>NJ</state>
+      </item>
+      <item>
+        <lastName>MORAN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1507</lisID>
+          <gpoId>8307</gpoId>
+          <bioguideId>M000934</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>JERRY</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>M000934</bioguideId>
+        <state>KS</state>
+      </item>
+      <item>
+        <lastName>Pryor</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Pryor, Mark L. [D-AR]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1701</lisID>
+          <gpoId>8241</gpoId>
+          <bioguideId>P000590</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName>Lunsford</middleName>
+        <bioguideId>P000590</bioguideId>
+        <state>AR</state>
+      </item>
+      <item>
+        <lastName>REED</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>949</lisID>
+          <bioguideId>R000122</bioguideId>
+          <gpoId>8272</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>JOHN</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName>F.</middleName>
+        <bioguideId>R000122</bioguideId>
+        <state>RI</state>
+      </item>
+      <item>
+        <lastName>REID</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Reid, Harry [D-NV]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>R000146</bioguideId>
+          <lisID>952</lisID>
+          <gpoId>8271</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>HARRY</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName>M.</middleName>
+        <bioguideId>R000146</bioguideId>
+        <state>NV</state>
+      </item>
+      <item>
+        <lastName>ROCKEFELLER</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Rockefeller, John D., IV [D-WV]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1424</lisID>
+          <gpoId>8273</gpoId>
+          <bioguideId>R000361</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>JAY</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>R000361</bioguideId>
+        <state>WV</state>
+      </item>
+      <item>
+        <lastName>SCHUMER</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1036</lisID>
+          <gpoId>8279</gpoId>
+          <bioguideId>S000148</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>CHARLES</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName>E.</middleName>
+        <bioguideId>S000148</bioguideId>
+        <state>NY</state>
+      </item>
+      <item>
+        <lastName>SHELBY</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Shelby, Richard C. [R-AL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1049</lisID>
+          <gpoId>8277</gpoId>
+          <bioguideId>S000320</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>RICHARD</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName>CRAIG</middleName>
+        <bioguideId>S000320</bioguideId>
+        <state>AL</state>
+      </item>
+      <item>
+        <lastName>Tester</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Jon</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>T000464</bioguideId>
+        <state>MT</state>
+      </item>
+      <item>
+        <lastName>Toomey</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1594</lisID>
+          <gpoId />
+          <bioguideId>T000461</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Pat</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>T000461</bioguideId>
+        <state>PA</state>
+      </item>
+      <item>
+        <lastName>UDALL</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Udall, Mark [D-CO]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1595</lisID>
+          <gpoId>8259</gpoId>
+          <bioguideId>U000038</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>MARK</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>U000038</bioguideId>
+        <state>CO</state>
+      </item>
+      <item>
+        <lastName>Warner</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1897</lisID>
+          <gpoId>8269</gpoId>
+          <bioguideId>W000805</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName>R.</middleName>
+        <bioguideId>W000805</bioguideId>
+        <state>VA</state>
+      </item>
+      <item>
+        <lastName>Walsh</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Walsh, John E. [D-MT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2198</lisID>
+          <bioguideId>W000818</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <firstName>John</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName>E.</middleName>
+        <bioguideId>W000818</bioguideId>
+        <state>MT</state>
+      </item>
+      <item>
+        <lastName>Barrasso</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001261</bioguideId>
+          <gpoId>8300</gpoId>
+          <lisID>1881</lisID>
+        </identifiers>
+        <party>R</party>
+        <firstName>John</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001261</bioguideId>
+        <state>WY</state>
+      </item>
+      <item>
+        <lastName>BURR</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>153</lisID>
+          <bioguideId>B001135</bioguideId>
+          <gpoId>8286</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>RICHARD</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001135</bioguideId>
+        <state>NC</state>
+      </item>
+      <item>
+        <lastName>COATS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Coats, Daniel [R-IN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>209</lisID>
+          <gpoId>8299</gpoId>
+          <bioguideId>C000542</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>DANIEL</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName>RAY</middleName>
+        <bioguideId>C000542</bioguideId>
+        <state>IN</state>
+      </item>
+      <item>
+        <lastName>Cornyn</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>John</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>C001056</bioguideId>
+        <state>TX</state>
+      </item>
+      <item>
+        <lastName>GRAHAM</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>452</lisID>
+          <gpoId>8335</gpoId>
+          <bioguideId>G000359</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>LINDSEY</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName>O.</middleName>
+        <bioguideId>G000359</bioguideId>
+        <state>SC</state>
+      </item>
+      <item>
+        <lastName>HATCH</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1351</lisID>
+          <gpoId>8314</gpoId>
+          <bioguideId>H000338</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>ORRIN</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName>GRANT</middleName>
+        <bioguideId>H000338</bioguideId>
+        <state>UT</state>
+      </item>
+      <item>
+        <lastName>Hoeven</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2079</lisID>
+          <gpoId>8331</gpoId>
+          <bioguideId>H001061</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>John</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>H001061</bioguideId>
+        <state>ND</state>
+      </item>
+      <item>
+        <lastName>Isakson</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>I000055</bioguideId>
+          <lisID>1608</lisID>
+          <gpoId>8323</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Johnny</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>I000055</bioguideId>
+        <state>GA</state>
+      </item>
+      <item>
+        <lastName>Johnson</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>J000293</bioguideId>
+          <lisID>2086</lisID>
+          <gpoId>8355</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Ron</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>J000293</bioguideId>
+        <state>WI</state>
+      </item>
+      <item>
+        <lastName>MCCAIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>754</lisID>
+          <bioguideId>M000303</bioguideId>
+          <gpoId>8253</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>JOHN</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName>SIDNEY</middleName>
+        <bioguideId>M000303</bioguideId>
+        <state>AZ</state>
+      </item>
+      <item>
+        <lastName>MCCONNELL</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. McConnell, Mitch [R-KY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1395</lisID>
+          <bioguideId>M000355</bioguideId>
+          <gpoId>8254</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>MITCH</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>M000355</bioguideId>
+        <state>KY</state>
+      </item>
+      <item>
+        <lastName>Scott</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8141</gpoId>
+          <lisID>2056</lisID>
+          <bioguideId>S001184</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Tim</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>S001184</bioguideId>
+        <state>SC</state>
+      </item>
+      <item>
+        <lastName>THUNE</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>T000250</bioguideId>
+          <gpoId>8257</gpoId>
+          <lisID>1534</lisID>
+        </identifiers>
+        <party>R</party>
+        <firstName>JOHN</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName>R.</middleName>
+        <bioguideId>T000250</bioguideId>
+        <state>SD</state>
+      </item>
+      <item>
+        <lastName>Vitter</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Vitter, David [R-LA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>V000127</bioguideId>
+          <gpoId>8267</gpoId>
+          <lisID>1609</lisID>
+        </identifiers>
+        <party>R</party>
+        <firstName>David</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>V000127</bioguideId>
+        <state>LA</state>
+      </item>
+      <item>
+        <lastName>WICKER</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+          <bioguideId>W000437</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>ROGER</firstName>
+        <sponsorshipDate>2014-03-10</sponsorshipDate>
+        <middleName>F.</middleName>
+        <bioguideId>W000437</bioguideId>
+        <state>MS</state>
+      </item>
+      <item>
+        <lastName>Casey</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+          <lisID>1828</lisID>
+          <gpoId>8282</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Bob</firstName>
+        <sponsorshipDate>2014-03-24</sponsorshipDate>
+        <middleName />
+        <bioguideId>C001070</bioguideId>
+        <state>PA</state>
+      </item>
+      <item>
+        <lastName>BALDWIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>TAMMY</firstName>
+        <sponsorshipDate>2014-03-24</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001230</bioguideId>
+        <state>WI</state>
+      </item>
+      <item>
+        <lastName>JOHNSON</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Johnson, Tim [D-SD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>J000177</bioguideId>
+          <lisID>604</lisID>
+          <gpoId>8319</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>TIM</firstName>
+        <sponsorshipDate>2014-03-24</sponsorshipDate>
+        <middleName />
+        <bioguideId>J000177</bioguideId>
+        <state>SD</state>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>American Fighter Aces Congressional Gold Medal Act</title>
+    <titles>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+        <title>American Fighter Aces Congressional Gold Medal Act</title>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>American Fighter Aces Congressional Gold Medal Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to award a Congressional Gold Medal to the American Fighter Aces, collectively, in recognition of their heroic military service and defense of our country's freedom throughout the history of aviation warfare.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>American Fighter Aces Congressional Gold Medal Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2013-12-15T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>American Fighter Aces Congressional Gold Medal Act - Directs the Speaker of the House of Representatives and the President pro tempore of the Senate to arrange for the presentation of a congressional gold medal to the American Fighter Aces, collectively, in recognition of their heroic military service and defense of the nation's freedom.</p> <p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2013-12-15</actionDate>
+          <lastSummaryUpdateDate>2014-01-09T18:50:25Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+        <item>
+          <updateDate>2014-03-26T12:27:07Z</updateDate>
+          <name>Passed Senate without amendment</name>
+          <text><![CDATA[<p><strong>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</strong></p> <p>American Fighter Aces Congressional Gold Medal Act - Directs the Speaker of the House of Representatives and the President pro tempore of the Senate to arrange for the presentation of a congressional gold medal to the American Fighter Aces, collectively, in recognition of their heroic military service and defense of the nation's freedom.</p> <p>Requires the medal to be given to the Smithsonian Institution, where it shall be available for display or temporary loan to be displayed elsewhere, particularly at locations associated with the American Fighter Aces.</p> <p>]]></text>
+          <versionCode>82</versionCode>
+          <actionDate>2014-03-26</actionDate>
+          <lastSummaryUpdateDate>2014-04-15T18:18:33Z</lastSummaryUpdateDate>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes>
+      <item>
+        <links>
+          <link>
+            <name>H.R.685</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/685</url>
+          </link>
+        </links>
+        <text><![CDATA[For further action, see H.R.685, which became Public Law 113-105 on 5/23/2014.]]></text>
+      </item>
+    </notes>
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <type>HR</type>
+        <number>685</number>
+        <latestAction>
+          <text>Became Public Law No: 113-105.</text>
+          <actionDate>2014-05-23</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>American Fighter Aces Congressional Gold Medal Act</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Military history</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Museums, exhibitions, cultural centers</name>
+          </item>
+          <item>
+            <name>Smithsonian Institution</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Held at the desk.</text>
+      <actionTime>14:24:48</actionTime>
+      <actionDate>2014-03-27</actionDate>
+    </latestAction>
+    <billNumber>1827</billNumber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Joe</firstName>
+        <party>D</party>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <bioguideId>M001183</bioguideId>
+        <identifiers>
+          <lisID>1983</lisID>
+          <gpoId>8256</gpoId>
+          <bioguideId>M001183</bioguideId>
+        </identifiers>
+        <lastName>Manchin</lastName>
+        <middleName />
+        <state>WV</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

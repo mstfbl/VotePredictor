@@ -1,0 +1,180 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1917ffd90">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To neutralize the discriminatory effect of any country that employs indirect taxes and grants rebates of the same upon export if United States trade negotiating objectives regarding border tax treatment are not met.;Border Tax Equity Act of 2016;H.R. 6183 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-10-01</dateIngested>
+</extension>
+<titleInfo>
+ <title>To neutralize the discriminatory effect of any country that employs indirect taxes and grants rebates of the same upon export if United States trade negotiating objectives regarding border tax treatment are not met.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Border Tax Equity Act of 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 6183 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-09-27</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>16 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee1917ffd90</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6183ih</identifier>
+<identifier type="preferred citation">H.R. 6183</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h6183_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6183ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6183ih/html/BILLS-114hr6183ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6183ih/pdf/BILLS-114hr6183ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6183ih/xml/BILLS-114hr6183ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-10-01</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-01</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr6183ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Bill Pascrell, Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Walter B. Jones Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Ways and Means</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 19 Section 1305</partNumber>
+  <partNumber>Title 19 Section 1484(a)(2)(A)</partNumber>
+  <partNumber>Title 19 Section 1484(a)(2)(B)</partNumber>
+  <partNumber>Title 19 Section 2101et seq.</partNumber>
+  <partNumber>Title 19 Section 2901(b)(16)</partNumber>
+  <partNumber>Title 19 Section 3802(b)(15)</partNumber>
+  <partNumber>Title 19 Section 4201(b)(18)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">19 U.S.C. 1305</identifier>
+ <identifier type="USC citation">19 U.S.C. 1484(a)(2)(A)</identifier>
+ <identifier type="USC citation">19 U.S.C. 1484(a)(2)(B)</identifier>
+ <identifier type="USC citation">19 U.S.C. 2101et seq.</identifier>
+ <identifier type="USC citation">19 U.S.C. 2901(b)(16)</identifier>
+ <identifier type="USC citation">19 U.S.C. 3802(b)(15)</identifier>
+ <identifier type="USC citation">19 U.S.C. 4201(b)(18)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 26 Section 4461et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">26 U.S.C. 4461et seq.</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr6183ih</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>6183</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Border Tax Equity Act of 2016</shortTitle>
+ <officialTitle>To neutralize the discriminatory effect of any country that employs indirect taxes and grants rebates of the same upon export if United States trade negotiating objectives regarding border tax treatment are not met.</officialTitle>
+ <action date="2016-09-27">Mr. Pascrell (for himself and Mr. Jones) introduced the following bill; which was referred to the Committee on Ways and Means</action>
+ <congCommittee authorityId="hswm00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Ways and Means</name>
+                      <name type="authority-short">Ways and Means</name>
+                </congCommittee>
+ <congMember authorityId="1510" bioGuideId="P000096" chamber="H" congress="114" gpoId="8050" party="D" role="SPONSOR" state="NJ">
+                      <name type="parsed">Mr. Pascrell</name>
+                      <name type="authority-fnf">Bill Pascrell, Jr.</name>
+                      <name type="authority-lnf">Pascrell, Bill, Jr.</name>
+                      <name type="authority-other">William Pascrell Jr.</name>
+                </congMember>
+ <congMember authorityId="612" bioGuideId="J000255" chamber="H" congress="114" gpoId="8026" party="R" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. Jones</name>
+                      <name type="authority-fnf">Walter B. Jones Jr.</name>
+                      <name type="authority-lnf">Jones, Walter B., Jr.</name>
+                      <name type="authority-other">Walter Jones Jr.</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="19">
+                      <section number="1305"></section>
+                      <section detail="(a)(2)(A)" number="1484"></section>
+                      <section detail="(a)(2)(B)" number="1484"></section>
+                      <section detail="et seq." number="2101"></section>
+                      <section detail="(b)(16)" number="2901"></section>
+                      <section detail="(b)(15)" number="3802"></section>
+                      <section detail="(b)(18)" number="4201"></section>
+                </USCode>
+ <USCode title="26">
+                      <section detail="et seq." number="4461"></section>
+                </USCode>
+</extension>
+</mods>

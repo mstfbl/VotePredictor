@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2014-04-03</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <firstName>ROB</firstName>
+        <party>R</party>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000449</bioguideId>
+        <identifiers>
+          <lisID>924</lisID>
+          <bioguideId>P000449</bioguideId>
+          <gpoId>8266</gpoId>
+        </identifiers>
+        <lastName>PORTMAN</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <sponsorshipDate>2014-04-03</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>James</firstName>
+        <party>R</party>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000584</bioguideId>
+        <identifiers>
+          <bioguideId>R000584</bioguideId>
+          <lisID>1896</lisID>
+          <gpoId>8274</gpoId>
+        </identifiers>
+        <lastName>Risch</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>ID</state>
+        <sponsorshipDate>2014-04-03</sponsorshipDate>
+        <middleName>E.</middleName>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <party>R</party>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001261</bioguideId>
+        <identifiers>
+          <lisID>1881</lisID>
+          <bioguideId>B001261</bioguideId>
+          <gpoId>8300</gpoId>
+        </identifiers>
+        <lastName>Barrasso</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>WY</state>
+        <sponsorshipDate>2014-04-03</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Tim</firstName>
+        <party>R</party>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001184</bioguideId>
+        <identifiers>
+          <lisID>2056</lisID>
+          <gpoId>8141</gpoId>
+          <bioguideId>S001184</bioguideId>
+        </identifiers>
+        <lastName>Scott</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>SC</state>
+        <sponsorshipDate>2014-04-03</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>JOHN</firstName>
+        <party>R</party>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000250</bioguideId>
+        <identifiers>
+          <lisID>1534</lisID>
+          <gpoId>8257</gpoId>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+        <lastName>THUNE</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>SD</state>
+        <sponsorshipDate>2014-04-03</sponsorshipDate>
+        <middleName>R.</middleName>
+      </item>
+      <item>
+        <firstName>SUSAN</firstName>
+        <party>R</party>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001035</bioguideId>
+        <identifiers>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <lastName>COLLINS</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>ME</state>
+        <sponsorshipDate>2014-04-08</sponsorshipDate>
+        <middleName>MARGARET</middleName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+      <actionDate>2014-04-03</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2013-10-30</actionDate>
+        </latestAction>
+        <latestTitle>Small Business Fairness in Obamacare Act</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>3419</number>
+      </item>
+    </relatedBills>
+    <updateDate>2016-10-25T16:29:36Z</updateDate>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionDate>2014-04-03</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-04-03</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2014-04-18T13:47:08Z</lastSummaryUpdateDate>
+          <updateDate>2014-04-03T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2014-04-03</actionDate>
+          <text><![CDATA[<p>Small Business Fairness in Health Care Act - Amends the Internal Revenue Code, as amended by the Patient Protection and Affordable Care Act (PPACA), to: (1) exempt a small business concern, as defined by the Small Business Act, from the PPACA employer mandate to provide employees with minimum essential health care coverage; and (2) redefine "full-time employee," for purposes of such mandate, as an employee who is employed on average at least 40 (currently, 30) hours a week.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Comprehensive health care</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+          <item>
+            <name>Temporary and part-time employment</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Small Business Fairness in Health Care Act</title>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <lastName>ENZI</lastName>
+        <bioguideId>E000285</bioguideId>
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <identifiers>
+          <gpoId>8328</gpoId>
+          <lisID>1542</lisID>
+          <bioguideId>E000285</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>MICHAEL</firstName>
+        <middleName>B.</middleName>
+        <state>WY</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2014-04-04T07:12:52Z</createDate>
+    <billNumber>2205</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Finance Committee</name>
+          <type>Standing</type>
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-04-03T15:54:21Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Small Business Fairness in Health Care Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to amend the Internal Revenue Code of 1986 to exempt certain small businesses from the employer health insurance mandate and to modify the definition of full-time employee for purposes of such mandate.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Small Business Fairness in Health Care Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

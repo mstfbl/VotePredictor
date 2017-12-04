@@ -1,0 +1,302 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18db6e0f0">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To improve the enforcement of sanctions against the Government of North Korea, and for other purposes.;North Korea Sanctions and Policy Enhancement Act of 2015;S. 2144 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-10-14</dateIngested>
+</extension>
+<titleInfo>
+ <title>To improve the enforcement of sanctions against the Government of North Korea, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>North Korea Sanctions and Policy Enhancement Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 2144 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-10-06</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>60 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18db6e0f0</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s2144is</identifier>
+<identifier type="preferred citation">S. 2144</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s2144_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s2144is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2144is/html/BILLS-114s2144is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2144is/pdf/BILLS-114s2144is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2144is/xml/BILLS-114s2144is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-10-14</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s2144is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Cory Gardner</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Marco Rubio</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>James E. Risch</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Foreign Relations</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Section 1956(c)(7)(D)</partNumber>
+  <partNumber>Title 18 Section 981(a)(1)</partNumber>
+  <partNumber>Title 18 Section 983(i)(2)(D)</partNumber>
+  <partNumber>Title 18 Chapter 46</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. 1956(c)(7)(D)</identifier>
+ <identifier type="USC citation">18 U.S.C. 981(a)(1)</identifier>
+ <identifier type="USC citation">18 U.S.C. 983(i)(2)(D)</identifier>
+ <identifier type="USC citation">18 U.S.C. Chapter 46</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 19 Section 1202et seq.</partNumber>
+  <partNumber>Title 19 Section 2511(b)</partNumber>
+  <partNumber>Title 19 Section 2518(4)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">19 U.S.C. 1202et seq.</identifier>
+ <identifier type="USC citation">19 U.S.C. 2511(b)</identifier>
+ <identifier type="USC citation">19 U.S.C. 2518(4)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 22 Section 2151</partNumber>
+  <partNumber>Title 22 Section 2151n(d)</partNumber>
+  <partNumber>Title 22 Section 2304(b)</partNumber>
+  <partNumber>Title 22 Section 2751et seq.</partNumber>
+  <partNumber>Title 22 Section 5601et seq.</partNumber>
+  <partNumber>Title 22 Section 6301et seq.</partNumber>
+  <partNumber>Title 22 Section 7802</partNumber>
+  <partNumber>Title 22 Section 7813</partNumber>
+  <partNumber>Title 22 Section 7814</partNumber>
+  <partNumber>Title 22 Section 7817(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">22 U.S.C. 2151</identifier>
+ <identifier type="USC citation">22 U.S.C. 2151n(d)</identifier>
+ <identifier type="USC citation">22 U.S.C. 2304(b)</identifier>
+ <identifier type="USC citation">22 U.S.C. 2751et seq.</identifier>
+ <identifier type="USC citation">22 U.S.C. 5601et seq.</identifier>
+ <identifier type="USC citation">22 U.S.C. 6301et seq.</identifier>
+ <identifier type="USC citation">22 U.S.C. 7802</identifier>
+ <identifier type="USC citation">22 U.S.C. 7813</identifier>
+ <identifier type="USC citation">22 U.S.C. 7814</identifier>
+ <identifier type="USC citation">22 U.S.C. 7817(a)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 28 Section 524(c)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">28 U.S.C. 524(c)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 5312(a)</partNumber>
+  <partNumber>Title 31 Section 5318A</partNumber>
+  <partNumber>Title 31 Section 5318A(b)</partNumber>
+  <partNumber>Title 31 Section 9705</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 5312(a)</identifier>
+ <identifier type="USC citation">31 U.S.C. 5318A</identifier>
+ <identifier type="USC citation">31 U.S.C. 5318A(b)</identifier>
+ <identifier type="USC citation">31 U.S.C. 9705</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 41 Section 1303</partNumber>
+  <partNumber>Title 41 Section 133</partNumber>
+</titleInfo>
+ <identifier type="USC citation">41 U.S.C. 1303</identifier>
+ <identifier type="USC citation">41 U.S.C. 133</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 50 Section 1701</partNumber>
+  <partNumber>Title 50 Section 1701et seq.</partNumber>
+  <partNumber>Title 50 Section 1704</partNumber>
+  <partNumber>Title 50 Section 1705</partNumber>
+  <partNumber>Title 50 Section 1705(a)</partNumber>
+  <partNumber>Title 50 Section 413et seq.</partNumber>
+  <partNumber>Title 50 Appendix 1</partNumber>
+  <partNumber>Title 50 Appendix 2401</partNumber>
+  <partNumber>Title 50 Appendix 2405</partNumber>
+</titleInfo>
+ <identifier type="USC citation">50 U.S.C. 1701</identifier>
+ <identifier type="USC citation">50 U.S.C. 1701et seq.</identifier>
+ <identifier type="USC citation">50 U.S.C. 1704</identifier>
+ <identifier type="USC citation">50 U.S.C. 1705</identifier>
+ <identifier type="USC citation">50 U.S.C. 1705(a)</identifier>
+ <identifier type="USC citation">50 U.S.C. 413et seq.</identifier>
+ <identifier type="USC citation">50 U.S.C. App. 1</identifier>
+ <identifier type="USC citation">50 U.S.C. App. 2401</identifier>
+ <identifier type="USC citation">50 U.S.C. App. 2405</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s2144is</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2144</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle type="measure">North Korea Sanctions and Policy Enhancement Act of 2015</shortTitle>
+ <officialTitle>To improve the enforcement of sanctions against the Government of North Korea, and for other purposes.</officialTitle>
+ <action date="2015-10-06">Mr. Gardner (for himself, Mr. Rubio, and Mr. Risch) introduced the following bill; which was read twice and referred to the Committee on Foreign Relations</action>
+ <congCommittee authorityId="ssfr00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Foreign Relations</name>
+                      <name type="authority-short">Foreign Relations</name>
+                </congCommittee>
+ <congMember authorityId="1998" bioGuideId="G000562" chamber="S" congress="114" gpoId="7862" party="R" role="SPONSOR" state="CO">
+                      <name type="parsed">Mr. Gardner</name>
+                      <name type="authority-fnf">Cory Gardner</name>
+                      <name type="authority-lnf">Gardner, Cory</name>
+                </congMember>
+ <congMember authorityId="2084" bioGuideId="R000595" chamber="S" congress="114" gpoId="8242" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Rubio</name>
+                      <name type="authority-fnf">Marco Rubio</name>
+                      <name type="authority-lnf">Rubio, Marco</name>
+                </congMember>
+ <congMember authorityId="1896" bioGuideId="R000584" chamber="S" congress="114" gpoId="8274" party="R" role="COSPONSOR" state="ID">
+                      <name type="parsed">Mr. Risch</name>
+                      <name type="authority-fnf">James E. Risch</name>
+                      <name type="authority-lnf">Risch, James E.</name>
+                      <name type="authority-other">Mr. James Risch</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="18">
+                      <section detail="(c)(7)(D)" number="1956"></section>
+                      <section detail="(a)(1)" number="981"></section>
+                      <section detail="(i)(2)(D)" number="983"></section>
+                      <chapter number="46"></chapter>
+                </USCode>
+ <USCode title="19">
+                      <section detail="et seq." number="1202"></section>
+                      <section detail="(b)" number="2511"></section>
+                      <section detail="(4)" number="2518"></section>
+                </USCode>
+ <USCode title="22">
+                      <section number="2151"></section>
+                      <section detail="(d)" number="2151n"></section>
+                      <section detail="(b)" number="2304"></section>
+                      <section detail="et seq." number="2751"></section>
+                      <section detail="et seq." number="5601"></section>
+                      <section detail="et seq." number="6301"></section>
+                      <section number="7802"></section>
+                      <section number="7813"></section>
+                      <section number="7814"></section>
+                      <section detail="(a)" number="7817"></section>
+                </USCode>
+ <USCode title="28">
+                      <section detail="(c)" number="524"></section>
+                </USCode>
+ <USCode title="31">
+                      <section detail="(a)" number="5312"></section>
+                      <section number="5318A"></section>
+                      <section detail="(b)" number="5318A"></section>
+                      <section number="9705"></section>
+                </USCode>
+ <USCode title="41">
+                      <section number="1303"></section>
+                      <section number="133"></section>
+                </USCode>
+ <USCode title="50">
+                      <section number="1701"></section>
+                      <section detail="et seq." number="1701"></section>
+                      <section number="1704"></section>
+                      <section number="1705"></section>
+                      <section detail="(a)" number="1705"></section>
+                      <section detail="et seq." number="413"></section>
+                      <appendix detail="et seq." number="1"></appendix>
+                      <appendix detail="et seq." number="2401"></appendix>
+                      <appendix detail="(j)" number="2405"></appendix>
+                </USCode>
+</extension>
+</mods>

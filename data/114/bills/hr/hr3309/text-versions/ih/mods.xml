@@ -1,0 +1,213 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18d32ca44">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend titles XVIII and XIX of the Social Security Act to improve the electronic health records meaningful use programs under the Medicare and Medicaid programs, and for other purposes.;Further Flexibility in HIT Reporting and Advancing Interoperability Act;Flex-IT 2 Act;H.R. 3309 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-08-05</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend titles XVIII and XIX of the Social Security Act to improve the electronic health records meaningful use programs under the Medicare and Medicaid programs, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Further Flexibility in HIT Reporting and Advancing Interoperability Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Flex-IT 2 Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 3309 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-07-29</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>27 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18d32ca44</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3309ih</identifier>
+<identifier type="preferred citation">H.R. 3309</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h3309_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3309ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3309ih/html/BILLS-114hr3309ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3309ih/pdf/BILLS-114hr3309ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3309ih/xml/BILLS-114hr3309ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-08-05</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-11</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr3309ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Renee L. Ellmers</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Energy and Commerce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Ways and Means</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 1395f(l)</partNumber>
+  <partNumber>Title 42 Section 1395w-23</partNumber>
+  <partNumber>Title 42 Section 1395w-4(a)(7)(A)(i)</partNumber>
+  <partNumber>Title 42 Section 1395w-4(a)(7)(B)</partNumber>
+  <partNumber>Title 42 Section 1395w-4(a)(7)(E)(ii)</partNumber>
+  <partNumber>Title 42 Section 1395w-4(k)(2)(C)</partNumber>
+  <partNumber>Title 42 Section 1395w-4(o)(1)(A)(i)</partNumber>
+  <partNumber>Title 42 Section 1395w-4(o)(2)</partNumber>
+  <partNumber>Title 42 Section 1395w-4(q)</partNumber>
+  <partNumber>Title 42 Section 1395w</partNumber>
+  <partNumber>Title 42 Section 1395ww</partNumber>
+  <partNumber>Title 42 Section 1395ww(b)(3)(B)(ix)(I)</partNumber>
+  <partNumber>Title 42 Section 1395ww(b)(3)(B)(ix)(II)</partNumber>
+  <partNumber>Title 42 Section 1395ww(n)(1)</partNumber>
+  <partNumber>Title 42 Section 1395ww(n)(3)</partNumber>
+  <partNumber>Title 42 Section 1395ww(n)(3)(B)(i)</partNumber>
+  <partNumber>Title 42 Section 1395ww(n)(3)(B)(iii)</partNumber>
+  <partNumber>Title 42 Section 1396b(t)(8)</partNumber>
+  <partNumber>Title 42 Section 300jj-14(a)(1)</partNumber>
+  <partNumber>Title 42 Section 300jj</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 1395f(l)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395w-23</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395w-4(a)(7)(A)(i)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395w-4(a)(7)(B)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395w-4(a)(7)(E)(ii)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395w-4(k)(2)(C)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395w-4(o)(1)(A)(i)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395w-4(o)(2)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395w-4(q)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395w</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395ww</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395ww(b)(3)(B)(ix)(I)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395ww(b)(3)(B)(ix)(II)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395ww(n)(1)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395ww(n)(3)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395ww(n)(3)(B)(i)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395ww(n)(3)(B)(iii)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1396b(t)(8)</identifier>
+ <identifier type="USC citation">42 U.S.C. 300jj-14(a)(1)</identifier>
+ <identifier type="USC citation">42 U.S.C. 300jj</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr3309ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>3309</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Further Flexibility in HIT Reporting and Advancing Interoperability Act</shortTitle>
+ <shortTitle type="measure">Flex-IT 2 Act</shortTitle>
+ <officialTitle>To amend titles XVIII and XIX of the Social Security Act to improve the electronic health records meaningful use programs under the Medicare and Medicaid programs, and for other purposes.</officialTitle>
+ <action date="2015-07-29">Mrs. Ellmers of North Carolina introduced the following bill; which was referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <congCommittee authorityId="hsif00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Energy and Commerce</name>
+                      <name type="authority-short">Energy and Commerce</name>
+                </congCommittee>
+ <congCommittee authorityId="hswm00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Ways and Means</name>
+                      <name type="authority-short">Ways and Means</name>
+                </congCommittee>
+ <congMember authorityId="2036" bioGuideId="E000291" chamber="H" congress="114" gpoId="8025" party="R" role="SPONSOR" state="NC">
+                      <name type="parsed">Mrs. Ellmers of North Carolina</name>
+                      <name type="authority-fnf">Renee L. Ellmers</name>
+                      <name type="authority-lnf">Ellmers, Renee L.</name>
+                      <name type="authority-other">Mrs. Renee Ellmers</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="42">
+                      <section detail="(l)" number="1395f"></section>
+                      <section number="1395w-23"></section>
+                      <section detail="(a)(7)(A)(i)" number="1395w-4"></section>
+                      <section detail="(a)(7)(B)" number="1395w-4"></section>
+                      <section detail="(a)(7)(E)(ii)" number="1395w-4"></section>
+                      <section detail="(k)(2)(C)" number="1395w-4"></section>
+                      <section detail="(o)(1)(A)(i)" number="1395w-4"></section>
+                      <section detail="(o)(2)" number="1395w-4"></section>
+                      <section detail="(q)" number="1395w-4"></section>
+                      <section number="1395w"></section>
+                      <section number="1395ww"></section>
+                      <section detail="(b)(3)(B)(ix)(I)" number="1395ww"></section>
+                      <section detail="(b)(3)(B)(ix)(II)" number="1395ww"></section>
+                      <section detail="(n)(1)" number="1395ww"></section>
+                      <section detail="(n)(3)" number="1395ww"></section>
+                      <section detail="(n)(3)(B)(i)" number="1395ww"></section>
+                      <section detail="(n)(3)(B)(iii)" number="1395ww"></section>
+                      <section detail="(t)(8)" number="1396b"></section>
+                      <section detail="(a)(1)" number="300jj-14"></section>
+                      <section number="300jj"></section>
+                </USCode>
+</extension>
+</mods>

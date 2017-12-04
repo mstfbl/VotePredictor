@@ -1,0 +1,191 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18f59f5a0">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>Recognizing and supporting the goals and ideals of National Sexual Assault Awareness and Prevention Month.;
+   		S. Res. 452 (ATS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-05-02</dateIngested>
+</extension>
+<titleInfo>
+ <title>Recognizing and supporting the goals and ideals of National Sexual Assault Awareness and Prevention Month.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. Res. 452 (ATS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-04-28</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>5 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/2:</classification>
+<identifier type="local">P0b002ee18f59f5a0</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114sres452ats</identifier>
+<identifier type="preferred citation">S. Res. 452</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325577</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate resolutions</identifier>
+<identifier type="former package identifier">f:sr452_ats.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114sres452ats/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres452ats/html/BILLS-114sres452ats.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres452ats/pdf/BILLS-114sres452ats.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres452ats/xml/BILLS-114sres452ats.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-05-02</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-05-03</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114sres452ats</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Chuck Grassley</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Patrick J. Leahy</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kelly Ayotte</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robert P. Casey Jr.</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Joni Ernst</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kirsten E. Gillibrand</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dean Heller</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<extension>
+ <docClass>sres</docClass>
+ <accessId>BILLS-114sres452ats</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>452</billNumber>
+ <billVersion reprint="false">ats</billVersion>
+ <fileSuffix>ats</fileSuffix>
+ <action date="2016-04-28">Mr. Grassley (for himself, Mr. Leahy, Ms. Ayotte, Mr. Casey, Mrs. Ernst, Mrs. Gillibrand, and Mr. Heller) submitted the following resolution; which was considered and agreed to</action>
+ <congMember authorityId="457" bioGuideId="G000386" chamber="S" congress="114" gpoId="8316" party="R" role="SPONSOR" state="IA">
+                      <name type="parsed">Mr. Grassley</name>
+                      <name type="authority-fnf">Chuck Grassley</name>
+                      <name type="authority-lnf">Grassley, Chuck</name>
+                      <name type="authority-other">Charles Ernest Grassley</name>
+                </congMember>
+ <congMember authorityId="1383" bioGuideId="L000174" chamber="S" congress="114" gpoId="8244" party="D" role="COSPONSOR" state="VT">
+                      <name type="parsed">Mr. Leahy</name>
+                      <name type="authority-fnf">Patrick J. Leahy</name>
+                      <name type="authority-lnf">Leahy, Patrick J.</name>
+                      <name type="authority-other">Patrick Joseph Leahy</name>
+                </congMember>
+ <congMember authorityId="2075" bioGuideId="A000368" chamber="S" congress="114" gpoId="8315" party="R" role="COSPONSOR" state="NH">
+                      <name type="parsed">Ms. Ayotte</name>
+                      <name type="authority-fnf">Kelly Ayotte</name>
+                      <name type="authority-lnf">Ayotte, Kelly</name>
+                </congMember>
+ <congMember authorityId="1828" bioGuideId="C001070" chamber="S" congress="114" gpoId="8282" party="D" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Casey</name>
+                      <name type="authority-fnf">Robert P. Casey Jr.</name>
+                      <name type="authority-lnf">Casey, Robert P., Jr.</name>
+                      <name type="authority-other">Mr. Bob Casey Jr.</name>
+                </congMember>
+ <congMember authorityId="2283" bioGuideId="E000295" chamber="S" congress="114" party="R" role="COSPONSOR" state="IA">
+                      <name type="parsed">Mrs. Ernst</name>
+                      <name type="authority-fnf">Joni Ernst</name>
+                      <name type="authority-lnf">Ernst, Joni</name>
+                </congMember>
+ <congMember authorityId="1866" bioGuideId="G000555" chamber="S" congress="114" gpoId="8336" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mrs. Gillibrand</name>
+                      <name type="authority-fnf">Kirsten E. Gillibrand</name>
+                      <name type="authority-lnf">Gillibrand, Kirsten E.</name>
+                      <name type="authority-other">Mrs. Kirsten Gillibrand</name>
+                </congMember>
+ <congMember authorityId="1863" bioGuideId="H001041" chamber="S" congress="114" gpoId="8060" party="R" role="COSPONSOR" state="NV">
+                      <name type="parsed">Mr. Heller</name>
+                      <name type="authority-fnf">Dean Heller</name>
+                      <name type="authority-lnf">Heller, Dean</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

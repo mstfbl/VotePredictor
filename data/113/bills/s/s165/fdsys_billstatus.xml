@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-01-28</actionDate>
+        <committee>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-01-28</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-01-28</introducedDate>
+    <updateDate>2016-10-25T16:20:18Z</updateDate>
+    <createDate>2013-01-29T07:00:55Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>slia00</systemCode>
+          <type>Other</type>
+          <subcommittees />
+          <name>Indian Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-01-28T23:56:21Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>R000584</bioguideId>
+        <state>ID</state>
+        <sponsorshipDate>2013-01-28</sponsorshipDate>
+        <middleName>E.</middleName>
+        <firstName>James</firstName>
+        <party>R</party>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <lastName>Risch</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1896</lisID>
+          <gpoId>8274</gpoId>
+          <bioguideId>R000584</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Indian Trust Asset Reform Act</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced for portions of this bill</titleType>
+        <title>Indian Trust Asset Management Demonstration Project Act of 2013</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Indian Trust Asset Reform Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to provide for Indian trust asset management reform, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Indian Trust Asset Reform Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2013-01-28T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Indian Trust Asset Reform Act - Reaffirms the federal government's fiduciary responsibilities to Indians. </p> <p>States that: (1) the most exacting common law fiduciary standards governing private trustees also govern the federal government when it manages Indian Trust Assets, and (2) those standards are not limited to the express terms of statutes and regulations.</p> <p>Indian Trust Asset Management Demonstration Project Act of 2013 - Directs the Secretary of the Interior to establish an eight-year Indian trust asset management demonstration project that allows Indian tribes to propose, for the Secretary's approval, Indian trust asset management plans.</p> <p>Allows participating Indian tribes that contract or compact trust management functions or activities under the Indian Self-Determination and Education Assistance Act to develop and carry out trust asset management systems, practices, and procedures that differ from the Secretary's. </p> <p>Requires each plan to: (1) be consistent with all tribal laws and all federal treaties, statutes, executive orders, and court decisions applicable to the trust assets and their management; (2) establish procedures for nonbinding mediation or resolution of any plan-related disputes between the Indian tribe and the federal government; (3) include an annual evaluation by the Indian tribe and affected federal agencies of the plan's implementation; and (4) identify any federal regulations that the plan will supersede.</p> <p>Prohibits the approval of any plan that does not: (1) protect trust assets from loss, waste, and unlawful alienation; and (2) promote the interests of the trust asset's beneficial owner.</p> <p>Establishes, in the Department of the Interior, an Under Secretary for Indian Affairs who is to report directly to the Secretary and assume the functions of the Assistant Secretary for Indian Affairs and the Office of Special Trustee for American Indians.</p> <p>Requires the Office of the Under Secretary to carry out additional duties relating to the management of Indian trust assets and resources through an Office of Trust Reform Implementation and Oversight.</p> <p>Requires the Under Secretary to give a hiring preference to Indians.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2013-01-28</actionDate>
+          <lastSummaryUpdateDate>2013-02-19T23:00:58Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Subcommittee Hearings Held.</text>
+          <actionDate>2014-05-07</actionDate>
+        </latestAction>
+        <latestTitle>Indian Trust Asset Reform Act</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>409</number>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Alternative dispute resolution, mediation, arbitration</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Federal-Indian relations</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Native Americans</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+      <actionDate>2013-01-28</actionDate>
+    </latestAction>
+    <billNumber>165</billNumber>
+    <policyArea>
+      <name>Native Americans</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>MICHAEL</firstName>
+        <party>R</party>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <bioguideId>C000880</bioguideId>
+        <identifiers>
+          <lisID>250</lisID>
+          <gpoId>8289</gpoId>
+          <bioguideId>C000880</bioguideId>
+        </identifiers>
+        <lastName>CRAPO</lastName>
+        <middleName>D.</middleName>
+        <state>ID</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

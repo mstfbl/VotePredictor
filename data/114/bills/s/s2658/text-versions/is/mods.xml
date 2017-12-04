@@ -1,0 +1,416 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18ef81010">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend title 49, United States Code, to authorize appropriations for the Federal Aviation Administration for fiscal years 2016 through 2017, and for other purposes.;
+   		S. 2658 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-03-18</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend title 49, United States Code, to authorize appropriations for the Federal Aviation Administration for fiscal years 2016 through 2017, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 2658 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-03-09</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>289 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18ef81010</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s2658is</identifier>
+<identifier type="preferred citation">S. 2658</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s2658_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s2658is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2658is/html/BILLS-114s2658is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2658is/pdf/BILLS-114s2658is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2658is/xml/BILLS-114s2658is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-03-18</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-03-18</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s2658is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>John Thune</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bill Nelson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kelly Ayotte</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Maria Cantwell</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Commerce, Science, and Transportation</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 2 Section 1601et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">2 U.S.C. 1601et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 3307</partNumber>
+  <partNumber>Title 5 Section 552a</partNumber>
+  <partNumber>Title 5 Section 552(f)</partNumber>
+  <partNumber>Title 5 Section 554</partNumber>
+  <partNumber>Title 5 Section 7111</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 3307</identifier>
+ <identifier type="USC citation">5 U.S.C. 552a</identifier>
+ <identifier type="USC citation">5 U.S.C. 552(f)</identifier>
+ <identifier type="USC citation">5 U.S.C. 554</identifier>
+ <identifier type="USC citation">5 U.S.C. 7111</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 45(a)</partNumber>
+  <partNumber>Title 15 Section 632(o)</partNumber>
+  <partNumber>Title 15 Section 632(p)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 45(a)</identifier>
+ <identifier type="USC citation">15 U.S.C. 632(o)</identifier>
+ <identifier type="USC citation">15 U.S.C. 632(p)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Section 16</partNumber>
+  <partNumber>Title 18 Section 39A</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. 16</identifier>
+ <identifier type="USC citation">18 U.S.C. 39A</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 29 Section 701et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">29 U.S.C. 701et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 12101et seq.</partNumber>
+  <partNumber>Title 42 Section 4151et seq.</partNumber>
+  <partNumber>Title 42 Section 5122</partNumber>
+  <partNumber>Title 42 Section 7501</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 12101et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 4151et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 5122</identifier>
+ <identifier type="USC citation">42 U.S.C. 7501</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 49 Section 106(l)(6)</partNumber>
+  <partNumber>Title 49 Section 106(u)</partNumber>
+  <partNumber>Title 49 Section 40101note</partNumber>
+  <partNumber>Title 49 Section 40102</partNumber>
+  <partNumber>Title 49 Section 41712</partNumber>
+  <partNumber>Title 49 Section 41724</partNumber>
+  <partNumber>Title 49 Section 42301</partNumber>
+  <partNumber>Title 49 Section 42302</partNumber>
+  <partNumber>Title 49 Section 44701note</partNumber>
+  <partNumber>Title 49 Section 44702(d)</partNumber>
+  <partNumber>Title 49 Section 44703</partNumber>
+  <partNumber>Title 49 Section 44703note</partNumber>
+  <partNumber>Title 49 Section 44704note</partNumber>
+  <partNumber>Title 49 Section 44709</partNumber>
+  <partNumber>Title 49 Section 44709(b)</partNumber>
+  <partNumber>Title 49 Section 44710</partNumber>
+  <partNumber>Title 49 Section 44733(d)(2)</partNumber>
+  <partNumber>Title 49 Section 44736</partNumber>
+  <partNumber>Title 49 Section 44736(c)</partNumber>
+  <partNumber>Title 49 Section 44801</partNumber>
+  <partNumber>Title 49 Section 44808</partNumber>
+  <partNumber>Title 49 Section 46105(c)</partNumber>
+  <partNumber>Title 49 Section 47102</partNumber>
+  <partNumber>Title 49 Section 47124(e)</partNumber>
+  <partNumber>Title 49 Section 47125</partNumber>
+  <partNumber>Title 49 Section 47125note</partNumber>
+  <partNumber>Title 49 Section 47141note</partNumber>
+  <partNumber>Title 49 Chapter 448</partNumber>
+</titleInfo>
+ <identifier type="USC citation">49 U.S.C. 106(l)(6)</identifier>
+ <identifier type="USC citation">49 U.S.C. 106(u)</identifier>
+ <identifier type="USC citation">49 U.S.C. 40101note</identifier>
+ <identifier type="USC citation">49 U.S.C. 40102</identifier>
+ <identifier type="USC citation">49 U.S.C. 41712</identifier>
+ <identifier type="USC citation">49 U.S.C. 41724</identifier>
+ <identifier type="USC citation">49 U.S.C. 42301</identifier>
+ <identifier type="USC citation">49 U.S.C. 42302</identifier>
+ <identifier type="USC citation">49 U.S.C. 44701note</identifier>
+ <identifier type="USC citation">49 U.S.C. 44702(d)</identifier>
+ <identifier type="USC citation">49 U.S.C. 44703</identifier>
+ <identifier type="USC citation">49 U.S.C. 44703note</identifier>
+ <identifier type="USC citation">49 U.S.C. 44704note</identifier>
+ <identifier type="USC citation">49 U.S.C. 44709</identifier>
+ <identifier type="USC citation">49 U.S.C. 44709(b)</identifier>
+ <identifier type="USC citation">49 U.S.C. 44710</identifier>
+ <identifier type="USC citation">49 U.S.C. 44733(d)(2)</identifier>
+ <identifier type="USC citation">49 U.S.C. 44736</identifier>
+ <identifier type="USC citation">49 U.S.C. 44736(c)</identifier>
+ <identifier type="USC citation">49 U.S.C. 44801</identifier>
+ <identifier type="USC citation">49 U.S.C. 44808</identifier>
+ <identifier type="USC citation">49 U.S.C. 46105(c)</identifier>
+ <identifier type="USC citation">49 U.S.C. 47102</identifier>
+ <identifier type="USC citation">49 U.S.C. 47124(e)</identifier>
+ <identifier type="USC citation">49 U.S.C. 47125</identifier>
+ <identifier type="USC citation">49 U.S.C. 47125note</identifier>
+ <identifier type="USC citation">49 U.S.C. 47141note</identifier>
+ <identifier type="USC citation">49 U.S.C. Chapter 448</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 100 Page 1080</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">100 Stat. 1080</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 117 Page 2518</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">117 Stat. 2518</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 126 Page 13</partNumber>
+  <partNumber>Volume 126 Page 1159</partNumber>
+  <partNumber>Volume 126 Page 1162</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">126 Stat. 13</identifier>
+ <identifier type="Statute citation">126 Stat. 1159</identifier>
+ <identifier type="Statute citation">126 Stat. 1162</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 99-435</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 99-435</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 104-65</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 104-65</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 108-176</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 108-176</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-95</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-95</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-153</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-153</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s2658is</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2658</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <action date="2016-03-09">Mr. Thune (for himself, Mr. Nelson, Ms. Ayotte, and Ms. Cantwell) introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation</action>
+ <congCommittee authorityId="sscm00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Commerce, Science, and Transportation</name>
+                      <name type="authority-short">Commerce</name>
+                </congCommittee>
+ <congMember authorityId="1534" bioGuideId="T000250" chamber="S" congress="114" gpoId="8257" party="R" role="SPONSOR" state="SD">
+                      <name type="parsed">Mr. Thune</name>
+                      <name type="authority-fnf">John Thune</name>
+                      <name type="authority-lnf">Thune, John</name>
+                      <name type="authority-other">John R. Thune</name>
+                </congMember>
+ <congMember authorityId="859" bioGuideId="N000032" chamber="S" congress="114" gpoId="8236" party="D" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Nelson</name>
+                      <name type="authority-fnf">Bill Nelson</name>
+                      <name type="authority-lnf">Nelson, Bill</name>
+                      <name type="authority-other">Clarence William Nelson</name>
+                </congMember>
+ <congMember authorityId="2075" bioGuideId="A000368" chamber="S" congress="114" gpoId="8315" party="R" role="COSPONSOR" state="NH">
+                      <name type="parsed">Ms. Ayotte</name>
+                      <name type="authority-fnf">Kelly Ayotte</name>
+                      <name type="authority-lnf">Ayotte, Kelly</name>
+                </congMember>
+ <congMember authorityId="172" bioGuideId="C000127" chamber="S" congress="114" gpoId="8288" party="D" role="COSPONSOR" state="WA">
+                      <name type="parsed">Ms. Cantwell</name>
+                      <name type="authority-fnf">Maria Cantwell</name>
+                      <name type="authority-lnf">Cantwell, Maria</name>
+                </congMember>
+ <law congress="99" isPrivate="false" number="435"></law>
+ <law congress="104" isPrivate="false" number="65"></law>
+ <law congress="108" isPrivate="false" number="176"></law>
+ <law congress="112" isPrivate="false" number="95"></law>
+ <law congress="112" isPrivate="false" number="153"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="2">
+                      <section detail="et seq." number="1601"></section>
+                </USCode>
+ <USCode title="5">
+                      <section number="3307"></section>
+                      <section number="552a"></section>
+                      <section detail="(f)" number="552"></section>
+                      <section number="554"></section>
+                      <section number="7111"></section>
+                </USCode>
+ <USCode title="15">
+                      <section detail="(a)" number="45"></section>
+                      <section detail="(o)" number="632"></section>
+                      <section detail="(p)" number="632"></section>
+                </USCode>
+ <USCode title="18">
+                      <section number="16"></section>
+                      <section number="39A"></section>
+                </USCode>
+ <USCode title="29">
+                      <section detail="et seq." number="701"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="et seq." number="12101"></section>
+                      <section detail="et seq." number="4151"></section>
+                      <section number="5122"></section>
+                      <section number="7501"></section>
+                </USCode>
+ <USCode title="49">
+                      <section detail="(l)(6)" number="106"></section>
+                      <section detail="(u)" number="106"></section>
+                      <section detail="note" number="40101"></section>
+                      <section number="40102"></section>
+                      <section number="41712"></section>
+                      <section number="41724"></section>
+                      <section number="42301"></section>
+                      <section number="42302"></section>
+                      <section detail="note" number="44701"></section>
+                      <section detail="(d)" number="44702"></section>
+                      <section number="44703"></section>
+                      <section detail="note" number="44703"></section>
+                      <section detail="note" number="44704"></section>
+                      <section number="44709"></section>
+                      <section detail="(b)" number="44709"></section>
+                      <section number="44710"></section>
+                      <section detail="(d)(2)" number="44733"></section>
+                      <section number="44736"></section>
+                      <section detail="(c)" number="44736"></section>
+                      <section number="44801"></section>
+                      <section number="44808"></section>
+                      <section detail="(c)" number="46105"></section>
+                      <section number="47102"></section>
+                      <section detail="(e)" number="47124"></section>
+                      <section number="47125"></section>
+                      <section detail="note" number="47125"></section>
+                      <section detail="note" number="47141"></section>
+                      <chapter number="448"></chapter>
+                </USCode>
+ <statuteAtLarge volume="100">
+                      <pages pages="1080"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="117">
+                      <pages pages="2518"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="126">
+                      <pages pages="13"></pages>
+                      <pages pages="1159"></pages>
+                      <pages pages="1162"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

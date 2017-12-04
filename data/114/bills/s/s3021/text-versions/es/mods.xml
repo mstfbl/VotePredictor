@@ -1,0 +1,176 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee193076982">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To amend title 38, United States Code, to authorize the use of Post-9/11 Educational Assistance to pursue independent study programs at certain educational institutions that are not institutions of higher learning.;Veterans Education Improvement Act of 2016;VEI Act of 2016;S. 3021 (ES)</searchTitle>
+ <starprintNumber>1</starprintNumber>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-12-12</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To amend title 38, United States Code, to authorize the use of Post-9/11 Educational Assistance to pursue independent study programs at certain educational institutions that are not institutions of higher learning.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Veterans Education Improvement Act of 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>VEI Act of 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 3021 (ES)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-12-13</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>30 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee193076982</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s3021es</identifier>
+<identifier type="preferred citation">S. 3021</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s3021_es.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s3021es/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s3021es/html/BILLS-114s3021es.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s3021es/pdf/BILLS-114s3021es.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s3021es/xml/BILLS-114s3021es.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-12-12</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-12-13</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s3021es</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 16131(c)(3)(B)(i)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 16131(c)(3)(B)(i)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1002(c)</partNumber>
+  <partNumber>Title 20 Section 1099b</partNumber>
+  <partNumber>Title 20 Section 2302(3)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1002(c)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1099b</identifier>
+ <identifier type="USC citation">20 U.S.C. 2302(3)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 38 Section 3104</partNumber>
+  <partNumber>Title 38 Section 3104(b)</partNumber>
+  <partNumber>Title 38 Section 3301note</partNumber>
+  <partNumber>Title 38 Section 3485(a)(4)</partNumber>
+  <partNumber>Title 38 Section 3672(b)(2)(A)</partNumber>
+  <partNumber>Title 38 Section 3676</partNumber>
+  <partNumber>Title 38 Section 3679(c)(2)</partNumber>
+  <partNumber>Title 38 Section 3680A(a)</partNumber>
+  <partNumber>Title 38 Section 3684(a)</partNumber>
+  <partNumber>Title 38 Section 3693</partNumber>
+  <partNumber>Title 38 Chapter 33</partNumber>
+</titleInfo>
+ <identifier type="USC citation">38 U.S.C. 3104</identifier>
+ <identifier type="USC citation">38 U.S.C. 3104(b)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3301note</identifier>
+ <identifier type="USC citation">38 U.S.C. 3485(a)(4)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3672(b)(2)(A)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3676</identifier>
+ <identifier type="USC citation">38 U.S.C. 3679(c)(2)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3680A(a)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3684(a)</identifier>
+ <identifier type="USC citation">38 U.S.C. 3693</identifier>
+ <identifier type="USC citation">38 U.S.C. Chapter 33</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 110-252</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 110-252</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s3021es</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>3021</billNumber>
+ <billVersion reprint="false">es</billVersion>
+ <fileSuffix>es</fileSuffix>
+ <shortTitle type="measure">Veterans Education Improvement Act of 2016</shortTitle>
+ <shortTitle type="measure">VEI Act of 2016</shortTitle>
+ <officialTitle>To amend title 38, United States Code, to authorize the use of Post-9/11 Educational Assistance to pursue independent study programs at certain educational institutions that are not institutions of higher learning.</officialTitle>
+ <law congress="110" isPrivate="false" number="252"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="10">
+                      <section detail="(c)(3)(B)(i)" number="16131"></section>
+                </USCode>
+ <USCode title="20">
+                      <section detail="(c)" number="1002"></section>
+                      <section number="1099b"></section>
+                      <section detail="(3)" number="2302"></section>
+                </USCode>
+ <USCode title="38">
+                      <section number="3104"></section>
+                      <section detail="(b)" number="3104"></section>
+                      <section detail="note" number="3301"></section>
+                      <section detail="(a)(4)" number="3485"></section>
+                      <section detail="(b)(2)(A)" number="3672"></section>
+                      <section number="3676"></section>
+                      <section detail="(c)(2)" number="3679"></section>
+                      <section detail="(a)" number="3680A"></section>
+                      <section detail="(a)" number="3684"></section>
+                      <section number="3693"></section>
+                      <chapter number="33"></chapter>
+                </USCode>
+</extension>
+</mods>

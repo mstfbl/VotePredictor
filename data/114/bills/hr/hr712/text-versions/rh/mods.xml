@@ -1,0 +1,444 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18cbf461f">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To impose certain limitations on consent decrees and settlement agreements by agencies that require the agencies to take regulatory action in accordance with the terms thereof, and for other purposes.;Sunshine for Regulatory Decrees and Settlements Act of 2015;H.R. 712 (RH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-06-26</dateIngested>
+</extension>
+<titleInfo>
+ <title>To impose certain limitations on consent decrees and settlement agreements by agencies that require the agencies to take regulatory action in accordance with the terms thereof, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Sunshine for Regulatory Decrees and Settlements Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 712 (RH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-06-25</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>18 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18cbf461f</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr712rh</identifier>
+<identifier type="preferred citation">H.R. 712</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h712_rh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr712rh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr712rh/html/BILLS-114hr712rh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr712rh/pdf/BILLS-114hr712rh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr712rh/xml/BILLS-114hr712rh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-06-26</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-11</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr712rh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Doug Collins</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ted S. Yoho</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robert E. Latta</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Blake Farenthold</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Renee L. Ellmers</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tom Marino</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bob Goodlatte</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lamar Smith</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Steve Chabot</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David A. Trott</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tim Huelskamp</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Andy Barr</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Earl L. &quot;Buddy&quot; Carter</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kevin Cramer</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Vicky Hartzler</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Louie Gohmert</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Paul A. Gosar</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Scott R. Tipton</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Stevan Pearce</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Chris Stewart</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Eric A. &quot;Rick&quot; Crawford</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David Rouzer</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Brian Babin</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on the Judiciary</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 551</partNumber>
+  <partNumber>Title 5 Chapter 5</partNumber>
+  <partNumber>Title 5 Chapter 7</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 551</identifier>
+ <identifier type="USC citation">5 U.S.C. Chapter 5</identifier>
+ <identifier type="USC citation">5 U.S.C. Chapter 7</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Union Calendar No. 136</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr712rh</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>712</billNumber>
+ <billVersion reprint="false">rh</billVersion>
+ <fileSuffix>rh</fileSuffix>
+ <shortTitle type="measure">Sunshine for Regulatory Decrees and Settlements Act of 2015</shortTitle>
+ <officialTitle>To impose certain limitations on consent decrees and settlement agreements by agencies that require the agencies to take regulatory action in accordance with the terms thereof, and for other purposes.</officialTitle>
+ <action date="2015-02-04">Mr. Collins of Georgia (for himself, Mr. Yoho, Mr. Latta, Mr. Farenthold, Mrs. Ellmers, Mr. Marino, Mr. Goodlatte, Mr. Smith of Texas, Mr. Chabot, and Mr. Trott) introduced the following bill; which was referred to the Committee on the Judiciary</action>
+ <action date="2015-06-25">Additional sponsors: Mr. Huelskamp, Mr. Barr, Mr. Carter of Georgia, Mr. Cramer, Mrs. Hartzler, Mr. Gohmert, Mr. Gosar, Mr. Tipton, Mr. Pearce, Mr. Stewart, Mr. Crawford, Mr. Rouzer, and Mr. Babin</action>
+ <action date="2015-06-25">Committed to the Committee of the Whole House on the State of the Union and ordered to be printed</action>
+ <congCommittee authorityId="hsju00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on the Judiciary</name>
+                      <name type="authority-short">Judiciary</name>
+                </congCommittee>
+ <congMember authorityId="2121" bioGuideId="C001093" chamber="H" congress="114" party="R" role="SPONSOR" state="GA">
+                      <name type="parsed">Mr. Collins of Georgia</name>
+                      <name type="authority-fnf">Doug Collins</name>
+                      <name type="authority-lnf">Collins, Doug</name>
+                </congMember>
+ <congMember authorityId="2115" bioGuideId="Y000065" chamber="H" congress="114" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Yoho</name>
+                      <name type="authority-fnf">Ted S. Yoho</name>
+                      <name type="authority-lnf">Yoho, Ted S.</name>
+                      <name type="authority-other">Mr. Ted Yoho</name>
+                </congMember>
+ <congMember authorityId="1885" bioGuideId="L000566" chamber="H" congress="114" gpoId="8095" party="R" role="COSPONSOR" state="OH">
+                      <name type="parsed">Mr. Latta</name>
+                      <name type="authority-fnf">Robert E. Latta</name>
+                      <name type="authority-lnf">Latta, Robert E.</name>
+                      <name type="authority-other">Mr. Robert Latta</name>
+                </congMember>
+ <congMember authorityId="2067" bioGuideId="F000460" chamber="H" congress="114" gpoId="8183" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Farenthold</name>
+                      <name type="authority-fnf">Blake Farenthold</name>
+                      <name type="authority-lnf">Farenthold, Blake</name>
+                </congMember>
+ <congMember authorityId="2036" bioGuideId="E000291" chamber="H" congress="114" gpoId="8025" party="R" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mrs. Ellmers</name>
+                      <name type="authority-fnf">Renee L. Ellmers</name>
+                      <name type="authority-lnf">Ellmers, Renee L.</name>
+                      <name type="authority-other">Mrs. Renee Ellmers</name>
+                </congMember>
+ <congMember authorityId="2053" bioGuideId="M001179" chamber="H" congress="114" gpoId="8128" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Marino</name>
+                      <name type="authority-fnf">Tom Marino</name>
+                      <name type="authority-lnf">Marino, Tom</name>
+                </congMember>
+ <congMember authorityId="446" bioGuideId="G000289" chamber="H" congress="114" gpoId="8197" party="R" role="COSPONSOR" state="VA">
+                      <name type="parsed">Mr. Goodlatte</name>
+                      <name type="authority-fnf">Bob Goodlatte</name>
+                      <name type="authority-lnf">Goodlatte, Bob</name>
+                      <name type="authority-other">Robert Goodlatte</name>
+                </congMember>
+ <congMember authorityId="1075" bioGuideId="S000583" chamber="H" congress="114" gpoId="8177" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Smith of Texas</name>
+                      <name type="authority-fnf">Lamar Smith</name>
+                      <name type="authority-lnf">Smith, Lamar</name>
+                </congMember>
+ <congMember authorityId="186" bioGuideId="C000266" chamber="H" congress="114" gpoId="8091" party="R" role="COSPONSOR" state="OH">
+                      <name type="parsed">Mr. Chabot</name>
+                      <name type="authority-fnf">Steve Chabot</name>
+                      <name type="authority-lnf">Chabot, Steve</name>
+                </congMember>
+ <congMember authorityId="2250" bioGuideId="T000475" chamber="H" congress="114" party="R" role="COSPONSOR" state="MI">
+                      <name type="parsed">Mr. Trott</name>
+                      <name type="authority-fnf">David A. Trott</name>
+                      <name type="authority-lnf">Trott, David A.</name>
+                      <name type="authority-other">Mr. David Trott</name>
+                </congMember>
+ <congMember authorityId="2020" bioGuideId="H001057" chamber="H" congress="114" gpoId="7949" party="R" role="COSPONSOR" state="KS">
+                      <name type="parsed">Mr. Huelskamp</name>
+                      <name type="authority-fnf">Tim Huelskamp</name>
+                      <name type="authority-lnf">Huelskamp, Tim</name>
+                </congMember>
+ <congMember authorityId="2131" bioGuideId="B001282" chamber="H" congress="114" party="R" role="COSPONSOR" state="KY">
+                      <name type="parsed">Mr. Barr</name>
+                      <name type="authority-fnf">Andy Barr</name>
+                      <name type="authority-lnf">Barr, Andy</name>
+                </congMember>
+ <congMember authorityId="2236" bioGuideId="C001103" chamber="H" congress="114" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Carter of Georgia</name>
+                      <name type="authority-fnf">Earl L. &quot;Buddy&quot; Carter</name>
+                      <name type="authority-lnf">Carter, Earl L. &quot;Buddy&quot;</name>
+                      <name type="authority-other">Mr. Earl Carter</name>
+                </congMember>
+ <congMember authorityId="2144" bioGuideId="C001096" chamber="H" congress="114" party="R" role="COSPONSOR" state="ND">
+                      <name type="parsed">Mr. Cramer</name>
+                      <name type="authority-fnf">Kevin Cramer</name>
+                      <name type="authority-lnf">Cramer, Kevin</name>
+                </congMember>
+ <congMember authorityId="2032" bioGuideId="H001053" chamber="H" congress="114" gpoId="8012" party="R" role="COSPONSOR" state="MO">
+                      <name type="parsed">Mrs. Hartzler</name>
+                      <name type="authority-fnf">Vicky Hartzler</name>
+                      <name type="authority-lnf">Hartzler, Vicky</name>
+                </congMember>
+ <congMember authorityId="1801" bioGuideId="G000552" chamber="H" congress="114" gpoId="8157" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Gohmert</name>
+                      <name type="authority-fnf">Louie Gohmert</name>
+                      <name type="authority-lnf">Gohmert, Louie</name>
+                </congMember>
+ <congMember authorityId="1992" bioGuideId="G000565" chamber="H" congress="114" gpoId="7798" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Gosar</name>
+                      <name type="authority-fnf">Paul A. Gosar</name>
+                      <name type="authority-lnf">Gosar, Paul A.</name>
+                      <name type="authority-other">Mr. Paul Gosar</name>
+                </congMember>
+ <congMember authorityId="1997" bioGuideId="T000470" chamber="H" congress="114" gpoId="7861" party="R" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Tipton</name>
+                      <name type="authority-fnf">Scott R. Tipton</name>
+                      <name type="authority-lnf">Tipton, Scott R.</name>
+                      <name type="authority-other">Mr. Scott Tipton</name>
+                </congMember>
+ <congMember authorityId="1738" bioGuideId="P000588" chamber="H" congress="114" gpoId="8057" party="R" role="COSPONSOR" state="NM">
+                      <name type="parsed">Mr. Pearce</name>
+                      <name type="authority-fnf">Stevan Pearce</name>
+                      <name type="authority-lnf">Pearce, Stevan</name>
+                </congMember>
+ <congMember authorityId="2168" bioGuideId="S001192" chamber="H" congress="114" party="R" role="COSPONSOR" state="UT">
+                      <name type="parsed">Mr. Stewart</name>
+                      <name type="authority-fnf">Chris Stewart</name>
+                      <name type="authority-lnf">Stewart, Chris</name>
+                </congMember>
+ <congMember authorityId="1989" bioGuideId="C001087" chamber="H" congress="114" gpoId="7793" party="R" role="COSPONSOR" state="AR">
+                      <name type="parsed">Mr. Crawford</name>
+                      <name type="authority-fnf">Eric A. &quot;Rick&quot; Crawford</name>
+                      <name type="authority-lnf">Crawford, Eric A. &quot;Rick&quot;</name>
+                      <name type="authority-other">Mr. Eric Crawford</name>
+                </congMember>
+ <congMember authorityId="2256" bioGuideId="R000603" chamber="H" congress="114" party="R" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. Rouzer</name>
+                      <name type="authority-fnf">David Rouzer</name>
+                      <name type="authority-lnf">Rouzer, David</name>
+                </congMember>
+ <congMember authorityId="2270" bioGuideId="B001291" chamber="H" congress="114" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Babin</name>
+                      <name type="authority-fnf">Brian Babin</name>
+                      <name type="authority-lnf">Babin, Brian</name>
+                </congMember>
+ <congCalendar congress="114" number="136" type="UNION"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="551"></section>
+                      <chapter number="5"></chapter>
+                      <chapter number="7"></chapter>
+                </USCode>
+</extension>
+</mods>

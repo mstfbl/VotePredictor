@@ -1,0 +1,253 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18cb6c21c">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To enhance and integrate Native American tourism, empower Native American communities, increase coordination and collaboration between Federal tourism assets, and expand heritage and cultural tourism opportunities in the United States.;Native American Tourism and Improving Visitor Experience Act;NATIVE Act;S. 1579 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-06-22</dateIngested>
+</extension>
+<titleInfo>
+ <title>To enhance and integrate Native American tourism, empower Native American communities, increase coordination and collaboration between Federal tourism assets, and expand heritage and cultural tourism opportunities in the United States.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Native American Tourism and Improving Visitor Experience Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>NATIVE Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1579 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-06-16</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>11 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18cb6c21c</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s1579is</identifier>
+<identifier type="preferred citation">S. 1579</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1579_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s1579is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1579is/html/BILLS-114s1579is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1579is/pdf/BILLS-114s1579is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1579is/xml/BILLS-114s1579is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-06-22</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-11</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s1579is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Brian Schatz</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Thune</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tom Udall</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dean Heller</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jon Tester</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Al Franken</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lisa Murkowski</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mike Rounds</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Indian Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 551</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 551</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 7517</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 7517</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 450b</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 450b</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s1579is</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1579</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle type="measure">Native American Tourism and Improving Visitor Experience Act</shortTitle>
+ <shortTitle type="measure">NATIVE Act</shortTitle>
+ <officialTitle>To enhance and integrate Native American tourism, empower Native American communities, increase coordination and collaboration between Federal tourism assets, and expand heritage and cultural tourism opportunities in the United States.</officialTitle>
+ <action date="2015-06-16">Mr. Schatz (for himself, Mr. Thune, Mr. Udall, Mr. Heller, Mr. Tester, Mr. Franken, Ms. Murkowski, and Mr. Rounds) introduced the following bill; which was read twice and referred to the Committee on Indian Affairs</action>
+ <congCommittee authorityId="slia00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Indian Affairs</name>
+                      <name type="authority-short">Indian Affairs</name>
+                </congCommittee>
+ <congMember authorityId="2173" bioGuideId="S001194" chamber="S" congress="114" party="D" role="SPONSOR" state="HI">
+                      <name type="parsed">Mr. Schatz</name>
+                      <name type="authority-fnf">Brian Schatz</name>
+                      <name type="authority-lnf">Schatz, Brian</name>
+                </congMember>
+ <congMember authorityId="1534" bioGuideId="T000250" chamber="S" congress="114" gpoId="8257" party="R" role="COSPONSOR" state="SD">
+                      <name type="parsed">Mr. Thune</name>
+                      <name type="authority-fnf">John Thune</name>
+                      <name type="authority-lnf">Thune, John</name>
+                      <name type="authority-other">John R. Thune</name>
+                </congMember>
+ <congMember authorityId="1567" bioGuideId="U000039" chamber="S" congress="114" gpoId="8260" party="D" role="COSPONSOR" state="NM">
+                      <name type="parsed">Mr. Udall</name>
+                      <name type="authority-fnf">Tom Udall</name>
+                      <name type="authority-lnf">Udall, Tom</name>
+                </congMember>
+ <congMember authorityId="1863" bioGuideId="H001041" chamber="S" congress="114" gpoId="8060" party="R" role="COSPONSOR" state="NV">
+                      <name type="parsed">Mr. Heller</name>
+                      <name type="authority-fnf">Dean Heller</name>
+                      <name type="authority-lnf">Heller, Dean</name>
+                </congMember>
+ <congMember authorityId="1829" bioGuideId="T000464" chamber="S" congress="114" gpoId="8258" party="D" role="COSPONSOR" state="MT">
+                      <name type="parsed">Mr. Tester</name>
+                      <name type="authority-fnf">Jon Tester</name>
+                      <name type="authority-lnf">Tester, Jon</name>
+                </congMember>
+ <congMember authorityId="1969" bioGuideId="F000457" chamber="S" congress="114" gpoId="8339" party="D" role="COSPONSOR" state="MN">
+                      <name type="parsed">Mr. Franken</name>
+                      <name type="authority-fnf">Al Franken</name>
+                      <name type="authority-lnf">Franken, Al</name>
+                </congMember>
+ <congMember authorityId="1694" bioGuideId="M001153" chamber="S" congress="114" gpoId="8234" party="R" role="COSPONSOR" state="AK">
+                      <name type="parsed">Ms. Murkowski</name>
+                      <name type="authority-fnf">Lisa Murkowski</name>
+                      <name type="authority-lnf">Murkowski, Lisa</name>
+                </congMember>
+ <congMember authorityId="2288" bioGuideId="R000605" chamber="S" congress="114" party="R" role="COSPONSOR" state="SD">
+                      <name type="parsed">Mr. Rounds</name>
+                      <name type="authority-fnf">Mike Rounds</name>
+                      <name type="authority-lnf">Rounds, Mike</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="551"></section>
+                </USCode>
+ <USCode title="20">
+                      <section number="7517"></section>
+                </USCode>
+ <USCode title="25">
+                      <section number="450b"></section>
+                </USCode>
+</extension>
+</mods>

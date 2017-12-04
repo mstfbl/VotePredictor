@@ -1,0 +1,765 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18e105585">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To modernize energy infrastructure, build a 21st century energy and manufacturing workforce, bolster America&apos;s energy security and diplomacy, and promote energy efficiency and government accountability, and for other purposes.;North American Energy Security and Infrastructure Act of 2015;Promoting Renewable Energy with Shared Solar Act of 2015;H.R. 8 (EH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-12-05</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To modernize energy infrastructure, build a 21st century energy and manufacturing workforce, bolster America&apos;s energy security and diplomacy, and promote energy efficiency and government accountability, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>North American Energy Security and Infrastructure Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Promoting Renewable Energy with Shared Solar Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 8 (EH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-12-03</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>276 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18e105585</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr8eh</identifier>
+<identifier type="preferred citation">H.R. 8</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h8_eh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr8eh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr8eh/html/BILLS-114hr8eh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr8eh/pdf/BILLS-114hr8eh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr8eh/xml/BILLS-114hr8eh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-12-05</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr8eh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 2 Section 1532(a)</partNumber>
+  <partNumber>Title 2 Section 2170</partNumber>
+  <partNumber>Title 2 Section 2171</partNumber>
+</titleInfo>
+ <identifier type="USC citation">2 U.S.C. 1532(a)</identifier>
+ <identifier type="USC citation">2 U.S.C. 2170</identifier>
+ <identifier type="USC citation">2 U.S.C. 2171</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 551</partNumber>
+  <partNumber>Title 5 Section 552(b)(3)</partNumber>
+  <partNumber>Title 5 Section 553</partNumber>
+  <partNumber>Title 5 Section 601</partNumber>
+  <partNumber>Title 5 Section 601note</partNumber>
+  <partNumber>Title 5 Section 602</partNumber>
+  <partNumber>Title 5 Section 702</partNumber>
+  <partNumber>Title 5 Chapter 5</partNumber>
+  <partNumber>Title 5 Chapter 7</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 551</identifier>
+ <identifier type="USC citation">5 U.S.C. 552(b)(3)</identifier>
+ <identifier type="USC citation">5 U.S.C. 553</identifier>
+ <identifier type="USC citation">5 U.S.C. 601</identifier>
+ <identifier type="USC citation">5 U.S.C. 601note</identifier>
+ <identifier type="USC citation">5 U.S.C. 602</identifier>
+ <identifier type="USC citation">5 U.S.C. 702</identifier>
+ <identifier type="USC citation">5 U.S.C. Chapter 5</identifier>
+ <identifier type="USC citation">5 U.S.C. Chapter 7</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 2164</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 2164</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 717a</partNumber>
+  <partNumber>Title 15 Section 717b</partNumber>
+  <partNumber>Title 15 Section 717b(a)</partNumber>
+  <partNumber>Title 15 Section 717b(c)</partNumber>
+  <partNumber>Title 15 Section 717n</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 717a</identifier>
+ <identifier type="USC citation">15 U.S.C. 717b</identifier>
+ <identifier type="USC citation">15 U.S.C. 717b(a)</identifier>
+ <identifier type="USC citation">15 U.S.C. 717b(c)</identifier>
+ <identifier type="USC citation">15 U.S.C. 717n</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 2612</partNumber>
+  <partNumber>Title 16 Section 2621(d)</partNumber>
+  <partNumber>Title 16 Section 2622</partNumber>
+  <partNumber>Title 16 Section 2622(b)</partNumber>
+  <partNumber>Title 16 Section 2622(c)</partNumber>
+  <partNumber>Title 16 Section 2622(d)</partNumber>
+  <partNumber>Title 16 Section 2634</partNumber>
+  <partNumber>Title 16 Section 792et seq.</partNumber>
+  <partNumber>Title 16 Section 796</partNumber>
+  <partNumber>Title 16 Section 797(e)</partNumber>
+  <partNumber>Title 16 Section 803</partNumber>
+  <partNumber>Title 16 Section 806</partNumber>
+  <partNumber>Title 16 Section 824a-4(b)</partNumber>
+  <partNumber>Title 16 Section 824a(c)</partNumber>
+  <partNumber>Title 16 Section 824a(d)</partNumber>
+  <partNumber>Title 16 Section 824a(e)</partNumber>
+  <partNumber>Title 16 Section 824a(f)</partNumber>
+  <partNumber>Title 16 Section 824b(a)(1)(B)</partNumber>
+  <partNumber>Title 16 Section 824(b)(2)</partNumber>
+  <partNumber>Title 16 Section 824(e)</partNumber>
+  <partNumber>Title 16 Section 824et seq.</partNumber>
+  <partNumber>Title 16 Section 824o</partNumber>
+  <partNumber>Title 16 Section 824o(a)</partNumber>
+  <partNumber>Title 16 Section 824q</partNumber>
+  <partNumber>Title 16 Section 825l(b)</partNumber>
+  <partNumber>Title 16 Section 825q-1</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 2612</identifier>
+ <identifier type="USC citation">16 U.S.C. 2621(d)</identifier>
+ <identifier type="USC citation">16 U.S.C. 2622</identifier>
+ <identifier type="USC citation">16 U.S.C. 2622(b)</identifier>
+ <identifier type="USC citation">16 U.S.C. 2622(c)</identifier>
+ <identifier type="USC citation">16 U.S.C. 2622(d)</identifier>
+ <identifier type="USC citation">16 U.S.C. 2634</identifier>
+ <identifier type="USC citation">16 U.S.C. 792et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 796</identifier>
+ <identifier type="USC citation">16 U.S.C. 797(e)</identifier>
+ <identifier type="USC citation">16 U.S.C. 803</identifier>
+ <identifier type="USC citation">16 U.S.C. 806</identifier>
+ <identifier type="USC citation">16 U.S.C. 824a-4(b)</identifier>
+ <identifier type="USC citation">16 U.S.C. 824a(c)</identifier>
+ <identifier type="USC citation">16 U.S.C. 824a(d)</identifier>
+ <identifier type="USC citation">16 U.S.C. 824a(e)</identifier>
+ <identifier type="USC citation">16 U.S.C. 824a(f)</identifier>
+ <identifier type="USC citation">16 U.S.C. 824b(a)(1)(B)</identifier>
+ <identifier type="USC citation">16 U.S.C. 824(b)(2)</identifier>
+ <identifier type="USC citation">16 U.S.C. 824(e)</identifier>
+ <identifier type="USC citation">16 U.S.C. 824et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 824o</identifier>
+ <identifier type="USC citation">16 U.S.C. 824o(a)</identifier>
+ <identifier type="USC citation">16 U.S.C. 824q</identifier>
+ <identifier type="USC citation">16 U.S.C. 825l(b)</identifier>
+ <identifier type="USC citation">16 U.S.C. 825q-1</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1002(a)</partNumber>
+  <partNumber>Title 20 Section 1059c(b)</partNumber>
+  <partNumber>Title 20 Section 7801</partNumber>
+  <partNumber>Title 20 Section 921et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1002(a)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1059c(b)</identifier>
+ <identifier type="USC citation">20 U.S.C. 7801</identifier>
+ <identifier type="USC citation">20 U.S.C. 921et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 2511</partNumber>
+  <partNumber>Title 25 Section 4103</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 2511</identifier>
+ <identifier type="USC citation">25 U.S.C. 4103</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 30 Section 185</partNumber>
+</titleInfo>
+ <identifier type="USC citation">30 U.S.C. 185</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 40 Section 11101</partNumber>
+</titleInfo>
+ <identifier type="USC citation">40 U.S.C. 11101</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 15852</partNumber>
+  <partNumber>Title 42 Section 15852(b)</partNumber>
+  <partNumber>Title 42 Section 15926(b)</partNumber>
+  <partNumber>Title 42 Section 17061</partNumber>
+  <partNumber>Title 42 Section 17112</partNumber>
+  <partNumber>Title 42 Section 17211</partNumber>
+  <partNumber>Title 42 Section 17212</partNumber>
+  <partNumber>Title 42 Section 17213(b)</partNumber>
+  <partNumber>Title 42 Section 17215</partNumber>
+  <partNumber>Title 42 Section 4321</partNumber>
+  <partNumber>Title 42 Section 4321et seq.</partNumber>
+  <partNumber>Title 42 Section 4332</partNumber>
+  <partNumber>Title 42 Section 6201et seq.</partNumber>
+  <partNumber>Title 42 Section 6212</partNumber>
+  <partNumber>Title 42 Section 6271et seq.</partNumber>
+  <partNumber>Title 42 Section 6291(36)(A)</partNumber>
+  <partNumber>Title 42 Section 6291et seq.</partNumber>
+  <partNumber>Title 42 Section 6292</partNumber>
+  <partNumber>Title 42 Section 6294a</partNumber>
+  <partNumber>Title 42 Section 6294(a)(2)</partNumber>
+  <partNumber>Title 42 Section 6295</partNumber>
+  <partNumber>Title 42 Section 6295(f)(4)</partNumber>
+  <partNumber>Title 42 Section 6295(o)(6)(E)(ii)</partNumber>
+  <partNumber>Title 42 Section 6295(p)</partNumber>
+  <partNumber>Title 42 Section 6295(u)</partNumber>
+  <partNumber>Title 42 Section 6296(b)</partNumber>
+  <partNumber>Title 42 Section 6306</partNumber>
+  <partNumber>Title 42 Section 6312</partNumber>
+  <partNumber>Title 42 Section 6316(a)(1)</partNumber>
+  <partNumber>Title 42 Section 6316(b)(1)</partNumber>
+  <partNumber>Title 42 Section 6317</partNumber>
+  <partNumber>Title 42 Section 6371a</partNumber>
+  <partNumber>Title 42 Section 6373</partNumber>
+  <partNumber>Title 42 Section 6374d</partNumber>
+  <partNumber>Title 42 Section 6705(f)(2)</partNumber>
+  <partNumber>Title 42 Section 6807</partNumber>
+  <partNumber>Title 42 Section 6832</partNumber>
+  <partNumber>Title 42 Section 6833</partNumber>
+  <partNumber>Title 42 Section 6834</partNumber>
+  <partNumber>Title 42 Section 6836</partNumber>
+  <partNumber>Title 42 Section 6901et seq.</partNumber>
+  <partNumber>Title 42 Section 6941et seq.</partNumber>
+  <partNumber>Title 42 Section 7141(f)(1)</partNumber>
+  <partNumber>Title 42 Section 8232</partNumber>
+  <partNumber>Title 42 Section 8233</partNumber>
+  <partNumber>Title 42 Section 8236b</partNumber>
+  <partNumber>Title 42 Section 8253</partNumber>
+  <partNumber>Title 42 Section 8253(d)(2)</partNumber>
+  <partNumber>Title 42 Section 8258b</partNumber>
+  <partNumber>Title 42 Section 8262a</partNumber>
+  <partNumber>Title 42 Section 8262b</partNumber>
+  <partNumber>Title 42 Section 8262e</partNumber>
+  <partNumber>Title 42 Section 8262f</partNumber>
+  <partNumber>Title 42 Section 8262g</partNumber>
+  <partNumber>Title 42 Section 8271et seq.</partNumber>
+  <partNumber>Title 42 Section 8279</partNumber>
+  <partNumber>Title 42 Section 8285et seq.</partNumber>
+  <partNumber>Title 42 Section 8422</partNumber>
+  <partNumber>Title 42 Section 8451</partNumber>
+  <partNumber>Title 42 Section 8454</partNumber>
+  <partNumber>Title 42 Section 8456</partNumber>
+  <partNumber>Title 42 Section 8457</partNumber>
+  <partNumber>Title 42 Section 8483</partNumber>
+  <partNumber>Title 42 Section 8484</partNumber>
+  <partNumber>Title 42 Section 8501</partNumber>
+  <partNumber>Title 42 Section 8521</partNumber>
+  <partNumber>Title 42 Section 8522</partNumber>
+  <partNumber>Title 42 Section 8531</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 15852</identifier>
+ <identifier type="USC citation">42 U.S.C. 15852(b)</identifier>
+ <identifier type="USC citation">42 U.S.C. 15926(b)</identifier>
+ <identifier type="USC citation">42 U.S.C. 17061</identifier>
+ <identifier type="USC citation">42 U.S.C. 17112</identifier>
+ <identifier type="USC citation">42 U.S.C. 17211</identifier>
+ <identifier type="USC citation">42 U.S.C. 17212</identifier>
+ <identifier type="USC citation">42 U.S.C. 17213(b)</identifier>
+ <identifier type="USC citation">42 U.S.C. 17215</identifier>
+ <identifier type="USC citation">42 U.S.C. 4321</identifier>
+ <identifier type="USC citation">42 U.S.C. 4321et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 4332</identifier>
+ <identifier type="USC citation">42 U.S.C. 6201et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 6212</identifier>
+ <identifier type="USC citation">42 U.S.C. 6271et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 6291(36)(A)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6291et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 6292</identifier>
+ <identifier type="USC citation">42 U.S.C. 6294a</identifier>
+ <identifier type="USC citation">42 U.S.C. 6294(a)(2)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6295</identifier>
+ <identifier type="USC citation">42 U.S.C. 6295(f)(4)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6295(o)(6)(E)(ii)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6295(p)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6295(u)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6296(b)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6306</identifier>
+ <identifier type="USC citation">42 U.S.C. 6312</identifier>
+ <identifier type="USC citation">42 U.S.C. 6316(a)(1)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6316(b)(1)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6317</identifier>
+ <identifier type="USC citation">42 U.S.C. 6371a</identifier>
+ <identifier type="USC citation">42 U.S.C. 6373</identifier>
+ <identifier type="USC citation">42 U.S.C. 6374d</identifier>
+ <identifier type="USC citation">42 U.S.C. 6705(f)(2)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6807</identifier>
+ <identifier type="USC citation">42 U.S.C. 6832</identifier>
+ <identifier type="USC citation">42 U.S.C. 6833</identifier>
+ <identifier type="USC citation">42 U.S.C. 6834</identifier>
+ <identifier type="USC citation">42 U.S.C. 6836</identifier>
+ <identifier type="USC citation">42 U.S.C. 6901et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 6941et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 7141(f)(1)</identifier>
+ <identifier type="USC citation">42 U.S.C. 8232</identifier>
+ <identifier type="USC citation">42 U.S.C. 8233</identifier>
+ <identifier type="USC citation">42 U.S.C. 8236b</identifier>
+ <identifier type="USC citation">42 U.S.C. 8253</identifier>
+ <identifier type="USC citation">42 U.S.C. 8253(d)(2)</identifier>
+ <identifier type="USC citation">42 U.S.C. 8258b</identifier>
+ <identifier type="USC citation">42 U.S.C. 8262a</identifier>
+ <identifier type="USC citation">42 U.S.C. 8262b</identifier>
+ <identifier type="USC citation">42 U.S.C. 8262e</identifier>
+ <identifier type="USC citation">42 U.S.C. 8262f</identifier>
+ <identifier type="USC citation">42 U.S.C. 8262g</identifier>
+ <identifier type="USC citation">42 U.S.C. 8271et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 8279</identifier>
+ <identifier type="USC citation">42 U.S.C. 8285et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 8422</identifier>
+ <identifier type="USC citation">42 U.S.C. 8451</identifier>
+ <identifier type="USC citation">42 U.S.C. 8454</identifier>
+ <identifier type="USC citation">42 U.S.C. 8456</identifier>
+ <identifier type="USC citation">42 U.S.C. 8457</identifier>
+ <identifier type="USC citation">42 U.S.C. 8483</identifier>
+ <identifier type="USC citation">42 U.S.C. 8484</identifier>
+ <identifier type="USC citation">42 U.S.C. 8501</identifier>
+ <identifier type="USC citation">42 U.S.C. 8521</identifier>
+ <identifier type="USC citation">42 U.S.C. 8522</identifier>
+ <identifier type="USC citation">42 U.S.C. 8531</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 43 Section 1761et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">43 U.S.C. 1761et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 44 Section 3603</partNumber>
+</titleInfo>
+ <identifier type="USC citation">44 U.S.C. 3603</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 50 Section 1601</partNumber>
+  <partNumber>Title 50 Section 1701et seq.</partNumber>
+  <partNumber>Title 50 Appendix 1</partNumber>
+</titleInfo>
+ <identifier type="USC citation">50 U.S.C. 1601</identifier>
+ <identifier type="USC citation">50 U.S.C. 1701et seq.</identifier>
+ <identifier type="USC citation">50 U.S.C. App. 1</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 89 Page 871</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">89 Stat. 871</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 90 Page 1125</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">90 Stat. 1125</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 92 Page 3206</partNumber>
+  <partNumber>Volume 92 Page 3289</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">92 Stat. 3206</identifier>
+ <identifier type="Statute citation">92 Stat. 3289</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 93 Page 749</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">93 Stat. 749</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 94 Page 611</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">94 Stat. 611</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 106 Page 2776</partNumber>
+  <partNumber>Volume 106 Page 2851</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">106 Stat. 2776</identifier>
+ <identifier type="Statute citation">106 Stat. 2851</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 119 Page 971</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">119 Stat. 971</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 120 Page 2920</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">120 Stat. 2920</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 121 Page 1661</partNumber>
+  <partNumber>Volume 121 Page 1665</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">121 Stat. 1661</identifier>
+ <identifier type="Statute citation">121 Stat. 1665</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 94-163</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 94-163</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 94-385</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 94-385</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 95-619</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 95-619</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 95-620</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 95-620</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 96-102</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 96-102</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 96-294</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 96-294</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 96-463</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 96-463</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 102-486</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 102-486</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 104-121</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 104-121</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 109-58</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 109-58</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 109-431</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 109-431</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 110-140</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 110-140</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-167</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-167</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-170</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-170</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr8eh</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>8</billNumber>
+ <billVersion reprint="false">eh</billVersion>
+ <fileSuffix>eh</fileSuffix>
+ <shortTitle type="measure">North American Energy Security and Infrastructure Act of 2015</shortTitle>
+ <shortTitle level="title" type="level">Promoting Renewable Energy with Shared Solar Act of 2015</shortTitle>
+ <officialTitle>To modernize energy infrastructure, build a 21st century energy and manufacturing workforce, bolster America&apos;s energy security and diplomacy, and promote energy efficiency and government accountability, and for other purposes.</officialTitle>
+ <law congress="94" isPrivate="false" number="163"></law>
+ <law congress="94" isPrivate="false" number="385"></law>
+ <law congress="95" isPrivate="false" number="619"></law>
+ <law congress="95" isPrivate="false" number="620"></law>
+ <law congress="96" isPrivate="false" number="102"></law>
+ <law congress="96" isPrivate="false" number="294"></law>
+ <law congress="96" isPrivate="false" number="463"></law>
+ <law congress="102" isPrivate="false" number="486"></law>
+ <law congress="104" isPrivate="false" number="121"></law>
+ <law congress="109" isPrivate="false" number="58"></law>
+ <law congress="109" isPrivate="false" number="431"></law>
+ <law congress="110" isPrivate="false" number="140"></law>
+ <law congress="112" isPrivate="false" number="167"></law>
+ <law congress="112" isPrivate="false" number="170"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="2">
+                      <section detail="(a)" number="1532"></section>
+                      <section number="2170"></section>
+                      <section number="2171"></section>
+                </USCode>
+ <USCode title="5">
+                      <section number="551"></section>
+                      <section detail="(b)(3)" number="552"></section>
+                      <section number="553"></section>
+                      <section number="601"></section>
+                      <section detail="note" number="601"></section>
+                      <section number="602"></section>
+                      <section number="702"></section>
+                      <chapter number="5"></chapter>
+                      <chapter number="7"></chapter>
+                </USCode>
+ <USCode title="10">
+                      <section number="2164"></section>
+                </USCode>
+ <USCode title="15">
+                      <section number="717a"></section>
+                      <section number="717b"></section>
+                      <section detail="(a)" number="717b"></section>
+                      <section detail="(c)" number="717b"></section>
+                      <section number="717n"></section>
+                </USCode>
+ <USCode title="16">
+                      <section number="2612"></section>
+                      <section detail="(d)" number="2621"></section>
+                      <section number="2622"></section>
+                      <section detail="(b)" number="2622"></section>
+                      <section detail="(c)" number="2622"></section>
+                      <section detail="(d)" number="2622"></section>
+                      <section number="2634"></section>
+                      <section detail="et seq." number="792"></section>
+                      <section number="796"></section>
+                      <section detail="(e)" number="797"></section>
+                      <section number="803"></section>
+                      <section number="806"></section>
+                      <section detail="(b)" number="824a-4"></section>
+                      <section detail="(c)" number="824a"></section>
+                      <section detail="(d)" number="824a"></section>
+                      <section detail="(e)" number="824a"></section>
+                      <section detail="(f)" number="824a"></section>
+                      <section detail="(a)(1)(B)" number="824b"></section>
+                      <section detail="(b)(2)" number="824"></section>
+                      <section detail="(e)" number="824"></section>
+                      <section detail="et seq." number="824"></section>
+                      <section number="824o"></section>
+                      <section detail="(a)" number="824o"></section>
+                      <section number="824q"></section>
+                      <section detail="(b)" number="825l"></section>
+                      <section number="825q-1"></section>
+                </USCode>
+ <USCode title="20">
+                      <section detail="(a)" number="1002"></section>
+                      <section detail="(b)" number="1059c"></section>
+                      <section number="7801"></section>
+                      <section detail="et seq." number="921"></section>
+                </USCode>
+ <USCode title="25">
+                      <section number="2511"></section>
+                      <section number="4103"></section>
+                </USCode>
+ <USCode title="30">
+                      <section number="185"></section>
+                </USCode>
+ <USCode title="40">
+                      <section number="11101"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="15852"></section>
+                      <section detail="(b)" number="15852"></section>
+                      <section detail="(b)" number="15926"></section>
+                      <section number="17061"></section>
+                      <section number="17112"></section>
+                      <section number="17211"></section>
+                      <section number="17212"></section>
+                      <section detail="(b)" number="17213"></section>
+                      <section number="17215"></section>
+                      <section number="4321"></section>
+                      <section detail="et seq." number="4321"></section>
+                      <section number="4332"></section>
+                      <section detail="et seq." number="6201"></section>
+                      <section number="6212"></section>
+                      <section detail="et seq." number="6271"></section>
+                      <section detail="(36)(A)" number="6291"></section>
+                      <section detail="et seq." number="6291"></section>
+                      <section number="6292"></section>
+                      <section number="6294a"></section>
+                      <section detail="(a)(2)" number="6294"></section>
+                      <section number="6295"></section>
+                      <section detail="(f)(4)" number="6295"></section>
+                      <section detail="(o)(6)(E)(ii)" number="6295"></section>
+                      <section detail="(p)" number="6295"></section>
+                      <section detail="(u)" number="6295"></section>
+                      <section detail="(b)" number="6296"></section>
+                      <section number="6306"></section>
+                      <section number="6312"></section>
+                      <section detail="(a)(1)" number="6316"></section>
+                      <section detail="(b)(1)" number="6316"></section>
+                      <section number="6317"></section>
+                      <section number="6371a"></section>
+                      <section number="6373"></section>
+                      <section number="6374d"></section>
+                      <section detail="(f)(2)" number="6705"></section>
+                      <section number="6807"></section>
+                      <section number="6832"></section>
+                      <section number="6833"></section>
+                      <section number="6834"></section>
+                      <section number="6836"></section>
+                      <section detail="et seq." number="6901"></section>
+                      <section detail="et seq." number="6941"></section>
+                      <section detail="(f)(1)" number="7141"></section>
+                      <section number="8232"></section>
+                      <section number="8233"></section>
+                      <section number="8236b"></section>
+                      <section number="8253"></section>
+                      <section detail="(d)(2)" number="8253"></section>
+                      <section number="8258b"></section>
+                      <section number="8262a"></section>
+                      <section number="8262b"></section>
+                      <section number="8262e"></section>
+                      <section number="8262f"></section>
+                      <section number="8262g"></section>
+                      <section detail="et seq." number="8271"></section>
+                      <section number="8279"></section>
+                      <section detail="et seq." number="8285"></section>
+                      <section number="8422"></section>
+                      <section number="8451"></section>
+                      <section number="8454"></section>
+                      <section number="8456"></section>
+                      <section number="8457"></section>
+                      <section number="8483"></section>
+                      <section number="8484"></section>
+                      <section number="8501"></section>
+                      <section number="8521"></section>
+                      <section number="8522"></section>
+                      <section number="8531"></section>
+                </USCode>
+ <USCode title="43">
+                      <section detail="et seq." number="1761"></section>
+                </USCode>
+ <USCode title="44">
+                      <section number="3603"></section>
+                </USCode>
+ <USCode title="50">
+                      <section number="1601"></section>
+                      <section detail="et seq." number="1701"></section>
+                      <appendix detail="et seq." number="1"></appendix>
+                </USCode>
+ <statuteAtLarge volume="89">
+                      <pages pages="871"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="90">
+                      <pages pages="1125"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="92">
+                      <pages pages="3206"></pages>
+                      <pages pages="3289"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="93">
+                      <pages pages="749"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="94">
+                      <pages pages="611"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="106">
+                      <pages pages="2776"></pages>
+                      <pages pages="2851"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="119">
+                      <pages pages="971"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="120">
+                      <pages pages="2920"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="121">
+                      <pages pages="1661"></pages>
+                      <pages pages="1665"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

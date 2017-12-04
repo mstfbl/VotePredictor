@@ -1,0 +1,248 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18cc3a180">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Internal Revenue Code of 1986 to exclude from income and employment taxes real property tax abatements for seniors and disabled individuals in exchange for services.;Senior and Retired Volunteers Act of 2015;H.R. 2885 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-06-30</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Internal Revenue Code of 1986 to exclude from income and employment taxes real property tax abatements for seniors and disabled individuals in exchange for services.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Senior and Retired Volunteers Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2885 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-06-24</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>4 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18cc3a180</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2885ih</identifier>
+<identifier type="preferred citation">H.R. 2885</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2885_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2885ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2885ih/html/BILLS-114hr2885ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2885ih/pdf/BILLS-114hr2885ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2885ih/xml/BILLS-114hr2885ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-06-30</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-11</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr2885ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Niki Tsongas</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Richard E. Neal</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>James P. McGovern</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Joseph P. Kennedy III</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Katherine M. Clark</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Seth Moulton</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael E. Capuano</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Stephen F. Lynch</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>William R. Keating</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Ways and Means</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 410(a)(7)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 410(a)(7)</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr2885ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>2885</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Senior and Retired Volunteers Act of 2015</shortTitle>
+ <officialTitle>To amend the Internal Revenue Code of 1986 to exclude from income and employment taxes real property tax abatements for seniors and disabled individuals in exchange for services.</officialTitle>
+ <action date="2015-06-24">Ms. Tsongas (for herself, Mr. Neal, Mr. McGovern, Mr. Kennedy, Ms. Clark of Massachusetts, Mr. Moulton, Mr. Capuano, Mr. Lynch, and Mr. Keating) introduced the following bill; which was referred to the Committee on Ways and Means</action>
+ <congCommittee authorityId="hswm00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Ways and Means</name>
+                      <name type="authority-short">Ways and Means</name>
+                </congCommittee>
+ <congMember authorityId="1884" bioGuideId="T000465" chamber="H" congress="114" gpoId="7970" party="D" role="SPONSOR" state="MA">
+                      <name type="parsed">Ms. Tsongas</name>
+                      <name type="authority-fnf">Niki Tsongas</name>
+                      <name type="authority-lnf">Tsongas, Niki</name>
+                </congMember>
+ <congMember authorityId="854" bioGuideId="N000015" chamber="H" congress="114" gpoId="7967" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Mr. Neal</name>
+                      <name type="authority-fnf">Richard E. Neal</name>
+                      <name type="authority-lnf">Neal, Richard E.</name>
+                      <name type="authority-other">Richard Neal</name>
+                </congMember>
+ <congMember authorityId="1504" bioGuideId="M000312" chamber="H" congress="114" gpoId="7968" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Mr. McGovern</name>
+                      <name type="authority-fnf">James P. McGovern</name>
+                      <name type="authority-lnf">McGovern, James P.</name>
+                      <name type="authority-other">James Mcgovern</name>
+                </congMember>
+ <congMember authorityId="2172" bioGuideId="K000379" chamber="H" congress="114" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Mr. Kennedy</name>
+                      <name type="authority-fnf">Joseph P. Kennedy III</name>
+                      <name type="authority-lnf">Kennedy, Joseph P., III</name>
+                      <name type="authority-other">Joseph Kennedy III</name>
+                </congMember>
+ <congMember authorityId="2196" bioGuideId="C001101" chamber="H" congress="114" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Ms. Clark of Massachusetts</name>
+                      <name type="authority-fnf">Katherine M. Clark</name>
+                      <name type="authority-lnf">Clark, Katherine M.</name>
+                      <name type="authority-other">Ms. Katherine Clark</name>
+                </congMember>
+ <congMember authorityId="2246" bioGuideId="M001196" chamber="H" congress="114" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Mr. Moulton</name>
+                      <name type="authority-fnf">Seth Moulton</name>
+                      <name type="authority-lnf">Moulton, Seth</name>
+                </congMember>
+ <congMember authorityId="1564" bioGuideId="C001037" chamber="H" congress="114" gpoId="7973" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Mr. Capuano</name>
+                      <name type="authority-fnf">Michael E. Capuano</name>
+                      <name type="authority-lnf">Capuano, Michael E.</name>
+                      <name type="authority-other">Michael Capuano</name>
+                </congMember>
+ <congMember authorityId="1686" bioGuideId="L000562" chamber="H" congress="114" gpoId="7974" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Mr. Lynch</name>
+                      <name type="authority-fnf">Stephen F. Lynch</name>
+                      <name type="authority-lnf">Lynch, Stephen F.</name>
+                      <name type="authority-other">Mr. Stephen Lynch</name>
+                </congMember>
+ <congMember authorityId="2025" bioGuideId="K000375" chamber="H" congress="114" gpoId="7975" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Mr. Keating</name>
+                      <name type="authority-fnf">William R. Keating</name>
+                      <name type="authority-lnf">Keating, William R.</name>
+                      <name type="authority-other">Mr. William Keating</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="42">
+                      <section detail="(a)(7)" number="410"></section>
+                </USCode>
+</extension>
+</mods>

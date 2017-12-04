@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2013-04-22</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000291</bioguideId>
+        <firstName>Mike</firstName>
+        <identifiers>
+          <lisID>1899</lisID>
+          <bioguideId>J000291</bioguideId>
+          <gpoId>8325</gpoId>
+        </identifiers>
+        <state>NE</state>
+        <sponsorshipDate>2013-04-22</sponsorshipDate>
+        <fullName>Sen. Johanns, Mike [R-NE]</fullName>
+        <lastName>Johanns</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000550</bioguideId>
+        <firstName>MARY</firstName>
+        <identifiers>
+          <lisID>1546</lisID>
+          <bioguideId>L000550</bioguideId>
+          <gpoId>8251</gpoId>
+        </identifiers>
+        <state>LA</state>
+        <sponsorshipDate>2013-10-09</sponsorshipDate>
+        <fullName>Sen. Landrieu, Mary L. [D-LA]</fullName>
+        <lastName>LANDRIEU</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001176</bioguideId>
+        <firstName>Jeff</firstName>
+        <identifiers>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+        </identifiers>
+        <state>OR</state>
+        <sponsorshipDate>2013-12-18</sponsorshipDate>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <lastName>Merkley</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000361</bioguideId>
+        <firstName>JAY</firstName>
+        <identifiers>
+          <lisID>1424</lisID>
+          <bioguideId>R000361</bioguideId>
+          <gpoId>8273</gpoId>
+        </identifiers>
+        <state>WV</state>
+        <sponsorshipDate>2014-03-11</sponsorshipDate>
+        <fullName>Sen. Rockefeller, John D., IV [D-WV]</fullName>
+        <lastName>ROCKEFELLER</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000817</bioguideId>
+        <firstName>Elizabeth</firstName>
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>MA</state>
+        <sponsorshipDate>2014-03-12</sponsorshipDate>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <lastName>Warren</lastName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+      <actionDate>2013-04-22</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>184</number>
+        <type>HR</type>
+        <latestTitle>Mechanical Insulation Installation Incentive Act of 2013</latestTitle>
+        <latestAction>
+          <actionDate>2013-01-04</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>4956</number>
+        <type>HR</type>
+        <latestTitle>American Energy Opportunity Act of 2014</latestTitle>
+        <latestAction>
+          <actionDate>2014-11-17</actionDate>
+          <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <updateDate>2016-10-25T16:23:40Z</updateDate>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-04-22</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-04-22</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-04-22</actionDate>
+          <updateDate>2013-04-22T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2013-05-10T13:45:28Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Mechanical Insulation Installation Incentive Act of 2013 - Amends the Internal Revenue Code to allow an additional tax deduction for the cost of installing mechanical insulation property. Limits the amount of such deduction to the lesser of 30% or the reduction in energy loss from the installed mechanical insulation property compared to property that meets the minimum requirements of American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE) standard 90.1-2007. Allows the cost of replacing mechanical insulation property to be treated as a deductible&nbsp;business expense in the current taxable year.</p> <p>Defines "mechanical insulation property" as insulation materials, facings, and accessory products: (1) placed in service in connection with a mechanical system which is located in the United States and of a character subject to an allowance for depreciation; and (2) utilized for thermal, acoustical, and personnel safety requirements for mechanical piping and equipment, hot and cold applications, and heating, venting and air conditioning applications which can be used in a variety of facilities.</p> <p>Allows a tax deduction for capital expenditures related to mechanical insulation property. </p>]]></text>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Business investment and capital</name>
+          </item>
+          <item>
+            <name>Energy efficiency and conservation</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Lighting and heating</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Mechanical Insulation Installation Incentive Act of 2013</title>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <lastName>Gillibrand</lastName>
+        <bioguideId>G000555</bioguideId>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Kirsten</firstName>
+        <middleName>E.</middleName>
+        <state>NY</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2013-04-23T07:02:13Z</createDate>
+    <billNumber>775</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-04-22T19:30:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Finance Committee</name>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Mechanical Insulation Installation Incentive Act of 2013</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 to provide a tax incentive for the installation and maintenance of mechanical insulation property.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Mechanical Insulation Installation Incentive Act of 2013</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

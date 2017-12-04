@@ -1,0 +1,281 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18ebc434f">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To authorize the Director of the United States Geological Survey to conduct monitoring, assessment, science, and research, in support of the binational fisheries within the Great Lakes Basin, and for other purposes.;
+   		Great Lakes Fishery Research Authorization Act of 2016;H.R. 4595 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-02-25</dateIngested>
+</extension>
+<titleInfo>
+ <title>To authorize the Director of the United States Geological Survey to conduct monitoring, assessment, science, and research, in support of the binational fisheries within the Great Lakes Basin, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Great Lakes Fishery Research Authorization Act of 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 4595 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-02-23</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>5 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18ebc434f</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4595ih</identifier>
+<identifier type="preferred citation">H.R. 4595</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h4595_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4595ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4595ih/html/BILLS-114hr4595ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4595ih/pdf/BILLS-114hr4595ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4595ih/xml/BILLS-114hr4595ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-02-25</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-02-25</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr4595ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mike Quigley</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dan Benishek</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Debbie Dingell</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Marcy Kaptur</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Brian Higgins</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Candice S. Miller</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ron Kind</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Betty McCollum</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David P. Joyce</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Sander M. Levin</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Daniel Lipinski</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Natural Resources</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 931et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 931et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 84 Page 2090</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">84 Stat. 2090</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr4595ih</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>4595</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle>Great Lakes Fishery Research Authorization Act of 2016</shortTitle>
+ <action date="2016-02-23">Mr. Quigley (for himself, Mr. Benishek, Mrs. Dingell, Ms. Kaptur, Mr. Higgins, Mrs. Miller of Michigan, Mr. Kind, Ms. McCollum, Mr. Joyce, Mr. Levin, and Mr. Lipinski) introduced the following bill; which was referred to the Committee on Natural Resources</action>
+ <congCommittee authorityId="hsii00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Natural Resources</name>
+                      <name type="authority-short">Natural Resources</name>
+                </congCommittee>
+ <congMember authorityId="1967" bioGuideId="Q000023" chamber="H" congress="114" gpoId="7925" party="D" role="SPONSOR" state="IL">
+                      <name type="parsed">Mr. Quigley</name>
+                      <name type="authority-fnf">Mike Quigley</name>
+                      <name type="authority-lnf">Quigley, Mike</name>
+                </congMember>
+ <congMember authorityId="2027" bioGuideId="B001271" chamber="H" congress="114" gpoId="7986" party="R" role="COSPONSOR" state="MI">
+                      <name type="parsed">Mr. Benishek</name>
+                      <name type="authority-fnf">Dan Benishek</name>
+                      <name type="authority-lnf">Benishek, Dan</name>
+                </congMember>
+ <congMember authorityId="2251" bioGuideId="D000624" chamber="H" congress="114" party="D" role="COSPONSOR" state="MI">
+                      <name type="parsed">Mrs. Dingell</name>
+                      <name type="authority-fnf">Debbie Dingell</name>
+                      <name type="authority-lnf">Dingell, Debbie</name>
+                </congMember>
+ <congMember authorityId="616" bioGuideId="K000009" chamber="H" congress="114" gpoId="8099" party="D" role="COSPONSOR" state="OH">
+                      <name type="parsed">Ms. Kaptur</name>
+                      <name type="authority-fnf">Marcy Kaptur</name>
+                      <name type="authority-lnf">Kaptur, Marcy</name>
+                </congMember>
+ <congMember authorityId="1794" bioGuideId="H001038" chamber="H" congress="114" gpoId="8088" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Higgins</name>
+                      <name type="authority-fnf">Brian Higgins</name>
+                      <name type="authority-lnf">Higgins, Brian</name>
+                </congMember>
+ <congMember authorityId="1731" bioGuideId="M001150" chamber="H" congress="114" gpoId="8589" party="R" role="COSPONSOR" state="MI">
+                      <name type="parsed">Mrs. Miller of Michigan</name>
+                      <name type="authority-fnf">Candice S. Miller</name>
+                      <name type="authority-lnf">Miller, Candice S.</name>
+                      <name type="authority-other">Mrs. Candice Miller</name>
+                </congMember>
+ <congMember authorityId="1498" bioGuideId="K000188" chamber="H" congress="114" gpoId="8216" party="D" role="COSPONSOR" state="WI">
+                      <name type="parsed">Mr. Kind</name>
+                      <name type="authority-fnf">Ron Kind</name>
+                      <name type="authority-lnf">Kind, Ron</name>
+                </congMember>
+ <congMember authorityId="1653" bioGuideId="M001143" chamber="H" congress="114" gpoId="8004" party="D" role="COSPONSOR" state="MN">
+                      <name type="parsed">Ms. McCollum</name>
+                      <name type="authority-fnf">Betty McCollum</name>
+                      <name type="authority-lnf">McCollum, Betty</name>
+                </congMember>
+ <congMember authorityId="2154" bioGuideId="J000295" chamber="H" congress="114" party="R" role="COSPONSOR" state="OH">
+                      <name type="parsed">Mr. Joyce</name>
+                      <name type="authority-fnf">David P. Joyce</name>
+                      <name type="authority-lnf">Joyce, David P.</name>
+                      <name type="authority-other">Mr. David Joyce</name>
+                </congMember>
+ <congMember authorityId="683" bioGuideId="L000263" chamber="H" congress="114" gpoId="7997" party="D" role="COSPONSOR" state="MI">
+                      <name type="parsed">Mr. Levin</name>
+                      <name type="authority-fnf">Sander M. Levin</name>
+                      <name type="authority-lnf">Levin, Sander M.</name>
+                      <name type="authority-other">Sander Levin</name>
+                </congMember>
+ <congMember authorityId="1781" bioGuideId="L000563" chamber="H" congress="114" gpoId="7923" party="D" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Lipinski</name>
+                      <name type="authority-fnf">Daniel Lipinski</name>
+                      <name type="authority-lnf">Lipinski, Daniel</name>
+                      <name type="authority-other">Mr. Daniel William Lipinski</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="16">
+                      <section detail="et seq." number="931"></section>
+                </USCode>
+ <statuteAtLarge volume="84">
+                      <pages pages="2090"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

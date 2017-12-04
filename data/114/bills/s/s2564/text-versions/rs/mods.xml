@@ -1,0 +1,239 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee192604432">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To modernize prior legislation relating to Diné College.;Diné College Act of 2016;S. 2564 (RS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-11-17</dateIngested>
+</extension>
+<titleInfo>
+ <title>To modernize prior legislation relating to Diné College.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Diné College Act of 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 2564 (RS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-11-15</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>10 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee192604432</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s2564rs</identifier>
+<identifier type="preferred citation">S. 2564</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s2564_rs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s2564rs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2564rs/html/BILLS-114s2564rs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2564rs/pdf/BILLS-114s2564rs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2564rs/xml/BILLS-114s2564rs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-11-17</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-11-17</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s2564rs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Jeff Flake</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John McCain</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tom Udall</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Martin Heinrich</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Indian Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 7 Section 301note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">7 U.S.C. 301note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1001</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1001</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 640a</partNumber>
+  <partNumber>Title 25 Section 640aet seq.</partNumber>
+  <partNumber>Title 25 Section 640anote</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 640a</identifier>
+ <identifier type="USC citation">25 U.S.C. 640aet seq.</identifier>
+ <identifier type="USC citation">25 U.S.C. 640anote</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 15 Page 667</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">15 Stat. 667</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 95-471</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 95-471</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 103-382</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 103-382</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 110-315</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 110-315</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 666</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s2564rs</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2564</billNumber>
+ <billVersion reprint="false">rs</billVersion>
+ <fileSuffix>rs</fileSuffix>
+ <shortTitle type="measure">Diné College Act of 2016</shortTitle>
+ <officialTitle>To modernize prior legislation relating to Diné College.</officialTitle>
+ <action date="2016-02-23">Mr. Flake (for himself, Mr. McCain, Mr. Udall, and Mr. Heinrich) introduced the following bill; which was read twice and referred to the Committee on Indian Affairs</action>
+ <action date="2016-11-15">Reported by Mr. Barrasso, without amendment</action>
+ <congCommittee authorityId="slia00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Indian Affairs</name>
+                      <name type="authority-short">Indian Affairs</name>
+                </congCommittee>
+ <congMember authorityId="1633" bioGuideId="F000444" chamber="S" congress="114" gpoId="7803" party="R" role="SPONSOR" state="AZ">
+                      <name type="parsed">Mr. Flake</name>
+                      <name type="authority-fnf">Jeff Flake</name>
+                      <name type="authority-lnf">Flake, Jeff</name>
+                </congMember>
+ <congMember authorityId="754" bioGuideId="M000303" chamber="S" congress="114" gpoId="8253" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. McCain</name>
+                      <name type="authority-fnf">John McCain</name>
+                      <name type="authority-lnf">McCain, John</name>
+                      <name type="authority-other">John Sidney Mccain</name>
+                </congMember>
+ <congMember authorityId="1567" bioGuideId="U000039" chamber="S" congress="114" gpoId="8260" party="D" role="COSPONSOR" state="NM">
+                      <name type="parsed">Mr. Udall</name>
+                      <name type="authority-fnf">Tom Udall</name>
+                      <name type="authority-lnf">Udall, Tom</name>
+                </congMember>
+ <congMember authorityId="1937" bioGuideId="H001046" chamber="S" congress="114" gpoId="8056" party="D" role="COSPONSOR" state="NM">
+                      <name type="parsed">Mr. Heinrich</name>
+                      <name type="authority-fnf">Martin Heinrich</name>
+                      <name type="authority-lnf">Heinrich, Martin</name>
+                </congMember>
+ <law congress="95" isPrivate="false" number="471"></law>
+ <law congress="103" isPrivate="false" number="382"></law>
+ <law congress="110" isPrivate="false" number="315"></law>
+ <congCalendar congress="114" number="666" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="7">
+                      <section detail="note" number="301"></section>
+                </USCode>
+ <USCode title="20">
+                      <section number="1001"></section>
+                </USCode>
+ <USCode title="25">
+                      <section number="640a"></section>
+                      <section detail="et seq." number="640a"></section>
+                      <section detail="note" number="640a"></section>
+                </USCode>
+ <statuteAtLarge volume="15">
+                      <pages pages="667"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

@@ -1,0 +1,565 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18c298d1f">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To provide for investment in innovation through research and development and STEM education, to improve the competitiveness of the United States, and for other purposes.;America Competes Reauthorization Act of 2015;National Institute of Standards and Technology Authorization Act of 2015;National Nanotechnology Initiative Amendments Act of 2015;Engineering Biology Research and Development Act of 2015;STEM Opportunities Act of 2015;Department of Energy Office of Science Authorization Act of 2015;ARPA–E Reauthorization Act of 2015;International Science and Technology Cooperation Act of 2015;H.R. 1898 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-04-30</dateIngested>
+</extension>
+<titleInfo>
+ <title>To provide for investment in innovation through research and development and STEM education, to improve the competitiveness of the United States, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>America Competes Reauthorization Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>National Institute of Standards and Technology Authorization Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>National Nanotechnology Initiative Amendments Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Engineering Biology Research and Development Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>STEM Opportunities Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Department of Energy Office of Science Authorization Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>ARPA–E Reauthorization Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>International Science and Technology Cooperation Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 1898 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-04-21</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>228 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18c298d1f</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1898ih</identifier>
+<identifier type="preferred citation">H.R. 1898</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h1898_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1898ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1898ih/html/BILLS-114hr1898ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1898ih/pdf/BILLS-114hr1898ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1898ih/xml/BILLS-114hr1898ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-04-30</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-12</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr1898ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Eddie Bernice Johnson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Zoe Lofgren</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Daniel Lipinski</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Donna F. Edwards</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Suzanne Bonamici</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Eric Swalwell</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Alan Grayson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ami Bera</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Elizabeth H. Esty</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Marc A. Veasey</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Katherine M. Clark</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Donald S. Beyer, Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ed Perlmutter</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Paul Tonko</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Takano</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bill Foster</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Education and the Workforce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Science, Space, and Technology</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 5307(a)(1)</partNumber>
+  <partNumber>Title 5 Section 552</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 5307(a)(1)</identifier>
+ <identifier type="USC citation">5 U.S.C. 552</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 275b</partNumber>
+  <partNumber>Title 15 Section 278e</partNumber>
+  <partNumber>Title 15 Section 278g-2</partNumber>
+  <partNumber>Title 15 Section 278k</partNumber>
+  <partNumber>Title 15 Section 278l</partNumber>
+  <partNumber>Title 15 Section 278s</partNumber>
+  <partNumber>Title 15 Section 3701et seq.</partNumber>
+  <partNumber>Title 15 Section 3703</partNumber>
+  <partNumber>Title 15 Section 3719</partNumber>
+  <partNumber>Title 15 Section 3720</partNumber>
+  <partNumber>Title 15 Section 3721(t)</partNumber>
+  <partNumber>Title 15 Section 5541</partNumber>
+  <partNumber>Title 15 Section 5542</partNumber>
+  <partNumber>Title 15 Section 638(e)(10)</partNumber>
+  <partNumber>Title 15 Section 7501(b)(4)</partNumber>
+  <partNumber>Title 15 Section 7501(b)(5)</partNumber>
+  <partNumber>Title 15 Section 7501(b)(7)</partNumber>
+  <partNumber>Title 15 Section 7501(c)</partNumber>
+  <partNumber>Title 15 Section 7501(c)(4)</partNumber>
+  <partNumber>Title 15 Section 7501(d)</partNumber>
+  <partNumber>Title 15 Section 7501et seq.</partNumber>
+  <partNumber>Title 15 Section 7503(a)</partNumber>
+  <partNumber>Title 15 Section 7509</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 275b</identifier>
+ <identifier type="USC citation">15 U.S.C. 278e</identifier>
+ <identifier type="USC citation">15 U.S.C. 278g-2</identifier>
+ <identifier type="USC citation">15 U.S.C. 278k</identifier>
+ <identifier type="USC citation">15 U.S.C. 278l</identifier>
+ <identifier type="USC citation">15 U.S.C. 278s</identifier>
+ <identifier type="USC citation">15 U.S.C. 3701et seq.</identifier>
+ <identifier type="USC citation">15 U.S.C. 3703</identifier>
+ <identifier type="USC citation">15 U.S.C. 3719</identifier>
+ <identifier type="USC citation">15 U.S.C. 3720</identifier>
+ <identifier type="USC citation">15 U.S.C. 3721(t)</identifier>
+ <identifier type="USC citation">15 U.S.C. 5541</identifier>
+ <identifier type="USC citation">15 U.S.C. 5542</identifier>
+ <identifier type="USC citation">15 U.S.C. 638(e)(10)</identifier>
+ <identifier type="USC citation">15 U.S.C. 7501(b)(4)</identifier>
+ <identifier type="USC citation">15 U.S.C. 7501(b)(5)</identifier>
+ <identifier type="USC citation">15 U.S.C. 7501(b)(7)</identifier>
+ <identifier type="USC citation">15 U.S.C. 7501(c)</identifier>
+ <identifier type="USC citation">15 U.S.C. 7501(c)(4)</identifier>
+ <identifier type="USC citation">15 U.S.C. 7501(d)</identifier>
+ <identifier type="USC citation">15 U.S.C. 7501et seq.</identifier>
+ <identifier type="USC citation">15 U.S.C. 7503(a)</identifier>
+ <identifier type="USC citation">15 U.S.C. 7509</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1001(a)</partNumber>
+  <partNumber>Title 20 Section 2302</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1001(a)</identifier>
+ <identifier type="USC citation">20 U.S.C. 2302</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 15801</partNumber>
+  <partNumber>Title 42 Section 16312</partNumber>
+  <partNumber>Title 42 Section 16317</partNumber>
+  <partNumber>Title 42 Section 16318</partNumber>
+  <partNumber>Title 42 Section 16321</partNumber>
+  <partNumber>Title 42 Section 16352(b)</partNumber>
+  <partNumber>Title 42 Section 16391</partNumber>
+  <partNumber>Title 42 Section 16538</partNumber>
+  <partNumber>Title 42 Section 17231(h)(2)</partNumber>
+  <partNumber>Title 42 Section 1862n-1a</partNumber>
+  <partNumber>Title 42 Section 1862n-6</partNumber>
+  <partNumber>Title 42 Section 1862n</partNumber>
+  <partNumber>Title 42 Section 1862nnote</partNumber>
+  <partNumber>Title 42 Section 1862p-15</partNumber>
+  <partNumber>Title 42 Section 1862p-1(b)</partNumber>
+  <partNumber>Title 42 Section 1863</partNumber>
+  <partNumber>Title 42 Section 1885a</partNumber>
+  <partNumber>Title 42 Section 1885d</partNumber>
+  <partNumber>Title 42 Section 2053</partNumber>
+  <partNumber>Title 42 Section 3122</partNumber>
+  <partNumber>Title 42 Section 6621</partNumber>
+  <partNumber>Title 42 Section 6651</partNumber>
+  <partNumber>Title 42 Section 7132(b)</partNumber>
+  <partNumber>Title 42 Section 7139</partNumber>
+  <partNumber>Title 42 Section 7139(f)</partNumber>
+  <partNumber>Title 42 Section 7381a(b)(1)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 15801</identifier>
+ <identifier type="USC citation">42 U.S.C. 16312</identifier>
+ <identifier type="USC citation">42 U.S.C. 16317</identifier>
+ <identifier type="USC citation">42 U.S.C. 16318</identifier>
+ <identifier type="USC citation">42 U.S.C. 16321</identifier>
+ <identifier type="USC citation">42 U.S.C. 16352(b)</identifier>
+ <identifier type="USC citation">42 U.S.C. 16391</identifier>
+ <identifier type="USC citation">42 U.S.C. 16538</identifier>
+ <identifier type="USC citation">42 U.S.C. 17231(h)(2)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1862n-1a</identifier>
+ <identifier type="USC citation">42 U.S.C. 1862n-6</identifier>
+ <identifier type="USC citation">42 U.S.C. 1862n</identifier>
+ <identifier type="USC citation">42 U.S.C. 1862nnote</identifier>
+ <identifier type="USC citation">42 U.S.C. 1862p-15</identifier>
+ <identifier type="USC citation">42 U.S.C. 1862p-1(b)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1863</identifier>
+ <identifier type="USC citation">42 U.S.C. 1885a</identifier>
+ <identifier type="USC citation">42 U.S.C. 1885d</identifier>
+ <identifier type="USC citation">42 U.S.C. 2053</identifier>
+ <identifier type="USC citation">42 U.S.C. 3122</identifier>
+ <identifier type="USC citation">42 U.S.C. 6621</identifier>
+ <identifier type="USC citation">42 U.S.C. 6651</identifier>
+ <identifier type="USC citation">42 U.S.C. 7132(b)</identifier>
+ <identifier type="USC citation">42 U.S.C. 7139</identifier>
+ <identifier type="USC citation">42 U.S.C. 7139(f)</identifier>
+ <identifier type="USC citation">42 U.S.C. 7381a(b)(1)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 96-516</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 96-516</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr1898ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>1898</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">America Competes Reauthorization Act of 2015</shortTitle>
+ <shortTitle level="title" type="level">National Institute of Standards and Technology Authorization Act of 2015</shortTitle>
+ <shortTitle level="subtitle" type="level">National Nanotechnology Initiative Amendments Act of 2015</shortTitle>
+ <shortTitle level="subtitle" type="level">Engineering Biology Research and Development Act of 2015</shortTitle>
+ <shortTitle level="subtitle" type="level">STEM Opportunities Act of 2015</shortTitle>
+ <shortTitle level="subtitle" type="level">Department of Energy Office of Science Authorization Act of 2015</shortTitle>
+ <shortTitle level="subtitle" type="level">ARPA–E Reauthorization Act of 2015</shortTitle>
+ <shortTitle level="section" type="level">International Science and Technology Cooperation Act of 2015</shortTitle>
+ <officialTitle>To provide for investment in innovation through research and development and STEM education, to improve the competitiveness of the United States, and for other purposes.</officialTitle>
+ <action date="2015-04-21">Ms. Eddie Bernice Johnson of Texas (for herself, Ms. Lofgren, Mr. Lipinski, Ms. Edwards, Ms. Bonamici, Mr. Swalwell of California, Mr. Grayson, Mr. Bera, Ms. Esty, Mr. Veasey, Ms. Clark of Massachusetts, Mr. Beyer, Mr. Perlmutter, Mr. Tonko, Mr. Takano, and Mr. Foster) introduced the following bill; which was referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <congCommittee authorityId="hsed00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Education and the Workforce</name>
+                      <name type="authority-short">Education and the Workforce</name>
+                </congCommittee>
+ <congCommittee authorityId="hssy00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Science, Space, and Technology</name>
+                      <name type="authority-short">Science, Space, and Technology</name>
+                </congCommittee>
+ <congMember authorityId="599" bioGuideId="J000126" chamber="H" congress="114" gpoId="8186" party="D" role="SPONSOR" state="TX">
+                      <name type="parsed">Ms. Eddie Bernice Johnson of Texas</name>
+                      <name type="authority-fnf">Eddie Bernice Johnson</name>
+                      <name type="authority-lnf">Johnson, Eddie Bernice</name>
+                      <name type="authority-other">Eddie Johnson</name>
+                </congMember>
+ <congMember authorityId="701" bioGuideId="L000397" chamber="H" congress="114" gpoId="7821" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Lofgren</name>
+                      <name type="authority-fnf">Zoe Lofgren</name>
+                      <name type="authority-lnf">Lofgren, Zoe</name>
+                </congMember>
+ <congMember authorityId="1781" bioGuideId="L000563" chamber="H" congress="114" gpoId="7923" party="D" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Lipinski</name>
+                      <name type="authority-fnf">Daniel Lipinski</name>
+                      <name type="authority-lnf">Lipinski, Daniel</name>
+                      <name type="authority-other">Mr. Daniel William Lipinski</name>
+                </congMember>
+ <congMember authorityId="1894" bioGuideId="E000290" chamber="H" congress="114" gpoId="7979" party="D" role="COSPONSOR" state="MD">
+                      <name type="parsed">Ms. Edwards</name>
+                      <name type="authority-fnf">Donna F. Edwards</name>
+                      <name type="authority-lnf">Edwards, Donna F.</name>
+                      <name type="authority-other">Ms. Donna Edwards</name>
+                </congMember>
+ <congMember authorityId="2092" bioGuideId="B001278" chamber="H" congress="114" gpoId="8367" party="D" role="COSPONSOR" state="OR">
+                      <name type="parsed">Ms. Bonamici</name>
+                      <name type="authority-fnf">Suzanne Bonamici</name>
+                      <name type="authority-lnf">Bonamici, Suzanne</name>
+                </congMember>
+ <congMember authorityId="2104" bioGuideId="S001193" chamber="H" congress="114" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Swalwell of California</name>
+                      <name type="authority-fnf">Eric Swalwell</name>
+                      <name type="authority-lnf">Swalwell, Eric</name>
+                </congMember>
+ <congMember authorityId="1914" bioGuideId="G000556" chamber="H" congress="114" gpoId="7302" party="D" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Grayson</name>
+                      <name type="authority-fnf">Alan Grayson</name>
+                      <name type="authority-lnf">Grayson, Alan</name>
+                </congMember>
+ <congMember authorityId="2102" bioGuideId="B001287" chamber="H" congress="114" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Bera</name>
+                      <name type="authority-fnf">Ami Bera</name>
+                      <name type="authority-lnf">Bera, Ami</name>
+                </congMember>
+ <congMember authorityId="2114" bioGuideId="E000293" chamber="H" congress="114" party="D" role="COSPONSOR" state="CT">
+                      <name type="parsed">Ms. Esty</name>
+                      <name type="authority-fnf">Elizabeth H. Esty</name>
+                      <name type="authority-lnf">Esty, Elizabeth H.</name>
+                      <name type="authority-other">Ms. Elizabeth Esty</name>
+                </congMember>
+ <congMember authorityId="2166" bioGuideId="V000131" chamber="H" congress="114" party="D" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Veasey</name>
+                      <name type="authority-fnf">Marc A. Veasey</name>
+                      <name type="authority-lnf">Veasey, Marc A.</name>
+                      <name type="authority-other">Mr. Marc Veasey</name>
+                </congMember>
+ <congMember authorityId="2196" bioGuideId="C001101" chamber="H" congress="114" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Ms. Clark of Massachusetts</name>
+                      <name type="authority-fnf">Katherine M. Clark</name>
+                      <name type="authority-lnf">Clark, Katherine M.</name>
+                      <name type="authority-other">Ms. Katherine Clark</name>
+                </congMember>
+ <congMember authorityId="2272" bioGuideId="B001292" chamber="H" congress="114" party="D" role="COSPONSOR" state="VA">
+                      <name type="parsed">Mr. Beyer</name>
+                      <name type="authority-fnf">Donald S. Beyer, Jr.</name>
+                      <name type="authority-lnf">Beyer, Donald S., Jr.</name>
+                      <name type="authority-other">Mr. Donald Beyer Jr.</name>
+                </congMember>
+ <congMember authorityId="1835" bioGuideId="P000593" chamber="H" congress="114" gpoId="7865" party="D" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Perlmutter</name>
+                      <name type="authority-fnf">Ed Perlmutter</name>
+                      <name type="authority-lnf">Perlmutter, Ed</name>
+                </congMember>
+ <congMember authorityId="1942" bioGuideId="T000469" chamber="H" congress="114" gpoId="8082" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Tonko</name>
+                      <name type="authority-fnf">Paul Tonko</name>
+                      <name type="authority-lnf">Tonko, Paul</name>
+                </congMember>
+ <congMember authorityId="2110" bioGuideId="T000472" chamber="H" congress="114" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Takano</name>
+                      <name type="authority-fnf">Mark Takano</name>
+                      <name type="authority-lnf">Takano, Mark</name>
+                </congMember>
+ <congMember authorityId="1888" bioGuideId="F000454" chamber="H" congress="114" gpoId="7355" party="D" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Foster</name>
+                      <name type="authority-fnf">Bill Foster</name>
+                      <name type="authority-lnf">Foster, Bill</name>
+                </congMember>
+ <law congress="96" isPrivate="false" number="516"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section detail="(a)(1)" number="5307"></section>
+                      <section number="552"></section>
+                </USCode>
+ <USCode title="15">
+                      <section number="275b"></section>
+                      <section number="278e"></section>
+                      <section number="278g-2"></section>
+                      <section number="278k"></section>
+                      <section number="278l"></section>
+                      <section number="278s"></section>
+                      <section detail="et seq." number="3701"></section>
+                      <section number="3703"></section>
+                      <section number="3719"></section>
+                      <section number="3720"></section>
+                      <section detail="(t)" number="3721"></section>
+                      <section number="5541"></section>
+                      <section number="5542"></section>
+                      <section detail="(e)(10)" number="638"></section>
+                      <section detail="(b)(4)" number="7501"></section>
+                      <section detail="(b)(5)" number="7501"></section>
+                      <section detail="(b)(7)" number="7501"></section>
+                      <section detail="(c)" number="7501"></section>
+                      <section detail="(c)(4)" number="7501"></section>
+                      <section detail="(d)" number="7501"></section>
+                      <section detail="et seq." number="7501"></section>
+                      <section detail="(a)" number="7503"></section>
+                      <section number="7509"></section>
+                </USCode>
+ <USCode title="20">
+                      <section detail="(a)" number="1001"></section>
+                      <section number="2302"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="15801"></section>
+                      <section number="16312"></section>
+                      <section number="16317"></section>
+                      <section number="16318"></section>
+                      <section number="16321"></section>
+                      <section detail="(b)" number="16352"></section>
+                      <section number="16391"></section>
+                      <section number="16538"></section>
+                      <section detail="(h)(2)" number="17231"></section>
+                      <section number="1862n-1a"></section>
+                      <section number="1862n-6"></section>
+                      <section number="1862n"></section>
+                      <section detail="note" number="1862n"></section>
+                      <section number="1862p-15"></section>
+                      <section detail="(b)" number="1862p-1"></section>
+                      <section number="1863"></section>
+                      <section number="1885a"></section>
+                      <section number="1885d"></section>
+                      <section number="2053"></section>
+                      <section number="3122"></section>
+                      <section number="6621"></section>
+                      <section number="6651"></section>
+                      <section detail="(b)" number="7132"></section>
+                      <section number="7139"></section>
+                      <section detail="(f)" number="7139"></section>
+                      <section detail="(b)(1)" number="7381a"></section>
+                </USCode>
+</extension>
+</mods>

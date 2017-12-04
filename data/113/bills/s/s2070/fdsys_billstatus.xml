@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2014-02-28T07:01:08Z</createDate>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <lastName>Merkley</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Jeff</firstName>
+        <sponsorshipDate>2014-02-27</sponsorshipDate>
+        <middleName />
+        <bioguideId>M001176</bioguideId>
+        <state>OR</state>
+      </item>
+      <item>
+        <lastName>SANDERS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1010</lisID>
+          <bioguideId>S000033</bioguideId>
+          <gpoId>8270</gpoId>
+        </identifiers>
+        <party>I</party>
+        <firstName>BERNARD</firstName>
+        <sponsorshipDate>2014-06-03</sponsorshipDate>
+        <middleName />
+        <bioguideId>S000033</bioguideId>
+        <state>VT</state>
+      </item>
+    </cosponsors>
+    <title>Smarter Approach to Nuclear Expenditures Act</title>
+    <actions>
+      <item>
+        <actionDate>2014-02-27</actionDate>
+        <committee>
+          <systemCode>ssas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2014-02-27</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <committeeReports />
+    <updateDate>2016-10-25T16:29:05Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Arms control and nonproliferation</name>
+          </item>
+          <item>
+            <name>Chemistry</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Defense spending</name>
+          </item>
+          <item>
+            <name>Department of Defense</name>
+          </item>
+          <item>
+            <name>Department of Energy</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Metals</name>
+          </item>
+          <item>
+            <name>Military procurement, research, weapons development</name>
+          </item>
+          <item>
+            <name>New Mexico</name>
+          </item>
+          <item>
+            <name>Nuclear power</name>
+          </item>
+          <item>
+            <name>Nuclear weapons</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Research and development</name>
+          </item>
+          <item>
+            <name>Tennessee</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+      <actionDate>2014-02-27</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>M000133</bioguideId>
+        <state>MA</state>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <firstName>EDWARD</firstName>
+        <party>D</party>
+        <lastName>MARKEY</lastName>
+        <middleName>J.</middleName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <lisID>735</lisID>
+          <gpoId>7972</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <number>505</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-04-23</actionDate>
+          <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+        </latestAction>
+        <latestTitle>Balancing Act</latestTitle>
+      </item>
+      <item>
+        <congress>113</congress>
+        <number>1506</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2013-04-23</actionDate>
+          <text>Referred to the Subcommittee on Strategic Forces.</text>
+        </latestAction>
+        <latestTitle>Smarter Approach to Nuclear Expenditures Act</latestTitle>
+      </item>
+      <item>
+        <congress>113</congress>
+        <number>4107</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-02-27</actionDate>
+          <text>Referred to the House Committee on Armed Services.</text>
+        </latestAction>
+        <latestTitle>REIN-IN Act</latestTitle>
+      </item>
+    </relatedBills>
+    <laws />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssas00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Armed Services Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-02-27T22:53:22Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2014-06-03T19:53:32Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Smarter Approach to Nuclear Expenditures Act - Prohibits the obligation or expenditure of funds authorized to be appropriated to the Department of Defense (DOD) for FY2014-FY2023: (1) for the research, development, test, and evaluation (RDT&amp;E) or procurement of a long-range penetrating bomber aircraft; (2) to procure an SSBN-X submarine (and prohibits the use of such funds for FY2024 and thereafter to procure more than eight such submarines); or (3) for the RDT&amp;E or procurement of a new intercontinental ballistic missile (ICBM).</p> <p>Prohibits the obligation or expenditure of funds authorized to be appropriated for FY2014 or thereafter for DOD or the Department of Energy (DOE): (1) to make the F-35 Joint Strike Fighter aircraft capable of carrying nuclear weapons; (2) until the Secretary of Defense and the Secretary of Energy jointly certify that the total cost of the B61 life extension program has been reduced to not more than $5 billion; (3) for the W78 life extension program; (4) for the mixed oxide fuel fabrication facility project; (5) to replace the chemistry and metallurgy research building at Los Alamos National Laboratory, Los Alamos, New Mexico; or (6) for the uranium processing facility at the Y-12 National Security Complex, Oak Ridge, Tennessee.</p> <p>Prohibits Navy forces, beginning in FY2020, from including more than eight operational ballistic-missile submarines available for deployment.</p> <p>Prohibits the use of DOD funds for FY2014 or thereafter: (1) to maintain more than 250 submarine-launched ballistic missiles, or (2) for the medium extended air defense system.</p> <p>Requires initial and annual reports from the Secretaries of Defense and Energy outlining their respective plans to carry out the requirements of this Act.</p> <p>Directs the President to submit to Congress an annual report containing a comprehensive accounting by the Director of the Office of Management and Budget (OMB) of the amounts obligated or expended by the federal government for each nuclear weapon and related nuclear program during the fiscal year covered by the report for the life cycle of such weapon or program.</p>]]></text>
+          <updateDate>2014-02-27T05:00:00Z</updateDate>
+          <actionDate>2014-02-27</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <introducedDate>2014-02-27</introducedDate>
+    <billType>S</billType>
+    <congress>113</congress>
+    <billNumber>2070</billNumber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Smarter Approach to Nuclear Expenditures Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to reduce the number of nuclear-armed submarines operated by the Navy, to prohibit the development of a new long-range penetrating bomber aircraft, to prohibit the procurement of new intercontinental ballistic missiles, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Smarter Approach to Nuclear Expenditures Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

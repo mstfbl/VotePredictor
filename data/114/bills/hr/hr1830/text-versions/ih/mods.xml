@@ -1,0 +1,455 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18c21c6d8">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To prohibit the conditioning of any permit, lease, or other use agreement on the transfer of any water right to the United States by the Secretaries of the Interior and Agriculture, and to require the Secretaries of the Interior and Agriculture to develop water planning instruments consistent with State law.;Water Rights Protection Act;H.R. 1830 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-04-24</dateIngested>
+</extension>
+<titleInfo>
+ <title>To prohibit the conditioning of any permit, lease, or other use agreement on the transfer of any water right to the United States by the Secretaries of the Interior and Agriculture, and to require the Secretaries of the Interior and Agriculture to develop water planning instruments consistent with State law.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Water Rights Protection Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 1830 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-04-16</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>6 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18c21c6d8</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1830ih</identifier>
+<identifier type="preferred citation">H.R. 1830</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h1830_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1830ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1830ih/html/BILLS-114hr1830ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1830ih/pdf/BILLS-114hr1830ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1830ih/xml/BILLS-114hr1830ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-04-24</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-12</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr1830ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Scott R. Tipton</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark E. Amodei</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ken Buck</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jason Chaffetz</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mike Coffman</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Paul A. Gosar</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mike Kelly</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Raul R. Labrador</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Doug LaMalfa</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mia B. Love</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Doug Lamborn</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Cynthia M. Lummis</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tom McClintock</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Stevan Pearce</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tom Reed</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Reid J. Ribble</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael K. Simpson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lamar Smith</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Chris Stewart</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Glenn Thompson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bruce Westerman</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ryan K. Zinke</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Trent Franks</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Agriculture</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Natural Resources</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 1531et seq.</partNumber>
+  <partNumber>Title 16 Section 797(e)</partNumber>
+  <partNumber>Title 16 Section 803(j)</partNumber>
+  <partNumber>Title 16 Section 811</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 1531et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 797(e)</identifier>
+ <identifier type="USC citation">16 U.S.C. 803(j)</identifier>
+ <identifier type="USC citation">16 U.S.C. 811</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr1830ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>1830</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Water Rights Protection Act</shortTitle>
+ <officialTitle>To prohibit the conditioning of any permit, lease, or other use agreement on the transfer of any water right to the United States by the Secretaries of the Interior and Agriculture, and to require the Secretaries of the Interior and Agriculture to develop water planning instruments consistent with State law.</officialTitle>
+ <action date="2015-04-16">Mr. Tipton (for himself, Mr. Amodei, Mr. Buck, Mr. Chaffetz, Mr. Coffman, Mr. Gosar, Mr. Kelly of Pennsylvania, Mr. Labrador, Mr. LaMalfa, Mrs. Love, Mr. Lamborn, Mrs. Lummis, Mr. McClintock, Mr. Pearce, Mr. Reed, Mr. Ribble, Mr. Simpson, Mr. Smith of Texas, Mr. Stewart, Mr. Thompson of Pennsylvania, Mr. Westerman, Mr. Zinke, and Mr. Franks of Arizona) introduced the following bill; which was referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action>
+ <congCommittee authorityId="hsag00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Agriculture</name>
+                      <name type="authority-short">Agriculture</name>
+                </congCommittee>
+ <congCommittee authorityId="hsii00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Natural Resources</name>
+                      <name type="authority-short">Natural Resources</name>
+                </congCommittee>
+ <congMember authorityId="1997" bioGuideId="T000470" chamber="H" congress="114" gpoId="7861" party="R" role="SPONSOR" state="CO">
+                      <name type="parsed">Mr. Tipton</name>
+                      <name type="authority-fnf">Scott R. Tipton</name>
+                      <name type="authority-lnf">Tipton, Scott R.</name>
+                      <name type="authority-other">Mr. Scott Tipton</name>
+                </congMember>
+ <congMember authorityId="2090" bioGuideId="A000369" chamber="H" congress="114" gpoId="8366" party="R" role="COSPONSOR" state="NV">
+                      <name type="parsed">Mr. Amodei</name>
+                      <name type="authority-fnf">Mark E. Amodei</name>
+                      <name type="authority-lnf">Amodei, Mark E.</name>
+                      <name type="authority-other">Mr. Mark Amodei</name>
+                </congMember>
+ <congMember authorityId="2233" bioGuideId="B001297" chamber="H" congress="114" party="R" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Buck</name>
+                      <name type="authority-fnf">Ken Buck</name>
+                      <name type="authority-lnf">Buck, Ken</name>
+                </congMember>
+ <congMember authorityId="1956" bioGuideId="C001076" chamber="H" congress="114" gpoId="8191" party="R" role="COSPONSOR" state="UT">
+                      <name type="parsed">Mr. Chaffetz</name>
+                      <name type="authority-fnf">Jason Chaffetz</name>
+                      <name type="authority-lnf">Chaffetz, Jason</name>
+                </congMember>
+ <congMember authorityId="1912" bioGuideId="C001077" chamber="H" congress="114" gpoId="7864" party="R" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Coffman</name>
+                      <name type="authority-fnf">Mike Coffman</name>
+                      <name type="authority-lnf">Coffman, Mike</name>
+                </congMember>
+ <congMember authorityId="1992" bioGuideId="G000565" chamber="H" congress="114" gpoId="7798" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Gosar</name>
+                      <name type="authority-fnf">Paul A. Gosar</name>
+                      <name type="authority-lnf">Gosar, Paul A.</name>
+                      <name type="authority-other">Mr. Paul Gosar</name>
+                </congMember>
+ <congMember authorityId="2051" bioGuideId="K000376" chamber="H" congress="114" gpoId="8708" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Kelly of Pennsylvania</name>
+                      <name type="authority-fnf">Mike Kelly</name>
+                      <name type="authority-lnf">Kelly, Mike</name>
+                </congMember>
+ <congMember authorityId="2011" bioGuideId="L000573" chamber="H" congress="114" gpoId="7919" party="R" role="COSPONSOR" state="ID">
+                      <name type="parsed">Mr. Labrador</name>
+                      <name type="authority-fnf">Raul R. Labrador</name>
+                      <name type="authority-lnf">Labrador, Raul R.</name>
+                      <name type="authority-other">Mr. Raul Labrador</name>
+                </congMember>
+ <congMember authorityId="2100" bioGuideId="L000578" chamber="H" congress="114" party="R" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. LaMalfa</name>
+                      <name type="authority-fnf">Doug LaMalfa</name>
+                      <name type="authority-lnf">LaMalfa, Doug</name>
+                </congMember>
+ <congMember authorityId="2271" bioGuideId="L000584" chamber="H" congress="114" party="R" role="COSPONSOR" state="UT">
+                      <name type="parsed">Mrs. Love</name>
+                      <name type="authority-fnf">Mia B. Love</name>
+                      <name type="authority-lnf">Love, Mia B.</name>
+                      <name type="authority-other">Mrs. Mia Love</name>
+                </congMember>
+ <congMember authorityId="1834" bioGuideId="L000564" chamber="H" congress="114" gpoId="7863" party="R" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Lamborn</name>
+                      <name type="authority-fnf">Doug Lamborn</name>
+                      <name type="authority-lnf">Lamborn, Doug</name>
+                </congMember>
+ <congMember authorityId="1960" bioGuideId="L000571" chamber="H" congress="114" gpoId="8225" party="R" role="COSPONSOR" state="WY">
+                      <name type="parsed">Mrs. Lummis</name>
+                      <name type="authority-fnf">Cynthia M. Lummis</name>
+                      <name type="authority-lnf">Lummis, Cynthia M.</name>
+                      <name type="authority-other">Ms. Cynthia Lummis</name>
+                </congMember>
+ <congMember authorityId="1908" bioGuideId="M001177" chamber="H" congress="114" gpoId="7809" party="R" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. McClintock</name>
+                      <name type="authority-fnf">Tom McClintock</name>
+                      <name type="authority-lnf">McClintock, Tom</name>
+                </congMember>
+ <congMember authorityId="1738" bioGuideId="P000588" chamber="H" congress="114" gpoId="8057" party="R" role="COSPONSOR" state="NM">
+                      <name type="parsed">Mr. Pearce</name>
+                      <name type="authority-fnf">Stevan Pearce</name>
+                      <name type="authority-lnf">Pearce, Stevan</name>
+                </congMember>
+ <congMember authorityId="1982" bioGuideId="R000585" chamber="H" congress="114" gpoId="8090" party="R" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Reed</name>
+                      <name type="authority-fnf">Tom Reed</name>
+                      <name type="authority-lnf">Reed, Tom</name>
+                </congMember>
+ <congMember authorityId="2073" bioGuideId="R000587" chamber="H" congress="114" gpoId="8221" party="R" role="COSPONSOR" state="WI">
+                      <name type="parsed">Mr. Ribble</name>
+                      <name type="authority-fnf">Reid J. Ribble</name>
+                      <name type="authority-lnf">Ribble, Reid J.</name>
+                      <name type="authority-other">Mr. Reid Ribble</name>
+                </congMember>
+ <congMember authorityId="1590" bioGuideId="S001148" chamber="H" congress="114" gpoId="7920" party="R" role="COSPONSOR" state="ID">
+                      <name type="parsed">Mr. Simpson</name>
+                      <name type="authority-fnf">Michael K. Simpson</name>
+                      <name type="authority-lnf">Simpson, Michael K.</name>
+                      <name type="authority-other">Michael Simpson</name>
+                </congMember>
+ <congMember authorityId="1075" bioGuideId="S000583" chamber="H" congress="114" gpoId="8177" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Smith of Texas</name>
+                      <name type="authority-fnf">Lamar Smith</name>
+                      <name type="authority-lnf">Smith, Lamar</name>
+                </congMember>
+ <congMember authorityId="2168" bioGuideId="S001192" chamber="H" congress="114" party="R" role="COSPONSOR" state="UT">
+                      <name type="parsed">Mr. Stewart</name>
+                      <name type="authority-fnf">Chris Stewart</name>
+                      <name type="authority-lnf">Stewart, Chris</name>
+                </congMember>
+ <congMember authorityId="1952" bioGuideId="T000467" chamber="H" congress="114" gpoId="8123" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Thompson of Pennsylvania</name>
+                      <name type="authority-fnf">Glenn Thompson</name>
+                      <name type="authority-lnf">Thompson, Glenn</name>
+                </congMember>
+ <congMember authorityId="2224" bioGuideId="W000821" chamber="H" congress="114" party="R" role="COSPONSOR" state="AR">
+                      <name type="parsed">Mr. Westerman</name>
+                      <name type="authority-fnf">Bruce Westerman</name>
+                      <name type="authority-lnf">Westerman, Bruce</name>
+                </congMember>
+ <congMember authorityId="2254" bioGuideId="Z000018" chamber="H" congress="114" party="R" role="COSPONSOR" state="MT">
+                      <name type="parsed">Mr. Zinke</name>
+                      <name type="authority-fnf">Ryan K. Zinke</name>
+                      <name type="authority-lnf">Zinke, Ryan K.</name>
+                      <name type="authority-other">Mr. Ryan Zinke</name>
+                </congMember>
+ <congMember authorityId="1707" bioGuideId="F000448" chamber="H" congress="114" gpoId="7799" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Franks of Arizona</name>
+                      <name type="authority-fnf">Trent Franks</name>
+                      <name type="authority-lnf">Franks, Trent</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="16">
+                      <section detail="et seq." number="1531"></section>
+                      <section detail="(e)" number="797"></section>
+                      <section detail="(j)" number="803"></section>
+                      <section number="811"></section>
+                </USCode>
+</extension>
+</mods>

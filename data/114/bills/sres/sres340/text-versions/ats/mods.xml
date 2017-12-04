@@ -1,0 +1,364 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1903770e6">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>Expressing the sense of the Senate that the atrocities perpetrated by the Islamic State of Iraq and the Levant (ISIL) against religious and ethnic minorities in Iraq and Syria include war crimes, crimes against humanity, and genocide.;
+   		S. Res. 340 (ATS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-07-08</dateIngested>
+</extension>
+<titleInfo>
+ <title>Expressing the sense of the Senate that the atrocities perpetrated by the Islamic State of Iraq and the Levant (ISIL) against religious and ethnic minorities in Iraq and Syria include war crimes, crimes against humanity, and genocide.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. Res. 340 (ATS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-07-07</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>7 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/2:</classification>
+<identifier type="local">P0b002ee1903770e6</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114sres340ats</identifier>
+<identifier type="preferred citation">S. Res. 340</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325577</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate resolutions</identifier>
+<identifier type="former package identifier">f:sr340_ats.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114sres340ats/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres340ats/html/BILLS-114sres340ats.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres340ats/pdf/BILLS-114sres340ats.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres340ats/xml/BILLS-114sres340ats.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-07-08</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-07-09</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114sres340ats</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Bill Cassidy</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Joe Manchin III</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Marco Rubio</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Kirk</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Roger F. Wicker</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gary C. Peters</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Debbie Stabenow</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Roy Blunt</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kelly Ayotte</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jeanne Shaheen</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Thom Tillis</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>James M. Inhofe</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Johnny Isakson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tammy Baldwin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Boozman</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Richard Burr</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Amy Klobuchar</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tim Scott</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Foreign Relations</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Section 2441</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. 2441</identifier>
+</relatedItem>
+<extension>
+ <docClass>sres</docClass>
+ <accessId>BILLS-114sres340ats</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>340</billNumber>
+ <billVersion reprint="false">ats</billVersion>
+ <fileSuffix>ats</fileSuffix>
+ <action date="2016-04-28">Reported by Mr. Corker, with an amendment and an amendment to the preamble and an amendment to the title</action>
+ <action date="2015-12-18">Mr. Cassidy (for himself, Mr. Manchin, Mr. Rubio, Mr. Kirk, Mr. Wicker, Mr. Peters, Ms. Stabenow, Mr. Blunt, Ms. Ayotte, Mrs. Shaheen, Mr. Tillis, Mr. Inhofe, Mr. Isakson, Ms. Baldwin, Mr. Boozman, Mr. Burr, Ms. Klobuchar, and Mr. Scott) submitted the following resolution; which was referred to the Committee on Foreign Relations</action>
+ <action date="2016-07-07">Considered, amended, and agreed to with an amended preamble and an amendment to the title</action>
+ <congCommittee authorityId="ssfr00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Foreign Relations</name>
+                      <name type="authority-short">Foreign Relations</name>
+                </congCommittee>
+ <congMember authorityId="1925" bioGuideId="C001075" chamber="S" congress="114" gpoId="7964" party="R" role="SPONSOR" state="LA">
+                      <name type="parsed">Mr. Cassidy</name>
+                      <name type="authority-fnf">Bill Cassidy</name>
+                      <name type="authority-lnf">Cassidy, Bill</name>
+                </congMember>
+ <congMember authorityId="1983" bioGuideId="M001183" chamber="S" congress="114" gpoId="8256" party="D" role="COSPONSOR" state="WV">
+                      <name type="parsed">Mr. Manchin</name>
+                      <name type="authority-fnf">Joe Manchin III</name>
+                      <name type="authority-lnf">Manchin, Joe, III</name>
+                      <name type="authority-other">Mr. Joe Manchin III</name>
+                </congMember>
+ <congMember authorityId="2084" bioGuideId="R000595" chamber="S" congress="114" gpoId="8242" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Rubio</name>
+                      <name type="authority-fnf">Marco Rubio</name>
+                      <name type="authority-lnf">Rubio, Marco</name>
+                </congMember>
+ <congMember authorityId="1647" bioGuideId="K000360" chamber="S" congress="114" gpoId="8285" party="R" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Kirk</name>
+                      <name type="authority-fnf">Mark Kirk</name>
+                      <name type="authority-lnf">Kirk, Mark Steven</name>
+                      <name type="authority-other">Mark Steven Kirk</name>
+                </congMember>
+ <congMember authorityId="1226" bioGuideId="W000437" chamber="S" congress="114" gpoId="8263" party="R" role="COSPONSOR" state="MS">
+                      <name type="parsed">Mr. Wicker</name>
+                      <name type="authority-fnf">Roger F. Wicker</name>
+                      <name type="authority-lnf">Wicker, Roger F.</name>
+                      <name type="authority-other">Roger Wicker</name>
+                </congMember>
+ <congMember authorityId="1929" bioGuideId="P000595" chamber="S" congress="114" gpoId="7994" party="D" role="COSPONSOR" state="MI">
+                      <name type="parsed">Mr. Peters</name>
+                      <name type="authority-fnf">Gary C. Peters</name>
+                      <name type="authority-lnf">Peters, Gary C.</name>
+                      <name type="authority-other">Mr. Gary Peters</name>
+                </congMember>
+ <congMember authorityId="1531" bioGuideId="S000770" chamber="S" congress="114" gpoId="8261" party="D" role="COSPONSOR" state="MI">
+                      <name type="parsed">Ms. Stabenow</name>
+                      <name type="authority-fnf">Debbie Stabenow</name>
+                      <name type="authority-lnf">Stabenow, Debbie</name>
+                      <name type="authority-other">Deborah Ann Stabenow</name>
+                </congMember>
+ <congMember authorityId="1464" bioGuideId="B000575" chamber="S" congress="114" gpoId="8313" party="R" role="COSPONSOR" state="MO">
+                      <name type="parsed">Mr. Blunt</name>
+                      <name type="authority-fnf">Roy Blunt</name>
+                      <name type="authority-lnf">Blunt, Roy</name>
+                </congMember>
+ <congMember authorityId="2075" bioGuideId="A000368" chamber="S" congress="114" gpoId="8315" party="R" role="COSPONSOR" state="NH">
+                      <name type="parsed">Ms. Ayotte</name>
+                      <name type="authority-fnf">Kelly Ayotte</name>
+                      <name type="authority-lnf">Ayotte, Kelly</name>
+                </congMember>
+ <congMember authorityId="1901" bioGuideId="S001181" chamber="S" congress="114" gpoId="8276" party="D" role="COSPONSOR" state="NH">
+                      <name type="parsed">Mrs. Shaheen</name>
+                      <name type="authority-fnf">Jeanne Shaheen</name>
+                      <name type="authority-lnf">Shaheen, Jeanne</name>
+                </congMember>
+ <congMember authorityId="2291" bioGuideId="T000476" chamber="S" congress="114" party="R" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. Tillis</name>
+                      <name type="authority-fnf">Thom Tillis</name>
+                      <name type="authority-lnf">Tillis, Thom</name>
+                      <name type="authority-other">Mr. Thomas Roland Tillis</name>
+                </congMember>
+ <congMember authorityId="583" bioGuideId="I000024" chamber="S" congress="114" gpoId="8322" party="R" role="COSPONSOR" state="OK">
+                      <name type="parsed">Mr. Inhofe</name>
+                      <name type="authority-fnf">James M. Inhofe</name>
+                      <name type="authority-lnf">Inhofe, James M.</name>
+                      <name type="authority-other">Jim Inhofe</name>
+                </congMember>
+ <congMember authorityId="1608" bioGuideId="I000055" chamber="S" congress="114" gpoId="8323" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Isakson</name>
+                      <name type="authority-fnf">Johnny Isakson</name>
+                      <name type="authority-lnf">Isakson, Johnny</name>
+                </congMember>
+ <congMember authorityId="1558" bioGuideId="B001230" chamber="S" congress="114" gpoId="8215" party="D" role="COSPONSOR" state="WI">
+                      <name type="parsed">Ms. Baldwin</name>
+                      <name type="authority-fnf">Tammy Baldwin</name>
+                      <name type="authority-lnf">Baldwin, Tammy</name>
+                </congMember>
+ <congMember authorityId="1687" bioGuideId="B001236" chamber="S" congress="114" gpoId="8247" party="R" role="COSPONSOR" state="AR">
+                      <name type="parsed">Mr. Boozman</name>
+                      <name type="authority-fnf">John Boozman</name>
+                      <name type="authority-lnf">Boozman, John</name>
+                </congMember>
+ <congMember authorityId="153" bioGuideId="B001135" chamber="S" congress="114" gpoId="8286" party="R" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. Burr</name>
+                      <name type="authority-fnf">Richard Burr</name>
+                      <name type="authority-lnf">Burr, Richard</name>
+                      <name type="authority-other">Richard M. Burr</name>
+                </congMember>
+ <congMember authorityId="1826" bioGuideId="K000367" chamber="S" congress="114" gpoId="8249" party="D" role="COSPONSOR" state="MN">
+                      <name type="parsed">Ms. Klobuchar</name>
+                      <name type="authority-fnf">Amy Klobuchar</name>
+                      <name type="authority-lnf">Klobuchar, Amy</name>
+                </congMember>
+ <congMember authorityId="2056" bioGuideId="S001184" chamber="S" congress="114" gpoId="8141" party="R" role="COSPONSOR" state="SC">
+                      <name type="parsed">Mr. Scott</name>
+                      <name type="authority-fnf">Tim Scott</name>
+                      <name type="authority-lnf">Scott, Tim</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="18">
+                      <section number="2441"></section>
+                </USCode>
+</extension>
+</mods>

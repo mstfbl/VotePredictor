@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <lastName>Lee</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2080</lisID>
+          <gpoId>8303</gpoId>
+          <bioguideId>L000577</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Mike</firstName>
+        <sponsorshipDate>2014-03-26</sponsorshipDate>
+        <middleName />
+        <bioguideId>L000577</bioguideId>
+        <state>UT</state>
+      </item>
+      <item>
+        <lastName>Ayotte</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Ayotte, Kelly [R-NH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2075</lisID>
+          <gpoId>8315</gpoId>
+          <bioguideId>A000368</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Kelly</firstName>
+        <sponsorshipDate>2014-03-26</sponsorshipDate>
+        <middleName />
+        <bioguideId>A000368</bioguideId>
+        <state>NH</state>
+      </item>
+      <item>
+        <lastName>FEINSTEIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+          <lisID>1332</lisID>
+        </identifiers>
+        <party>D</party>
+        <firstName>DIANNE</firstName>
+        <sponsorshipDate>2014-03-26</sponsorshipDate>
+        <middleName />
+        <bioguideId>F000062</bioguideId>
+        <state>CA</state>
+      </item>
+      <item>
+        <lastName>COATS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Coats, Daniel [R-IN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C000542</bioguideId>
+          <gpoId>8299</gpoId>
+          <lisID>209</lisID>
+        </identifiers>
+        <party>R</party>
+        <firstName>DANIEL</firstName>
+        <sponsorshipDate>2014-11-19</sponsorshipDate>
+        <middleName>RAY</middleName>
+        <bioguideId>C000542</bioguideId>
+        <state>IN</state>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <updateDate>2016-10-25T16:29:26Z</updateDate>
+    <recordedVotes />
+    <calendarNumbers />
+    <createDate>2014-03-27T07:22:41Z</createDate>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2014-11-28T19:26:23Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2014-03-26T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <actionDate>2014-03-26</actionDate>
+          <text><![CDATA[<p>Restoration of America's Wire Act - Amends provisions of the federal criminal code, commonly known as the Wire Act, to provide that the prohibition against transmission of wagering information shall apply to any bet or wager, or information assisting in the placing of any bet or wager (thus making such prohibition applicable to all types of gambling activities, including Internet gambling). States that nothing in this Act shall be construed to: (1) preempt any state law prohibiting gambling; or (2) alter, limit, or extend the relationship between the Interstate Horseracing Act of 1978 and other federal laws currently in effect, the ability of a state licensed lottery retailer to make in-person, computer-generated retail lottery sales, or the relationship between federal laws and state charitable gaming laws. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Gambling</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-03-26</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2014-03-26</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <congress>113</congress>
+    <relatedBills>
+      <item>
+        <number>4301</number>
+        <latestAction>
+          <actionDate>2014-04-16</actionDate>
+          <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>Restoration of America's Wire Act</latestTitle>
+      </item>
+    </relatedBills>
+    <title>Restoration of America's Wire Act</title>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <billNumber>2159</billNumber>
+    <billType>S</billType>
+    <introducedDate>2014-03-26</introducedDate>
+    <latestAction>
+      <actionDate>2014-03-26</actionDate>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2014-03-26T18:00:41Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <state>SC</state>
+        <bioguideId>G000359</bioguideId>
+        <identifiers>
+          <lisID>452</lisID>
+          <bioguideId>G000359</bioguideId>
+          <gpoId>8335</gpoId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <firstName>LINDSEY</firstName>
+        <lastName>GRAHAM</lastName>
+        <middleName>O.</middleName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Restoration of America's Wire Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to restore long-standing United States policy that the Wire Act prohibits all forms of Internet gambling, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Restoration of America's Wire Act</title>
+      </item>
+    </titles>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

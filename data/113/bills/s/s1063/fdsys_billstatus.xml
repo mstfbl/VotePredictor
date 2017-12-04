@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2013-05-23</actionDate>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <subcommittees />
+          <systemCode>sshr00</systemCode>
+          <activities>
+            <item>
+              <date>2013-05-23T21:10:49Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2013-05-24T07:01:35Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2013-05-23</actionDate>
+        <committee>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <systemCode>sshr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Sponsor introductory remarks on measure. (CR S3857-3858)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2013-05-23</actionDate>
+        <actionCode>B00100</actionCode>
+        <links>
+          <link>
+            <name>S3857-3858</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S3857-3858</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2013-05-23</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2013-05-23</introducedDate>
+    <billNumber>1063</billNumber>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Effective Teaching and Leading Act - Amends title II (Preparing, Training, and Recruiting High Quality Teachers and Principals) of the Elementary and Secondary Education Act of 1965 to create a new Part E: Building School Capacity for Effective Teaching and Leadership.</p> <p>Directs the Secretary of Education to allot grants to states for subgrants to local educational agencies (LEAs) to improve teaching and school leadership through a system of teacher and principal induction, professional development, and evaluation that is developed, implemented, and evaluated in collaboration with local teacher, principal, and school leader organizations and preparation programs.</p> <p>Requires LEAs to include in such system: </p> <ul> <li> a comprehensive, coherent, high quality formalized induction program for beginning teachers during their first two years of full-time employment; </li> <li> high-quality effective professional development for teachers, principals, school librarians, and other school leaders at their lowest achieving schools; </li> <li> a rigorous, transparent, and equitable teacher and principal evaluation system for all their schools; </li> <li> ongoing high-quality support, coaching, and professional development for principals and other school leaders at their lowest achieving schools; </li> <li> opportunities for teachers and school librarians to assume new school leadership roles and receive training regarding such roles; and </li> <li> significant and sustainable stipends above a teacher's base salary for teachers that serve as mentors, instructional coaches, teacher leaders, or evaluators under these programs.</li> </ul> <p>Directs LEA grantees to conduct a valid and reliable full population survey of teaching and learning, at the school and LEA level, the results of which are to inform and be integrated into such systems.</p> <p>Requires a formal evaluation of each system to be conducted by the state, an institution of higher education, or an external agency and the results disseminated widely.</p>]]></text>
+          <updateDate>2013-05-23T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2013-06-10T15:22:05Z</lastSummaryUpdateDate>
+          <actionDate>2013-05-23</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Academic performance and assessments</name>
+          </item>
+          <item>
+            <name>Education of the disadvantaged</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>School administration</name>
+          </item>
+          <item>
+            <name>Teaching, teachers, curricula</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Effective Teaching and Leading Act</title>
+    <updateDate>2016-10-25T16:24:53Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Effective Teaching and Leading Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to improve teacher quality, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Effective Teaching and Leading Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>RI</state>
+        <firstName>JOHN</firstName>
+        <byRequestType />
+        <bioguideId>R000122</bioguideId>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <lastName>REED</lastName>
+        <party>D</party>
+        <middleName>F.</middleName>
+        <identifiers>
+          <lisID>949</lisID>
+          <gpoId>8272</gpoId>
+          <bioguideId>R000122</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <type>HR</type>
+        <number>2173</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+          <actionDate>2013-07-08</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Effective Teaching and Leading Act</latestTitle>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <state>NY</state>
+        <bioguideId>G000555</bioguideId>
+        <sponsorshipDate>2013-06-19</sponsorshipDate>
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <firstName>Kirsten</firstName>
+        <lastName>Gillibrand</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

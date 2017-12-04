@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-12-17</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on the Judiciary. Hearings held. Hearings printed: S.Hrg. 113-373.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-05-07</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2013-05-07</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-05-07</introducedDate>
+    <updateDate>2016-10-25T16:24:04Z</updateDate>
+    <createDate>2013-05-08T07:02:14Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+          <activities>
+            <item>
+              <date>2013-12-17T19:30:00Z</date>
+              <name>Hearings by</name>
+            </item>
+            <item>
+              <date>2013-05-07T19:27:26Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <firstName>PATRICK</firstName>
+        <party>D</party>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000174</bioguideId>
+        <identifiers>
+          <bioguideId>L000174</bioguideId>
+          <gpoId>8244</gpoId>
+          <lisID>1383</lisID>
+        </identifiers>
+        <lastName>LEAHY</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>VT</state>
+        <sponsorshipDate>2013-05-07</sponsorshipDate>
+        <middleName>JOSEPH</middleName>
+      </item>
+      <item>
+        <firstName>Elizabeth</firstName>
+        <party>D</party>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000817</bioguideId>
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Warren</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <sponsorshipDate>2013-05-07</sponsorshipDate>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <firstName>Richard</firstName>
+        <party>D</party>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001277</bioguideId>
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <lastName>Blumenthal</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>CT</state>
+        <sponsorshipDate>2013-05-07</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Sheldon</firstName>
+        <party>D</party>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000802</bioguideId>
+        <identifiers>
+          <lisID>1823</lisID>
+          <gpoId>8264</gpoId>
+          <bioguideId>W000802</bioguideId>
+        </identifiers>
+        <lastName>Whitehouse</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>RI</state>
+        <sponsorshipDate>2013-05-07</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Mazie</firstName>
+        <party>D</party>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001042</bioguideId>
+        <identifiers>
+          <lisID>1844</lisID>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+        </identifiers>
+        <lastName>Hirono</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>HI</state>
+        <sponsorshipDate>2013-05-07</sponsorshipDate>
+        <middleName>K.</middleName>
+      </item>
+      <item>
+        <firstName>BERNARD</firstName>
+        <party>I</party>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000033</bioguideId>
+        <identifiers>
+          <lisID>1010</lisID>
+          <gpoId>8270</gpoId>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+        <lastName>SANDERS</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>VT</state>
+        <sponsorshipDate>2013-05-07</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>TOM</firstName>
+        <party>D</party>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>U000039</bioguideId>
+        <identifiers>
+          <lisID>1567</lisID>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <lastName>UDALL</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>NM</state>
+        <sponsorshipDate>2013-05-07</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>THOMAS</firstName>
+        <party>D</party>
+        <fullName>Sen. Harkin, Tom [D-IA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H000206</bioguideId>
+        <identifiers>
+          <lisID>501</lisID>
+          <bioguideId>H000206</bioguideId>
+          <gpoId>8317</gpoId>
+        </identifiers>
+        <lastName>HARKIN</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>IA</state>
+        <sponsorshipDate>2013-05-07</sponsorshipDate>
+        <middleName>RICHARD</middleName>
+      </item>
+      <item>
+        <firstName>ROBERT</firstName>
+        <party>D</party>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M000639</bioguideId>
+        <identifiers>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <lastName>MENENDEZ</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <sponsorshipDate>2013-05-07</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Brian</firstName>
+        <party>D</party>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001194</bioguideId>
+        <identifiers>
+          <lisID>2173</lisID>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+        <lastName>Schatz</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>HI</state>
+        <sponsorshipDate>2013-05-07</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Heidi</firstName>
+        <party>D</party>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001069</bioguideId>
+        <identifiers>
+          <bioguideId>H001069</bioguideId>
+          <lisID>2174</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Heitkamp</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>ND</state>
+        <sponsorshipDate>2013-05-07</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>SHERROD</firstName>
+        <party>D</party>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B000944</bioguideId>
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <lastName>BROWN</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <sponsorshipDate>2013-05-07</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>BARBARA</firstName>
+        <party>D</party>
+        <fullName>Sen. Boxer, Barbara [D-CA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B000711</bioguideId>
+        <identifiers>
+          <gpoId>8306</gpoId>
+          <lisID>116</lisID>
+          <bioguideId>B000711</bioguideId>
+        </identifiers>
+        <lastName>BOXER</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <sponsorshipDate>2013-05-07</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>RON</firstName>
+        <party>D</party>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000779</bioguideId>
+        <identifiers>
+          <lisID>1247</lisID>
+          <bioguideId>W000779</bioguideId>
+          <gpoId>8265</gpoId>
+        </identifiers>
+        <lastName>WYDEN</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <sponsorshipDate>2013-05-07</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>FRANK</firstName>
+        <party>D</party>
+        <fullName>Sen. Lautenberg, Frank R. [D-NJ]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000123</bioguideId>
+        <identifiers>
+          <lisID>1381</lisID>
+          <gpoId>8245</gpoId>
+          <bioguideId>L000123</bioguideId>
+        </identifiers>
+        <lastName>LAUTENBERG</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <sponsorshipDate>2013-05-07</sponsorshipDate>
+        <middleName>R.</middleName>
+      </item>
+      <item>
+        <firstName>RICHARD</firstName>
+        <party>D</party>
+        <fullName>Sen. Durbin, Richard [D-IL]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000563</bioguideId>
+        <identifiers>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+          <bioguideId>D000563</bioguideId>
+        </identifiers>
+        <lastName>DURBIN</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <sponsorshipDate>2013-05-08</sponsorshipDate>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <firstName>Bob</firstName>
+        <party>D</party>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001070</bioguideId>
+        <identifiers>
+          <lisID>1828</lisID>
+          <gpoId>8282</gpoId>
+          <bioguideId>C001070</bioguideId>
+        </identifiers>
+        <lastName>Casey</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <sponsorshipDate>2013-06-03</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Jeff</firstName>
+        <party>D</party>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001176</bioguideId>
+        <identifiers>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <lastName>Merkley</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>OR</state>
+        <sponsorshipDate>2013-06-03</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Jeanne</firstName>
+        <party>D</party>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001181</bioguideId>
+        <identifiers>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <lastName>Shaheen</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>NH</state>
+        <sponsorshipDate>2013-06-21</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Christopher</firstName>
+        <party>D</party>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001088</bioguideId>
+        <identifiers>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+        </identifiers>
+        <lastName>Coons</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>DE</state>
+        <sponsorshipDate>2013-07-08</sponsorshipDate>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <firstName>MARIA</firstName>
+        <party>D</party>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C000127</bioguideId>
+        <identifiers>
+          <bioguideId>C000127</bioguideId>
+          <lisID>172</lisID>
+          <gpoId>8288</gpoId>
+        </identifiers>
+        <lastName>CANTWELL</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>WA</state>
+        <sponsorshipDate>2013-07-18</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>TAMMY</firstName>
+        <party>D</party>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001230</bioguideId>
+        <identifiers>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <lastName>BALDWIN</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <sponsorshipDate>2013-08-01</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Christopher</firstName>
+        <party>D</party>
+        <fullName>Sen. Murphy, Christopher S. [D-CT]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001169</bioguideId>
+        <identifiers>
+          <lisID>1837</lisID>
+          <gpoId>7870</gpoId>
+          <bioguideId>M001169</bioguideId>
+        </identifiers>
+        <lastName>Murphy</lastName>
+        <sponsorshipWithdrawnDate>2013-12-16</sponsorshipWithdrawnDate>
+        <state>CT</state>
+        <sponsorshipDate>2013-11-13</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>EDWARD</firstName>
+        <party>D</party>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M000133</bioguideId>
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <lastName>MARKEY</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MA</state>
+        <sponsorshipDate>2013-12-11</sponsorshipDate>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <firstName>BARBARA</firstName>
+        <party>D</party>
+        <fullName>Sen. Mikulski, Barbara A. [D-MD]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M000702</bioguideId>
+        <identifiers>
+          <bioguideId>M000702</bioguideId>
+          <lisID>802</lisID>
+          <gpoId>8240</gpoId>
+        </identifiers>
+        <lastName>MIKULSKI</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>MD</state>
+        <sponsorshipDate>2014-04-28</sponsorshipDate>
+        <middleName>ANN</middleName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Arbitration Fairness Act of 2013</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Arbitration Fairness Act of 2013</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title 9 of the United States Code with respect to arbitration.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Arbitration Fairness Act of 2013</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-06-24T17:04:40Z</lastSummaryUpdateDate>
+          <updateDate>2013-05-07T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2013-05-07</actionDate>
+          <text><![CDATA[<p>Arbitration Fairness Act of 2013 - Declares that no predispute arbitration agreement shall be valid or enforceable if it requires arbitration of an employment, consumer, antitrust, or civil rights dispute.</p> <p>Declares, further, that the validity and enforceability of an agreement to arbitrate shall be determined by a court, under federal law, rather than an arbitrator, irrespective of whether the party resisting arbitration challenges the arbitration agreement specifically or in conjunction with other terms of the contract containing such agreement.</p> <p>Exempts from this Act arbitration provisions in a contract between an employer and a labor organization or between labor organizations. Denies to any such arbitration provision, however, the effect of waiving the right of an employee to seek judicial enforcement of a right arising under the U.S. Constitution, a state constitution, a federal or state statute, or related public policy.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>1844</number>
+        <type>HR</type>
+        <latestTitle>Arbitration Fairness Act of 2013</latestTitle>
+        <latestAction>
+          <actionDate>2013-06-14</actionDate>
+          <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Alternative dispute resolution, mediation, arbitration</name>
+          </item>
+          <item>
+            <name>Competition and antitrust</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Contracts and agency</name>
+          </item>
+          <item>
+            <name>Labor-management relations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Law</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Committee on the Judiciary. Hearings held. Hearings printed: S.Hrg. 113-373.</text>
+      <actionDate>2013-12-17</actionDate>
+    </latestAction>
+    <billNumber>878</billNumber>
+    <policyArea>
+      <name>Law</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Al</firstName>
+        <party>D</party>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <bioguideId>F000457</bioguideId>
+        <identifiers>
+          <bioguideId>F000457</bioguideId>
+          <lisID>1969</lisID>
+          <gpoId>8339</gpoId>
+        </identifiers>
+        <lastName>Franken</lastName>
+        <middleName />
+        <state>MN</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

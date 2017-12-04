@@ -1,0 +1,287 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18dafd6e6">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>Establishing the Select Committee on Gun Violence Prevention.;H. Res. 467 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-10-09</dateIngested>
+</extension>
+<titleInfo>
+ <title>Establishing the Select Committee on Gun Violence Prevention.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H. Res. 467 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-10-08</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>5 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/7:</classification>
+<identifier type="local">P0b002ee18dafd6e6</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hres467ih</identifier>
+<identifier type="preferred citation">H. Res. 467</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325574</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House resolutions</identifier>
+<identifier type="former package identifier">f:hr467_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hres467ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hres467ih/html/BILLS-114hres467ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hres467ih/pdf/BILLS-114hres467ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hres467ih/xml/BILLS-114hres467ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-10-09</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hres467ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mike Thompson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Elizabeth H. Esty</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Chaka Fattah</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robin L. Kelly</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Grace F. Napolitano</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Richard M. Nolan</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ed Perlmutter</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David E. Price</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kathleen M. Rice</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robert C. &quot;Bobby&quot; Scott</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jackie Speier</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bennie G. Thompson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Nancy Pelosi</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Rules</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<extension>
+ <docClass>hres</docClass>
+ <accessId>BILLS-114hres467ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>467</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <officialTitle>Establishing the Select Committee on Gun Violence Prevention.</officialTitle>
+ <action date="2015-10-08">Mr. Thompson of California (for himself, Ms. Esty, Mr. Fattah, Ms. Kelly of Illinois, Mrs. Napolitano, Mr. Nolan, Mr. Perlmutter, Mr. Price of North Carolina, Miss Rice of New York, Mr. Scott of Virginia, Ms. Speier, Mr. Thompson of Mississippi, and Ms. Pelosi) submitted the following resolution; which was referred to the Committee on Rules</action>
+ <congCommittee authorityId="hsru00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Rules</name>
+                      <name type="authority-short">Rules</name>
+                </congCommittee>
+ <congMember authorityId="1593" bioGuideId="T000460" chamber="H" congress="114" gpoId="7806" party="D" role="SPONSOR" state="CA">
+                      <name type="parsed">Mr. Thompson of California</name>
+                      <name type="authority-fnf">Mike Thompson</name>
+                      <name type="authority-lnf">Thompson, Mike</name>
+                </congMember>
+ <congMember authorityId="2114" bioGuideId="E000293" chamber="H" congress="114" party="D" role="COSPONSOR" state="CT">
+                      <name type="parsed">Ms. Esty</name>
+                      <name type="authority-fnf">Elizabeth H. Esty</name>
+                      <name type="authority-lnf">Esty, Elizabeth H.</name>
+                      <name type="authority-other">Ms. Elizabeth Esty</name>
+                </congMember>
+ <congMember authorityId="371" bioGuideId="F000043" chamber="H" congress="114" gpoId="8120" party="D" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Fattah</name>
+                      <name type="authority-fnf">Chaka Fattah</name>
+                      <name type="authority-lnf">Fattah, Chaka</name>
+                </congMember>
+ <congMember authorityId="2190" bioGuideId="K000385" chamber="H" congress="114" party="D" role="COSPONSOR" state="IL">
+                      <name type="parsed">Ms. Kelly of Illinois</name>
+                      <name type="authority-fnf">Robin L. Kelly</name>
+                      <name type="authority-lnf">Kelly, Robin L.</name>
+                      <name type="authority-other">Ms. Robin Kelly</name>
+                </congMember>
+ <congMember authorityId="1602" bioGuideId="N000179" chamber="H" congress="114" gpoId="7843" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mrs. Napolitano</name>
+                      <name type="authority-fnf">Grace F. Napolitano</name>
+                      <name type="authority-lnf">Napolitano, Grace F.</name>
+                      <name type="authority-other">Grace Napolitano</name>
+                </congMember>
+ <congMember authorityId="867" bioGuideId="N000127" chamber="H" congress="114" party="D" role="COSPONSOR" state="MN">
+                      <name type="parsed">Mr. Nolan</name>
+                      <name type="authority-fnf">Richard M. Nolan</name>
+                      <name type="authority-lnf">Nolan, Richard M.</name>
+                      <name type="authority-other">Richard Nolan</name>
+                </congMember>
+ <congMember authorityId="1835" bioGuideId="P000593" chamber="H" congress="114" gpoId="7865" party="D" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Perlmutter</name>
+                      <name type="authority-fnf">Ed Perlmutter</name>
+                      <name type="authority-lnf">Perlmutter, Ed</name>
+                </congMember>
+ <congMember authorityId="930" bioGuideId="P000523" chamber="H" congress="114" gpoId="8027" party="D" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. Price of North Carolina</name>
+                      <name type="authority-fnf">David E. Price</name>
+                      <name type="authority-lnf">Price, David E.</name>
+                      <name type="authority-other">David Price</name>
+                </congMember>
+ <congMember authorityId="2262" bioGuideId="R000602" chamber="H" congress="114" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Miss Rice of New York</name>
+                      <name type="authority-fnf">Kathleen M. Rice</name>
+                      <name type="authority-lnf">Rice, Kathleen M.</name>
+                      <name type="authority-other">Miss Kathleen Rice</name>
+                </congMember>
+ <congMember authorityId="1037" bioGuideId="S000185" chamber="H" congress="114" gpoId="8194" party="D" role="COSPONSOR" state="VA">
+                      <name type="parsed">Mr. Scott of Virginia</name>
+                      <name type="authority-fnf">Robert C. &quot;Bobby&quot; Scott</name>
+                      <name type="authority-lnf">Scott, Robert C. &quot;Bobby&quot;</name>
+                      <name type="authority-other">Robert Scott</name>
+                </congMember>
+ <congMember authorityId="1890" bioGuideId="S001175" chamber="H" congress="114" gpoId="7817" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Speier</name>
+                      <name type="authority-fnf">Jackie Speier</name>
+                      <name type="authority-lnf">Speier, Jackie</name>
+                </congMember>
+ <congMember authorityId="1151" bioGuideId="T000193" chamber="H" congress="114" gpoId="8020" party="D" role="COSPONSOR" state="MS">
+                      <name type="parsed">Mr. Thompson of Mississippi</name>
+                      <name type="authority-fnf">Bennie G. Thompson</name>
+                      <name type="authority-lnf">Thompson, Bennie G.</name>
+                      <name type="authority-other">Bennie Thompson</name>
+                </congMember>
+ <congMember authorityId="905" bioGuideId="P000197" chamber="H" congress="114" gpoId="7813" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Pelosi</name>
+                      <name type="authority-fnf">Nancy Pelosi</name>
+                      <name type="authority-lnf">Pelosi, Nancy</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

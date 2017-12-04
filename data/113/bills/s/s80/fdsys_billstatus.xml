@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2013-01-24T07:00:55Z</createDate>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>CO</state>
+        <sponsorshipDate>2013-01-23</sponsorshipDate>
+        <bioguideId>B001267</bioguideId>
+        <firstName>Michael</firstName>
+        <middleName>F.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <party>D</party>
+        <lastName>Bennet</lastName>
+        <identifiers>
+          <lisID>1965</lisID>
+          <bioguideId>B001267</bioguideId>
+          <gpoId>8302</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>MN</state>
+        <sponsorshipDate>2013-01-23</sponsorshipDate>
+        <bioguideId>K000367</bioguideId>
+        <firstName>Amy</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <party>D</party>
+        <lastName>Klobuchar</lastName>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>NC</state>
+        <sponsorshipDate>2013-01-23</sponsorshipDate>
+        <bioguideId>B001135</bioguideId>
+        <firstName>RICHARD</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <party>R</party>
+        <lastName>BURR</lastName>
+        <identifiers>
+          <lisID>153</lisID>
+          <gpoId>8286</gpoId>
+          <bioguideId>B001135</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <sponsorshipDate>2013-01-23</sponsorshipDate>
+        <bioguideId>K000360</bioguideId>
+        <firstName>MARK</firstName>
+        <middleName>STEVEN</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Kirk, Mark Steven [R-IL]</fullName>
+        <party>R</party>
+        <lastName>KIRK</lastName>
+        <identifiers>
+          <bioguideId>K000360</bioguideId>
+          <lisID>1647</lisID>
+          <gpoId>8285</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>ME</state>
+        <sponsorshipDate>2013-02-07</sponsorshipDate>
+        <bioguideId>C001035</bioguideId>
+        <firstName>SUSAN</firstName>
+        <middleName>MARGARET</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <party>R</party>
+        <lastName>COLLINS</lastName>
+        <identifiers>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>OH</state>
+        <sponsorshipDate>2013-02-07</sponsorshipDate>
+        <bioguideId>P000449</bioguideId>
+        <firstName>ROB</firstName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <party>R</party>
+        <lastName>PORTMAN</lastName>
+        <identifiers>
+          <lisID>924</lisID>
+          <gpoId>8266</gpoId>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>NV</state>
+        <sponsorshipDate>2013-10-29</sponsorshipDate>
+        <bioguideId>H001041</bioguideId>
+        <firstName>Dean</firstName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <party>R</party>
+        <lastName>Heller</lastName>
+        <identifiers>
+          <lisID>1863</lisID>
+          <bioguideId>H001041</bioguideId>
+          <gpoId>8060</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <title>SAFER Act of 2013</title>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-01-23</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S215-217</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S215-217</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S215-217)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2013-01-23</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <amendments />
+    <committeeReports />
+    <updateDate>2016-10-25T16:20:00Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Crimes against women</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+          <item>
+            <name>Genetics</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes>
+      <item>
+        <text><![CDATA[For further action, see S.47, which became Public Law 113-4 on 3/7/2013.]]></text>
+        <links />
+      </item>
+    </notes>
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary. (text of measure as introduced: CR S215-217)</text>
+      <actionDate>2013-01-23</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>C001056</bioguideId>
+        <state>TX</state>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <firstName>John</firstName>
+        <party>R</party>
+        <lastName>Cornyn</lastName>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <gpoId>8295</gpoId>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+          <actionDate>2013-02-28</actionDate>
+        </latestAction>
+        <latestTitle>Sexual Assault Forensic Evidence Reporting Act of 2013</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>354</number>
+      </item>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+          <actionDate>2013-04-23</actionDate>
+        </latestAction>
+        <latestTitle>Violence Against Women Reauthorization Act of 2013</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>11</number>
+      </item>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Became Public Law No: 113-4.</text>
+          <actionDate>2013-03-07</actionDate>
+        </latestAction>
+        <latestTitle>Violence Against Women Reauthorization Act of 2013</latestTitle>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>47</number>
+      </item>
+    </relatedBills>
+    <laws />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+          <activities>
+            <item>
+              <date>2013-01-23T17:51:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Sexual Assault Forensic Evidence Reporting Act of 2013 or the SAFER Act of 2013 - Amends the DNA Analysis Backlog Elimination Act of 2000 to authorize the Attorney General to make Debbie Smith grants under such Act to states or local governments to: (1) conduct audits of samples of sexual assault evidence that are awaiting testing; and (2) ensure that the collection and processing of DNA evidence by law enforcement agencies from crimes is carried out in an appropriate and timely manner and in accordance with specified protocols and practices. Requires not less than 5% but not more than 7% of Debbie Smith grant funds distributed in FY2014-FY2017 to be awarded for such audits if sufficient applications to justify such amounts are received by the Attorney General, provided such award doesn't decrease funds for other distribution requirements. </p> <p>Authorizes the Attorney General to award such a grant to a state or local government for auditing sexual assault evidence backlogs only if the recipient submits a plan for performing the audit and includes a good-faith estimate of the number of such samples. Sets forth provisions regarding grant conditions, including requirements that: (1) the government complete the audit within one year, assign a unique numeric or alphanumeric identifier to each sample awaiting testing, and identify any statutory deadlines for prosecuting a perpetrator to which a sample relates; and (2) the chief law enforcement officer of the state or local government be the individual responsible for compliance with reporting requirements. </p> <p>Requires a grant recipient, at least every 60 days for 12 months after completing an initial count of the samples awaiting testing, to submit a report to the Department of Justice (DOJ) on the number of samples: (1) that such government has determined should undergo testing, (2) that such government has determined should not undergo testing, (3) that have been submitted for testing, and (4) for which testing has been completed. </p> <p>Directs the Attorney General to publish such reports and to ensure that any information published does not include information that might lead to the identification of the individuals involved. </p> <p>Requires the Director of the Federal Bureau of Investigation (FBI) to: (1) develop and publish a description of protocols and practices appropriate for the accurate, timely, and effective collection and processing of DNA evidence; and (2) make available technical assistance and training to support states and local governments in adopting and implementing such protocols and practices.</p> <p>Requires the Attorney General, to submit to Congress an annual report that: (1) lists the states and local governments awarded grants and the amount received by each, (2) states the number of audit deadline extensions granted by the Attorney General, and (3) summarizes the processing status of the samples of sexual assault evidence identified in Sexual Assault Forensic Evidence Reports.</p> <p>Requires, for each fiscal year through FY2018, that not less than 75% of Debbie Smith grant amounts be awarded to: (1) carry out, for inclusion in the Combined DNA Index System, DNA analyses of samples collected under applicable legal authority and of samples collected from crime scenes; and (2) increase the capacity of state or local government laboratories to carry out DNA analyses.</p> <p>Requires the DOJ Inspector General to conduct audits of all grants under this Act to prevent waste, fraud, and abuse by grantees. Makes a grant recipient found to have an unresolved audit finding ineligible to receive grants under this Act for two fiscal years. Directs the Attorney General to give priority in awarding grants to eligible entities that, during the three prior fiscal years, did not have an unresolved audit finding showing a violation of a DOJ grant program. Prohibits the Attorney General from awarding a grant under this Act to a nonprofit organization that holds money in offshore accounts for the purpose of avoiding paying tax on certain unrelated business income.</p> <p>Limits the use of amounts authorized to be appropriated under this Act for DOJ salaries and administrative expenses, for conferences, or for lobbying any representative of a government regarding the award of grant funding. </p> <p>Sunsets specified provisions of this Act regarding Debbie Smith grants for auditing sexual assault evidence backlogs on December 31, 2018.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2013-01-23</actionDate>
+          <updateDate>2013-01-23T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-02-20T22:33:55Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <introducedDate>2013-01-23</introducedDate>
+    <billType>S</billType>
+    <congress>113</congress>
+    <billNumber>80</billNumber>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>SAFER Act of 2013</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Sexual Assault Forensic Evidence Reporting Act of 2013</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the DNA Analysis Backlog Elimination Act of 2000 to provide for Debbie Smith grants for auditing sexual assault evidence backlogs and to establish a Sexual Assault Forensic Evidence Reporting System, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>SAFER Act of 2013</title>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

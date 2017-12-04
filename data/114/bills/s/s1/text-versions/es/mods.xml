@@ -1,0 +1,186 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18af31185">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To approve the Keystone XL Pipeline.;Keystone XL Pipeline Approval Act;Energy Efficiency Improvement Act of 2015;Better Buildings Act of 2015;S. 1 (ES)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-01-30</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To approve the Keystone XL Pipeline.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Keystone XL Pipeline Approval Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Energy Efficiency Improvement Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Better Buildings Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1 (ES)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-01-29</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>36 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18af31185</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s1es</identifier>
+<identifier type="preferred citation">S. 1</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1_es.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s1es/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1es/html/BILLS-114s1es.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1es/pdf/BILLS-114s1es.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1es/xml/BILLS-114s1es.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-01-30</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-14</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s1es</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 2164</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 2164</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 1536(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 1536(a)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1002(a)</partNumber>
+  <partNumber>Title 20 Section 1059c(b)</partNumber>
+  <partNumber>Title 20 Section 7801</partNumber>
+  <partNumber>Title 20 Section 921et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1002(a)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1059c(b)</identifier>
+ <identifier type="USC citation">20 U.S.C. 7801</identifier>
+ <identifier type="USC citation">20 U.S.C. 921et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 2511</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 2511</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 17081et seq.</partNumber>
+  <partNumber>Title 42 Section 17091(b)(2)</partNumber>
+  <partNumber>Title 42 Section 4321et seq.</partNumber>
+  <partNumber>Title 42 Section 6294a</partNumber>
+  <partNumber>Title 42 Section 6295(e)</partNumber>
+  <partNumber>Title 42 Section 6302(a)</partNumber>
+  <partNumber>Title 42 Section 6303(a)</partNumber>
+  <partNumber>Title 42 Section 6304</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 17081et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 17091(b)(2)</identifier>
+ <identifier type="USC citation">42 U.S.C. 4321et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 6294a</identifier>
+ <identifier type="USC citation">42 U.S.C. 6295(e)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6302(a)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6303(a)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6304</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s1es</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1</billNumber>
+ <billVersion reprint="false">es</billVersion>
+ <fileSuffix>es</fileSuffix>
+ <shortTitle type="measure">Keystone XL Pipeline Approval Act</shortTitle>
+ <shortTitle level="division" type="level">Energy Efficiency Improvement Act of 2015</shortTitle>
+ <shortTitle level="title" type="level">Better Buildings Act of 2015</shortTitle>
+ <officialTitle>To approve the Keystone XL Pipeline.</officialTitle>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="10">
+                      <section number="2164"></section>
+                </USCode>
+ <USCode title="16">
+                      <section detail="(a)" number="1536"></section>
+                </USCode>
+ <USCode title="20">
+                      <section detail="(a)" number="1002"></section>
+                      <section detail="(b)" number="1059c"></section>
+                      <section number="7801"></section>
+                      <section detail="et seq." number="921"></section>
+                </USCode>
+ <USCode title="25">
+                      <section number="2511"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="et seq." number="17081"></section>
+                      <section detail="(b)(2)" number="17091"></section>
+                      <section detail="et seq." number="4321"></section>
+                      <section number="6294a"></section>
+                      <section detail="(e)" number="6295"></section>
+                      <section detail="(a)" number="6302"></section>
+                      <section detail="(a)" number="6303"></section>
+                      <section number="6304"></section>
+                </USCode>
+</extension>
+</mods>

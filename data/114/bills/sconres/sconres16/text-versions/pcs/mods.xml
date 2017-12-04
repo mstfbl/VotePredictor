@@ -1,0 +1,261 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18c461144">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>Stating the policy of the United States regarding the release of United States citizens in Iran.;S. Con. Res. 16 (PCS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-05-09</dateIngested>
+</extension>
+<titleInfo>
+ <title>Stating the policy of the United States regarding the release of United States citizens in Iran.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. Con. Res. 16 (PCS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-05-07</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>4 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/4:</classification>
+<identifier type="local">P0b002ee18c461144</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114sconres16pcs</identifier>
+<identifier type="preferred citation">S. Con. Res. 16</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325571</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate concurrent resolutions</identifier>
+<identifier type="former package identifier">f:sc16_pcs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114sconres16pcs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sconres16pcs/html/BILLS-114sconres16pcs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sconres16pcs/pdf/BILLS-114sconres16pcs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sconres16pcs/xml/BILLS-114sconres16pcs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-05-09</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-12</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114sconres16pcs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>James E. Risch</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mike Crapo</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Marco Rubio</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Barbara Boxer</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Roy Blunt</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Debbie Stabenow</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bill Nelson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gary C. Peters</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dan Sullivan</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ted Cruz</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Johnny Isakson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dianne Feinstein</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 72</identifier>
+</relatedItem>
+<extension>
+ <docClass>sconres</docClass>
+ <accessId>BILLS-114sconres16pcs</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>16</billNumber>
+ <billVersion reprint="false">pcs</billVersion>
+ <fileSuffix>pcs</fileSuffix>
+ <officialTitle>Stating the policy of the United States regarding the release of United States citizens in Iran.</officialTitle>
+ <action date="2015-05-07">Mr. Risch (for himself, Mr. Crapo, Mr. Rubio, Mrs. Boxer, Mr. Blunt, Ms. Stabenow, Mr. Nelson, Mr. Peters, Mr. Sullivan, Mr. Cruz, Mr. Isakson, and Mrs. Feinstein) submitted the following concurrent resolution; which was ordered to be placed on the calendar</action>
+ <congMember authorityId="1896" bioGuideId="R000584" chamber="S" congress="114" gpoId="8274" party="R" role="SPONSOR" state="ID">
+                      <name type="parsed">Mr. Risch</name>
+                      <name type="authority-fnf">James E. Risch</name>
+                      <name type="authority-lnf">Risch, James E.</name>
+                      <name type="authority-other">Mr. James Risch</name>
+                </congMember>
+ <congMember authorityId="250" bioGuideId="C000880" chamber="S" congress="114" gpoId="8289" party="R" role="COSPONSOR" state="ID">
+                      <name type="parsed">Mr. Crapo</name>
+                      <name type="authority-fnf">Mike Crapo</name>
+                      <name type="authority-lnf">Crapo, Mike</name>
+                      <name type="authority-other">Michael Crapo</name>
+                </congMember>
+ <congMember authorityId="2084" bioGuideId="R000595" chamber="S" congress="114" gpoId="8242" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Rubio</name>
+                      <name type="authority-fnf">Marco Rubio</name>
+                      <name type="authority-lnf">Rubio, Marco</name>
+                </congMember>
+ <congMember authorityId="116" bioGuideId="B000711" chamber="S" congress="114" gpoId="8306" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mrs. Boxer</name>
+                      <name type="authority-fnf">Barbara Boxer</name>
+                      <name type="authority-lnf">Boxer, Barbara</name>
+                </congMember>
+ <congMember authorityId="1464" bioGuideId="B000575" chamber="S" congress="114" gpoId="8313" party="R" role="COSPONSOR" state="MO">
+                      <name type="parsed">Mr. Blunt</name>
+                      <name type="authority-fnf">Roy Blunt</name>
+                      <name type="authority-lnf">Blunt, Roy</name>
+                </congMember>
+ <congMember authorityId="1531" bioGuideId="S000770" chamber="S" congress="114" gpoId="8261" party="D" role="COSPONSOR" state="MI">
+                      <name type="parsed">Ms. Stabenow</name>
+                      <name type="authority-fnf">Debbie Stabenow</name>
+                      <name type="authority-lnf">Stabenow, Debbie</name>
+                      <name type="authority-other">Deborah Ann Stabenow</name>
+                </congMember>
+ <congMember authorityId="859" bioGuideId="N000032" chamber="S" congress="114" gpoId="8236" party="D" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Nelson</name>
+                      <name type="authority-fnf">Bill Nelson</name>
+                      <name type="authority-lnf">Nelson, Bill</name>
+                      <name type="authority-other">Clarence William Nelson</name>
+                </congMember>
+ <congMember authorityId="1929" bioGuideId="P000595" chamber="S" congress="114" gpoId="7994" party="D" role="COSPONSOR" state="MI">
+                      <name type="parsed">Mr. Peters</name>
+                      <name type="authority-fnf">Gary C. Peters</name>
+                      <name type="authority-lnf">Peters, Gary C.</name>
+                      <name type="authority-other">Mr. Gary Peters</name>
+                </congMember>
+ <congMember authorityId="2290" bioGuideId="S001198" chamber="S" congress="114" party="R" role="COSPONSOR" state="AK">
+                      <name type="parsed">Mr. Sullivan</name>
+                      <name type="authority-fnf">Dan Sullivan</name>
+                      <name type="authority-lnf">Sullivan, Dan</name>
+                </congMember>
+ <congMember authorityId="2175" bioGuideId="C001098" chamber="S" congress="114" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Cruz</name>
+                      <name type="authority-fnf">Ted Cruz</name>
+                      <name type="authority-lnf">Cruz, Ted</name>
+                </congMember>
+ <congMember authorityId="1608" bioGuideId="I000055" chamber="S" congress="114" gpoId="8323" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Isakson</name>
+                      <name type="authority-fnf">Johnny Isakson</name>
+                      <name type="authority-lnf">Isakson, Johnny</name>
+                </congMember>
+ <congMember authorityId="1332" bioGuideId="F000062" chamber="S" congress="114" gpoId="8338" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mrs. Feinstein</name>
+                      <name type="authority-fnf">Dianne Feinstein</name>
+                      <name type="authority-lnf">Feinstein, Dianne</name>
+                </congMember>
+ <congCalendar congress="114" number="72" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

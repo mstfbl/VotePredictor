@@ -1,0 +1,313 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18e0e39d3">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To authorize appropriations for fiscal year 2016 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.;Intelligence Authorization Act for Fiscal Year 2016;H.R. 4127 (PCS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-12-03</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To authorize appropriations for fiscal year 2016 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Intelligence Authorization Act for Fiscal Year 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 4127 (PCS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-12-02</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>68 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18e0e39d3</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4127pcs</identifier>
+<identifier type="preferred citation">H.R. 4127</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h4127_pcs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4127pcs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4127pcs/html/BILLS-114hr4127pcs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4127pcs/pdf/BILLS-114hr4127pcs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4127pcs/xml/BILLS-114hr4127pcs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-12-03</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr4127pcs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 5102(a)(1)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 5102(a)(1)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 6 Section 609(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">6 U.S.C. 609(a)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 8 Section 1187</partNumber>
+  <partNumber>Title 8 Section 1189(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">8 U.S.C. 1187</identifier>
+ <identifier type="USC citation">8 U.S.C. 1189(a)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 101(a)(16)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 101(a)(16)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 1681a</partNumber>
+  <partNumber>Title 15 Section 7442</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 1681a</identifier>
+ <identifier type="USC citation">15 U.S.C. 7442</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1059g(b)(2)</partNumber>
+  <partNumber>Title 20 Section 1101a(a)(5)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1059g(b)(2)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1101a(a)(5)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 28 Section 532note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">28 U.S.C. 532note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 15801(3)</partNumber>
+  <partNumber>Title 42 Section 2000ee(g)</partNumber>
+  <partNumber>Title 42 Section 7383e</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 15801(3)</identifier>
+ <identifier type="USC citation">42 U.S.C. 2000ee(g)</identifier>
+ <identifier type="USC citation">42 U.S.C. 7383e</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 50 Section 1861(k)</partNumber>
+  <partNumber>Title 50 Section 1881(b)(4)</partNumber>
+  <partNumber>Title 50 Section 2371</partNumber>
+  <partNumber>Title 50 Section 2659</partNumber>
+  <partNumber>Title 50 Section 3003(4)</partNumber>
+  <partNumber>Title 50 Section 3024(u)</partNumber>
+  <partNumber>Title 50 Section 3024(v)</partNumber>
+  <partNumber>Title 50 Section 3033(j)(4)</partNumber>
+  <partNumber>Title 50 Section 3093(a)</partNumber>
+  <partNumber>Title 50 Section 3104</partNumber>
+  <partNumber>Title 50 Section 3106</partNumber>
+  <partNumber>Title 50 Section 3224</partNumber>
+  <partNumber>Title 50 Section 3306(a)</partNumber>
+  <partNumber>Title 50 Section 3341</partNumber>
+  <partNumber>Title 50 Section 3341(a)(7)</partNumber>
+  <partNumber>Title 50 Section 3382</partNumber>
+  <partNumber>Title 50 Section 3517(e)(7)</partNumber>
+  <partNumber>Title 50 Section 3517(e)(9)</partNumber>
+  <partNumber>Title 50 Section 401et seq.</partNumber>
+  <partNumber>Title 50 Section 404i-1note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">50 U.S.C. 1861(k)</identifier>
+ <identifier type="USC citation">50 U.S.C. 1881(b)(4)</identifier>
+ <identifier type="USC citation">50 U.S.C. 2371</identifier>
+ <identifier type="USC citation">50 U.S.C. 2659</identifier>
+ <identifier type="USC citation">50 U.S.C. 3003(4)</identifier>
+ <identifier type="USC citation">50 U.S.C. 3024(u)</identifier>
+ <identifier type="USC citation">50 U.S.C. 3024(v)</identifier>
+ <identifier type="USC citation">50 U.S.C. 3033(j)(4)</identifier>
+ <identifier type="USC citation">50 U.S.C. 3093(a)</identifier>
+ <identifier type="USC citation">50 U.S.C. 3104</identifier>
+ <identifier type="USC citation">50 U.S.C. 3106</identifier>
+ <identifier type="USC citation">50 U.S.C. 3224</identifier>
+ <identifier type="USC citation">50 U.S.C. 3306(a)</identifier>
+ <identifier type="USC citation">50 U.S.C. 3341</identifier>
+ <identifier type="USC citation">50 U.S.C. 3341(a)(7)</identifier>
+ <identifier type="USC citation">50 U.S.C. 3382</identifier>
+ <identifier type="USC citation">50 U.S.C. 3517(e)(7)</identifier>
+ <identifier type="USC citation">50 U.S.C. 3517(e)(9)</identifier>
+ <identifier type="USC citation">50 U.S.C. 401et seq.</identifier>
+ <identifier type="USC citation">50 U.S.C. 404i-1note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 118 Page 3700</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">118 Stat. 3700</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 95-452</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 95-452</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 108-458</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 108-458</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-259</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-259</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-87</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-87</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 309</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr4127pcs</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>4127</billNumber>
+ <billVersion reprint="false">pcs</billVersion>
+ <fileSuffix>pcs</fileSuffix>
+ <shortTitle type="measure">Intelligence Authorization Act for Fiscal Year 2016</shortTitle>
+ <officialTitle>To authorize appropriations for fiscal year 2016 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.</officialTitle>
+ <action date="2015-12-02">Received; read twice and placed on the calendar</action>
+ <law congress="95" isPrivate="false" number="452"></law>
+ <law congress="108" isPrivate="false" number="458"></law>
+ <law congress="111" isPrivate="false" number="259"></law>
+ <law congress="112" isPrivate="false" number="87"></law>
+ <congCalendar congress="114" number="309" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section detail="(a)(1)" number="5102"></section>
+                </USCode>
+ <USCode title="6">
+                      <section detail="(a)" number="609"></section>
+                </USCode>
+ <USCode title="8">
+                      <section number="1187"></section>
+                      <section detail="(a)" number="1189"></section>
+                </USCode>
+ <USCode title="10">
+                      <section detail="(a)(16)" number="101"></section>
+                </USCode>
+ <USCode title="15">
+                      <section number="1681a"></section>
+                      <section number="7442"></section>
+                </USCode>
+ <USCode title="20">
+                      <section detail="(b)(2)" number="1059g"></section>
+                      <section detail="(a)(5)" number="1101a"></section>
+                </USCode>
+ <USCode title="28">
+                      <section detail="note" number="532"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="(3)" number="15801"></section>
+                      <section detail="(g)" number="2000ee"></section>
+                      <section number="7383e"></section>
+                </USCode>
+ <USCode title="50">
+                      <section detail="(k)" number="1861"></section>
+                      <section detail="(b)(4)" number="1881"></section>
+                      <section number="2371"></section>
+                      <section number="2659"></section>
+                      <section detail="(4)" number="3003"></section>
+                      <section detail="(u)" number="3024"></section>
+                      <section detail="(v)" number="3024"></section>
+                      <section detail="(j)(4)" number="3033"></section>
+                      <section detail="(a)" number="3093"></section>
+                      <section number="3104"></section>
+                      <section number="3106"></section>
+                      <section number="3224"></section>
+                      <section detail="(a)" number="3306"></section>
+                      <section number="3341"></section>
+                      <section detail="(a)(7)" number="3341"></section>
+                      <section number="3382"></section>
+                      <section detail="(e)(7)" number="3517"></section>
+                      <section detail="(e)(9)" number="3517"></section>
+                      <section detail="et seq." number="401"></section>
+                      <section detail="note" number="404i-1"></section>
+                </USCode>
+ <statuteAtLarge volume="118">
+                      <pages pages="3700"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

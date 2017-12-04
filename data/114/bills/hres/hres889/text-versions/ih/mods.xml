@@ -1,0 +1,421 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1915cf367">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>Supporting the goals and ideals of October as National Domestic Violence Awareness Month and expressing the sense of the House of Representatives that Congress should continue to raise awareness of domestic violence and its devastating effects on individuals, families, and communities, and support programs designed to end domestic violence in the United States.;
+   		H. Res. 889 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-09-23</dateIngested>
+</extension>
+<titleInfo>
+ <title>Supporting the goals and ideals of October as National Domestic Violence Awareness Month and expressing the sense of the House of Representatives that Congress should continue to raise awareness of domestic violence and its devastating effects on individuals, families, and communities, and support programs designed to end domestic violence in the United States.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H. Res. 889 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-09-22</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>5 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/7:</classification>
+<identifier type="local">P0b002ee1915cf367</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hres889ih</identifier>
+<identifier type="preferred citation">H. Res. 889</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325574</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House resolutions</identifier>
+<identifier type="former package identifier">f:hr889_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hres889ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hres889ih/html/BILLS-114hres889ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hres889ih/pdf/BILLS-114hres889ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hres889ih/xml/BILLS-114hres889ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-09-23</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-09-23</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hres889ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Al Green</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ted Poe</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Donna F. Edwards</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Betty McCollum</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Yvette D. Clarke</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robin L. Kelly</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Conyers, Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Emanuel Cleaver</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Henry C. &quot;Hank&quot; Johnson, Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gwen Moore</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lucille Roybal-Allard</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Cheri Bustos</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gregory W. Meeks</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Eleanor Holmes Norton</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dina Titus</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Marcia L. Fudge</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Corrine Brown</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robert C. &quot;Bobby&quot; Scott</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Louise McIntosh Slaughter</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Rosa L. DeLauro</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Alcee L. Hastings</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jackie Speier</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Andre Carson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Education and the Workforce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<extension>
+ <docClass>hres</docClass>
+ <accessId>BILLS-114hres889ih</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>889</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <action date="2016-09-22">Mr. Al Green of Texas (for himself, Mr. Poe of Texas, Ms. Edwards, Ms. McCollum, Ms. Clarke of New York, Ms. Kelly of Illinois, Mr. Conyers, Mr. Cleaver, Mr. Johnson of Georgia, Ms. Moore, Ms. Roybal-Allard, Mrs. Bustos, Mr. Meeks, Ms. Norton, Ms. Titus, Ms. Fudge, Ms. Brown of Florida, Mr. Scott of Virginia, Ms. Slaughter, Ms. DeLauro, Mr. Hastings, Ms. Speier, and Mr. Carson of Indiana) submitted the following resolution; which was referred to the Committee on Education and the Workforce</action>
+ <congCommittee authorityId="hsed00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Education and the Workforce</name>
+                      <name type="authority-short">Education and the Workforce</name>
+                </congCommittee>
+ <congMember authorityId="1803" bioGuideId="G000553" chamber="H" congress="114" gpoId="8165" party="D" role="SPONSOR" state="TX">
+                      <name type="parsed">Mr. Al Green of Texas</name>
+                      <name type="authority-fnf">Al Green</name>
+                      <name type="authority-lnf">Green, Al</name>
+                </congMember>
+ <congMember authorityId="1802" bioGuideId="P000592" chamber="H" congress="114" gpoId="8158" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Poe of Texas</name>
+                      <name type="authority-fnf">Ted Poe</name>
+                      <name type="authority-lnf">Poe, Ted</name>
+                </congMember>
+ <congMember authorityId="1894" bioGuideId="E000290" chamber="H" congress="114" gpoId="7979" party="D" role="COSPONSOR" state="MD">
+                      <name type="parsed">Ms. Edwards</name>
+                      <name type="authority-fnf">Donna F. Edwards</name>
+                      <name type="authority-lnf">Edwards, Donna F.</name>
+                      <name type="authority-other">Ms. Donna Edwards</name>
+                </congMember>
+ <congMember authorityId="1653" bioGuideId="M001143" chamber="H" congress="114" gpoId="8004" party="D" role="COSPONSOR" state="MN">
+                      <name type="parsed">Ms. McCollum</name>
+                      <name type="authority-fnf">Betty McCollum</name>
+                      <name type="authority-lnf">McCollum, Betty</name>
+                </congMember>
+ <congMember authorityId="1864" bioGuideId="C001067" chamber="H" congress="114" gpoId="8072" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Ms. Clarke of New York</name>
+                      <name type="authority-fnf">Yvette D. Clarke</name>
+                      <name type="authority-lnf">Clarke, Yvette D.</name>
+                      <name type="authority-other">Ms. Yvette Clarke</name>
+                </congMember>
+ <congMember authorityId="2190" bioGuideId="K000385" chamber="H" congress="114" party="D" role="COSPONSOR" state="IL">
+                      <name type="parsed">Ms. Kelly of Illinois</name>
+                      <name type="authority-fnf">Robin L. Kelly</name>
+                      <name type="authority-lnf">Kelly, Robin L.</name>
+                      <name type="authority-other">Ms. Robin Kelly</name>
+                </congMember>
+ <congMember authorityId="229" bioGuideId="C000714" chamber="H" congress="114" gpoId="7999" party="D" role="COSPONSOR" state="MI">
+                      <name type="parsed">Mr. Conyers</name>
+                      <name type="authority-fnf">John Conyers, Jr.</name>
+                      <name type="authority-lnf">Conyers, John, Jr.</name>
+                      <name type="authority-other">John Conyers Jr.</name>
+                </congMember>
+ <congMember authorityId="1790" bioGuideId="C001061" chamber="H" congress="114" gpoId="8013" party="D" role="COSPONSOR" state="MO">
+                      <name type="parsed">Mr. Cleaver</name>
+                      <name type="authority-fnf">Emanuel Cleaver</name>
+                      <name type="authority-lnf">Cleaver, Emanuel</name>
+                </congMember>
+ <congMember authorityId="1843" bioGuideId="J000288" chamber="H" congress="114" gpoId="7901" party="D" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Johnson of Georgia</name>
+                      <name type="authority-fnf">Henry C. &quot;Hank&quot; Johnson, Jr.</name>
+                      <name type="authority-lnf">Johnson, Henry C. &quot;Hank,&quot; Jr.</name>
+                      <name type="authority-other">Mr. Henry Johnson Jr.</name>
+                </congMember>
+ <congMember authorityId="1811" bioGuideId="M001160" chamber="H" congress="114" gpoId="8217" party="D" role="COSPONSOR" state="WI">
+                      <name type="parsed">Ms. Moore</name>
+                      <name type="authority-fnf">Gwen Moore</name>
+                      <name type="authority-lnf">Moore, Gwen</name>
+                </congMember>
+ <congMember authorityId="997" bioGuideId="R000486" chamber="H" congress="114" gpoId="7839" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Roybal-Allard</name>
+                      <name type="authority-fnf">Lucille Roybal-Allard</name>
+                      <name type="authority-lnf">Roybal-Allard, Lucille</name>
+                </congMember>
+ <congMember authorityId="2127" bioGuideId="B001286" chamber="H" congress="114" party="D" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mrs. Bustos</name>
+                      <name type="authority-fnf">Cheri Bustos</name>
+                      <name type="authority-lnf">Bustos, Cheri</name>
+                </congMember>
+ <congMember authorityId="1506" bioGuideId="M001137" chamber="H" congress="114" gpoId="8067" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Meeks</name>
+                      <name type="authority-fnf">Gregory W. Meeks</name>
+                      <name type="authority-lnf">Meeks, Gregory W.</name>
+                      <name type="authority-other">Gregory Meeks</name>
+                </congMember>
+ <congMember authorityId="868" bioGuideId="N000147" chamber="H" congress="114" gpoId="7871" party="D" role="COSPONSOR" state="DC">
+                      <name type="parsed">Ms. Norton</name>
+                      <name type="authority-fnf">Eleanor Holmes Norton</name>
+                      <name type="authority-lnf">Norton, Eleanor Holmes</name>
+                      <name type="authority-other">Eleanor Norton</name>
+                </congMember>
+ <congMember authorityId="1940" bioGuideId="T000468" chamber="H" congress="114" gpoId="7493" party="D" role="COSPONSOR" state="NV">
+                      <name type="parsed">Ms. Titus</name>
+                      <name type="authority-fnf">Dina Titus</name>
+                      <name type="authority-lnf">Titus, Dina</name>
+                </congMember>
+ <congMember authorityId="1895" bioGuideId="F000455" chamber="H" congress="114" gpoId="8101" party="D" role="COSPONSOR" state="OH">
+                      <name type="parsed">Ms. Fudge</name>
+                      <name type="authority-fnf">Marcia L. Fudge</name>
+                      <name type="authority-lnf">Fudge, Marcia L.</name>
+                      <name type="authority-other">Ms. Marcia Fudge</name>
+                </congMember>
+ <congMember authorityId="132" bioGuideId="B000911" chamber="H" congress="114" gpoId="7875" party="D" role="COSPONSOR" state="FL">
+                      <name type="parsed">Ms. Brown of Florida</name>
+                      <name type="authority-fnf">Corrine Brown</name>
+                      <name type="authority-lnf">Brown, Corrine</name>
+                </congMember>
+ <congMember authorityId="1037" bioGuideId="S000185" chamber="H" congress="114" gpoId="8194" party="D" role="COSPONSOR" state="VA">
+                      <name type="parsed">Mr. Scott of Virginia</name>
+                      <name type="authority-fnf">Robert C. &quot;Bobby&quot; Scott</name>
+                      <name type="authority-lnf">Scott, Robert C. &quot;Bobby&quot;</name>
+                      <name type="authority-other">Robert Scott</name>
+                </congMember>
+ <congMember authorityId="1069" bioGuideId="S000480" chamber="H" congress="114" gpoId="8089" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Ms. Slaughter</name>
+                      <name type="authority-fnf">Louise McIntosh Slaughter</name>
+                      <name type="authority-lnf">Slaughter, Louise McIntosh</name>
+                      <name type="authority-other">Louise Slaughter</name>
+                </congMember>
+ <congMember authorityId="281" bioGuideId="D000216" chamber="H" congress="114" gpoId="7868" party="D" role="COSPONSOR" state="CT">
+                      <name type="parsed">Ms. DeLauro</name>
+                      <name type="authority-fnf">Rosa L. DeLauro</name>
+                      <name type="authority-lnf">DeLauro, Rosa L.</name>
+                      <name type="authority-other">Rosa Delauro</name>
+                </congMember>
+ <congMember authorityId="511" bioGuideId="H000324" chamber="H" congress="114" gpoId="7895" party="D" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Hastings</name>
+                      <name type="authority-fnf">Alcee L. Hastings</name>
+                      <name type="authority-lnf">Hastings, Alcee L.</name>
+                      <name type="authority-other">Alcee Hastings</name>
+                </congMember>
+ <congMember authorityId="1890" bioGuideId="S001175" chamber="H" congress="114" gpoId="7817" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Speier</name>
+                      <name type="authority-fnf">Jackie Speier</name>
+                      <name type="authority-lnf">Speier, Jackie</name>
+                </congMember>
+ <congMember authorityId="1889" bioGuideId="C001072" chamber="H" congress="114" gpoId="7946" party="D" role="COSPONSOR" state="IN">
+                      <name type="parsed">Mr. Carson of Indiana</name>
+                      <name type="authority-fnf">Andre Carson</name>
+                      <name type="authority-lnf">Carson, Andre</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

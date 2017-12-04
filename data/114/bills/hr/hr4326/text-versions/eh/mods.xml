@@ -1,0 +1,144 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18f3fdf9a">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To amend the Small Business Act to expand the duties of the Office of Small and Disadvantaged Business Utilization, and for other purposes.;
+   		Small and Disadvantaged Business Enhancement Act of 2016;H.R. 4326 (EH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-04-20</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To amend the Small Business Act to expand the duties of the Office of Small and Disadvantaged Business Utilization, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Small and Disadvantaged Business Enhancement Act of 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 4326 (EH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-04-19</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>6 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18f3fdf9a</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4326eh</identifier>
+<identifier type="preferred citation">H.R. 4326</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h4326_eh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4326eh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4326eh/html/BILLS-114hr4326eh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4326eh/pdf/BILLS-114hr4326eh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr4326eh/xml/BILLS-114hr4326eh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-04-20</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-04-21</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr4326eh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 2784</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 2784</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 632(m)</partNumber>
+  <partNumber>Title 15 Section 644(k)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 632(m)</identifier>
+ <identifier type="USC citation">15 U.S.C. 644(k)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 41 Section 134</partNumber>
+  <partNumber>Title 41 Section 1902(a)</partNumber>
+  <partNumber>Title 41 Section 1909</partNumber>
+</titleInfo>
+ <identifier type="USC citation">41 U.S.C. 134</identifier>
+ <identifier type="USC citation">41 U.S.C. 1902(a)</identifier>
+ <identifier type="USC citation">41 U.S.C. 1909</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 114-92</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 114-92</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr4326eh</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>4326</billNumber>
+ <billVersion reprint="false">eh</billVersion>
+ <fileSuffix>eh</fileSuffix>
+ <shortTitle>Small and Disadvantaged Business Enhancement Act of 2016</shortTitle>
+ <law congress="114" isPrivate="false" number="92"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="10">
+                      <section number="2784"></section>
+                </USCode>
+ <USCode title="15">
+                      <section detail="(m)" number="632"></section>
+                      <section detail="(k)" number="644"></section>
+                </USCode>
+ <USCode title="41">
+                      <section number="134"></section>
+                      <section detail="(a)" number="1902"></section>
+                      <section number="1909"></section>
+                </USCode>
+</extension>
+</mods>

@@ -1,0 +1,616 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18b6b9737">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To designate certain National Forest System lands and certain public lands under the jurisdiction of the Secretary of the Interior in the States of Idaho, Montana, Oregon, Washington, and Wyoming as wilderness, wild and scenic rivers, wildland recovery areas, and biological connecting corridors, and for other purposes.;Northern Rockies Ecosystem Protection Act;H.R. 996 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-03-03</dateIngested>
+</extension>
+<titleInfo>
+ <title>To designate certain National Forest System lands and certain public lands under the jurisdiction of the Secretary of the Interior in the States of Idaho, Montana, Oregon, Washington, and Wyoming as wilderness, wild and scenic rivers, wildland recovery areas, and biological connecting corridors, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Northern Rockies Ecosystem Protection Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 996 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-02-13</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>186 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18b6b9737</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr996ih</identifier>
+<identifier type="preferred citation">H.R. 996</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h996_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr996ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr996ih/html/BILLS-114hr996ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr996ih/pdf/BILLS-114hr996ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr996ih/xml/BILLS-114hr996ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-03-03</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-13</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr996ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Carolyn B. Maloney</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Raul M. Grijalva</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gwen Moore</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Conyers, Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Joseph Crowley</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Rosa L. DeLauro</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Keith Ellison</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Alan Grayson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Pocan</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Walter B. Jones Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Nydia M. Velazquez</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Maxine Waters</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gregory W. Meeks</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Grace Meng</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Frank Pallone, Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Juan Vargas</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bonnie Watson Coleman</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lois Capps</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Nita M. Lowey</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Stephen F. Lynch</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Karen Bass</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Yvette D. Clarke</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Judy Chu</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Janice Hahn</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Wm. Lacy Clay</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Katherine M. Clark</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gerald E. Connolly</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Elijah E. Cummings</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kathleen M. Rice</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ann M. Kuster</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Joyce Beatty</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Natural Resources</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 552</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 552</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 1121et seq.</partNumber>
+  <partNumber>Title 16 Section 1131et seq.</partNumber>
+  <partNumber>Title 16 Section 1274(a)</partNumber>
+  <partNumber>Title 16 Section 1533(c)</partNumber>
+  <partNumber>Title 16 Section 528et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 1121et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 1131et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 1274(a)</identifier>
+ <identifier type="USC citation">16 U.S.C. 1533(c)</identifier>
+ <identifier type="USC citation">16 U.S.C. 528et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 450b</partNumber>
+  <partNumber>Title 25 Section 450et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 450b</identifier>
+ <identifier type="USC citation">25 U.S.C. 450et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 1996</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 1996</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 43 Section 1702(e)</partNumber>
+  <partNumber>Title 43 Section 666</partNumber>
+</titleInfo>
+ <identifier type="USC citation">43 U.S.C. 1702(e)</identifier>
+ <identifier type="USC citation">43 U.S.C. 666</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 93-638</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 93-638</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 95-341</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 95-341</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr996ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>996</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Northern Rockies Ecosystem Protection Act</shortTitle>
+ <officialTitle>To designate certain National Forest System lands and certain public lands under the jurisdiction of the Secretary of the Interior in the States of Idaho, Montana, Oregon, Washington, and Wyoming as wilderness, wild and scenic rivers, wildland recovery areas, and biological connecting corridors, and for other purposes.</officialTitle>
+ <action date="2015-02-13">Mrs. Carolyn B. Maloney of New York (for herself, Mr. Grijalva, Ms. Moore, Mr. Conyers, Mr. Crowley, Ms. DeLauro, Mr. Ellison, Mr. Grayson, Mr. Pocan, Mr. Jones, Ms. Velázquez, Ms. Maxine Waters of California, Mr. Meeks, Ms. Meng, Mr. Pallone, Mr. Vargas, Mrs. Watson Coleman, Mrs. Capps, Mrs. Lowey, Mr. Lynch, Ms. Bass, Ms. Clarke of New York, Ms. Chu of California, Ms. Hahn, Mr. Clay, Ms. Clark of Massachusetts, Mr. Connolly, Mr. Cummings, Miss Rice of New York, Ms. Kuster, Mrs. Beatty, and Mr. Ben Ray Luján of New Mexico) introduced the following bill; which was referred to the Committee on Natural Resources</action>
+ <congCommittee authorityId="hsii00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Natural Resources</name>
+                      <name type="authority-short">Natural Resources</name>
+                </congCommittee>
+ <congMember authorityId="729" bioGuideId="M000087" chamber="H" congress="114" gpoId="8075" party="D" role="SPONSOR" state="NY">
+                      <name type="parsed">Mrs. Carolyn B. Maloney of New York</name>
+                      <name type="authority-fnf">Carolyn B. Maloney</name>
+                      <name type="authority-lnf">Maloney, Carolyn B.</name>
+                      <name type="authority-other">Carolyn Maloney</name>
+                </congMember>
+ <congMember authorityId="1708" bioGuideId="G000551" chamber="H" congress="114" gpoId="7804" party="D" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Grijalva</name>
+                      <name type="authority-fnf">Raul M. Grijalva</name>
+                      <name type="authority-lnf">Grijalva, Raul M.</name>
+                      <name type="authority-other">Mr. Raul Grijalva</name>
+                </congMember>
+ <congMember authorityId="1811" bioGuideId="M001160" chamber="H" congress="114" gpoId="8217" party="D" role="COSPONSOR" state="WI">
+                      <name type="parsed">Ms. Moore</name>
+                      <name type="authority-fnf">Gwen Moore</name>
+                      <name type="authority-lnf">Moore, Gwen</name>
+                </congMember>
+ <congMember authorityId="229" bioGuideId="C000714" chamber="H" congress="114" gpoId="7999" party="D" role="COSPONSOR" state="MI">
+                      <name type="parsed">Mr. Conyers</name>
+                      <name type="authority-fnf">John Conyers, Jr.</name>
+                      <name type="authority-lnf">Conyers, John, Jr.</name>
+                      <name type="authority-other">John Conyers Jr.</name>
+                </congMember>
+ <congMember authorityId="1604" bioGuideId="C001038" chamber="H" congress="114" gpoId="8068" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Crowley</name>
+                      <name type="authority-fnf">Joseph Crowley</name>
+                      <name type="authority-lnf">Crowley, Joseph</name>
+                </congMember>
+ <congMember authorityId="281" bioGuideId="D000216" chamber="H" congress="114" gpoId="7868" party="D" role="COSPONSOR" state="CT">
+                      <name type="parsed">Ms. DeLauro</name>
+                      <name type="authority-fnf">Rosa L. DeLauro</name>
+                      <name type="authority-lnf">DeLauro, Rosa L.</name>
+                      <name type="authority-other">Rosa Delauro</name>
+                </congMember>
+ <congMember authorityId="1857" bioGuideId="E000288" chamber="H" congress="114" gpoId="8005" party="D" role="COSPONSOR" state="MN">
+                      <name type="parsed">Mr. Ellison</name>
+                      <name type="authority-fnf">Keith Ellison</name>
+                      <name type="authority-lnf">Ellison, Keith</name>
+                </congMember>
+ <congMember authorityId="1914" bioGuideId="G000556" chamber="H" congress="114" gpoId="7302" party="D" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Grayson</name>
+                      <name type="authority-fnf">Alan Grayson</name>
+                      <name type="authority-lnf">Grayson, Alan</name>
+                </congMember>
+ <congMember authorityId="2171" bioGuideId="P000607" chamber="H" congress="114" party="D" role="COSPONSOR" state="WI">
+                      <name type="parsed">Mr. Pocan</name>
+                      <name type="authority-fnf">Mark Pocan</name>
+                      <name type="authority-lnf">Pocan, Mark</name>
+                </congMember>
+ <congMember authorityId="612" bioGuideId="J000255" chamber="H" congress="114" gpoId="8026" party="R" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. Jones</name>
+                      <name type="authority-fnf">Walter B. Jones Jr.</name>
+                      <name type="authority-lnf">Jones, Walter B., Jr.</name>
+                      <name type="authority-other">Walter Jones Jr.</name>
+                </congMember>
+ <congMember authorityId="1184" bioGuideId="V000081" chamber="H" congress="114" gpoId="8073" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Ms. Velázquez</name>
+                      <name type="authority-fnf">Nydia M. Velazquez</name>
+                      <name type="authority-lnf">Velazquez, Nydia M.</name>
+                      <name type="authority-other">Nydia Velazquez</name>
+                </congMember>
+ <congMember authorityId="1205" bioGuideId="W000187" chamber="H" congress="114" gpoId="7840" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Maxine Waters of California</name>
+                      <name type="authority-fnf">Maxine Waters</name>
+                      <name type="authority-lnf">Waters, Maxine</name>
+                </congMember>
+ <congMember authorityId="1506" bioGuideId="M001137" chamber="H" congress="114" gpoId="8067" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Meeks</name>
+                      <name type="authority-fnf">Gregory W. Meeks</name>
+                      <name type="authority-lnf">Meeks, Gregory W.</name>
+                      <name type="authority-other">Gregory Meeks</name>
+                </congMember>
+ <congMember authorityId="2148" bioGuideId="M001188" chamber="H" congress="114" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Ms. Meng</name>
+                      <name type="authority-fnf">Grace Meng</name>
+                      <name type="authority-lnf">Meng, Grace</name>
+                </congMember>
+ <congMember authorityId="887" bioGuideId="P000034" chamber="H" congress="114" gpoId="8048" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Pallone</name>
+                      <name type="authority-fnf">Frank Pallone, Jr.</name>
+                      <name type="authority-lnf">Pallone, Frank, Jr.</name>
+                      <name type="authority-other">Frank Pallone Jr.</name>
+                </congMember>
+ <congMember authorityId="2112" bioGuideId="V000130" chamber="H" congress="114" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Vargas</name>
+                      <name type="authority-fnf">Juan Vargas</name>
+                      <name type="authority-lnf">Vargas, Juan</name>
+                </congMember>
+ <congMember authorityId="2259" bioGuideId="W000822" chamber="H" congress="114" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mrs. Watson Coleman</name>
+                      <name type="authority-fnf">Bonnie Watson Coleman</name>
+                      <name type="authority-lnf">Watson Coleman, Bonnie</name>
+                </congMember>
+ <congMember authorityId="1471" bioGuideId="C001036" chamber="H" congress="114" gpoId="7828" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mrs. Capps</name>
+                      <name type="authority-fnf">Lois Capps</name>
+                      <name type="authority-lnf">Capps, Lois</name>
+                </congMember>
+ <congMember authorityId="709" bioGuideId="L000480" chamber="H" congress="114" gpoId="8079" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mrs. Lowey</name>
+                      <name type="authority-fnf">Nita M. Lowey</name>
+                      <name type="authority-lnf">Lowey, Nita M.</name>
+                      <name type="authority-other">Nita Lowey</name>
+                </congMember>
+ <congMember authorityId="1686" bioGuideId="L000562" chamber="H" congress="114" gpoId="7974" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Mr. Lynch</name>
+                      <name type="authority-fnf">Stephen F. Lynch</name>
+                      <name type="authority-lnf">Lynch, Stephen F.</name>
+                      <name type="authority-other">Mr. Stephen Lynch</name>
+                </congMember>
+ <congMember authorityId="1996" bioGuideId="B001270" chamber="H" congress="114" gpoId="7838" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Bass</name>
+                      <name type="authority-fnf">Karen Bass</name>
+                      <name type="authority-lnf">Bass, Karen</name>
+                </congMember>
+ <congMember authorityId="1864" bioGuideId="C001067" chamber="H" congress="114" gpoId="8072" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Ms. Clarke of New York</name>
+                      <name type="authority-fnf">Yvette D. Clarke</name>
+                      <name type="authority-lnf">Clarke, Yvette D.</name>
+                      <name type="authority-other">Ms. Yvette Clarke</name>
+                </congMember>
+ <congMember authorityId="1970" bioGuideId="C001080" chamber="H" congress="114" gpoId="7837" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Chu of California</name>
+                      <name type="authority-fnf">Judy Chu</name>
+                      <name type="authority-lnf">Chu, Judy</name>
+                </congMember>
+ <congMember authorityId="2089" bioGuideId="H001063" chamber="H" congress="114" gpoId="8360" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Hahn</name>
+                      <name type="authority-fnf">Janice Hahn</name>
+                      <name type="authority-lnf">Hahn, Janice</name>
+                </congMember>
+ <congMember authorityId="1654" bioGuideId="C001049" chamber="H" congress="114" gpoId="8009" party="D" role="COSPONSOR" state="MO">
+                      <name type="parsed">Mr. Clay</name>
+                      <name type="authority-fnf">Wm. Lacy Clay</name>
+                      <name type="authority-lnf">Clay, Wm. Lacy</name>
+                      <name type="authority-other">William Lacy Clay</name>
+                </congMember>
+ <congMember authorityId="2196" bioGuideId="C001101" chamber="H" congress="114" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Ms. Clark of Massachusetts</name>
+                      <name type="authority-fnf">Katherine M. Clark</name>
+                      <name type="authority-lnf">Clark, Katherine M.</name>
+                      <name type="authority-other">Ms. Katherine Clark</name>
+                </congMember>
+ <congMember authorityId="1959" bioGuideId="C001078" chamber="H" congress="114" gpoId="8202" party="D" role="COSPONSOR" state="VA">
+                      <name type="parsed">Mr. Connolly</name>
+                      <name type="authority-fnf">Gerald E. Connolly</name>
+                      <name type="authority-lnf">Connolly, Gerald E.</name>
+                      <name type="authority-other">Mr. Gerald Connolly</name>
+                </congMember>
+ <congMember authorityId="256" bioGuideId="C000984" chamber="H" congress="114" gpoId="7982" party="D" role="COSPONSOR" state="MD">
+                      <name type="parsed">Mr. Cummings</name>
+                      <name type="authority-fnf">Elijah E. Cummings</name>
+                      <name type="authority-lnf">Cummings, Elijah E.</name>
+                      <name type="authority-other">Elijah Cummings</name>
+                </congMember>
+ <congMember authorityId="2262" bioGuideId="R000602" chamber="H" congress="114" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Miss Rice of New York</name>
+                      <name type="authority-fnf">Kathleen M. Rice</name>
+                      <name type="authority-lnf">Rice, Kathleen M.</name>
+                      <name type="authority-other">Miss Kathleen Rice</name>
+                </congMember>
+ <congMember authorityId="2145" bioGuideId="K000382" chamber="H" congress="114" party="D" role="COSPONSOR" state="NH">
+                      <name type="parsed">Ms. Kuster</name>
+                      <name type="authority-fnf">Ann M. Kuster</name>
+                      <name type="authority-lnf">Kuster, Ann M.</name>
+                      <name type="authority-other">Ms. Ann Kuster</name>
+                </congMember>
+ <congMember authorityId="2153" bioGuideId="B001281" chamber="H" congress="114" party="D" role="COSPONSOR" state="OH">
+                      <name type="parsed">Mrs. Beatty</name>
+                      <name type="authority-fnf">Joyce Beatty</name>
+                      <name type="authority-lnf">Beatty, Joyce</name>
+                </congMember>
+ <law congress="93" isPrivate="false" number="638"></law>
+ <law congress="95" isPrivate="false" number="341"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="552"></section>
+                </USCode>
+ <USCode title="16">
+                      <section detail="et seq." number="1121"></section>
+                      <section detail="et seq." number="1131"></section>
+                      <section detail="(a)" number="1274"></section>
+                      <section detail="(c)" number="1533"></section>
+                      <section detail="et seq." number="528"></section>
+                </USCode>
+ <USCode title="25">
+                      <section number="450b"></section>
+                      <section detail="et seq." number="450"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="1996"></section>
+                </USCode>
+ <USCode title="43">
+                      <section detail="(e)" number="1702"></section>
+                      <section number="666"></section>
+                </USCode>
+</extension>
+</mods>

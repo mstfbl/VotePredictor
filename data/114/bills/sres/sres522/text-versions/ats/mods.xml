@@ -1,0 +1,284 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee190378559">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>Designating July 30, 2016, as National Whistleblower Appreciation Day.;
+   		S. Res. 522 (ATS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-07-08</dateIngested>
+</extension>
+<titleInfo>
+ <title>Designating July 30, 2016, as National Whistleblower Appreciation Day.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. Res. 522 (ATS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-07-07</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>3 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/2:</classification>
+<identifier type="local">P0b002ee190378559</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114sres522ats</identifier>
+<identifier type="preferred citation">S. Res. 522</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325577</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate resolutions</identifier>
+<identifier type="former package identifier">f:sr522_ats.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114sres522ats/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres522ats/html/BILLS-114sres522ats.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres522ats/pdf/BILLS-114sres522ats.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres522ats/xml/BILLS-114sres522ats.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-07-08</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-07-09</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114sres522ats</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Chuck Grassley</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ron Wyden</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Kirk</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Claire McCaskill</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ron Johnson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Thomas R. Carper</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Deb Fischer</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tammy Baldwin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Thom Tillis</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Edward J. Markey</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Barbara Boxer</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Joni Ernst</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gary C. Peters</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Boozman</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<extension>
+ <docClass>sres</docClass>
+ <accessId>BILLS-114sres522ats</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>522</billNumber>
+ <billVersion reprint="false">ats</billVersion>
+ <fileSuffix>ats</fileSuffix>
+ <action date="2016-07-07">Mr. Grassley (for himself, Mr. Wyden, Mr. Kirk, Mrs. McCaskill, Mr. Johnson, Mr. Carper, Mrs. Fischer, Ms. Baldwin, Mr. Tillis, Mr. Markey, Mrs. Boxer, Mrs. Ernst, Mr. Peters, and Mr. Boozman) submitted the following resolution; which was considered and agreed to</action>
+ <congMember authorityId="457" bioGuideId="G000386" chamber="S" congress="114" gpoId="8316" party="R" role="SPONSOR" state="IA">
+                      <name type="parsed">Mr. Grassley</name>
+                      <name type="authority-fnf">Chuck Grassley</name>
+                      <name type="authority-lnf">Grassley, Chuck</name>
+                      <name type="authority-other">Charles Ernest Grassley</name>
+                </congMember>
+ <congMember authorityId="1247" bioGuideId="W000779" chamber="S" congress="114" gpoId="8265" party="D" role="COSPONSOR" state="OR">
+                      <name type="parsed">Mr. Wyden</name>
+                      <name type="authority-fnf">Ron Wyden</name>
+                      <name type="authority-lnf">Wyden, Ron</name>
+                </congMember>
+ <congMember authorityId="1647" bioGuideId="K000360" chamber="S" congress="114" gpoId="8285" party="R" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Kirk</name>
+                      <name type="authority-fnf">Mark Kirk</name>
+                      <name type="authority-lnf">Kirk, Mark Steven</name>
+                      <name type="authority-other">Mark Steven Kirk</name>
+                </congMember>
+ <congMember authorityId="1820" bioGuideId="M001170" chamber="S" congress="114" gpoId="8252" party="D" role="COSPONSOR" state="MO">
+                      <name type="parsed">Mrs. McCaskill</name>
+                      <name type="authority-fnf">Claire McCaskill</name>
+                      <name type="authority-lnf">McCaskill, Claire</name>
+                </congMember>
+ <congMember authorityId="2086" bioGuideId="J000293" chamber="S" congress="114" gpoId="8355" party="R" role="COSPONSOR" state="WI">
+                      <name type="parsed">Mr. Johnson</name>
+                      <name type="authority-fnf">Ron Johnson</name>
+                      <name type="authority-lnf">Johnson, Ron</name>
+                </congMember>
+ <congMember authorityId="179" bioGuideId="C000174" chamber="S" congress="114" gpoId="8283" party="D" role="COSPONSOR" state="DE">
+                      <name type="parsed">Mr. Carper</name>
+                      <name type="authority-fnf">Thomas R. Carper</name>
+                      <name type="authority-lnf">Carper, Thomas R.</name>
+                      <name type="authority-other">Thomas Carper</name>
+                </congMember>
+ <congMember authorityId="2179" bioGuideId="F000463" chamber="S" congress="114" party="R" role="COSPONSOR" state="NE">
+                      <name type="parsed">Mrs. Fischer</name>
+                      <name type="authority-fnf">Deb Fischer</name>
+                      <name type="authority-lnf">Fischer, Deb</name>
+                </congMember>
+ <congMember authorityId="1558" bioGuideId="B001230" chamber="S" congress="114" gpoId="8215" party="D" role="COSPONSOR" state="WI">
+                      <name type="parsed">Ms. Baldwin</name>
+                      <name type="authority-fnf">Tammy Baldwin</name>
+                      <name type="authority-lnf">Baldwin, Tammy</name>
+                </congMember>
+ <congMember authorityId="2291" bioGuideId="T000476" chamber="S" congress="114" party="R" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. Tillis</name>
+                      <name type="authority-fnf">Thom Tillis</name>
+                      <name type="authority-lnf">Tillis, Thom</name>
+                      <name type="authority-other">Mr. Thomas Roland Tillis</name>
+                </congMember>
+ <congMember authorityId="735" bioGuideId="M000133" chamber="S" congress="114" gpoId="7972" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Mr. Markey</name>
+                      <name type="authority-fnf">Edward J. Markey</name>
+                      <name type="authority-lnf">Markey, Edward J.</name>
+                      <name type="authority-other">Edward Markey</name>
+                </congMember>
+ <congMember authorityId="116" bioGuideId="B000711" chamber="S" congress="114" gpoId="8306" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mrs. Boxer</name>
+                      <name type="authority-fnf">Barbara Boxer</name>
+                      <name type="authority-lnf">Boxer, Barbara</name>
+                </congMember>
+ <congMember authorityId="2283" bioGuideId="E000295" chamber="S" congress="114" party="R" role="COSPONSOR" state="IA">
+                      <name type="parsed">Mrs. Ernst</name>
+                      <name type="authority-fnf">Joni Ernst</name>
+                      <name type="authority-lnf">Ernst, Joni</name>
+                </congMember>
+ <congMember authorityId="1929" bioGuideId="P000595" chamber="S" congress="114" gpoId="7994" party="D" role="COSPONSOR" state="MI">
+                      <name type="parsed">Mr. Peters</name>
+                      <name type="authority-fnf">Gary C. Peters</name>
+                      <name type="authority-lnf">Peters, Gary C.</name>
+                      <name type="authority-other">Mr. Gary Peters</name>
+                </congMember>
+ <congMember authorityId="1687" bioGuideId="B001236" chamber="S" congress="114" gpoId="8247" party="R" role="COSPONSOR" state="AR">
+                      <name type="parsed">Mr. Boozman</name>
+                      <name type="authority-fnf">John Boozman</name>
+                      <name type="authority-lnf">Boozman, John</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

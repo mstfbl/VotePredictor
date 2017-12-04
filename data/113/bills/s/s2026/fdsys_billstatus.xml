@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-02-12</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2014-02-12</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2014-02-12</introducedDate>
+    <updateDate>2016-10-25T16:28:52Z</updateDate>
+    <createDate>2014-02-13T07:00:56Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2014-02-12T21:50:56Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <lastName>Rubio</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Marco</firstName>
+        <sponsorshipDate>2014-02-12</sponsorshipDate>
+        <middleName />
+        <bioguideId>R000595</bioguideId>
+        <state>FL</state>
+      </item>
+      <item>
+        <lastName>SCHUMER</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1036</lisID>
+          <bioguideId>S000148</bioguideId>
+          <gpoId>8279</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>CHARLES</firstName>
+        <sponsorshipDate>2014-02-12</sponsorshipDate>
+        <middleName>E.</middleName>
+        <bioguideId>S000148</bioguideId>
+        <state>NY</state>
+      </item>
+      <item>
+        <lastName>KIRK</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Kirk, Mark Steven [R-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1647</lisID>
+          <gpoId>8285</gpoId>
+          <bioguideId>K000360</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>MARK</firstName>
+        <sponsorshipDate>2014-02-12</sponsorshipDate>
+        <middleName>STEVEN</middleName>
+        <bioguideId>K000360</bioguideId>
+        <state>IL</state>
+      </item>
+      <item>
+        <lastName>Gillibrand</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Kirsten</firstName>
+        <sponsorshipDate>2014-02-12</sponsorshipDate>
+        <middleName>E.</middleName>
+        <bioguideId>G000555</bioguideId>
+        <state>NY</state>
+      </item>
+      <item>
+        <lastName>WICKER</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1226</lisID>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>ROGER</firstName>
+        <sponsorshipDate>2014-02-12</sponsorshipDate>
+        <middleName>F.</middleName>
+        <bioguideId>W000437</bioguideId>
+        <state>MS</state>
+      </item>
+      <item>
+        <lastName>Hoeven</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001061</bioguideId>
+          <gpoId>8331</gpoId>
+          <lisID>2079</lisID>
+        </identifiers>
+        <party>R</party>
+        <firstName>John</firstName>
+        <sponsorshipDate>2014-02-12</sponsorshipDate>
+        <middleName />
+        <bioguideId>H001061</bioguideId>
+        <state>ND</state>
+      </item>
+      <item>
+        <lastName>Isakson</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>I000055</bioguideId>
+          <lisID>1608</lisID>
+          <gpoId>8323</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Johnny</firstName>
+        <sponsorshipDate>2014-02-12</sponsorshipDate>
+        <middleName />
+        <bioguideId>I000055</bioguideId>
+        <state>GA</state>
+      </item>
+      <item>
+        <lastName>CRAPO</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>250</lisID>
+          <bioguideId>C000880</bioguideId>
+          <gpoId>8289</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>MICHAEL</firstName>
+        <sponsorshipDate>2014-02-24</sponsorshipDate>
+        <middleName>D.</middleName>
+        <bioguideId>C000880</bioguideId>
+        <state>ID</state>
+      </item>
+      <item>
+        <lastName>HATCH</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1351</lisID>
+          <gpoId>8314</gpoId>
+          <bioguideId>H000338</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>ORRIN</firstName>
+        <sponsorshipDate>2014-02-27</sponsorshipDate>
+        <middleName>GRANT</middleName>
+        <bioguideId>H000338</bioguideId>
+        <state>UT</state>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>A bill to amend the Internal Revenue Code of 1986 to exclude from gross income any prizes or awards won in competition in the Olympic Games or the Paralympic Games.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to amend the Internal Revenue Code of 1986 to exclude from gross income any prizes or awards won in competition in the Olympic Games or the Paralympic Games.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to amend the Internal Revenue Code of 1986 to exclude from gross income any prizes or awards won in competition in the Olympic Games or the Paralympic Games.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Amends the Internal Revenue Code to exclude from gross income, for income tax purposes, the value of any medal or prize money received on account of competition in the Olympic Games or Paralympic Games.</p>]]></text>
+          <lastSummaryUpdateDate>2014-02-27T15:42:13Z</lastSummaryUpdateDate>
+          <updateDate>2014-02-12T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2014-02-12</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <latestTitle>TEAM Act</latestTitle>
+        <number>3987</number>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2014-02-04</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Athletes</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Olympic games</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2014-02-12</actionDate>
+    </latestAction>
+    <billNumber>2026</billNumber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>JOHN</firstName>
+        <party>R</party>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <bioguideId>T000250</bioguideId>
+        <identifiers>
+          <lisID>1534</lisID>
+          <gpoId>8257</gpoId>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+        <lastName>THUNE</lastName>
+        <middleName>R.</middleName>
+        <state>SD</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

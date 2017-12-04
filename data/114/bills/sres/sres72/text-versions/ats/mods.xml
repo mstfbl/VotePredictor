@@ -1,0 +1,411 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18bdca50b">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>Expressing the sense of the Senate regarding the January 24, 2015, attacks carried out by Russian-backed rebels on the civilian population in Mariupol, Ukraine, and the provision of defensive lethal and non-lethal military assistance to Ukraine.;S. Res. 72 (ATS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-03-26</dateIngested>
+</extension>
+<titleInfo>
+ <title>Expressing the sense of the Senate regarding the January 24, 2015, attacks carried out by Russian-backed rebels on the civilian population in Mariupol, Ukraine, and the provision of defensive lethal and non-lethal military assistance to Ukraine.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. Res. 72 (ATS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-03-24</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>5 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/2:</classification>
+<identifier type="local">P0b002ee18bdca50b</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114sres72ats</identifier>
+<identifier type="preferred citation">S. Res. 72</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325577</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate resolutions</identifier>
+<identifier type="former package identifier">f:sr72_ats.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114sres72ats/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres72ats/html/BILLS-114sres72ats.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres72ats/pdf/BILLS-114sres72ats.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114sres72ats/xml/BILLS-114sres72ats.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-03-26</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-13</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114sres72ats</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Ron Johnson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jeanne Shaheen</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Christopher S. Murphy</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Marco Rubio</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bob Corker</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John McCain</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>James E. Risch</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Barrasso</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Johnny Isakson</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Cory Gardner</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kelly Ayotte</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Richard Durbin</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Rob Portman</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Kirk</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Richard Blumenthal</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Barbara Boxer</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lindsey Graham</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robert Menendez</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>James M. Inhofe</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Pat Roberts</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Sheldon Whitehouse</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jeff Flake</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Foreign Relations</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 113-272</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 113-272</identifier>
+</relatedItem>
+<extension>
+ <docClass>sres</docClass>
+ <accessId>BILLS-114sres72ats</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>72</billNumber>
+ <billVersion reprint="false">ats</billVersion>
+ <fileSuffix>ats</fileSuffix>
+ <officialTitle>Expressing the sense of the Senate regarding the January 24, 2015, attacks carried out by Russian-backed rebels on the civilian population in Mariupol, Ukraine, and the provision of defensive lethal and non-lethal military assistance to Ukraine.</officialTitle>
+ <action date="2015-02-10">Mr. Johnson (for himself, Mrs. Shaheen, Mr. Murphy, Mr. Rubio, Mr. Corker, Mr. McCain, Mr. Risch, Mr. Barrasso, Mr. Isakson, Mr. Gardner, Ms. Ayotte, Mr. Durbin, Mr. Portman, Mr. Kirk, Mr. Blumenthal, Mrs. Boxer, Mr. Graham, Mr. Menendez, Mr. Inhofe, Mr. Roberts, Mr. Whitehouse, and Mr. Flake) submitted the following resolution; which was referred to the Committee on Foreign Relations</action>
+ <action date="2015-03-24">Committee discharged; considered, amended, and agreed to with an amendment to the title</action>
+ <congCommittee authorityId="ssfr00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Foreign Relations</name>
+                      <name type="authority-short">Foreign Relations</name>
+                </congCommittee>
+ <congMember authorityId="2086" bioGuideId="J000293" chamber="S" congress="114" gpoId="8355" party="R" role="SPONSOR" state="WI">
+                      <name type="parsed">Mr. Johnson</name>
+                      <name type="authority-fnf">Ron Johnson</name>
+                      <name type="authority-lnf">Johnson, Ron</name>
+                </congMember>
+ <congMember authorityId="1901" bioGuideId="S001181" chamber="S" congress="114" gpoId="8276" party="D" role="COSPONSOR" state="NH">
+                      <name type="parsed">Mrs. Shaheen</name>
+                      <name type="authority-fnf">Jeanne Shaheen</name>
+                      <name type="authority-lnf">Shaheen, Jeanne</name>
+                </congMember>
+ <congMember authorityId="1837" bioGuideId="M001169" chamber="S" congress="114" gpoId="7870" party="D" role="COSPONSOR" state="CT">
+                      <name type="parsed">Mr. Murphy</name>
+                      <name type="authority-fnf">Christopher S. Murphy</name>
+                      <name type="authority-lnf">Murphy, Christopher S.</name>
+                      <name type="authority-other">Mr. Christopher Murphy</name>
+                </congMember>
+ <congMember authorityId="2084" bioGuideId="R000595" chamber="S" congress="114" gpoId="8242" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Rubio</name>
+                      <name type="authority-fnf">Marco Rubio</name>
+                      <name type="authority-lnf">Rubio, Marco</name>
+                </congMember>
+ <congMember authorityId="1825" bioGuideId="C001071" chamber="S" congress="114" gpoId="8294" party="R" role="COSPONSOR" state="TN">
+                      <name type="parsed">Mr. Corker</name>
+                      <name type="authority-fnf">Bob Corker</name>
+                      <name type="authority-lnf">Corker, Bob</name>
+                </congMember>
+ <congMember authorityId="754" bioGuideId="M000303" chamber="S" congress="114" gpoId="8253" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. McCain</name>
+                      <name type="authority-fnf">John McCain</name>
+                      <name type="authority-lnf">McCain, John</name>
+                      <name type="authority-other">John Sidney Mccain</name>
+                </congMember>
+ <congMember authorityId="1896" bioGuideId="R000584" chamber="S" congress="114" gpoId="8274" party="R" role="COSPONSOR" state="ID">
+                      <name type="parsed">Mr. Risch</name>
+                      <name type="authority-fnf">James E. Risch</name>
+                      <name type="authority-lnf">Risch, James E.</name>
+                      <name type="authority-other">Mr. James Risch</name>
+                </congMember>
+ <congMember authorityId="1881" bioGuideId="B001261" chamber="S" congress="114" gpoId="8300" party="R" role="COSPONSOR" state="WY">
+                      <name type="parsed">Mr. Barrasso</name>
+                      <name type="authority-fnf">John Barrasso</name>
+                      <name type="authority-lnf">Barrasso, John</name>
+                </congMember>
+ <congMember authorityId="1608" bioGuideId="I000055" chamber="S" congress="114" gpoId="8323" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Isakson</name>
+                      <name type="authority-fnf">Johnny Isakson</name>
+                      <name type="authority-lnf">Isakson, Johnny</name>
+                </congMember>
+ <congMember authorityId="1998" bioGuideId="G000562" chamber="S" congress="114" gpoId="7862" party="R" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Gardner</name>
+                      <name type="authority-fnf">Cory Gardner</name>
+                      <name type="authority-lnf">Gardner, Cory</name>
+                </congMember>
+ <congMember authorityId="2075" bioGuideId="A000368" chamber="S" congress="114" gpoId="8315" party="R" role="COSPONSOR" state="NH">
+                      <name type="parsed">Ms. Ayotte</name>
+                      <name type="authority-fnf">Kelly Ayotte</name>
+                      <name type="authority-lnf">Ayotte, Kelly</name>
+                </congMember>
+ <congMember authorityId="326" bioGuideId="D000563" chamber="S" congress="114" gpoId="8326" party="D" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Durbin</name>
+                      <name type="authority-fnf">Richard Durbin</name>
+                      <name type="authority-lnf">Durbin, Richard</name>
+                      <name type="authority-other">Richard J. Durbin</name>
+                </congMember>
+ <congMember authorityId="924" bioGuideId="P000449" chamber="S" congress="114" gpoId="8266" party="R" role="COSPONSOR" state="OH">
+                      <name type="parsed">Mr. Portman</name>
+                      <name type="authority-fnf">Rob Portman</name>
+                      <name type="authority-lnf">Portman, Rob</name>
+                </congMember>
+ <congMember authorityId="1647" bioGuideId="K000360" chamber="S" congress="114" gpoId="8285" party="R" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Kirk</name>
+                      <name type="authority-fnf">Mark Kirk</name>
+                      <name type="authority-lnf">Kirk, Mark Steven</name>
+                      <name type="authority-other">Mark Steven Kirk</name>
+                </congMember>
+ <congMember authorityId="2076" bioGuideId="B001277" chamber="S" congress="114" gpoId="8332" party="D" role="COSPONSOR" state="CT">
+                      <name type="parsed">Mr. Blumenthal</name>
+                      <name type="authority-fnf">Richard Blumenthal</name>
+                      <name type="authority-lnf">Blumenthal, Richard</name>
+                </congMember>
+ <congMember authorityId="116" bioGuideId="B000711" chamber="S" congress="114" gpoId="8306" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mrs. Boxer</name>
+                      <name type="authority-fnf">Barbara Boxer</name>
+                      <name type="authority-lnf">Boxer, Barbara</name>
+                </congMember>
+ <congMember authorityId="452" bioGuideId="G000359" chamber="S" congress="114" gpoId="8335" party="R" role="COSPONSOR" state="SC">
+                      <name type="parsed">Mr. Graham</name>
+                      <name type="authority-fnf">Lindsey Graham</name>
+                      <name type="authority-lnf">Graham, Lindsey</name>
+                      <name type="authority-other">Lindsey O. Graham</name>
+                </congMember>
+ <congMember authorityId="791" bioGuideId="M000639" chamber="S" congress="114" gpoId="8239" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Menendez</name>
+                      <name type="authority-fnf">Robert Menendez</name>
+                      <name type="authority-lnf">Menendez, Robert</name>
+                </congMember>
+ <congMember authorityId="583" bioGuideId="I000024" chamber="S" congress="114" gpoId="8322" party="R" role="COSPONSOR" state="OK">
+                      <name type="parsed">Mr. Inhofe</name>
+                      <name type="authority-fnf">James M. Inhofe</name>
+                      <name type="authority-lnf">Inhofe, James M.</name>
+                      <name type="authority-other">Jim Inhofe</name>
+                </congMember>
+ <congMember authorityId="968" bioGuideId="R000307" chamber="S" congress="114" gpoId="8275" party="R" role="COSPONSOR" state="KS">
+                      <name type="parsed">Mr. Roberts</name>
+                      <name type="authority-fnf">Pat Roberts</name>
+                      <name type="authority-lnf">Roberts, Pat</name>
+                </congMember>
+ <congMember authorityId="1823" bioGuideId="W000802" chamber="S" congress="114" gpoId="8264" party="D" role="COSPONSOR" state="RI">
+                      <name type="parsed">Mr. Whitehouse</name>
+                      <name type="authority-fnf">Sheldon Whitehouse</name>
+                      <name type="authority-lnf">Whitehouse, Sheldon</name>
+                </congMember>
+ <congMember authorityId="1633" bioGuideId="F000444" chamber="S" congress="114" gpoId="7803" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Flake</name>
+                      <name type="authority-fnf">Jeff Flake</name>
+                      <name type="authority-lnf">Flake, Jeff</name>
+                </congMember>
+ <law congress="113" isPrivate="false" number="272"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

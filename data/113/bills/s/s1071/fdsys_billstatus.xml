@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <introducedDate>2013-05-23</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2013-09-06T19:30:41Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Authorizes the Secretary of the Interior, through the Director of the National Park Service (NPS), to make improvements to a support facility, including a visitor center, for a National Historic Site operated by the NPS if such project: (1) is conducted using amounts included in the budget of the NPS in effect on the date on which the project is authorized, (2) is subject to a 50% non-federal cost sharing requirement, and (3) is conducted in an area in which the NPS was authorized by law to establish such a facility. </p> <p>Allows the Secretary to operate and use all or part of a support facility, including a visitor center, for such a Site: (1) to carry out the duties associated with the operation and support of such Site, and (2) only in accordance with an agreement between the Secretary and the local government in which the facility is located.</p>]]></text>
+          <updateDate>2013-05-23T04:00:00Z</updateDate>
+          <actionDate>2013-05-23</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-05-23T21:27:38Z</date>
+            </item>
+          </activities>
+          <name>Energy and Natural Resources Committee</name>
+          <type>Standing</type>
+          <systemCode>sseg00</systemCode>
+          <subcommittees>
+            <item>
+              <name>National Parks Subcommittee</name>
+              <systemCode>sseg04</systemCode>
+              <activities>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2013-07-31T18:56:08Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <updateDate>2016-10-25T16:24:54Z</updateDate>
+    <amendments />
+    <title>A bill to authorize the Secretary of the Interior to make improvements to support facilities for National Historic Sites operated by the National Park Service, and for other purposes.</title>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Historic sites and heritage areas</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 113-93.</text>
+      <links />
+      <actionDate>2013-07-31</actionDate>
+    </latestAction>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <congress>113</congress>
+    <createDate>2013-05-24T07:01:35Z</createDate>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <relatedBills>
+      <item>
+        <latestTitle>A bill to authorize the Secretary of the Interior to make improvements to support facilities for National Historic Sites operated by the National Park Service, and for other purposes.</latestTitle>
+        <number>1071</number>
+        <latestAction>
+          <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 113-93.</text>
+          <actionDate>2013-07-31</actionDate>
+        </latestAction>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>To authorize the Secretary of the Interior to make improvements to support facilities for National Historic Sites operated by the National Park Service, and for other purposes.</latestTitle>
+        <number>1561</number>
+        <latestAction>
+          <text>Placed on the Union Calendar, Calendar No. 522.</text>
+          <actionDate>2014-12-22</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2013-07-31</actionDate>
+        <committee>
+          <systemCode>sseg04</systemCode>
+          <name>National Parks Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 113-93.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-05-23</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2013-05-23</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <hearingsHeld>1</hearingsHeld>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <billNumber>1071</billNumber>
+    <cosponsors>
+      <item>
+        <bioguideId>B001267</bioguideId>
+        <identifiers>
+          <gpoId>8302</gpoId>
+          <lisID>1965</lisID>
+          <bioguideId>B001267</bioguideId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <firstName>Michael</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <lastName>Bennet</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CO</state>
+      </item>
+    </cosponsors>
+    <notes />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <billType>S</billType>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to authorize the Secretary of the Interior to make improvements to support facilities for National Historic Sites operated by the National Park Service, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to authorize the Secretary of the Interior to make improvements to support facilities for National Historic Sites operated by the National Park Service, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName />
+        <bioguideId>U000038</bioguideId>
+        <state>CO</state>
+        <byRequestType />
+        <firstName>MARK</firstName>
+        <identifiers>
+          <lisID>1595</lisID>
+          <bioguideId>U000038</bioguideId>
+          <gpoId>8259</gpoId>
+        </identifiers>
+        <fullName>Sen. Udall, Mark [D-CO]</fullName>
+        <lastName>UDALL</lastName>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

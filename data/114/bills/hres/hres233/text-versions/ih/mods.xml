@@ -1,0 +1,192 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18c298d9d">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>Expressing the sense of the House of Representatives that Iran should immediately release the three United States citizens that it holds, as well as provide all known information on any United States citizens that have disappeared within its borders.;H. Res. 233 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-04-30</dateIngested>
+</extension>
+<titleInfo>
+ <title>Expressing the sense of the House of Representatives that Iran should immediately release the three United States citizens that it holds, as well as provide all known information on any United States citizens that have disappeared within its borders.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H. Res. 233 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-04-29</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>2 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/7:</classification>
+<identifier type="local">P0b002ee18c298d9d</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hres233ih</identifier>
+<identifier type="preferred citation">H. Res. 233</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325574</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House resolutions</identifier>
+<identifier type="former package identifier">f:hr233_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hres233ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hres233ih/html/BILLS-114hres233ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hres233ih/pdf/BILLS-114hres233ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hres233ih/xml/BILLS-114hres233ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-04-30</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-12</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hres233ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Daniel T. Kildee</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jared Huffman</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Theodore E. Deutch</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Raul R. Labrador</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Eliot L. Engel</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ileana Ros-Lehtinen</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Foreign Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<extension>
+ <docClass>hres</docClass>
+ <accessId>BILLS-114hres233ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>233</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <officialTitle>Expressing the sense of the House of Representatives that Iran should immediately release the three United States citizens that it holds, as well as provide all known information on any United States citizens that have disappeared within its borders.</officialTitle>
+ <action date="2015-04-29">Mr. Kildee (for himself, Mr. Huffman, Mr. Deutch, Mr. Labrador, Mr. Engel, and Ms. Ros-Lehtinen) submitted the following resolution; which was referred to the Committee on Foreign Affairs</action>
+ <congCommittee authorityId="hsfa00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Foreign Affairs</name>
+                      <name type="authority-short">Foreign Affairs</name>
+                </congCommittee>
+ <congMember authorityId="2134" bioGuideId="K000380" chamber="H" congress="114" party="D" role="SPONSOR" state="MI">
+                      <name type="parsed">Mr. Kildee</name>
+                      <name type="authority-fnf">Daniel T. Kildee</name>
+                      <name type="authority-lnf">Kildee, Daniel T.</name>
+                      <name type="authority-other">Mr. Daniel Kildee</name>
+                </congMember>
+ <congMember authorityId="2101" bioGuideId="H001068" chamber="H" congress="114" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Huffman</name>
+                      <name type="authority-fnf">Jared Huffman</name>
+                      <name type="authority-lnf">Huffman, Jared</name>
+                </congMember>
+ <congMember authorityId="1976" bioGuideId="D000610" chamber="H" congress="114" gpoId="7891" party="D" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Deutch</name>
+                      <name type="authority-fnf">Theodore E. Deutch</name>
+                      <name type="authority-lnf">Deutch, Theodore E.</name>
+                      <name type="authority-other">Mr. Theodore Deutch</name>
+                </congMember>
+ <congMember authorityId="2011" bioGuideId="L000573" chamber="H" congress="114" gpoId="7919" party="R" role="COSPONSOR" state="ID">
+                      <name type="parsed">Mr. Labrador</name>
+                      <name type="authority-fnf">Raul R. Labrador</name>
+                      <name type="authority-lnf">Labrador, Raul R.</name>
+                      <name type="authority-other">Mr. Raul Labrador</name>
+                </congMember>
+ <congMember authorityId="344" bioGuideId="E000179" chamber="H" congress="114" gpoId="8078" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mr. Engel</name>
+                      <name type="authority-fnf">Eliot L. Engel</name>
+                      <name type="authority-lnf">Engel, Eliot L.</name>
+                      <name type="authority-other">Eliot Engel</name>
+                </congMember>
+ <congMember authorityId="985" bioGuideId="R000435" chamber="H" congress="114" gpoId="7890" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Ms. Ros-Lehtinen</name>
+                      <name type="authority-fnf">Ileana Ros-Lehtinen</name>
+                      <name type="authority-lnf">Ros-Lehtinen, Ileana</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

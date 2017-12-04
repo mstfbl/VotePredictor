@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2014-03-05</actionDate>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <subcommittees />
+          <systemCode>ssbk00</systemCode>
+          <activities>
+            <item>
+              <date>2014-03-06T00:36:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2014-03-06T07:01:04Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2014-03-05</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2014-03-05</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2014-03-05</introducedDate>
+    <billNumber>2083</billNumber>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>American Job Creation and Strategic Alliances LNG Act - Amends the Natural Gas Act to deem consistent with the public interest an expedited application and approval process for the importation or exportation of natural gas to a World Trade Organization member country.</p>]]></text>
+          <actionDate>2014-03-05</actionDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2014-03-05T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-04-16T18:35:39Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Federal Energy Regulatory Commission (FERC)</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+          <item>
+            <name>Trade agreements and negotiations</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>American Job Creation and Strategic Alliances LNG Act</title>
+    <updateDate>2016-10-25T16:29:07Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>American Job Creation and Strategic Alliances LNG Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to amend the Natural Gas Act to promote economic growth and job creation in the United States, to strengthen strategic partnerships with allies of the United States, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>American Job Creation and Strategic Alliances LNG Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>CO</state>
+        <firstName>MARK</firstName>
+        <byRequestType />
+        <bioguideId>U000038</bioguideId>
+        <fullName>Sen. Udall, Mark [D-CO]</fullName>
+        <lastName>UDALL</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <gpoId>8259</gpoId>
+          <lisID>1595</lisID>
+          <bioguideId>U000038</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestTitle>Domestic Prosperity and Global Freedom Act</latestTitle>
+        <congress>113</congress>
+        <latestAction>
+          <text>Received in the Senate.</text>
+          <actionDate>2014-06-26</actionDate>
+        </latestAction>
+        <number>6</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HR</type>
+        <latestTitle>American Job Creation and Strategic Alliances LNG Act</latestTitle>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Energy and Power.</text>
+          <actionDate>2014-03-07</actionDate>
+        </latestAction>
+        <number>4139</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <firstName>Mark</firstName>
+        <party>D</party>
+        <fullName>Sen. Begich, Mark [D-AK]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001265</bioguideId>
+        <identifiers>
+          <bioguideId>B001265</bioguideId>
+          <lisID>1898</lisID>
+          <gpoId>8301</gpoId>
+        </identifiers>
+        <lastName>Begich</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>AK</state>
+        <sponsorshipDate>2014-03-05</sponsorshipDate>
+        <middleName />
+      </item>
+      <item>
+        <firstName>Heidi</firstName>
+        <party>D</party>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001069</bioguideId>
+        <identifiers>
+          <lisID>2174</lisID>
+          <gpoId />
+          <bioguideId>H001069</bioguideId>
+        </identifiers>
+        <lastName>Heitkamp</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>ND</state>
+        <sponsorshipDate>2014-03-24</sponsorshipDate>
+        <middleName />
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

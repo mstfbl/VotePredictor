@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <bioguideId>H000338</bioguideId>
+        <identifiers>
+          <lisID>1351</lisID>
+          <bioguideId>H000338</bioguideId>
+          <gpoId>8314</gpoId>
+        </identifiers>
+        <middleName>GRANT</middleName>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <firstName>ORRIN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-02-27</sponsorshipDate>
+        <lastName>HATCH</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>UT</state>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <updateDate>2016-10-25T16:21:11Z</updateDate>
+    <recordedVotes />
+    <calendarNumbers />
+    <createDate>2013-02-28T07:00:52Z</createDate>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Amends the Internal Revenue Code to add vaccines against seasonal influenza to the list of those vaccines subject to the excise tax on taxable vaccines.</p>]]></text>
+          <actionDate>2013-02-27</actionDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2013-02-27T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-03-23T15:04:30Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Immunology and vaccination</name>
+          </item>
+          <item>
+            <name>Infectious and parasitic diseases</name>
+          </item>
+          <item>
+            <name>Sales and excise taxes</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes>
+      <item>
+        <text><![CDATA[For further action, see H.R.475, which became Public Law 113-15 on 6/25/2013.]]></text>
+        <links>
+          <link>
+            <name>H.R.475</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/475</url>
+          </link>
+        </links>
+      </item>
+    </notes>
+    <actions>
+      <item>
+        <actionDate>2013-02-27</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-02-27</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <congress>113</congress>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <type>HR</type>
+        <number>475</number>
+        <latestAction>
+          <text>Became Public Law No: 113-15.</text>
+          <actionDate>2013-06-25</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To amend the Internal Revenue Code of 1986 to include vaccines against seasonal influenza within the definition of taxable vaccines.</latestTitle>
+      </item>
+    </relatedBills>
+    <title>A bill to amend the Internal Revenue Code of 1986 to include vaccines against seasonal influenza within the definition of taxable vaccines.</title>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <billNumber>391</billNumber>
+    <billType>S</billType>
+    <introducedDate>2013-02-27</introducedDate>
+    <latestAction>
+      <actionDate>2013-02-27</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-02-27T16:47:26Z</date>
+            </item>
+          </activities>
+          <name>Finance Committee</name>
+          <type>Standing</type>
+          <systemCode>ssfi00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <state>MT</state>
+        <bioguideId>B000243</bioguideId>
+        <identifiers>
+          <lisID>66</lisID>
+          <gpoId>8298</gpoId>
+          <bioguideId>B000243</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Baucus, Max [D-MT]</fullName>
+        <firstName>MAX</firstName>
+        <lastName>BAUCUS</lastName>
+        <middleName>SIEBEN</middleName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 to include vaccines against seasonal influenza within the definition of taxable vaccines.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 to include vaccines against seasonal influenza within the definition of taxable vaccines.</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,902 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18cba0d65">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To make technical amendments to update statutory references to certain provisions classified to title 2, United States Code;H.R. 2830 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-06-24</dateIngested>
+</extension>
+<titleInfo>
+ <title>To make technical amendments to update statutory references to certain provisions classified to title 2, United States Code</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2830 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-06-18</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>10 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18cba0d65</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2830ih</identifier>
+<identifier type="preferred citation">H.R. 2830</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2830ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2830ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2830ih/html/BILLS-114hr2830ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2830ih/pdf/BILLS-114hr2830ih.pdf</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-06-24</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-11</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr2830ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Bob Goodlatte</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on the Judiciary</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 2 Section 102a</partNumber>
+  <partNumber>Title 2 Section 104a</partNumber>
+  <partNumber>Title 2 Section 104b</partNumber>
+  <partNumber>Title 2 Section 111b</partNumber>
+  <partNumber>Title 2 Section 117</partNumber>
+  <partNumber>Title 2 Section 117e</partNumber>
+  <partNumber>Title 2 Section 118</partNumber>
+  <partNumber>Title 2 Section 121d(c)</partNumber>
+  <partNumber>Title 2 Section 121f</partNumber>
+  <partNumber>Title 2 Section 123b(g)</partNumber>
+  <partNumber>Title 2 Section 123bnote</partNumber>
+  <partNumber>Title 2 Section 130e</partNumber>
+  <partNumber>Title 2 Section 1824a(a)(2)</partNumber>
+  <partNumber>Title 2 Section 1927note</partNumber>
+  <partNumber>Title 2 Section 1966(a)</partNumber>
+  <partNumber>Title 2 Section 2025note</partNumber>
+  <partNumber>Title 2 Section 2026</partNumber>
+  <partNumber>Title 2 Section 2051(e)</partNumber>
+  <partNumber>Title 2 Section 2062(e)</partNumber>
+  <partNumber>Title 2 Section 2107(a)</partNumber>
+  <partNumber>Title 2 Section 2172</partNumber>
+  <partNumber>Title 2 Section 2172(a)</partNumber>
+  <partNumber>Title 2 Section 2172(b)</partNumber>
+  <partNumber>Title 2 Section 2251(c)</partNumber>
+  <partNumber>Title 2 Section 2252</partNumber>
+  <partNumber>Title 2 Section 288(c)</partNumber>
+  <partNumber>Title 2 Section 288m</partNumber>
+  <partNumber>Title 2 Section 31a-2</partNumber>
+  <partNumber>Title 2 Section 31</partNumber>
+  <partNumber>Title 2 Section 31(2)</partNumber>
+  <partNumber>Title 2 Section 35</partNumber>
+  <partNumber>Title 2 Section 4101(b)</partNumber>
+  <partNumber>Title 2 Section 4103</partNumber>
+  <partNumber>Title 2 Section 4104</partNumber>
+  <partNumber>Title 2 Section 4107</partNumber>
+  <partNumber>Title 2 Section 4108</partNumber>
+  <partNumber>Title 2 Section 4131(g)</partNumber>
+  <partNumber>Title 2 Section 4131note</partNumber>
+  <partNumber>Title 2 Section 4301(b)</partNumber>
+  <partNumber>Title 2 Section 4301(i)</partNumber>
+  <partNumber>Title 2 Section 4301(j)</partNumber>
+  <partNumber>Title 2 Section 4301note</partNumber>
+  <partNumber>Title 2 Section 4303</partNumber>
+  <partNumber>Title 2 Section 4336(a)</partNumber>
+  <partNumber>Title 2 Section 4501</partNumber>
+  <partNumber>Title 2 Section 4501(2)</partNumber>
+  <partNumber>Title 2 Section 4501note</partNumber>
+  <partNumber>Title 2 Section 4505</partNumber>
+  <partNumber>Title 2 Section 4505(e)</partNumber>
+  <partNumber>Title 2 Section 4507</partNumber>
+  <partNumber>Title 2 Section 4507(b)</partNumber>
+  <partNumber>Title 2 Section 4508</partNumber>
+  <partNumber>Title 2 Section 4509</partNumber>
+  <partNumber>Title 2 Section 4571</partNumber>
+  <partNumber>Title 2 Section 4572</partNumber>
+  <partNumber>Title 2 Section 4575</partNumber>
+  <partNumber>Title 2 Section 4575(d)</partNumber>
+  <partNumber>Title 2 Section 4575(d)(1)</partNumber>
+  <partNumber>Title 2 Section 4575(d)(1)(A)</partNumber>
+  <partNumber>Title 2 Section 4575(d)(1)(B)</partNumber>
+  <partNumber>Title 2 Section 4575(d)(2)</partNumber>
+  <partNumber>Title 2 Section 4575(e)</partNumber>
+  <partNumber>Title 2 Section 4575(e)(3)</partNumber>
+  <partNumber>Title 2 Section 4575note</partNumber>
+  <partNumber>Title 2 Section 4576</partNumber>
+  <partNumber>Title 2 Section 4579</partNumber>
+  <partNumber>Title 2 Section 4579note</partNumber>
+  <partNumber>Title 2 Section 4581(a)</partNumber>
+  <partNumber>Title 2 Section 4592</partNumber>
+  <partNumber>Title 2 Section 46a-1</partNumber>
+  <partNumber>Title 2 Section 4713</partNumber>
+  <partNumber>Title 2 Section 4902(i)</partNumber>
+  <partNumber>Title 2 Section 4903</partNumber>
+  <partNumber>Title 2 Section 5103</partNumber>
+  <partNumber>Title 2 Section 5142</partNumber>
+  <partNumber>Title 2 Section 5142note</partNumber>
+  <partNumber>Title 2 Section 5162(b)</partNumber>
+  <partNumber>Title 2 Section 5302</partNumber>
+  <partNumber>Title 2 Section 5303</partNumber>
+  <partNumber>Title 2 Section 5307</partNumber>
+  <partNumber>Title 2 Section 5308</partNumber>
+  <partNumber>Title 2 Section 5323</partNumber>
+  <partNumber>Title 2 Section 5324</partNumber>
+  <partNumber>Title 2 Section 5341(a)</partNumber>
+  <partNumber>Title 2 Section 5503</partNumber>
+  <partNumber>Title 2 Section 5504</partNumber>
+  <partNumber>Title 2 Section 5507(a)</partNumber>
+  <partNumber>Title 2 Section 5507(c)</partNumber>
+  <partNumber>Title 2 Section 5507note</partNumber>
+  <partNumber>Title 2 Section 5508</partNumber>
+  <partNumber>Title 2 Section 5521</partNumber>
+  <partNumber>Title 2 Section 5521note</partNumber>
+  <partNumber>Title 2 Section 5535</partNumber>
+  <partNumber>Title 2 Section 5535(e)(2)</partNumber>
+  <partNumber>Title 2 Section 5537</partNumber>
+  <partNumber>Title 2 Section 5538</partNumber>
+  <partNumber>Title 2 Section 5538(c)</partNumber>
+  <partNumber>Title 2 Section 5540</partNumber>
+  <partNumber>Title 2 Section 5545(c)</partNumber>
+  <partNumber>Title 2 Section 5622et seq.</partNumber>
+  <partNumber>Title 2 Section 5624</partNumber>
+  <partNumber>Title 2 Section 57b(a)</partNumber>
+  <partNumber>Title 2 Section 58</partNumber>
+  <partNumber>Title 2 Section 58(b)(3)(A)(iii)</partNumber>
+  <partNumber>Title 2 Section 60-1(b)</partNumber>
+  <partNumber>Title 2 Section 601(g)</partNumber>
+  <partNumber>Title 2 Section 605(a)</partNumber>
+  <partNumber>Title 2 Section 60c-2a(c)</partNumber>
+  <partNumber>Title 2 Section 60c-5</partNumber>
+  <partNumber>Title 2 Section 60j</partNumber>
+  <partNumber>Title 2 Section 60q</partNumber>
+  <partNumber>Title 2 Section 60q(e)</partNumber>
+  <partNumber>Title 2 Section 61-1(d)</partNumber>
+  <partNumber>Title 2 Section 61-1(d)(2)</partNumber>
+  <partNumber>Title 2 Section 6135</partNumber>
+  <partNumber>Title 2 Section 6136(b)(1)</partNumber>
+  <partNumber>Title 2 Section 6155</partNumber>
+  <partNumber>Title 2 Section 6157(a)</partNumber>
+  <partNumber>Title 2 Section 61</partNumber>
+  <partNumber>Title 2 Section 61g-6</partNumber>
+  <partNumber>Title 2 Section 6311</partNumber>
+  <partNumber>Title 2 Section 6314</partNumber>
+  <partNumber>Title 2 Section 6314(b)</partNumber>
+  <partNumber>Title 2 Section 6314(b)(2)(A)(iii)</partNumber>
+  <partNumber>Title 2 Section 6314(b)(3)</partNumber>
+  <partNumber>Title 2 Section 6314(b)(3)(A)(iii)</partNumber>
+  <partNumber>Title 2 Section 6314(c)</partNumber>
+  <partNumber>Title 2 Section 6314(e)</partNumber>
+  <partNumber>Title 2 Section 6314note</partNumber>
+  <partNumber>Title 2 Section 64a</partNumber>
+  <partNumber>Title 2 Section 6503</partNumber>
+  <partNumber>Title 2 Section 6513</partNumber>
+  <partNumber>Title 2 Section 6516</partNumber>
+  <partNumber>Title 2 Section 6531note</partNumber>
+  <partNumber>Title 2 Section 6532</partNumber>
+  <partNumber>Title 2 Section 6533</partNumber>
+  <partNumber>Title 2 Section 6538</partNumber>
+  <partNumber>Title 2 Section 6566</partNumber>
+  <partNumber>Title 2 Section 6568(c)</partNumber>
+  <partNumber>Title 2 Section 6572</partNumber>
+  <partNumber>Title 2 Section 6573</partNumber>
+  <partNumber>Title 2 Section 6573note</partNumber>
+  <partNumber>Title 2 Section 6576(c)</partNumber>
+  <partNumber>Title 2 Section 6576note</partNumber>
+  <partNumber>Title 2 Section 6594note</partNumber>
+  <partNumber>Title 2 Section 6621</partNumber>
+  <partNumber>Title 2 Section 6621et seq.</partNumber>
+  <partNumber>Title 2 Section 6622</partNumber>
+  <partNumber>Title 2 Section 6623</partNumber>
+  <partNumber>Title 2 Section 68</partNumber>
+  <partNumber>Title 2 Section 72a(b)</partNumber>
+  <partNumber>Title 2 Section 72a(i)</partNumber>
+  <partNumber>Title 2 Section 74b</partNumber>
+  <partNumber>Title 2 Section 74d-1</partNumber>
+  <partNumber>Title 2 Section 84-2</partNumber>
+  <partNumber>Title 2 Section 88b</partNumber>
+  <partNumber>Title 2 Section 95b(a)</partNumber>
+  <partNumber>Title 2 Section 95b(c)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">2 U.S.C. 102a</identifier>
+ <identifier type="USC citation">2 U.S.C. 104a</identifier>
+ <identifier type="USC citation">2 U.S.C. 104b</identifier>
+ <identifier type="USC citation">2 U.S.C. 111b</identifier>
+ <identifier type="USC citation">2 U.S.C. 117</identifier>
+ <identifier type="USC citation">2 U.S.C. 117e</identifier>
+ <identifier type="USC citation">2 U.S.C. 118</identifier>
+ <identifier type="USC citation">2 U.S.C. 121d(c)</identifier>
+ <identifier type="USC citation">2 U.S.C. 121f</identifier>
+ <identifier type="USC citation">2 U.S.C. 123b(g)</identifier>
+ <identifier type="USC citation">2 U.S.C. 123bnote</identifier>
+ <identifier type="USC citation">2 U.S.C. 130e</identifier>
+ <identifier type="USC citation">2 U.S.C. 1824a(a)(2)</identifier>
+ <identifier type="USC citation">2 U.S.C. 1927note</identifier>
+ <identifier type="USC citation">2 U.S.C. 1966(a)</identifier>
+ <identifier type="USC citation">2 U.S.C. 2025note</identifier>
+ <identifier type="USC citation">2 U.S.C. 2026</identifier>
+ <identifier type="USC citation">2 U.S.C. 2051(e)</identifier>
+ <identifier type="USC citation">2 U.S.C. 2062(e)</identifier>
+ <identifier type="USC citation">2 U.S.C. 2107(a)</identifier>
+ <identifier type="USC citation">2 U.S.C. 2172</identifier>
+ <identifier type="USC citation">2 U.S.C. 2172(a)</identifier>
+ <identifier type="USC citation">2 U.S.C. 2172(b)</identifier>
+ <identifier type="USC citation">2 U.S.C. 2251(c)</identifier>
+ <identifier type="USC citation">2 U.S.C. 2252</identifier>
+ <identifier type="USC citation">2 U.S.C. 288(c)</identifier>
+ <identifier type="USC citation">2 U.S.C. 288m</identifier>
+ <identifier type="USC citation">2 U.S.C. 31a-2</identifier>
+ <identifier type="USC citation">2 U.S.C. 31</identifier>
+ <identifier type="USC citation">2 U.S.C. 31(2)</identifier>
+ <identifier type="USC citation">2 U.S.C. 35</identifier>
+ <identifier type="USC citation">2 U.S.C. 4101(b)</identifier>
+ <identifier type="USC citation">2 U.S.C. 4103</identifier>
+ <identifier type="USC citation">2 U.S.C. 4104</identifier>
+ <identifier type="USC citation">2 U.S.C. 4107</identifier>
+ <identifier type="USC citation">2 U.S.C. 4108</identifier>
+ <identifier type="USC citation">2 U.S.C. 4131(g)</identifier>
+ <identifier type="USC citation">2 U.S.C. 4131note</identifier>
+ <identifier type="USC citation">2 U.S.C. 4301(b)</identifier>
+ <identifier type="USC citation">2 U.S.C. 4301(i)</identifier>
+ <identifier type="USC citation">2 U.S.C. 4301(j)</identifier>
+ <identifier type="USC citation">2 U.S.C. 4301note</identifier>
+ <identifier type="USC citation">2 U.S.C. 4303</identifier>
+ <identifier type="USC citation">2 U.S.C. 4336(a)</identifier>
+ <identifier type="USC citation">2 U.S.C. 4501</identifier>
+ <identifier type="USC citation">2 U.S.C. 4501(2)</identifier>
+ <identifier type="USC citation">2 U.S.C. 4501note</identifier>
+ <identifier type="USC citation">2 U.S.C. 4505</identifier>
+ <identifier type="USC citation">2 U.S.C. 4505(e)</identifier>
+ <identifier type="USC citation">2 U.S.C. 4507</identifier>
+ <identifier type="USC citation">2 U.S.C. 4507(b)</identifier>
+ <identifier type="USC citation">2 U.S.C. 4508</identifier>
+ <identifier type="USC citation">2 U.S.C. 4509</identifier>
+ <identifier type="USC citation">2 U.S.C. 4571</identifier>
+ <identifier type="USC citation">2 U.S.C. 4572</identifier>
+ <identifier type="USC citation">2 U.S.C. 4575</identifier>
+ <identifier type="USC citation">2 U.S.C. 4575(d)</identifier>
+ <identifier type="USC citation">2 U.S.C. 4575(d)(1)</identifier>
+ <identifier type="USC citation">2 U.S.C. 4575(d)(1)(A)</identifier>
+ <identifier type="USC citation">2 U.S.C. 4575(d)(1)(B)</identifier>
+ <identifier type="USC citation">2 U.S.C. 4575(d)(2)</identifier>
+ <identifier type="USC citation">2 U.S.C. 4575(e)</identifier>
+ <identifier type="USC citation">2 U.S.C. 4575(e)(3)</identifier>
+ <identifier type="USC citation">2 U.S.C. 4575note</identifier>
+ <identifier type="USC citation">2 U.S.C. 4576</identifier>
+ <identifier type="USC citation">2 U.S.C. 4579</identifier>
+ <identifier type="USC citation">2 U.S.C. 4579note</identifier>
+ <identifier type="USC citation">2 U.S.C. 4581(a)</identifier>
+ <identifier type="USC citation">2 U.S.C. 4592</identifier>
+ <identifier type="USC citation">2 U.S.C. 46a-1</identifier>
+ <identifier type="USC citation">2 U.S.C. 4713</identifier>
+ <identifier type="USC citation">2 U.S.C. 4902(i)</identifier>
+ <identifier type="USC citation">2 U.S.C. 4903</identifier>
+ <identifier type="USC citation">2 U.S.C. 5103</identifier>
+ <identifier type="USC citation">2 U.S.C. 5142</identifier>
+ <identifier type="USC citation">2 U.S.C. 5142note</identifier>
+ <identifier type="USC citation">2 U.S.C. 5162(b)</identifier>
+ <identifier type="USC citation">2 U.S.C. 5302</identifier>
+ <identifier type="USC citation">2 U.S.C. 5303</identifier>
+ <identifier type="USC citation">2 U.S.C. 5307</identifier>
+ <identifier type="USC citation">2 U.S.C. 5308</identifier>
+ <identifier type="USC citation">2 U.S.C. 5323</identifier>
+ <identifier type="USC citation">2 U.S.C. 5324</identifier>
+ <identifier type="USC citation">2 U.S.C. 5341(a)</identifier>
+ <identifier type="USC citation">2 U.S.C. 5503</identifier>
+ <identifier type="USC citation">2 U.S.C. 5504</identifier>
+ <identifier type="USC citation">2 U.S.C. 5507(a)</identifier>
+ <identifier type="USC citation">2 U.S.C. 5507(c)</identifier>
+ <identifier type="USC citation">2 U.S.C. 5507note</identifier>
+ <identifier type="USC citation">2 U.S.C. 5508</identifier>
+ <identifier type="USC citation">2 U.S.C. 5521</identifier>
+ <identifier type="USC citation">2 U.S.C. 5521note</identifier>
+ <identifier type="USC citation">2 U.S.C. 5535</identifier>
+ <identifier type="USC citation">2 U.S.C. 5535(e)(2)</identifier>
+ <identifier type="USC citation">2 U.S.C. 5537</identifier>
+ <identifier type="USC citation">2 U.S.C. 5538</identifier>
+ <identifier type="USC citation">2 U.S.C. 5538(c)</identifier>
+ <identifier type="USC citation">2 U.S.C. 5540</identifier>
+ <identifier type="USC citation">2 U.S.C. 5545(c)</identifier>
+ <identifier type="USC citation">2 U.S.C. 5622et seq.</identifier>
+ <identifier type="USC citation">2 U.S.C. 5624</identifier>
+ <identifier type="USC citation">2 U.S.C. 57b(a)</identifier>
+ <identifier type="USC citation">2 U.S.C. 58</identifier>
+ <identifier type="USC citation">2 U.S.C. 58(b)(3)(A)(iii)</identifier>
+ <identifier type="USC citation">2 U.S.C. 60-1(b)</identifier>
+ <identifier type="USC citation">2 U.S.C. 601(g)</identifier>
+ <identifier type="USC citation">2 U.S.C. 605(a)</identifier>
+ <identifier type="USC citation">2 U.S.C. 60c-2a(c)</identifier>
+ <identifier type="USC citation">2 U.S.C. 60c-5</identifier>
+ <identifier type="USC citation">2 U.S.C. 60j</identifier>
+ <identifier type="USC citation">2 U.S.C. 60q</identifier>
+ <identifier type="USC citation">2 U.S.C. 60q(e)</identifier>
+ <identifier type="USC citation">2 U.S.C. 61-1(d)</identifier>
+ <identifier type="USC citation">2 U.S.C. 61-1(d)(2)</identifier>
+ <identifier type="USC citation">2 U.S.C. 6135</identifier>
+ <identifier type="USC citation">2 U.S.C. 6136(b)(1)</identifier>
+ <identifier type="USC citation">2 U.S.C. 6155</identifier>
+ <identifier type="USC citation">2 U.S.C. 6157(a)</identifier>
+ <identifier type="USC citation">2 U.S.C. 61</identifier>
+ <identifier type="USC citation">2 U.S.C. 61g-6</identifier>
+ <identifier type="USC citation">2 U.S.C. 6311</identifier>
+ <identifier type="USC citation">2 U.S.C. 6314</identifier>
+ <identifier type="USC citation">2 U.S.C. 6314(b)</identifier>
+ <identifier type="USC citation">2 U.S.C. 6314(b)(2)(A)(iii)</identifier>
+ <identifier type="USC citation">2 U.S.C. 6314(b)(3)</identifier>
+ <identifier type="USC citation">2 U.S.C. 6314(b)(3)(A)(iii)</identifier>
+ <identifier type="USC citation">2 U.S.C. 6314(c)</identifier>
+ <identifier type="USC citation">2 U.S.C. 6314(e)</identifier>
+ <identifier type="USC citation">2 U.S.C. 6314note</identifier>
+ <identifier type="USC citation">2 U.S.C. 64a</identifier>
+ <identifier type="USC citation">2 U.S.C. 6503</identifier>
+ <identifier type="USC citation">2 U.S.C. 6513</identifier>
+ <identifier type="USC citation">2 U.S.C. 6516</identifier>
+ <identifier type="USC citation">2 U.S.C. 6531note</identifier>
+ <identifier type="USC citation">2 U.S.C. 6532</identifier>
+ <identifier type="USC citation">2 U.S.C. 6533</identifier>
+ <identifier type="USC citation">2 U.S.C. 6538</identifier>
+ <identifier type="USC citation">2 U.S.C. 6566</identifier>
+ <identifier type="USC citation">2 U.S.C. 6568(c)</identifier>
+ <identifier type="USC citation">2 U.S.C. 6572</identifier>
+ <identifier type="USC citation">2 U.S.C. 6573</identifier>
+ <identifier type="USC citation">2 U.S.C. 6573note</identifier>
+ <identifier type="USC citation">2 U.S.C. 6576(c)</identifier>
+ <identifier type="USC citation">2 U.S.C. 6576note</identifier>
+ <identifier type="USC citation">2 U.S.C. 6594note</identifier>
+ <identifier type="USC citation">2 U.S.C. 6621</identifier>
+ <identifier type="USC citation">2 U.S.C. 6621et seq.</identifier>
+ <identifier type="USC citation">2 U.S.C. 6622</identifier>
+ <identifier type="USC citation">2 U.S.C. 6623</identifier>
+ <identifier type="USC citation">2 U.S.C. 68</identifier>
+ <identifier type="USC citation">2 U.S.C. 72a(b)</identifier>
+ <identifier type="USC citation">2 U.S.C. 72a(i)</identifier>
+ <identifier type="USC citation">2 U.S.C. 74b</identifier>
+ <identifier type="USC citation">2 U.S.C. 74d-1</identifier>
+ <identifier type="USC citation">2 U.S.C. 84-2</identifier>
+ <identifier type="USC citation">2 U.S.C. 88b</identifier>
+ <identifier type="USC citation">2 U.S.C. 95b(a)</identifier>
+ <identifier type="USC citation">2 U.S.C. 95b(c)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 5303note</partNumber>
+  <partNumber>Title 5 Section 5318note</partNumber>
+  <partNumber>Title 5 Section 5581(1)(iv)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 5303note</identifier>
+ <identifier type="USC citation">5 U.S.C. 5318note</identifier>
+ <identifier type="USC citation">5 U.S.C. 5581(1)(iv)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 39 Section 3210note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">39 U.S.C. 3210note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 13212(f)(1)(C)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 13212(f)(1)(C)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 44 Section 725</partNumber>
+</titleInfo>
+ <identifier type="USC citation">44 U.S.C. 725</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 24 Page 596</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">24 Stat. 596</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 25 Page 546</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">25 Stat. 546</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 28 Page 546</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">28 Stat. 546</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 44 Page 162</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">44 Stat. 162</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 85 Page 635</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">85 Stat. 635</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 86 Page 435</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">86 Stat. 435</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 91 Page 664</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">91 Stat. 664</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 88-454</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 88-454</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 93-371</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 93-371</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 94-59</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 94-59</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 94-226</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 94-226</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 95-4</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 95-4</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 95-94</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 95-94</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 96-444</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 96-444</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 97-51</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 97-51</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 98-51</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 98-51</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 100-123</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 100-123</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 101-163</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 101-163</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 101-194</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 101-194</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 103-6</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 103-6</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 103-69</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 103-69</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 103-283</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 103-283</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 104-53</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 104-53</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 105-55</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 105-55</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 108-83</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 108-83</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 109-289</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 109-289</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 110-279</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 110-279</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-8</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-8</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-165</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-165</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-248</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-248</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-74</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-74</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 112-240</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 112-240</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 113-46</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 113-46</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr2830ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>2830</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <isBillNumberTitle>true</isBillNumberTitle>
+ <action date="2015-06-18">Mr. Goodlatte introduced the following bill; which was referred to the Committee on the Judiciary</action>
+ <congCommittee authorityId="hsju00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on the Judiciary</name>
+                      <name type="authority-short">Judiciary</name>
+                </congCommittee>
+ <congMember authorityId="446" bioGuideId="G000289" chamber="H" congress="114" gpoId="8197" party="R" role="SPONSOR" state="VA">
+                      <name type="parsed">Mr. Goodlatte </name>
+                      <name type="authority-fnf">Bob Goodlatte</name>
+                      <name type="authority-lnf">Goodlatte, Bob</name>
+                      <name type="authority-other">Robert Goodlatte</name>
+                </congMember>
+ <law congress="88" isPrivate="false" number="454"></law>
+ <law congress="93" isPrivate="false" number="371"></law>
+ <law congress="94" isPrivate="false" number="59"></law>
+ <law congress="94" isPrivate="false" number="226"></law>
+ <law congress="95" isPrivate="false" number="4"></law>
+ <law congress="95" isPrivate="false" number="94"></law>
+ <law congress="96" isPrivate="false" number="444"></law>
+ <law congress="97" isPrivate="false" number="51"></law>
+ <law congress="98" isPrivate="false" number="51"></law>
+ <law congress="100" isPrivate="false" number="123"></law>
+ <law congress="101" isPrivate="false" number="163"></law>
+ <law congress="101" isPrivate="false" number="194"></law>
+ <law congress="103" isPrivate="false" number="6"></law>
+ <law congress="103" isPrivate="false" number="69"></law>
+ <law congress="103" isPrivate="false" number="283"></law>
+ <law congress="104" isPrivate="false" number="53"></law>
+ <law congress="105" isPrivate="false" number="55"></law>
+ <law congress="108" isPrivate="false" number="83"></law>
+ <law congress="109" isPrivate="false" number="289"></law>
+ <law congress="110" isPrivate="false" number="279"></law>
+ <law congress="111" isPrivate="false" number="8"></law>
+ <law congress="111" isPrivate="false" number="165"></law>
+ <law congress="111" isPrivate="false" number="248"></law>
+ <law congress="112" isPrivate="false" number="74"></law>
+ <law congress="112" isPrivate="false" number="240"></law>
+ <law congress="113" isPrivate="false" number="46"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="2">
+                      <section number="102a"></section>
+                      <section number="104a"></section>
+                      <section number="104b"></section>
+                      <section number="111b"></section>
+                      <section number="117"></section>
+                      <section number="117e"></section>
+                      <section number="118"></section>
+                      <section detail="(c)" number="121d"></section>
+                      <section number="121f"></section>
+                      <section detail="(g)" number="123b"></section>
+                      <section detail="note" number="123b"></section>
+                      <section number="130e"></section>
+                      <section detail="(a)(2)" number="1824a"></section>
+                      <section detail="note" number="1927"></section>
+                      <section detail="(a)" number="1966"></section>
+                      <section detail="note" number="2025"></section>
+                      <section number="2026"></section>
+                      <section detail="(e)" number="2051"></section>
+                      <section detail="(e)" number="2062"></section>
+                      <section detail="(a)" number="2107"></section>
+                      <section number="2172"></section>
+                      <section detail="(a)" number="2172"></section>
+                      <section detail="(b)" number="2172"></section>
+                      <section detail="(c)" number="2251"></section>
+                      <section number="2252"></section>
+                      <section detail="(c)" number="288"></section>
+                      <section number="288m"></section>
+                      <section number="31a-2"></section>
+                      <section number="31"></section>
+                      <section detail="(2)" number="31"></section>
+                      <section number="35"></section>
+                      <section detail="(b)" number="4101"></section>
+                      <section number="4103"></section>
+                      <section number="4104"></section>
+                      <section number="4107"></section>
+                      <section number="4108"></section>
+                      <section detail="(g)" number="4131"></section>
+                      <section detail="note" number="4131"></section>
+                      <section detail="(b)" number="4301"></section>
+                      <section detail="(i)" number="4301"></section>
+                      <section detail="(j)" number="4301"></section>
+                      <section detail="note" number="4301"></section>
+                      <section number="4303"></section>
+                      <section detail="(a)" number="4336"></section>
+                      <section number="4501"></section>
+                      <section detail="(2)" number="4501"></section>
+                      <section detail="note" number="4501"></section>
+                      <section number="4505"></section>
+                      <section detail="(e)" number="4505"></section>
+                      <section number="4507"></section>
+                      <section detail="(b)" number="4507"></section>
+                      <section number="4508"></section>
+                      <section number="4509"></section>
+                      <section number="4571"></section>
+                      <section number="4572"></section>
+                      <section number="4575"></section>
+                      <section detail="(d)" number="4575"></section>
+                      <section detail="(d)(1)" number="4575"></section>
+                      <section detail="(d)(1)(A)" number="4575"></section>
+                      <section detail="(d)(1)(B)" number="4575"></section>
+                      <section detail="(d)(2)" number="4575"></section>
+                      <section detail="(e)" number="4575"></section>
+                      <section detail="(e)(3)" number="4575"></section>
+                      <section detail="note" number="4575"></section>
+                      <section number="4576"></section>
+                      <section number="4579"></section>
+                      <section detail="note" number="4579"></section>
+                      <section detail="(a)" number="4581"></section>
+                      <section number="4592"></section>
+                      <section number="46a-1"></section>
+                      <section number="4713"></section>
+                      <section detail="(i)" number="4902"></section>
+                      <section number="4903"></section>
+                      <section number="5103"></section>
+                      <section number="5142"></section>
+                      <section detail="note" number="5142"></section>
+                      <section detail="(b)" number="5162"></section>
+                      <section number="5302"></section>
+                      <section number="5303"></section>
+                      <section number="5307"></section>
+                      <section number="5308"></section>
+                      <section number="5323"></section>
+                      <section number="5324"></section>
+                      <section detail="(a)" number="5341"></section>
+                      <section number="5503"></section>
+                      <section number="5504"></section>
+                      <section detail="(a)" number="5507"></section>
+                      <section detail="(c)" number="5507"></section>
+                      <section detail="note" number="5507"></section>
+                      <section number="5508"></section>
+                      <section number="5521"></section>
+                      <section detail="note" number="5521"></section>
+                      <section number="5535"></section>
+                      <section detail="(e)(2)" number="5535"></section>
+                      <section number="5537"></section>
+                      <section number="5538"></section>
+                      <section detail="(c)" number="5538"></section>
+                      <section number="5540"></section>
+                      <section detail="(c)" number="5545"></section>
+                      <section detail="et seq." number="5622"></section>
+                      <section number="5624"></section>
+                      <section detail="(a)" number="57b"></section>
+                      <section number="58"></section>
+                      <section detail="(b)(3)(A)(iii)" number="58"></section>
+                      <section detail="(b)" number="60-1"></section>
+                      <section detail="(g)" number="601"></section>
+                      <section detail="(a)" number="605"></section>
+                      <section detail="(c)" number="60c-2a"></section>
+                      <section number="60c-5"></section>
+                      <section number="60j"></section>
+                      <section number="60q"></section>
+                      <section detail="(e)" number="60q"></section>
+                      <section detail="(d)" number="61-1"></section>
+                      <section detail="(d)(2)" number="61-1"></section>
+                      <section number="6135"></section>
+                      <section detail="(b)(1)" number="6136"></section>
+                      <section number="6155"></section>
+                      <section detail="(a)" number="6157"></section>
+                      <section number="61"></section>
+                      <section number="61g-6"></section>
+                      <section number="6311"></section>
+                      <section number="6314"></section>
+                      <section detail="(b)" number="6314"></section>
+                      <section detail="(b)(2)(A)(iii)" number="6314"></section>
+                      <section detail="(b)(3)" number="6314"></section>
+                      <section detail="(b)(3)(A)(iii)" number="6314"></section>
+                      <section detail="(c)" number="6314"></section>
+                      <section detail="(e)" number="6314"></section>
+                      <section detail="note" number="6314"></section>
+                      <section number="64a"></section>
+                      <section number="6503"></section>
+                      <section number="6513"></section>
+                      <section number="6516"></section>
+                      <section detail="note" number="6531"></section>
+                      <section number="6532"></section>
+                      <section number="6533"></section>
+                      <section number="6538"></section>
+                      <section number="6566"></section>
+                      <section detail="(c)" number="6568"></section>
+                      <section number="6572"></section>
+                      <section number="6573"></section>
+                      <section detail="note" number="6573"></section>
+                      <section detail="(c)" number="6576"></section>
+                      <section detail="note" number="6576"></section>
+                      <section detail="note" number="6594"></section>
+                      <section number="6621"></section>
+                      <section detail="et seq." number="6621"></section>
+                      <section number="6622"></section>
+                      <section number="6623"></section>
+                      <section number="68"></section>
+                      <section detail="(b)" number="72a"></section>
+                      <section detail="(i)" number="72a"></section>
+                      <section number="74b"></section>
+                      <section number="74d-1"></section>
+                      <section number="84-2"></section>
+                      <section number="88b"></section>
+                      <section detail="(a)" number="95b"></section>
+                      <section detail="(c)" number="95b"></section>
+                </USCode>
+ <USCode title="5">
+                      <section detail="note" number="5303"></section>
+                      <section detail="note" number="5318"></section>
+                      <section detail="(1)(iv)" number="5581"></section>
+                </USCode>
+ <USCode title="39">
+                      <section detail="note" number="3210"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="(f)(1)(C)" number="13212"></section>
+                </USCode>
+ <USCode title="44">
+                      <section number="725"></section>
+                </USCode>
+ <statuteAtLarge volume="24">
+                      <pages pages="596"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="25">
+                      <pages pages="546"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="28">
+                      <pages pages="546"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="44">
+                      <pages pages="162"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="85">
+                      <pages pages="635"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="86">
+                      <pages pages="435"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="91">
+                      <pages pages="664"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

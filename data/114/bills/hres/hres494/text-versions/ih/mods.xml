@@ -1,0 +1,363 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18dd1c2a4">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>Impeaching John Andrew Koskinen, Commissioner of the Internal Revenue Service, for high crimes and misdemeanors.;H. Res. 494 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-10-28</dateIngested>
+</extension>
+<titleInfo>
+ <title>Impeaching John Andrew Koskinen, Commissioner of the Internal Revenue Service, for high crimes and misdemeanors.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H. Res. 494 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-10-27</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>7 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/7:</classification>
+<identifier type="local">P0b002ee18dd1c2a4</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hres494ih</identifier>
+<identifier type="preferred citation">H. Res. 494</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325574</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House resolutions</identifier>
+<identifier type="former package identifier">f:hr494_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hres494ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hres494ih/html/BILLS-114hres494ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hres494ih/pdf/BILLS-114hres494ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hres494ih/xml/BILLS-114hres494ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-10-28</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hres494ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Jason Chaffetz</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ron DeSantis</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Paul A. Gosar</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Scott DesJarlais</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Blake Farenthold</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tim Walberg</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jody B. Hice</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gary J. Palmer</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark Walker</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mick Mulvaney</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jim Jordan</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Steve Russell</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Earl L. &quot;Buddy&quot; Carter</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Glenn Grothman</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Cynthia M. Lummis</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Will Hurd</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Justin Amash</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael R. Turner</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Thomas Massie</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on the Judiciary</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<extension>
+ <docClass>hres</docClass>
+ <accessId>BILLS-114hres494ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>494</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <officialTitle>Impeaching John Andrew Koskinen, Commissioner of the Internal Revenue Service, for high crimes and misdemeanors.</officialTitle>
+ <action date="2015-10-27">Mr. Chaffetz (for himself, Mr. DeSantis, Mr. Gosar, Mr. DesJarlais, Mr. Farenthold, Mr. Walberg, Mr. Jody B. Hice of Georgia, Mr. Palmer, Mr. Walker, Mr. Mulvaney, Mr. Jordan, Mr. Russell, Mr. Carter of Georgia, Mr. Grothman, Mrs. Lummis, Mr. Hurd of Texas, Mr. Amash, Mr. Turner, and Mr. Massie) submitted the following resolution; which was referred to the Committee on the Judiciary</action>
+ <congCommittee authorityId="hsju00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on the Judiciary</name>
+                      <name type="authority-short">Judiciary</name>
+                </congCommittee>
+ <congMember authorityId="1956" bioGuideId="C001076" chamber="H" congress="114" gpoId="8191" party="R" role="SPONSOR" state="UT">
+                      <name type="parsed">Mr. Chaffetz</name>
+                      <name type="authority-fnf">Jason Chaffetz</name>
+                      <name type="authority-lnf">Chaffetz, Jason</name>
+                </congMember>
+ <congMember authorityId="2116" bioGuideId="D000621" chamber="H" congress="114" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. DeSantis</name>
+                      <name type="authority-fnf">Ron DeSantis</name>
+                      <name type="authority-lnf">DeSantis, Ron</name>
+                </congMember>
+ <congMember authorityId="1992" bioGuideId="G000565" chamber="H" congress="114" gpoId="7798" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Gosar</name>
+                      <name type="authority-fnf">Paul A. Gosar</name>
+                      <name type="authority-lnf">Gosar, Paul A.</name>
+                      <name type="authority-other">Mr. Paul Gosar</name>
+                </congMember>
+ <congMember authorityId="2062" bioGuideId="D000616" chamber="H" congress="114" gpoId="8151" party="R" role="COSPONSOR" state="TN">
+                      <name type="parsed">Mr. DesJarlais</name>
+                      <name type="authority-fnf">Scott DesJarlais</name>
+                      <name type="authority-lnf">DesJarlais, Scott</name>
+                </congMember>
+ <congMember authorityId="2067" bioGuideId="F000460" chamber="H" congress="114" gpoId="8183" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Farenthold</name>
+                      <name type="authority-fnf">Blake Farenthold</name>
+                      <name type="authority-lnf">Farenthold, Blake</name>
+                </congMember>
+ <congMember authorityId="1855" bioGuideId="W000798" chamber="H" congress="114" gpoId="7992" party="R" role="COSPONSOR" state="MI">
+                      <name type="parsed">Mr. Walberg</name>
+                      <name type="authority-fnf">Tim Walberg</name>
+                      <name type="authority-lnf">Walberg, Tim</name>
+                </congMember>
+ <congMember authorityId="2237" bioGuideId="H001071" chamber="H" congress="114" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Jody B. Hice of Georgia</name>
+                      <name type="authority-fnf">Jody B. Hice</name>
+                      <name type="authority-lnf">Hice, Jody B.</name>
+                      <name type="authority-other">Mr. Jody Hice</name>
+                </congMember>
+ <congMember authorityId="2221" bioGuideId="P000609" chamber="H" congress="114" party="R" role="COSPONSOR" state="AL">
+                      <name type="parsed">Mr. Palmer</name>
+                      <name type="authority-fnf">Gary J. Palmer</name>
+                      <name type="authority-lnf">Palmer, Gary J.</name>
+                      <name type="authority-other">Mr. Gary Palmer</name>
+                </congMember>
+ <congMember authorityId="2255" bioGuideId="W000819" chamber="H" congress="114" party="R" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. Walker</name>
+                      <name type="authority-fnf">Mark Walker</name>
+                      <name type="authority-lnf">Walker, Mark</name>
+                </congMember>
+ <congMember authorityId="2059" bioGuideId="M001182" chamber="H" congress="114" gpoId="8145" party="R" role="COSPONSOR" state="SC">
+                      <name type="parsed">Mr. Mulvaney</name>
+                      <name type="authority-fnf">Mick Mulvaney</name>
+                      <name type="authority-lnf">Mulvaney, Mick</name>
+                </congMember>
+ <congMember authorityId="1868" bioGuideId="J000289" chamber="H" congress="114" gpoId="8094" party="R" role="COSPONSOR" state="OH">
+                      <name type="parsed">Mr. Jordan</name>
+                      <name type="authority-fnf">Jim Jordan</name>
+                      <name type="authority-lnf">Jordan, Jim</name>
+                </congMember>
+ <congMember authorityId="2265" bioGuideId="R000604" chamber="H" congress="114" party="R" role="COSPONSOR" state="OK">
+                      <name type="parsed">Mr. Russell</name>
+                      <name type="authority-fnf">Steve Russell</name>
+                      <name type="authority-lnf">Russell, Steve</name>
+                </congMember>
+ <congMember authorityId="2236" bioGuideId="C001103" chamber="H" congress="114" party="R" role="COSPONSOR" state="GA">
+                      <name type="parsed">Mr. Carter of Georgia</name>
+                      <name type="authority-fnf">Earl L. &quot;Buddy&quot; Carter</name>
+                      <name type="authority-lnf">Carter, Earl L. &quot;Buddy&quot;</name>
+                      <name type="authority-other">Mr. Earl Carter</name>
+                </congMember>
+ <congMember authorityId="2276" bioGuideId="G000576" chamber="H" congress="114" party="R" role="COSPONSOR" state="WI">
+                      <name type="parsed">Mr. Grothman</name>
+                      <name type="authority-fnf">Glenn Grothman</name>
+                      <name type="authority-lnf">Grothman, Glenn</name>
+                </congMember>
+ <congMember authorityId="1960" bioGuideId="L000571" chamber="H" congress="114" gpoId="8225" party="R" role="COSPONSOR" state="WY">
+                      <name type="parsed">Mrs. Lummis</name>
+                      <name type="authority-fnf">Cynthia M. Lummis</name>
+                      <name type="authority-lnf">Lummis, Cynthia M.</name>
+                      <name type="authority-other">Ms. Cynthia Lummis</name>
+                </congMember>
+ <congMember authorityId="2269" bioGuideId="H001073" chamber="H" congress="114" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Hurd of Texas</name>
+                      <name type="authority-fnf">Will Hurd</name>
+                      <name type="authority-lnf">Hurd, Will</name>
+                </congMember>
+ <congMember authorityId="2029" bioGuideId="A000367" chamber="H" congress="114" gpoId="7988" party="R" role="COSPONSOR" state="MI">
+                      <name type="parsed">Mr. Amash</name>
+                      <name type="authority-fnf">Justin Amash</name>
+                      <name type="authority-lnf">Amash, Justin</name>
+                </congMember>
+ <congMember authorityId="1741" bioGuideId="T000463" chamber="H" congress="114" gpoId="8093" party="R" role="COSPONSOR" state="OH">
+                      <name type="parsed">Mr. Turner</name>
+                      <name type="authority-fnf">Michael R. Turner</name>
+                      <name type="authority-lnf">Turner, Michael R.</name>
+                      <name type="authority-other">Mr. Michael Turner</name>
+                </congMember>
+ <congMember authorityId="2094" bioGuideId="M001184" chamber="H" congress="114" gpoId="8371" party="R" role="COSPONSOR" state="KY">
+                      <name type="parsed">Mr. Massie</name>
+                      <name type="authority-fnf">Thomas Massie</name>
+                      <name type="authority-lnf">Massie, Thomas</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

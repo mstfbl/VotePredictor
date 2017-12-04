@@ -1,0 +1,377 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18c341fff">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend title 10, United States Code, to authorize the enlistment in the Armed Forces of certain aliens who are unlawfully present in the United States and were younger than 15 years of age when they initially entered the United States, but who are otherwise qualified for enlistment, and to provide a mechanism by which such aliens, by reason of their honorable service in the Armed Forces, may be lawfully admitted to the United States for permanent residence.;Encourage New Legalized Immigrants to Start Training Act;ENLIST Act;H.R. 1989 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-05-06</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend title 10, United States Code, to authorize the enlistment in the Armed Forces of certain aliens who are unlawfully present in the United States and were younger than 15 years of age when they initially entered the United States, but who are otherwise qualified for enlistment, and to provide a mechanism by which such aliens, by reason of their honorable service in the Armed Forces, may be lawfully admitted to the United States for permanent residence.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Encourage New Legalized Immigrants to Start Training Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>ENLIST Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 1989 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-04-23</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>4 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18c341fff</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1989ih</identifier>
+<identifier type="preferred citation">H.R. 1989</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h1989_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1989ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1989ih/html/BILLS-114hr1989ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1989ih/pdf/BILLS-114hr1989ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1989ih/xml/BILLS-114hr1989ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-05-06</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-12</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr1989ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Jeff Denham</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mike Coffman</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David G. Valadao</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Carlos Curbelo</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robert J. Dold</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Devin Nunes</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark E. Amodei</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Don Young</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mario Diaz-Balart</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ileana Ros-Lehtinen</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Joe Barton</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Adam Kinzinger</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jaime Herrera Beutler</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Timothy J. Walz</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dan Newhouse</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tulsi Gabbard</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Adam Smith</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Armed Services</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 8 Section 1182(e)</partNumber>
+  <partNumber>Title 8 Section 1259</partNumber>
+  <partNumber>Title 8 Section 1439</partNumber>
+  <partNumber>Title 8 Section 1440-1</partNumber>
+  <partNumber>Title 8 Section 1440</partNumber>
+</titleInfo>
+ <identifier type="USC citation">8 U.S.C. 1182(e)</identifier>
+ <identifier type="USC citation">8 U.S.C. 1259</identifier>
+ <identifier type="USC citation">8 U.S.C. 1439</identifier>
+ <identifier type="USC citation">8 U.S.C. 1440-1</identifier>
+ <identifier type="USC citation">8 U.S.C. 1440</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 504</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 504</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr1989ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>1989</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Encourage New Legalized Immigrants to Start Training Act</shortTitle>
+ <shortTitle type="measure">ENLIST Act</shortTitle>
+ <officialTitle>To amend title 10, United States Code, to authorize the enlistment in the Armed Forces of certain aliens who are unlawfully present in the United States and were younger than 15 years of age when they initially entered the United States, but who are otherwise qualified for enlistment, and to provide a mechanism by which such aliens, by reason of their honorable service in the Armed Forces, may be lawfully admitted to the United States for permanent residence.</officialTitle>
+ <action date="2015-04-23">Mr. Denham (for himself, Mr. Coffman, Mr. Valadao, Mr. Curbelo of Florida, Mr. Dold, Mr. Nunes, Mr. Amodei, Mr. Young of Alaska, Mr. Diaz-Balart, Ms. Ros-Lehtinen, Mr. Barton, Mr. Kinzinger of Illinois, Ms. Herrera Beutler, Mr. Walz, Mr. Newhouse, Ms. Gabbard, and Mr. Smith of Washington) introduced the following bill; which was referred to the Committee on Armed Services</action>
+ <congCommittee authorityId="hsas00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Armed Services</name>
+                      <name type="authority-short">Armed Services</name>
+                </congCommittee>
+ <congMember authorityId="1995" bioGuideId="D000612" chamber="H" congress="114" gpoId="7824" party="R" role="SPONSOR" state="CA">
+                      <name type="parsed">Mr. Denham</name>
+                      <name type="authority-fnf">Jeff Denham</name>
+                      <name type="authority-lnf">Denham, Jeff</name>
+                </congMember>
+ <congMember authorityId="1912" bioGuideId="C001077" chamber="H" congress="114" gpoId="7864" party="R" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Coffman</name>
+                      <name type="authority-fnf">Mike Coffman</name>
+                      <name type="authority-lnf">Coffman, Mike</name>
+                </congMember>
+ <congMember authorityId="2105" bioGuideId="V000129" chamber="H" congress="114" party="R" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Valadao</name>
+                      <name type="authority-fnf">David G. Valadao</name>
+                      <name type="authority-lnf">Valadao, David G.</name>
+                      <name type="authority-other">Mr. David Valadao</name>
+                </congMember>
+ <congMember authorityId="2235" bioGuideId="C001107" chamber="H" congress="114" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Curbelo of Florida</name>
+                      <name type="authority-fnf">Carlos Curbelo</name>
+                      <name type="authority-lnf">Curbelo, Carlos</name>
+                </congMember>
+ <congMember authorityId="2013" bioGuideId="D000613" chamber="H" congress="114" gpoId="7930" party="R" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Dold</name>
+                      <name type="authority-fnf">Robert J. Dold</name>
+                      <name type="authority-lnf">Dold, Robert J.</name>
+                      <name type="authority-other">Mr. Robert Dold</name>
+                </congMember>
+ <congMember authorityId="1710" bioGuideId="N000181" chamber="H" congress="114" gpoId="7826" party="R" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Nunes</name>
+                      <name type="authority-fnf">Devin Nunes</name>
+                      <name type="authority-lnf">Nunes, Devin</name>
+                </congMember>
+ <congMember authorityId="2090" bioGuideId="A000369" chamber="H" congress="114" gpoId="8366" party="R" role="COSPONSOR" state="NV">
+                      <name type="parsed">Mr. Amodei</name>
+                      <name type="authority-fnf">Mark E. Amodei</name>
+                      <name type="authority-lnf">Amodei, Mark E.</name>
+                      <name type="authority-other">Mr. Mark Amodei</name>
+                </congMember>
+ <congMember authorityId="1256" bioGuideId="Y000033" chamber="H" congress="114" gpoId="7785" party="R" role="COSPONSOR" state="AK">
+                      <name type="parsed">Mr. Young of Alaska</name>
+                      <name type="authority-fnf">Don Young</name>
+                      <name type="authority-lnf">Young, Don</name>
+                      <name type="authority-other">Don E. Young</name>
+                </congMember>
+ <congMember authorityId="1717" bioGuideId="D000600" chamber="H" congress="114" gpoId="7893" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Diaz-Balart</name>
+                      <name type="authority-fnf">Mario Diaz-Balart</name>
+                      <name type="authority-lnf">Diaz-Balart, Mario</name>
+                </congMember>
+ <congMember authorityId="985" bioGuideId="R000435" chamber="H" congress="114" gpoId="7890" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Ms. Ros-Lehtinen</name>
+                      <name type="authority-fnf">Ileana Ros-Lehtinen</name>
+                      <name type="authority-lnf">Ros-Lehtinen, Ileana</name>
+                </congMember>
+ <congMember authorityId="62" bioGuideId="B000213" chamber="H" congress="114" gpoId="8162" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Barton</name>
+                      <name type="authority-fnf">Joe Barton</name>
+                      <name type="authority-lnf">Barton, Joe</name>
+                      <name type="authority-other">Joe L. Barton</name>
+                </congMember>
+ <congMember authorityId="2014" bioGuideId="K000378" chamber="H" congress="114" gpoId="7931" party="R" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Kinzinger of Illinois</name>
+                      <name type="authority-fnf">Adam Kinzinger</name>
+                      <name type="authority-lnf">Kinzinger, Adam</name>
+                </congMember>
+ <congMember authorityId="2071" bioGuideId="H001056" chamber="H" congress="114" gpoId="8207" party="R" role="COSPONSOR" state="WA">
+                      <name type="parsed">Ms. Herrera Beutler</name>
+                      <name type="authority-fnf">Jaime Herrera Beutler</name>
+                      <name type="authority-lnf">Herrera Beutler, Jaime</name>
+                </congMember>
+ <congMember authorityId="1856" bioGuideId="W000799" chamber="H" congress="114" gpoId="8001" party="D" role="COSPONSOR" state="MN">
+                      <name type="parsed">Mr. Walz</name>
+                      <name type="authority-fnf">Timothy J. Walz</name>
+                      <name type="authority-lnf">Walz, Timothy J.</name>
+                      <name type="authority-other">Mr. Timothy Walz</name>
+                </congMember>
+ <congMember authorityId="2275" bioGuideId="N000189" chamber="H" congress="114" party="R" role="COSPONSOR" state="WA">
+                      <name type="parsed">Mr. Newhouse</name>
+                      <name type="authority-fnf">Dan Newhouse</name>
+                      <name type="authority-lnf">Newhouse, Dan</name>
+                </congMember>
+ <congMember authorityId="2122" bioGuideId="G000571" chamber="H" congress="114" party="D" role="COSPONSOR" state="HI">
+                      <name type="parsed">Ms. Gabbard</name>
+                      <name type="authority-fnf">Tulsi Gabbard</name>
+                      <name type="authority-lnf">Gabbard, Tulsi</name>
+                </congMember>
+ <congMember authorityId="1528" bioGuideId="S000510" chamber="H" congress="114" gpoId="8213" party="D" role="COSPONSOR" state="WA">
+                      <name type="parsed">Mr. Smith of Washington</name>
+                      <name type="authority-fnf">Adam Smith</name>
+                      <name type="authority-lnf">Smith, Adam</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="8">
+                      <section detail="(e)" number="1182"></section>
+                      <section number="1259"></section>
+                      <section number="1439"></section>
+                      <section number="1440-1"></section>
+                      <section number="1440"></section>
+                </USCode>
+ <USCode title="10">
+                      <section number="504"></section>
+                </USCode>
+</extension>
+</mods>

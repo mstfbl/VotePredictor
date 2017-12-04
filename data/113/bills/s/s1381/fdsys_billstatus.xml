@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2013-07-29</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <party>I</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000033</bioguideId>
+        <firstName>BERNARD</firstName>
+        <identifiers>
+          <lisID>1010</lisID>
+          <gpoId>8270</gpoId>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+        <state>VT</state>
+        <sponsorshipDate>2013-07-29</sponsorshipDate>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <lastName>SANDERS</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000944</bioguideId>
+        <firstName>SHERROD</firstName>
+        <identifiers>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+          <bioguideId>B000944</bioguideId>
+        </identifiers>
+        <state>OH</state>
+        <sponsorshipDate>2013-07-29</sponsorshipDate>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <lastName>BROWN</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000555</bioguideId>
+        <firstName>Kirsten</firstName>
+        <identifiers>
+          <lisID>1866</lisID>
+          <bioguideId>G000555</bioguideId>
+          <gpoId>8336</gpoId>
+        </identifiers>
+        <state>NY</state>
+        <sponsorshipDate>2013-09-23</sponsorshipDate>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <lastName>Gillibrand</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000802</bioguideId>
+        <firstName>Sheldon</firstName>
+        <identifiers>
+          <lisID>1823</lisID>
+          <gpoId>8264</gpoId>
+          <bioguideId>W000802</bioguideId>
+        </identifiers>
+        <state>RI</state>
+        <sponsorshipDate>2013-09-26</sponsorshipDate>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <lastName>Whitehouse</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>J.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M000133</bioguideId>
+        <firstName>EDWARD</firstName>
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <state>MA</state>
+        <sponsorshipDate>2013-10-28</sponsorshipDate>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <lastName>MARKEY</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>F.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000122</bioguideId>
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <gpoId>8272</gpoId>
+          <lisID>949</lisID>
+          <bioguideId>R000122</bioguideId>
+        </identifiers>
+        <state>RI</state>
+        <sponsorshipDate>2014-07-30</sponsorshipDate>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <lastName>REED</lastName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Committee on Environment and Public Works Subcommittee on Water and Wildlife. Hearings held.</text>
+      <links />
+      <actionDate>2014-07-16</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <latestTitle>Big Cats and Public Safety Protection Act</latestTitle>
+        <number>1998</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+          <actionDate>2013-05-21</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <updateDate>2016-10-25T16:26:20Z</updateDate>
+    <policyArea>
+      <name>Animals</name>
+    </policyArea>
+    <actions>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2014-07-16</actionDate>
+        <committee>
+          <name>Fisheries, Water, and Wildlife Subcommittee</name>
+          <systemCode>ssev15</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works Subcommittee on Water and Wildlife. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-07-29</actionDate>
+        <committee>
+          <name>Environment and Public Works Committee</name>
+          <systemCode>ssev00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2013-07-29</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Big Cats and Public Safety Protection Act - Amends the Lacey Act Amendments of 1981 to prohibit any person from importing, exporting, transporting, selling, receiving, acquiring, purchasing in interstate or foreign commerce, breeding, or possessing any prohibited wildlife species (current law prohibits importing, exporting, transporting, selling, receiving, acquiring, or purchasing such a species in interstate or foreign commerce). Includes among exemptions to such prohibition the breeding transportation, or possession of such species by authorized persons.</p> <p>Defines &quot;breeding&quot; as facilitating the propagation or reproduction (whether intentionally or negligently), or failing to prevent the propagation or reproduction, of a prohibited wildlife species or other animal.</p> <p>Removes from the list of persons authorized to import, export, transport, sell, receive, acquire, purchase, breed, or possess such species a person that is licensed or registered, and inspected, by the Animal and Plant Health Inspection Service (APHIS) or any other federal agency with respect to such species. Includes in such list: </p> <ul> <li>an institution accredited by the Association of Zoos and Aquariums (AZA) or certified related facilities that coordinate with an AZA Species Survival Plan for breeding of species listed as threatened or endangered under the Endangered Species Act of 1973; </li> <li>a wildlife sanctuary that cares for such species, is a tax exempt corporation, does not commercially trade in or propagate such species, does not allow direct contact between the public and animals, and does not allow the transportation and display of such species off-site; </li> <li> a person that is in possession of animals of such species that were born before the date of this Act's enactment and that are registered with APHIS within 180 days after such regulations are promulgated; and </li> <li>a traveling circus that regularly travels in interstate commerce to conduct performances featuring live prohibited wildlife species and multiple trained human entertainers, that does not allow members of the public to be in direct contact with or unsafe proximity to a prohibited wildlife species of any age, and that, during the three years preceding this Act's enactment, has not been determined by the Secretary of Agriculture to have violated the Animal Welfare Act by reason of jeopardizing the health and well-being of a prohibited wildlife species.</li> </ul> <p>Establishes civil and criminal penalties and forfeiture requirements for violations of this Act.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2013-07-29</actionDate>
+          <updateDate>2013-07-29T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-09-17T18:18:20Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Animals</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Animal protection and human-animal relationships</name>
+          </item>
+          <item>
+            <name>Crimes against animals and natural resources</name>
+          </item>
+          <item>
+            <name>Museums, exhibitions, cultural centers</name>
+          </item>
+          <item>
+            <name>Trade restrictions</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Big Cats and Public Safety Protection Act</title>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <lastName>Blumenthal</lastName>
+        <bioguideId>B001277</bioguideId>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <identifiers>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Richard</firstName>
+        <middleName />
+        <state>CT</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2013-07-30T03:41:31Z</createDate>
+    <billNumber>1381</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-07-29T21:10:27Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2014-07-16T19:00:00Z</date>
+                  <name>Hearings by</name>
+                </item>
+              </activities>
+              <systemCode>ssev15</systemCode>
+              <name>Fisheries, Water, and Wildlife Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Big Cats and Public Safety Protection Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Lacey Act Amendments of 1981 to clarify provisions enacted by the Captive Wildlife Safety Act, to further the conservation of certain wildlife species, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Big Cats and Public Safety Protection Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

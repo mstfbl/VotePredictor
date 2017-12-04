@@ -1,0 +1,204 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee190377026">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend title 18, United States Code, to enhance protections of Native American cultural objects, and for other purposes.;
+   		Safeguard Tribal Objects of Patrimony Act of 2016;S. 3127 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-07-08</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend title 18, United States Code, to enhance protections of Native American cultural objects, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Safeguard Tribal Objects of Patrimony Act of 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 3127 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-07-06</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>7 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee190377026</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s3127is</identifier>
+<identifier type="preferred citation">S. 3127</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s3127_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s3127is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s3127is/html/BILLS-114s3127is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s3127is/pdf/BILLS-114s3127is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s3127is/xml/BILLS-114s3127is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-07-08</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-07-09</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s3127is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Martin Heinrich</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tom Udall</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jeff Flake</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Indian Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 470aa</partNumber>
+  <partNumber>Title 16 Section 470aaet seq.</partNumber>
+  <partNumber>Title 16 Section 470bb</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 470aa</identifier>
+ <identifier type="USC citation">16 U.S.C. 470aaet seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 470bb</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 18 Section 1170</partNumber>
+  <partNumber>Title 18 Section 1170(b)</partNumber>
+  <partNumber>Title 18 Section 1171(a)</partNumber>
+  <partNumber>Title 18 Section 1866(b)</partNumber>
+  <partNumber>Title 18 Chapter 53</partNumber>
+</titleInfo>
+ <identifier type="USC citation">18 U.S.C. 1170</identifier>
+ <identifier type="USC citation">18 U.S.C. 1170(b)</identifier>
+ <identifier type="USC citation">18 U.S.C. 1171(a)</identifier>
+ <identifier type="USC citation">18 U.S.C. 1866(b)</identifier>
+ <identifier type="USC citation">18 U.S.C. Chapter 53</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 3001</partNumber>
+  <partNumber>Title 25 Section 3001et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 3001</identifier>
+ <identifier type="USC citation">25 U.S.C. 3001et seq.</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s3127is</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>3127</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle>Safeguard Tribal Objects of Patrimony Act of 2016</shortTitle>
+ <action date="2016-07-06">Mr. Heinrich (for himself, Mr. Udall, and Mr. Flake) introduced the following bill; which was read twice and referred to the Committee on Indian Affairs</action>
+ <congCommittee authorityId="slia00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Indian Affairs</name>
+                      <name type="authority-short">Indian Affairs</name>
+                </congCommittee>
+ <congMember authorityId="1937" bioGuideId="H001046" chamber="S" congress="114" gpoId="8056" party="D" role="SPONSOR" state="NM">
+                      <name type="parsed">Mr. Heinrich</name>
+                      <name type="authority-fnf">Martin Heinrich</name>
+                      <name type="authority-lnf">Heinrich, Martin</name>
+                </congMember>
+ <congMember authorityId="1567" bioGuideId="U000039" chamber="S" congress="114" gpoId="8260" party="D" role="COSPONSOR" state="NM">
+                      <name type="parsed">Mr. Udall</name>
+                      <name type="authority-fnf">Tom Udall</name>
+                      <name type="authority-lnf">Udall, Tom</name>
+                </congMember>
+ <congMember authorityId="1633" bioGuideId="F000444" chamber="S" congress="114" gpoId="7803" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Mr. Flake</name>
+                      <name type="authority-fnf">Jeff Flake</name>
+                      <name type="authority-lnf">Flake, Jeff</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="16">
+                      <section number="470aa"></section>
+                      <section detail="et seq." number="470aa"></section>
+                      <section number="470bb"></section>
+                </USCode>
+ <USCode title="18">
+                      <section number="1170"></section>
+                      <section detail="(b)" number="1170"></section>
+                      <section detail="(a)" number="1171"></section>
+                      <section detail="(b)" number="1866"></section>
+                      <chapter number="53"></chapter>
+                </USCode>
+ <USCode title="25">
+                      <section number="3001"></section>
+                      <section detail="et seq." number="3001"></section>
+                </USCode>
+</extension>
+</mods>

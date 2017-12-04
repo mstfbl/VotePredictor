@@ -1,0 +1,295 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee19068a76c">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To make technical corrections to the Alaska Native Claims Settlement Act, and for other purposes.;
+   		S. 3273 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-07-27</dateIngested>
+</extension>
+<titleInfo>
+ <title>To make technical corrections to the Alaska Native Claims Settlement Act, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 3273 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-07-14</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>40 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee19068a76c</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s3273is</identifier>
+<identifier type="preferred citation">S. 3273</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s3273_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s3273is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s3273is/html/BILLS-114s3273is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s3273is/pdf/BILLS-114s3273is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s3273is/xml/BILLS-114s3273is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-07-27</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-07-27</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s3273is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Lisa Murkowski</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dan Sullivan</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Energy and Natural Resources</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 16 Section 1131et seq.</partNumber>
+  <partNumber>Title 16 Section 3102</partNumber>
+  <partNumber>Title 16 Section 3161</partNumber>
+  <partNumber>Title 16 Section 3192(h)(2)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">16 U.S.C. 1131et seq.</identifier>
+ <identifier type="USC citation">16 U.S.C. 3102</identifier>
+ <identifier type="USC citation">16 U.S.C. 3161</identifier>
+ <identifier type="USC citation">16 U.S.C. 3192(h)(2)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 3001(7)</partNumber>
+  <partNumber>Title 25 Section 3115a(a)(2)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 3001(7)</identifier>
+ <identifier type="USC citation">25 U.S.C. 3115a(a)(2)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 9101</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 9101</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 43 Section 1601</partNumber>
+  <partNumber>Title 43 Section 1601et seq.</partNumber>
+  <partNumber>Title 43 Section 1602</partNumber>
+  <partNumber>Title 43 Section 1604(b)</partNumber>
+  <partNumber>Title 43 Section 1606</partNumber>
+  <partNumber>Title 43 Section 1606(c)</partNumber>
+  <partNumber>Title 43 Section 1607</partNumber>
+  <partNumber>Title 43 Section 1611note</partNumber>
+  <partNumber>Title 43 Section 1613(h)</partNumber>
+  <partNumber>Title 43 Section 1615</partNumber>
+  <partNumber>Title 43 Section 1617(a)</partNumber>
+  <partNumber>Title 43 Section 1620(c)</partNumber>
+  <partNumber>Title 43 Section 1621(f)</partNumber>
+  <partNumber>Title 43 Section 1629g</partNumber>
+</titleInfo>
+ <identifier type="USC citation">43 U.S.C. 1601</identifier>
+ <identifier type="USC citation">43 U.S.C. 1601et seq.</identifier>
+ <identifier type="USC citation">43 U.S.C. 1602</identifier>
+ <identifier type="USC citation">43 U.S.C. 1604(b)</identifier>
+ <identifier type="USC citation">43 U.S.C. 1606</identifier>
+ <identifier type="USC citation">43 U.S.C. 1606(c)</identifier>
+ <identifier type="USC citation">43 U.S.C. 1607</identifier>
+ <identifier type="USC citation">43 U.S.C. 1611note</identifier>
+ <identifier type="USC citation">43 U.S.C. 1613(h)</identifier>
+ <identifier type="USC citation">43 U.S.C. 1615</identifier>
+ <identifier type="USC citation">43 U.S.C. 1617(a)</identifier>
+ <identifier type="USC citation">43 U.S.C. 1620(c)</identifier>
+ <identifier type="USC citation">43 U.S.C. 1621(f)</identifier>
+ <identifier type="USC citation">43 U.S.C. 1629g</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 54 Section 300319</partNumber>
+</titleInfo>
+ <identifier type="USC citation">54 U.S.C. 300319</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 34 Page 197</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">34 Stat. 197</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 94 Page 2515</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">94 Stat. 2515</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 98 Page 470</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">98 Stat. 470</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 85-508</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 85-508</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 94-204</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 94-204</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 96-487</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 96-487</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 98-366</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 98-366</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s3273is</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>3273</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <action date="2016-07-14">Ms. Murkowski (for herself and Mr. Sullivan) introduced the following bill; which was read twice and referred to the Committee on Energy and Natural Resources</action>
+ <congCommittee authorityId="sseg00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Energy and Natural Resources</name>
+                      <name type="authority-short">Energy and Natural Resources</name>
+                </congCommittee>
+ <congMember authorityId="1694" bioGuideId="M001153" chamber="S" congress="114" gpoId="8234" party="R" role="SPONSOR" state="AK">
+                      <name type="parsed">Ms. Murkowski</name>
+                      <name type="authority-fnf">Lisa Murkowski</name>
+                      <name type="authority-lnf">Murkowski, Lisa</name>
+                </congMember>
+ <congMember authorityId="2290" bioGuideId="S001198" chamber="S" congress="114" party="R" role="COSPONSOR" state="AK">
+                      <name type="parsed">Mr. Sullivan</name>
+                      <name type="authority-fnf">Dan Sullivan</name>
+                      <name type="authority-lnf">Sullivan, Dan</name>
+                </congMember>
+ <law congress="85" isPrivate="false" number="508"></law>
+ <law congress="94" isPrivate="false" number="204"></law>
+ <law congress="96" isPrivate="false" number="487"></law>
+ <law congress="98" isPrivate="false" number="366"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="16">
+                      <section detail="et seq." number="1131"></section>
+                      <section number="3102"></section>
+                      <section number="3161"></section>
+                      <section detail="(h)(2)" number="3192"></section>
+                </USCode>
+ <USCode title="25">
+                      <section detail="(7)" number="3001"></section>
+                      <section detail="(a)(2)" number="3115a"></section>
+                </USCode>
+ <USCode title="31">
+                      <section number="9101"></section>
+                </USCode>
+ <USCode title="43">
+                      <section number="1601"></section>
+                      <section detail="et seq." number="1601"></section>
+                      <section number="1602"></section>
+                      <section detail="(b)" number="1604"></section>
+                      <section number="1606"></section>
+                      <section detail="(c)" number="1606"></section>
+                      <section number="1607"></section>
+                      <section detail="note" number="1611"></section>
+                      <section detail="(h)" number="1613"></section>
+                      <section number="1615"></section>
+                      <section detail="(a)" number="1617"></section>
+                      <section detail="(c)" number="1620"></section>
+                      <section detail="(f)" number="1621"></section>
+                      <section number="1629g"></section>
+                </USCode>
+ <USCode title="54">
+                      <section number="300319"></section>
+                </USCode>
+ <statuteAtLarge volume="34">
+                      <pages pages="197"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="94">
+                      <pages pages="2515"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="98">
+                      <pages pages="470"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

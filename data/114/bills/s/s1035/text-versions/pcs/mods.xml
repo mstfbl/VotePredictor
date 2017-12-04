@@ -1,0 +1,141 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18c1c2383">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To extend authority relating to roving surveillance, access to business records, and individual terrorists as agents of foreign powers under the Foreign Intelligence Surveillance Act of 1978 and for other purposes.;S. 1035 (PCS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-04-23</dateIngested>
+</extension>
+<titleInfo>
+ <title>To extend authority relating to roving surveillance, access to business records, and individual terrorists as agents of foreign powers under the Foreign Intelligence Surveillance Act of 1978 and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 1035 (PCS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-04-22</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>4 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18c1c2383</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s1035pcs</identifier>
+<identifier type="preferred citation">S. 1035</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s1035_pcs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s1035pcs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1035pcs/html/BILLS-114s1035pcs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1035pcs/pdf/BILLS-114s1035pcs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s1035pcs/xml/BILLS-114s1035pcs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-04-23</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-12</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s1035pcs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mitch McConnell</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Richard Burr</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 50 Section 1801note</partNumber>
+  <partNumber>Title 50 Section 1805note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">50 U.S.C. 1801note</identifier>
+ <identifier type="USC citation">50 U.S.C. 1805note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 60</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s1035pcs</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1035</billNumber>
+ <billVersion reprint="false">pcs</billVersion>
+ <fileSuffix>pcs</fileSuffix>
+ <officialTitle>To extend authority relating to roving surveillance, access to business records, and individual terrorists as agents of foreign powers under the Foreign Intelligence Surveillance Act of 1978 and for other purposes.</officialTitle>
+ <action date="2015-04-21">Mr. McConnell (for himself and Mr. Burr) introduced the following bill; which was read the first time</action>
+ <action date="2015-04-22">Read the second time and placed on the calendar</action>
+ <congMember authorityId="1395" bioGuideId="M000355" chamber="S" congress="114" gpoId="8254" party="R" role="SPONSOR" state="KY">
+                      <name type="parsed">Mr. McConnell</name>
+                      <name type="authority-fnf">Mitch McConnell</name>
+                      <name type="authority-lnf">McConnell, Mitch</name>
+                </congMember>
+ <congMember authorityId="153" bioGuideId="B001135" chamber="S" congress="114" gpoId="8286" party="R" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. Burr</name>
+                      <name type="authority-fnf">Richard Burr</name>
+                      <name type="authority-lnf">Burr, Richard</name>
+                      <name type="authority-other">Richard M. Burr</name>
+                </congMember>
+ <congCalendar congress="114" number="60" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="50">
+                      <section detail="note" number="1801"></section>
+                      <section detail="note" number="1805"></section>
+                </USCode>
+</extension>
+</mods>

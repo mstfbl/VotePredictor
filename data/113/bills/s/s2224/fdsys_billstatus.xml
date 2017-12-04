@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2014-04-09</actionDate>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <subcommittees />
+          <systemCode>ssbk00</systemCode>
+          <activities>
+            <item>
+              <date>2014-04-09T15:00:58Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2014-04-10T07:11:39Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2014-04-09</actionDate>
+        <committee>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2014-04-09</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2014-04-09</introducedDate>
+    <billNumber>2224</billNumber>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2014-06-30T15:15:45Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2014-04-09T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <actionDate>2014-04-09</actionDate>
+          <text><![CDATA[<p>Stop Errors in Credit Use and Reporting Act or the SECURE Act - Amends the Fair Credit Reporting Act, with respect to civil liability for either willful or negligent noncompliance by a consumer reporting agency with respect to consumer credit protection requirements, to authorize a court to award: (1) injunctive relief to require compliance with such Act, and (2) costs and reasonable attorney fees to the prevailing party in any successful action for injunctive relief. </p> <p>Requires a consumer reporting agency to include, in its mandatory notification to a furnisher of disputed information in a consumer's file, all documentation provided by the consumer.</p> <p>Requires the furnisher of disputed information, upon notification of a dispute, to review and consider all documentation provided by the consumer. </p> <p>Directs the Consumer Financial Protection Bureau (CFPB) to: (1) prepare, and deliver to appropriate parties, reports concerning disputed information received by consumer reporting agencies; and (2) prescribe rules for the gathering of information relating to such disputes.</p> <p>Directs the CFPB to establish mandatory procedures for a consumer reporting agency to follow to assure maximum possible accuracy of all consumer reports.</p> <p> Requires a consumer reporting agency to give a consumer a credit score free of charge if one is requested in connection with a free annual consumer report.</p>  <p>Requires a consumer reporting agency to provide free disclosures, even without consumer request, to any consumer who has received either a notice of adverse action or an offer of credit on materially less favorable terms. (Present law requires such disclosure only if the consumer so requests).</p> <p>Directs the CFPB to establish three publicly available registries of consumer reporting agencies, including registries of: (1) nationwide consumer reporting agencies; and (2) nationwide specialty consumer reporting agencies.</p> <p>Directs the Comptroller General (GAO) to study: (1) credit systems in the international credit system with government-administered consumer credit reporting systems; and (2) the feasibility of a national, U.S. government-administered consumer credit reporting system.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Consumer Financial Protection Bureau</name>
+          </item>
+          <item>
+            <name>Consumer credit</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Legal fees and court costs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>SECURE Act</title>
+    <updateDate>2016-10-25T16:29:40Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>SECURE Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Stop Errors in Credit Use and Reporting Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to enhance the accuracy of credit reporting and provide greater rights to consumers who dispute errors in their credit reports, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>SECURE Act</title>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>HI</state>
+        <firstName>Brian</firstName>
+        <byRequestType />
+        <bioguideId>S001194</bioguideId>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <lastName>Schatz</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>S001194</bioguideId>
+          <gpoId />
+          <lisID>2173</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <middleName />
+        <state>OH</state>
+        <firstName>SHERROD</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000944</bioguideId>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <lastName>BROWN</lastName>
+        <party>D</party>
+        <sponsorshipDate>2014-04-09</sponsorshipDate>
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <state>MA</state>
+        <firstName>Elizabeth</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000817</bioguideId>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <lastName>Warren</lastName>
+        <party>D</party>
+        <sponsorshipDate>2014-04-09</sponsorshipDate>
+        <identifiers>
+          <lisID>2182</lisID>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <state>VT</state>
+        <firstName>BERNARD</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000033</bioguideId>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <lastName>SANDERS</lastName>
+        <party>I</party>
+        <sponsorshipDate>2014-04-09</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S000033</bioguideId>
+          <gpoId>8270</gpoId>
+          <lisID>1010</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <middleName />
+        <state>CT</state>
+        <firstName>Richard</firstName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001277</bioguideId>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <lastName>Blumenthal</lastName>
+        <party>D</party>
+        <sponsorshipDate>2014-04-09</sponsorshipDate>
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

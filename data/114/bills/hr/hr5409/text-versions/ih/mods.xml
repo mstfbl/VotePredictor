@@ -1,0 +1,154 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18fd52bd8">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To help individuals receiving disability insurance benefits under title II of the Social Security Act obtain rehabilitative services and return to the workforce, and for other purposes.;
+   		H.R. 5409 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-06-10</dateIngested>
+</extension>
+<titleInfo>
+ <title>To help individuals receiving disability insurance benefits under title II of the Social Security Act obtain rehabilitative services and return to the workforce, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 5409 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-06-08</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>16 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18fd52bd8</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5409ih</identifier>
+<identifier type="preferred citation">H.R. 5409</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h5409_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5409ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5409ih/html/BILLS-114hr5409ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5409ih/pdf/BILLS-114hr5409ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5409ih/xml/BILLS-114hr5409ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-06-10</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-06-10</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr5409ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>J. French Hill</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Ways and Means</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 401(b)</partNumber>
+  <partNumber>Title 42 Section 401(g)(1)(A)</partNumber>
+  <partNumber>Title 42 Section 421</partNumber>
+  <partNumber>Title 42 Section 421(i)</partNumber>
+  <partNumber>Title 42 Section 421(m)(2)(B)</partNumber>
+  <partNumber>Title 42 Section 423</partNumber>
+  <partNumber>Title 42 Section 423(d)(2)</partNumber>
+  <partNumber>Title 42 Section 423(f)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 401(b)</identifier>
+ <identifier type="USC citation">42 U.S.C. 401(g)(1)(A)</identifier>
+ <identifier type="USC citation">42 U.S.C. 421</identifier>
+ <identifier type="USC citation">42 U.S.C. 421(i)</identifier>
+ <identifier type="USC citation">42 U.S.C. 421(m)(2)(B)</identifier>
+ <identifier type="USC citation">42 U.S.C. 423</identifier>
+ <identifier type="USC citation">42 U.S.C. 423(d)(2)</identifier>
+ <identifier type="USC citation">42 U.S.C. 423(f)</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr5409ih</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>5409</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <action date="2016-06-08">Mr. Hill introduced the following bill; which was referred to the Committee on Ways and Means</action>
+ <congCommittee authorityId="hswm00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Ways and Means</name>
+                      <name type="authority-short">Ways and Means</name>
+                </congCommittee>
+ <congMember authorityId="2223" bioGuideId="H001072" chamber="H" congress="114" party="R" role="SPONSOR" state="AR">
+                      <name type="parsed">Mr. Hill</name>
+                      <name type="authority-fnf">J. French Hill</name>
+                      <name type="authority-lnf">Hill, J. French</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="42">
+                      <section detail="(b)" number="401"></section>
+                      <section detail="(g)(1)(A)" number="401"></section>
+                      <section number="421"></section>
+                      <section detail="(i)" number="421"></section>
+                      <section detail="(m)(2)(B)" number="421"></section>
+                      <section number="423"></section>
+                      <section detail="(d)(2)" number="423"></section>
+                      <section detail="(f)" number="423"></section>
+                </USCode>
+</extension>
+</mods>

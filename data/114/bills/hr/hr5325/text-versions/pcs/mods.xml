@@ -1,0 +1,293 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18fe79414">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act Making appropriations for the Legislative Branch for the fiscal year ending September 30, 2017, and for other purposes.;
+   		H.R. 5325 (PCS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-06-14</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act Making appropriations for the Legislative Branch for the fiscal year ending September 30, 2017, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 5325 (PCS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-06-13</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>46 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18fe79414</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5325pcs</identifier>
+<identifier type="preferred citation">H.R. 5325</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h5325_pcs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5325pcs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5325pcs/html/BILLS-114hr5325pcs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5325pcs/pdf/BILLS-114hr5325pcs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5325pcs/xml/BILLS-114hr5325pcs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-06-14</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-06-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr5325pcs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 2 Section 1105</partNumber>
+  <partNumber>Title 2 Section 1151</partNumber>
+  <partNumber>Title 2 Section 135a</partNumber>
+  <partNumber>Title 2 Section 1385</partNumber>
+  <partNumber>Title 2 Section 150</partNumber>
+  <partNumber>Title 2 Section 166</partNumber>
+  <partNumber>Title 2 Section 1743</partNumber>
+  <partNumber>Title 2 Section 179v</partNumber>
+  <partNumber>Title 2 Section 1823a</partNumber>
+  <partNumber>Title 2 Section 1862</partNumber>
+  <partNumber>Title 2 Section 1906(a)</partNumber>
+  <partNumber>Title 2 Section 2146</partNumber>
+  <partNumber>Title 2 Section 2163</partNumber>
+  <partNumber>Title 2 Section 4501</partNumber>
+  <partNumber>Title 2 Section 5535</partNumber>
+  <partNumber>Title 2 Section 601(b)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">2 U.S.C. 1105</identifier>
+ <identifier type="USC citation">2 U.S.C. 1151</identifier>
+ <identifier type="USC citation">2 U.S.C. 135a</identifier>
+ <identifier type="USC citation">2 U.S.C. 1385</identifier>
+ <identifier type="USC citation">2 U.S.C. 150</identifier>
+ <identifier type="USC citation">2 U.S.C. 166</identifier>
+ <identifier type="USC citation">2 U.S.C. 1743</identifier>
+ <identifier type="USC citation">2 U.S.C. 179v</identifier>
+ <identifier type="USC citation">2 U.S.C. 1823a</identifier>
+ <identifier type="USC citation">2 U.S.C. 1862</identifier>
+ <identifier type="USC citation">2 U.S.C. 1906(a)</identifier>
+ <identifier type="USC citation">2 U.S.C. 2146</identifier>
+ <identifier type="USC citation">2 U.S.C. 2163</identifier>
+ <identifier type="USC citation">2 U.S.C. 4501</identifier>
+ <identifier type="USC citation">2 U.S.C. 5535</identifier>
+ <identifier type="USC citation">2 U.S.C. 601(b)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 3109</partNumber>
+  <partNumber>Title 5 Section 3109(b)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 3109</identifier>
+ <identifier type="USC citation">5 U.S.C. 3109(b)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 17 Section 708(d)</partNumber>
+  <partNumber>Title 17 Chapter 8</partNumber>
+</titleInfo>
+ <identifier type="USC citation">17 U.S.C. 708(d)</identifier>
+ <identifier type="USC citation">17 U.S.C. Chapter 8</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 22 Section 4081(5)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">22 U.S.C. 4081(5)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 3324</partNumber>
+  <partNumber>Title 31 Section 3521</partNumber>
+  <partNumber>Title 31 Section 782</partNumber>
+  <partNumber>Title 31 Section 791</partNumber>
+  <partNumber>Title 31 Section 9104</partNumber>
+  <partNumber>Title 31 Section 9105</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 3324</identifier>
+ <identifier type="USC citation">31 U.S.C. 3521</identifier>
+ <identifier type="USC citation">31 U.S.C. 782</identifier>
+ <identifier type="USC citation">31 U.S.C. 791</identifier>
+ <identifier type="USC citation">31 U.S.C. 9104</identifier>
+ <identifier type="USC citation">31 U.S.C. 9105</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 36 Section 151711(a)(1)(C)</partNumber>
+  <partNumber>Title 36 Section 152411(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">36 U.S.C. 151711(a)(1)(C)</identifier>
+ <identifier type="USC citation">36 U.S.C. 152411(a)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 44 Section 718</partNumber>
+  <partNumber>Title 44 Section 901</partNumber>
+  <partNumber>Title 44 Section 902</partNumber>
+  <partNumber>Title 44 Section 906</partNumber>
+  <partNumber>Title 44 Chapter 7</partNumber>
+</titleInfo>
+ <identifier type="USC citation">44 U.S.C. 718</identifier>
+ <identifier type="USC citation">44 U.S.C. 901</identifier>
+ <identifier type="USC citation">44 U.S.C. 902</identifier>
+ <identifier type="USC citation">44 U.S.C. 906</identifier>
+ <identifier type="USC citation">44 U.S.C. Chapter 7</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 32 Page 480</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">32 Stat. 480</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 46 Page 32 et seq.</partNumber>
+  <partNumber>Volume 46 Page 1487</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">46 Stat. 32 et seq.</identifier>
+ <identifier type="Statute citation">46 Stat. 1487</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 90 Page 1453</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">90 Stat. 1453</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 516</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr5325pcs</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>5325</billNumber>
+ <billVersion reprint="false">pcs</billVersion>
+ <fileSuffix>pcs</fileSuffix>
+ <action date="2016-06-13">Received; read twice and placed on the calendar</action>
+ <congCalendar congress="114" number="516" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="2">
+                      <section number="1105"></section>
+                      <section number="1151"></section>
+                      <section number="135a"></section>
+                      <section number="1385"></section>
+                      <section number="150"></section>
+                      <section number="166"></section>
+                      <section number="1743"></section>
+                      <section number="179v"></section>
+                      <section number="1823a"></section>
+                      <section number="1862"></section>
+                      <section detail="(a)" number="1906"></section>
+                      <section number="2146"></section>
+                      <section number="2163"></section>
+                      <section number="4501"></section>
+                      <section number="5535"></section>
+                      <section detail="(b)" number="601"></section>
+                </USCode>
+ <USCode title="5">
+                      <section number="3109"></section>
+                      <section detail="(b)" number="3109"></section>
+                </USCode>
+ <USCode title="17">
+                      <section detail="(d)" number="708"></section>
+                      <chapter number="8"></chapter>
+                </USCode>
+ <USCode title="22">
+                      <section detail="(5)" number="4081"></section>
+                </USCode>
+ <USCode title="31">
+                      <section number="3324"></section>
+                      <section number="3521"></section>
+                      <section number="782"></section>
+                      <section number="791"></section>
+                      <section number="9104"></section>
+                      <section number="9105"></section>
+                </USCode>
+ <USCode title="36">
+                      <section detail="(a)(1)(C)" number="151711"></section>
+                      <section detail="(a)" number="152411"></section>
+                </USCode>
+ <USCode title="44">
+                      <section number="718"></section>
+                      <section number="901"></section>
+                      <section number="902"></section>
+                      <section number="906"></section>
+                      <chapter number="7"></chapter>
+                </USCode>
+ <statuteAtLarge volume="32">
+                      <pages pages="480"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="46">
+                      <pages pages="32 et seq."></pages>
+                      <pages pages="1487"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="90">
+                      <pages pages="1453"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

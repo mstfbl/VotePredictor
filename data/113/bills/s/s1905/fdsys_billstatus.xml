@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-01-09</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2014-01-09</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-01-09</introducedDate>
+    <updateDate>2016-10-25T16:28:23Z</updateDate>
+    <createDate>2014-01-10T07:02:04Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssev00</systemCode>
+          <activities>
+            <item>
+              <date>2014-01-09T23:04:41Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Environment and Public Works Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001061</bioguideId>
+        <identifiers>
+          <lisID>2079</lisID>
+          <gpoId>8331</gpoId>
+          <bioguideId>H001061</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2014-01-09</sponsorshipDate>
+        <lastName>Hoeven</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>ND</state>
+        <firstName>John</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <middleName>F.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000437</bioguideId>
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+          <lisID>1226</lisID>
+        </identifiers>
+        <sponsorshipDate>2014-05-08</sponsorshipDate>
+        <lastName>WICKER</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>MS</state>
+        <firstName>ROGER</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Kirk, Mark Steven [R-IL]</fullName>
+        <middleName>STEVEN</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000360</bioguideId>
+        <identifiers>
+          <lisID>1647</lisID>
+          <bioguideId>K000360</bioguideId>
+          <gpoId>8285</gpoId>
+        </identifiers>
+        <sponsorshipDate>2014-06-05</sponsorshipDate>
+        <lastName>KIRK</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>IL</state>
+        <firstName>MARK</firstName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Electricity Security and Affordability Act</title>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Electricity Security and Affordability Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to provide direction to the Administrator of the Environmental Protection Agency regarding the establishment of standards for emissions of any greenhouse gas from fossil fuel-fired electric utility generating units, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Electricity Security and Affordability Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Electricity Security and Affordability Act - Prohibits the Administrator of the Environmental Protection Agency (EPA) from issuing, implementing, or enforcing any proposed or final rule under the Clean Air Act that establishes a performance standard for greenhouse gas emissions from any new source that is a fossil fuel-fired electric utility generating unit unless the rule meets specified requirements of this Act.</p> <p>Requires the Administrator to separate sources fueled with coal and natural gas into separate categories.</p> <p>Prohibits the Administrator, however, from setting a standard based on the best system of emission reduction for new sources within the coal category unless it has been achieved on average for at least one continuous 12-month period (excluding planned outages) by each of at least 6 units within the category. Requires each such unit to: (1) be located at a different electric generating station in the United States, (2) be representative of the operating characteristics of electric generation at its location, and (3) be operated for the entire 12-month period on a full commercial basis. Prohibits the use of any results obtained from a demonstration project in setting the standard.</p> <p>Requires the Administrator, in separating sources fueled with coal into a separate category, to establish a separate subcategory for new sources that are fossil fuel-fired electric utility generating units using coal with an average heat content of 8300 or less British Thermal Units (BTUs) per pound.</p> <p>Prohibits the Administrator, in issuing any rule establishing performance standards for greenhouse gas emissions from new sources in such subcategory, from setting a standard based on the best system of emission reduction unless the standard has been achieved on average for at least one continuous 12-month period (excluding planned outages) by each of at least 3 units within such subcategory that meets the unit requirements specified by this Act for the coal category.</p> <p>Precludes from taking effect, unless a federal law is enacted specifying an effective date, any EPA rule or guideline that: (1) establishes any performance standard for greenhouse gas emissions from a modified or reconstructed source that is a fossil fuel-fired electric utility generating unit, or (2) applies to greenhouse gas emissions from such an existing source.</p> <p>Nullifies the force and effect of specified proposed rules (or similar successor proposed or final rules) for Standards of Performance for Greenhouse Gas Emissions for New Stationary Sources: Electric Utility Generating Units that are issued before enactment of this Act.</p>]]></text>
+          <actionDate>2014-01-09</actionDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2014-01-09T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-03-10T21:05:30Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <number>2</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-11-17</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 601.</text>
+        </latestAction>
+        <latestTitle>American Energy Solutions for Lower Costs and More American Jobs Act</latestTitle>
+      </item>
+      <item>
+        <congress>113</congress>
+        <number>5360</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-09-15</actionDate>
+          <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+        </latestAction>
+        <latestTitle>American Renaissance in Manufacturing Act</latestTitle>
+      </item>
+      <item>
+        <congress>113</congress>
+        <number>3826</number>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2014-05-08</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 374.</text>
+        </latestAction>
+        <latestTitle>Electricity Security and Affordability Act</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Air quality</name>
+          </item>
+          <item>
+            <name>Climate change and greenhouse gases</name>
+          </item>
+          <item>
+            <name>Coal</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Electric power generation and transmission</name>
+          </item>
+          <item>
+            <name>Environmental Protection Agency (EPA)</name>
+          </item>
+          <item>
+            <name>Environmental regulatory procedures</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <actionDate>2014-01-09</actionDate>
+    </latestAction>
+    <billNumber>1905</billNumber>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Joe</firstName>
+        <party>D</party>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <bioguideId>M001183</bioguideId>
+        <identifiers>
+          <lisID>1983</lisID>
+          <gpoId>8256</gpoId>
+          <bioguideId>M001183</bioguideId>
+        </identifiers>
+        <lastName>Manchin</lastName>
+        <middleName />
+        <state>WV</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-10-30</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 113-280.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-10-28</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-10-28</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <hearingsHeld>1</hearingsHeld>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-10-28</introducedDate>
+    <updateDate>2016-10-25T16:27:11Z</updateDate>
+    <createDate>2013-10-29T01:29:48Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssva00</systemCode>
+          <activities>
+            <item>
+              <date>2013-10-30T18:00:00Z</date>
+              <name>Hearings by</name>
+            </item>
+            <item>
+              <date>2013-10-28T20:29:49Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Veterans' Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001070</bioguideId>
+        <identifiers>
+          <lisID>1828</lisID>
+          <gpoId>8282</gpoId>
+          <bioguideId>C001070</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-11-07</sponsorshipDate>
+        <lastName>Casey</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>PA</state>
+        <firstName>Bob</firstName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Improving Quality of Care Within the Department of Veterans Affairs Act of 2013</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Improving Quality of Care Within the Department of Veterans Affairs Act of 2013</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title 38, United States Code, to require the Secretary of Veterans Affairs to ensure the Department of Veterans Affairs has an up-to-date policy on reporting of cases of infectious diseases, to require an independent assessment of the Veterans Integrated Service Networks and medical centers of the Department, and for other purposes.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Improving Quality of Care Within the Department of Veterans Affairs Act of 2013</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2014-01-06T22:26:55Z</lastSummaryUpdateDate>
+          <updateDate>2013-10-28T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2013-10-28</actionDate>
+          <text><![CDATA[<p>Improving Quality of Care Within the Department of Veterans Affairs Act of 2013 - Requires the Secretary of Veterans Affairs to: (1) ensure that the Department of Veterans Affairs (VA) has in effect an up-to-date policy on reporting a notifiable infectious disease diagnosed at a VA facility in accordance with applicable state and local law, and (2) develop performance measures to assess whether and to what degree the directors of Veterans Integrated Service Networks (VISN) and VA medical centers are complying with such policy.</p> <p>Requires the Secretary to enter into a contract with an independent third-party to: (1) assess the organizational structures of VA medical centers, and (2) improve succession planning among key leadership roles at VISN and VA medical centers. </p> <UL><UL> </UL> </UL> <BR> </p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2014-02-04</actionDate>
+          <text>Motion to proceed to consideration of measure withdrawn in Senate. (consideration: CR S736)</text>
+        </latestAction>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Comprehensive Veterans Health and Benefits and Military Retirement Pay Restoration Act of 2014</latestTitle>
+        <number>1950</number>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2014-02-27</actionDate>
+          <text>Motion by Senator Reid to commit to Senate Committee on Veterans' Affairs with instructions to report back forthwith with amendment (SA 2767) fell when the bill was committed in Senate. (consideration: CR S1209-1210)</text>
+        </latestAction>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Comprehensive Veterans Health and Benefits and Military Retirement Pay Restoration Act of 2014</latestTitle>
+        <number>1982</number>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2014-06-02</actionDate>
+          <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        </latestAction>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Restoring Veterans Trust Act of 2014</latestTitle>
+        <number>2413</number>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Infectious and parasitic diseases</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 113-280.</text>
+      <actionDate>2013-10-30</actionDate>
+    </latestAction>
+    <billNumber>1589</billNumber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>RICHARD</firstName>
+        <party>R</party>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <bioguideId>B001135</bioguideId>
+        <identifiers>
+          <gpoId>8286</gpoId>
+          <lisID>153</lisID>
+          <bioguideId>B001135</bioguideId>
+        </identifiers>
+        <lastName>BURR</lastName>
+        <middleName />
+        <state>NC</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

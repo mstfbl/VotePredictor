@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-12-17</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2013-12-17</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2013-12-17</introducedDate>
+    <updateDate>2016-10-25T16:28:09Z</updateDate>
+    <createDate>2013-12-18T07:01:25Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-12-17T23:58:43Z</date>
+            </item>
+          </activities>
+          <name>Finance Committee</name>
+          <type>Standing</type>
+          <systemCode>ssfi00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>S001194</bioguideId>
+        <state>HI</state>
+        <sponsorshipDate>2013-12-17</sponsorshipDate>
+        <middleName />
+        <firstName>Brian</firstName>
+        <party>D</party>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <lastName>Schatz</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2173</lisID>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>W000805</bioguideId>
+        <state>VA</state>
+        <sponsorshipDate>2013-12-17</sponsorshipDate>
+        <middleName>R.</middleName>
+        <firstName>Mark</firstName>
+        <party>D</party>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <lastName>Warner</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1897</lisID>
+          <bioguideId>W000805</bioguideId>
+          <gpoId>8269</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>U000039</bioguideId>
+        <state>NM</state>
+        <sponsorshipDate>2013-12-17</sponsorshipDate>
+        <middleName />
+        <firstName>TOM</firstName>
+        <party>D</party>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <lastName>UDALL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1567</lisID>
+          <gpoId>8260</gpoId>
+          <bioguideId>U000039</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>R000122</bioguideId>
+        <state>RI</state>
+        <sponsorshipDate>2013-12-17</sponsorshipDate>
+        <middleName>F.</middleName>
+        <firstName>JOHN</firstName>
+        <party>D</party>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <lastName>REED</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8272</gpoId>
+          <lisID>949</lisID>
+          <bioguideId>R000122</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>H001042</bioguideId>
+        <state>HI</state>
+        <sponsorshipDate>2013-12-17</sponsorshipDate>
+        <middleName>K.</middleName>
+        <firstName>Mazie</firstName>
+        <party>D</party>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <lastName>Hirono</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1844</lisID>
+          <gpoId>7913</gpoId>
+          <bioguideId>H001042</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S000033</bioguideId>
+        <state>VT</state>
+        <sponsorshipDate>2013-12-17</sponsorshipDate>
+        <middleName />
+        <firstName>BERNARD</firstName>
+        <party>I</party>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <lastName>SANDERS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1010</lisID>
+          <bioguideId>S000033</bioguideId>
+          <gpoId>8270</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>F000457</bioguideId>
+        <state>MN</state>
+        <sponsorshipDate>2013-12-17</sponsorshipDate>
+        <middleName />
+        <firstName>Al</firstName>
+        <party>D</party>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <lastName>Franken</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1969</lisID>
+          <bioguideId>F000457</bioguideId>
+          <gpoId>8339</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <state>CT</state>
+        <sponsorshipDate>2013-12-17</sponsorshipDate>
+        <middleName />
+        <firstName>Richard</firstName>
+        <party>D</party>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <lastName>Blumenthal</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M001176</bioguideId>
+        <state>OR</state>
+        <sponsorshipDate>2013-12-17</sponsorshipDate>
+        <middleName />
+        <firstName>Jeff</firstName>
+        <party>D</party>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <lastName>Merkley</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+          <gpoId>8238</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>W000817</bioguideId>
+        <state>MA</state>
+        <sponsorshipDate>2013-12-17</sponsorshipDate>
+        <middleName>A.</middleName>
+        <firstName>Elizabeth</firstName>
+        <party>D</party>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <lastName>Warren</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId />
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>K000384</bioguideId>
+        <state>VA</state>
+        <sponsorshipDate>2013-12-17</sponsorshipDate>
+        <middleName />
+        <firstName>Timothy</firstName>
+        <party>D</party>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <lastName>Kaine</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>K000383</bioguideId>
+        <state>ME</state>
+        <sponsorshipDate>2013-12-17</sponsorshipDate>
+        <middleName />
+        <firstName>Angus</firstName>
+        <party>I</party>
+        <fullName>Sen. King, Angus S. Jr. [I-ME]</fullName>
+        <lastName>King</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001265</bioguideId>
+        <state>AK</state>
+        <sponsorshipDate>2013-12-17</sponsorshipDate>
+        <middleName />
+        <firstName>Mark</firstName>
+        <party>D</party>
+        <fullName>Sen. Begich, Mark [D-AK]</fullName>
+        <lastName>Begich</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001265</bioguideId>
+          <lisID>1898</lisID>
+          <gpoId>8301</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>U000038</bioguideId>
+        <state>CO</state>
+        <sponsorshipDate>2013-12-17</sponsorshipDate>
+        <middleName />
+        <firstName>MARK</firstName>
+        <party>D</party>
+        <fullName>Sen. Udall, Mark [D-CO]</fullName>
+        <lastName>UDALL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1595</lisID>
+          <gpoId>8259</gpoId>
+          <bioguideId>U000038</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <state>MN</state>
+        <sponsorshipDate>2013-12-17</sponsorshipDate>
+        <middleName />
+        <firstName>Amy</firstName>
+        <party>D</party>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <lastName>Klobuchar</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>L000550</bioguideId>
+        <state>LA</state>
+        <sponsorshipDate>2013-12-17</sponsorshipDate>
+        <middleName />
+        <firstName>MARY</firstName>
+        <party>D</party>
+        <fullName>Sen. Landrieu, Mary L. [D-LA]</fullName>
+        <lastName>LANDRIEU</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1546</lisID>
+          <gpoId>8251</gpoId>
+          <bioguideId>L000550</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M000133</bioguideId>
+        <state>MA</state>
+        <sponsorshipDate>2013-12-18</sponsorshipDate>
+        <middleName>J.</middleName>
+        <firstName>EDWARD</firstName>
+        <party>D</party>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <lastName>MARKEY</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>H001046</bioguideId>
+        <state>NM</state>
+        <sponsorshipDate>2013-12-18</sponsorshipDate>
+        <middleName />
+        <firstName>Martin</firstName>
+        <party>D</party>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <lastName>Heinrich</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>H001046</bioguideId>
+          <gpoId>8056</gpoId>
+          <lisID>1937</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>C001088</bioguideId>
+        <state>DE</state>
+        <sponsorshipDate>2013-12-19</sponsorshipDate>
+        <middleName>A.</middleName>
+        <firstName>Christopher</firstName>
+        <party>D</party>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <lastName>Coons</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001230</bioguideId>
+        <state>WI</state>
+        <sponsorshipDate>2013-12-20</sponsorshipDate>
+        <middleName />
+        <firstName>TAMMY</firstName>
+        <party>D</party>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <lastName>BALDWIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+          <gpoId>8215</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S000770</bioguideId>
+        <state>MI</state>
+        <sponsorshipDate>2014-01-13</sponsorshipDate>
+        <middleName>ANN</middleName>
+        <firstName>DEBORAH</firstName>
+        <party>D</party>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <lastName>STABENOW</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1531</lisID>
+          <bioguideId>S000770</bioguideId>
+          <gpoId>8261</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>L000174</bioguideId>
+        <state>VT</state>
+        <sponsorshipDate>2014-01-13</sponsorshipDate>
+        <middleName>JOSEPH</middleName>
+        <firstName>PATRICK</firstName>
+        <party>D</party>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <lastName>LEAHY</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1383</lisID>
+          <bioguideId>L000174</bioguideId>
+          <gpoId>8244</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>M001183</bioguideId>
+        <state>WV</state>
+        <sponsorshipDate>2014-01-15</sponsorshipDate>
+        <middleName />
+        <firstName>Joe</firstName>
+        <party>D</party>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <lastName>Manchin</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1983</lisID>
+          <gpoId>8256</gpoId>
+          <bioguideId>M001183</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Military Retirement Restoration Act</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Military Retirement Restoration Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to restore full military retirement benefits by closing corporate tax loopholes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Military Retirement Restoration Act</title>
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2014-01-27T19:50:10Z</lastSummaryUpdateDate>
+          <updateDate>2013-12-17T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2013-12-17</actionDate>
+          <text><![CDATA[<p>Military Retirement Restoration Act - Repeals the provision of the Bipartisan Budget Act of 2013 that reduces the cost-of-living adjustment to the retirement pay of&nbsp;members of the Armed Forces under age&nbsp;62.</p> <p>Amends the Internal Revenue Code to treat a foreign corporation managed and controlled, directly or indirectly, primarily in the United States as a domestic corporation for U.S. tax purposes if the stock of such corporation is regularly traded on an established securities market or the aggregate gross assets of such corporation during the taxable year or any preceding taxable year is $50 million or more.&nbsp; </p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <number>3793</number>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>Military Retirement Restoration Act</latestTitle>
+      </item>
+      <item>
+        <number>694</number>
+        <latestAction>
+          <actionDate>2013-02-14</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>Corporate Tax Fairness Act</latestTitle>
+      </item>
+      <item>
+        <number>1554</number>
+        <latestAction>
+          <actionDate>2013-04-15</actionDate>
+          <text>Referred to House Financial Services</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>Stop Tax Haven Abuse Act</latestTitle>
+      </item>
+      <item>
+        <number>1555</number>
+        <latestAction>
+          <actionDate>2013-04-15</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>International Tax Competitiveness Act of 2013</latestTitle>
+      </item>
+      <item>
+        <number>3666</number>
+        <latestAction>
+          <actionDate>2013-12-05</actionDate>
+          <text>Referred to House Budget</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>Sequester Delay and Stop Tax Haven Abuse Act</latestTitle>
+      </item>
+      <item>
+        <number>250</number>
+        <latestAction>
+          <actionDate>2013-02-07</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>S</type>
+        <latestTitle>Corporate Tax Dodging Prevention Act</latestTitle>
+      </item>
+      <item>
+        <number>268</number>
+        <latestAction>
+          <actionDate>2013-02-11</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>S</type>
+        <latestTitle>CUT Loopholes Act</latestTitle>
+      </item>
+      <item>
+        <number>1533</number>
+        <latestAction>
+          <actionDate>2013-09-19</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>S</type>
+        <latestTitle>Stop Tax Haven Abuse Act</latestTitle>
+      </item>
+      <item>
+        <number>3788</number>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>To repeal the reductions in military retirement benefits made by the Bipartisan Budget Act of 2013 and to require inclusion of the taxpayer's social security number to claim the refundable portion of the child tax credit.</latestTitle>
+      </item>
+      <item>
+        <number>3801</number>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>To repeal the reductions in military retirement benefits made by the Bipartisan Budget Act of 2013 and to authorize the United States Postal Service to implement a modified Saturday delivery schedule.</latestTitle>
+      </item>
+      <item>
+        <number>1963</number>
+        <latestAction>
+          <actionDate>2014-02-12</actionDate>
+          <text>Returned to the Calendar. Calendar No. 298.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>S</type>
+        <latestTitle>A bill to repeal section 403 of the Bipartisan Budget Act of 2013.</latestTitle>
+      </item>
+      <item>
+        <number>3787</number>
+        <latestAction>
+          <actionDate>2014-01-28</actionDate>
+          <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>To repeal the annual adjustment of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62, and for other purposes.</latestTitle>
+      </item>
+      <item>
+        <number>1931</number>
+        <latestAction>
+          <actionDate>2014-01-16</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 296.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>S</type>
+        <latestTitle>Responsible Unemployment Compensation Extension Act of 2014</latestTitle>
+      </item>
+      <item>
+        <number>4134</number>
+        <latestAction>
+          <actionDate>2014-06-20</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>America First Act</latestTitle>
+      </item>
+      <item>
+        <number>1977</number>
+        <latestAction>
+          <actionDate>2014-02-03</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 300.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>S</type>
+        <latestTitle>Honor Our Promise Act</latestTitle>
+      </item>
+      <item>
+        <number>1950</number>
+        <latestAction>
+          <actionDate>2014-02-04</actionDate>
+          <text>Motion to proceed to consideration of measure withdrawn in Senate. (consideration: CR S736)</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>S</type>
+        <latestTitle>Comprehensive Veterans Health and Benefits and Military Retirement Pay Restoration Act of 2014</latestTitle>
+      </item>
+      <item>
+        <number>3790</number>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>To repeal the annual adjustment of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62.</latestTitle>
+      </item>
+      <item>
+        <number>3792</number>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>To repeal the reduction in the annual percentage increases of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62.</latestTitle>
+      </item>
+      <item>
+        <number>3807</number>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>Uphold Our Promise to Veterans Act</latestTitle>
+      </item>
+      <item>
+        <number>1856</number>
+        <latestAction>
+          <actionDate>2013-12-18</actionDate>
+          <text>Read twice and referred to the Committee on Armed Services.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>S</type>
+        <latestTitle>A bill to repeal section 403 of the Bipartisan Budget Act of 2013, relating to an annual adjustment of retired pay for members of the Armed Forces under the age of 62.</latestTitle>
+      </item>
+      <item>
+        <number>1869</number>
+        <latestAction>
+          <actionDate>2013-12-19</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>S</type>
+        <latestTitle>Keeping Our Promise to Our Military Heroes Act</latestTitle>
+      </item>
+      <item>
+        <number>3794</number>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>To repeal the annual adjustment of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62, and for other purposes.</latestTitle>
+      </item>
+      <item>
+        <number>3797</number>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>To repeal an annual adjustment of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62, and for other purposes.</latestTitle>
+      </item>
+      <item>
+        <number>3798</number>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>To repeal an annual adjustment of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62, and for other purposes.</latestTitle>
+      </item>
+      <item>
+        <number>3804</number>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>To repeal the annual adjustment of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62.</latestTitle>
+      </item>
+      <item>
+        <number>1930</number>
+        <latestAction>
+          <actionDate>2014-01-15</actionDate>
+          <text>Read twice and referred to the Committee on Armed Services.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>S</type>
+        <latestTitle>Uphold Our Promise to Veterans Act</latestTitle>
+      </item>
+      <item>
+        <number>5338</number>
+        <latestAction>
+          <actionDate>2014-07-31</actionDate>
+          <text>Referred to House Foreign Affairs</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>Federal Employee Pension Fairness Act</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Department of the Treasury</name>
+          </item>
+          <item>
+            <name>Foreign and international corporations</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Taxation of foreign income</name>
+          </item>
+          <item>
+            <name>U.S. and foreign investments</name>
+          </item>
+          <item>
+            <name>Veterans' pensions and compensation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2013-12-17</actionDate>
+    </latestAction>
+    <billNumber>1844</billNumber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Jeanne</firstName>
+        <party>D</party>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <bioguideId>S001181</bioguideId>
+        <identifiers>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <lastName>Shaheen</lastName>
+        <middleName />
+        <state>NH</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

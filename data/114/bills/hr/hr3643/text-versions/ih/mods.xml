@@ -1,0 +1,322 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18da5b8aa">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Nuclear Waste Policy Act of 1982 to authorize the Secretary of Energy to enter into contracts for the storage of certain high-level radioactive waste and spent nuclear fuel, take title to certain high-level radioactive waste and spent nuclear fuel, and make certain expenditures from the Nuclear Waste Fund.;Interim Consolidated Storage Act of 2015;H.R. 3643 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-10-02</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Nuclear Waste Policy Act of 1982 to authorize the Secretary of Energy to enter into contracts for the storage of certain high-level radioactive waste and spent nuclear fuel, take title to certain high-level radioactive waste and spent nuclear fuel, and make certain expenditures from the Nuclear Waste Fund.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Interim Consolidated Storage Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 3643 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-09-29</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>7 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18da5b8aa</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3643ih</identifier>
+<identifier type="preferred citation">H.R. 3643</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h3643_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3643ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3643ih/html/BILLS-114hr3643ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3643ih/pdf/BILLS-114hr3643ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr3643ih/xml/BILLS-114hr3643ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-10-02</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr3643ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>K. Michael Conaway</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Darrell E. Issa</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Joe Courtney</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Sam Johnson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Randy Neugebauer</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Blake Farenthold</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Doris O. Matsui</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Chellie Pingree</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kay Granger</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gene Green</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kenny Marchant</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Abney Culberson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lamar Smith</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John R. Carter</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Energy and Commerce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 10101</partNumber>
+  <partNumber>Title 42 Section 10121et seq.</partNumber>
+  <partNumber>Title 42 Section 10155(h)</partNumber>
+  <partNumber>Title 42 Section 10222(d)</partNumber>
+  <partNumber>Title 42 Section 10222(e)(2)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 10101</identifier>
+ <identifier type="USC citation">42 U.S.C. 10121et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 10155(h)</identifier>
+ <identifier type="USC citation">42 U.S.C. 10222(d)</identifier>
+ <identifier type="USC citation">42 U.S.C. 10222(e)(2)</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr3643ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>3643</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Interim Consolidated Storage Act of 2015</shortTitle>
+ <officialTitle>To amend the Nuclear Waste Policy Act of 1982 to authorize the Secretary of Energy to enter into contracts for the storage of certain high-level radioactive waste and spent nuclear fuel, take title to certain high-level radioactive waste and spent nuclear fuel, and make certain expenditures from the Nuclear Waste Fund.</officialTitle>
+ <action date="2015-09-29">Mr. Conaway (for himself, Mr. Issa, Mr. Courtney, Mr. Sam Johnson of Texas, Mr. Neugebauer, Mr. Farenthold, Ms. Matsui, Ms. Pingree, Ms. Granger, Mr. Gene Green of Texas, Mr. Marchant, Mr. Culberson, Mr. Smith of Texas, and Mr. Carter of Texas) introduced the following bill; which was referred to the Committee on Energy and Commerce</action>
+ <congCommittee authorityId="hsif00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Energy and Commerce</name>
+                      <name type="authority-short">Energy and Commerce</name>
+                </congCommittee>
+ <congMember authorityId="1805" bioGuideId="C001062" chamber="H" congress="114" gpoId="8167" party="R" role="SPONSOR" state="TX">
+                      <name type="parsed">Mr. Conaway</name>
+                      <name type="authority-fnf">K. Michael Conaway</name>
+                      <name type="authority-lnf">Conaway, K. Michael</name>
+                </congMember>
+ <congMember authorityId="1640" bioGuideId="I000056" chamber="H" congress="114" gpoId="7854" party="R" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Issa</name>
+                      <name type="authority-fnf">Darrell E. Issa</name>
+                      <name type="authority-lnf">Issa, Darrell E.</name>
+                      <name type="authority-other">Darrell Issa</name>
+                </congMember>
+ <congMember authorityId="1836" bioGuideId="C001069" chamber="H" congress="114" gpoId="7867" party="D" role="COSPONSOR" state="CT">
+                      <name type="parsed">Mr. Courtney</name>
+                      <name type="authority-fnf">Joe Courtney</name>
+                      <name type="authority-lnf">Courtney, Joe</name>
+                </congMember>
+ <congMember authorityId="603" bioGuideId="J000174" chamber="H" congress="114" gpoId="8159" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Sam Johnson of Texas</name>
+                      <name type="authority-fnf">Sam Johnson</name>
+                      <name type="authority-lnf">Johnson, Sam</name>
+                </congMember>
+ <congMember authorityId="1758" bioGuideId="N000182" chamber="H" congress="114" gpoId="8175" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Neugebauer</name>
+                      <name type="authority-fnf">Randy Neugebauer</name>
+                      <name type="authority-lnf">Neugebauer, Randy</name>
+                </congMember>
+ <congMember authorityId="2067" bioGuideId="F000460" chamber="H" congress="114" gpoId="8183" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Farenthold</name>
+                      <name type="authority-fnf">Blake Farenthold</name>
+                      <name type="authority-lnf">Farenthold, Blake</name>
+                </congMember>
+ <congMember authorityId="1814" bioGuideId="M001163" chamber="H" congress="114" gpoId="7810" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Matsui</name>
+                      <name type="authority-fnf">Doris O. Matsui</name>
+                      <name type="authority-lnf">Matsui, Doris O.</name>
+                      <name type="authority-other">Ms. Doris Matsui</name>
+                </congMember>
+ <congMember authorityId="1927" bioGuideId="P000597" chamber="H" congress="114" gpoId="7984" party="D" role="COSPONSOR" state="ME">
+                      <name type="parsed">Ms. Pingree</name>
+                      <name type="authority-fnf">Chellie Pingree</name>
+                      <name type="authority-lnf">Pingree, Chellie</name>
+                </congMember>
+ <congMember authorityId="1487" bioGuideId="G000377" chamber="H" congress="114" gpoId="8168" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Ms. Granger</name>
+                      <name type="authority-fnf">Kay Granger</name>
+                      <name type="authority-lnf">Granger, Kay</name>
+                </congMember>
+ <congMember authorityId="462" bioGuideId="G000410" chamber="H" congress="114" gpoId="8185" party="D" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Gene Green of Texas</name>
+                      <name type="authority-fnf">Gene Green</name>
+                      <name type="authority-lnf">Green, Gene</name>
+                </congMember>
+ <congMember authorityId="1806" bioGuideId="M001158" chamber="H" congress="114" gpoId="8766" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Marchant</name>
+                      <name type="authority-fnf">Kenny Marchant</name>
+                      <name type="authority-lnf">Marchant, Kenny</name>
+                </congMember>
+ <congMember authorityId="1670" bioGuideId="C001048" chamber="H" congress="114" gpoId="8163" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Culberson</name>
+                      <name type="authority-fnf">John Abney Culberson</name>
+                      <name type="authority-lnf">Culberson, John Abney</name>
+                      <name type="authority-other">John Culberson</name>
+                </congMember>
+ <congMember authorityId="1075" bioGuideId="S000583" chamber="H" congress="114" gpoId="8177" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Smith of Texas</name>
+                      <name type="authority-fnf">Lamar Smith</name>
+                      <name type="authority-lnf">Smith, Lamar</name>
+                </congMember>
+ <congMember authorityId="1752" bioGuideId="C001051" chamber="H" congress="114" gpoId="8187" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Carter of Texas</name>
+                      <name type="authority-fnf">John R. Carter</name>
+                      <name type="authority-lnf">Carter, John R.</name>
+                      <name type="authority-other">Mr. John Carter</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="42">
+                      <section number="10101"></section>
+                      <section detail="et seq." number="10121"></section>
+                      <section detail="(h)" number="10155"></section>
+                      <section detail="(d)" number="10222"></section>
+                      <section detail="(e)(2)" number="10222"></section>
+                </USCode>
+</extension>
+</mods>

@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2013-03-07T07:01:12Z</createDate>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Boxer, Barbara [D-CA]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000711</bioguideId>
+        <identifiers>
+          <gpoId>8306</gpoId>
+          <lisID>116</lisID>
+          <bioguideId>B000711</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-03-06</sponsorshipDate>
+        <lastName>BOXER</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>CA</state>
+        <firstName>BARBARA</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Lautenberg, Frank R. [D-NJ]</fullName>
+        <middleName>R.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000123</bioguideId>
+        <identifiers>
+          <lisID>1381</lisID>
+          <gpoId>8245</gpoId>
+          <bioguideId>L000123</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-03-06</sponsorshipDate>
+        <lastName>LAUTENBERG</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>NJ</state>
+        <firstName>FRANK</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000033</bioguideId>
+        <identifiers>
+          <lisID>1010</lisID>
+          <gpoId>8270</gpoId>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-03-06</sponsorshipDate>
+        <lastName>SANDERS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>I</party>
+        <state>VT</state>
+        <firstName>BERNARD</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000464</bioguideId>
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <sponsorshipDate>2013-03-06</sponsorshipDate>
+        <lastName>Tester</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <state>MT</state>
+        <firstName>Jon</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000555</bioguideId>
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-03-14</sponsorshipDate>
+        <lastName>Gillibrand</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>NY</state>
+        <firstName>Kirsten</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000802</bioguideId>
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+          <lisID>1823</lisID>
+        </identifiers>
+        <sponsorshipDate>2013-04-08</sponsorshipDate>
+        <lastName>Whitehouse</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>RI</state>
+        <firstName>Sheldon</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000817</bioguideId>
+        <identifiers>
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2014-05-22</sponsorshipDate>
+        <lastName>Warren</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <state>MA</state>
+        <firstName>Elizabeth</firstName>
+      </item>
+    </cosponsors>
+    <title>Health Insurance Rate Review Act</title>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-03-06</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S1234-1235</url>
+            <name>S1234-1235</name>
+          </link>
+        </links>
+        <type>IntroReferral</type>
+        <actionCode>B00100</actionCode>
+        <text>Sponsor introductory remarks on measure. (CR S1234-1235)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2013-03-06</actionDate>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2013-03-06</actionDate>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <committeeReports />
+    <updateDate>2016-10-25T16:21:31Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Disability and health-based discrimination</name>
+          </item>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <actionDate>2013-03-06</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>F000062</bioguideId>
+        <state>CA</state>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <firstName>DIANNE</firstName>
+        <party>D</party>
+        <lastName>FEINSTEIN</lastName>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <number>1019</number>
+        <latestAction>
+          <actionDate>2013-03-08</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>Health Insurance Rate Review Act</latestTitle>
+      </item>
+      <item>
+        <number>3504</number>
+        <latestAction>
+          <actionDate>2013-11-22</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>Consumer Protection and Rate Review Act of 2013</latestTitle>
+      </item>
+    </relatedBills>
+    <laws />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-03-06T21:18:37Z</date>
+            </item>
+          </activities>
+          <systemCode>sshr00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-03-06</actionDate>
+          <updateDate>2013-03-06T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2013-03-11T21:30:37Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Health Insurance Rate Review Act - Amends the Public Health Service Act to declare that federal requirements that the Secretary of Health and Human Services (HHS) review unreasonable premium increases in health care coverage shall not be construed to prohibit a state from imposing additional rate requirements on health insurance issuers that are more protective of consumers. Expands such review to include all rate increases, not only premium increases.</p> <p>Directs the Secretary or the relevant state insurance commissioner (or state regulator) to take corrective actions to ensure that any excessive, unjustified, or unfairly discriminatory rates are corrected before, or as soon as possible after, implementation, including through mechanisms such as denying rates, modifying rates, or requiring rebates to consumers. Authorizes civil monetary penalties and ineligibility as a qualified health plan for failing to comply with any corrective action taken by the Secretary.</p> <p>Requires the Secretary to determine whether the state insurance commissioner or regulator or the Secretary will undertake such corrective actions based on whether the state can adequately undertake such actions.<br /> <br /> Applies this Act to health plans grandfathered under the Patient Protection and Affordable Care Act.</p>]]></text>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <introducedDate>2013-03-06</introducedDate>
+    <billType>S</billType>
+    <congress>113</congress>
+    <billNumber>482</billNumber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Health Insurance Rate Review Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Public Health Service Act to provide protections for consumers against excessive, unjustified, or unfairly discriminatory increases in premium rates.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Health Insurance Rate Review Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

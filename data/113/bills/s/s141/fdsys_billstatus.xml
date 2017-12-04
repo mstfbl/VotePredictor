@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-01-24</actionDate>
+        <committee>
+          <systemCode>ssaf00</systemCode>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Sponsor introductory remarks on measure. (CR S288)</text>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S288</url>
+            <name>S288</name>
+          </link>
+        </links>
+        <type>IntroReferral</type>
+        <actionDate>2013-01-24</actionDate>
+        <actionCode>B00100</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2013-01-24</actionDate>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-01-24</introducedDate>
+    <updateDate>2016-10-25T16:20:13Z</updateDate>
+    <createDate>2013-01-25T07:00:57Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-01-24T22:02:54Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <subcommittees />
+          <systemCode>ssaf00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <middleName>ANN</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000770</bioguideId>
+        <firstName>DEBORAH</firstName>
+        <identifiers>
+          <lisID>1531</lisID>
+          <gpoId>8261</gpoId>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <state>MI</state>
+        <sponsorshipDate>2013-01-24</sponsorshipDate>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <lastName>STABENOW</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000575</bioguideId>
+        <firstName>Roy</firstName>
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <gpoId>8313</gpoId>
+          <lisID>1464</lisID>
+        </identifiers>
+        <state>MO</state>
+        <sponsorshipDate>2013-01-24</sponsorshipDate>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <lastName>Blunt</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001170</bioguideId>
+        <firstName>Claire</firstName>
+        <identifiers>
+          <lisID>1820</lisID>
+          <bioguideId>M001170</bioguideId>
+          <gpoId>8252</gpoId>
+        </identifiers>
+        <state>MO</state>
+        <sponsorshipDate>2013-01-28</sponsorshipDate>
+        <fullName>Sen. McCaskill, Claire [D-MO]</fullName>
+        <lastName>McCaskill</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001176</bioguideId>
+        <firstName>Jeff</firstName>
+        <identifiers>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <state>OR</state>
+        <sponsorshipDate>2013-01-30</sponsorshipDate>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <lastName>Merkley</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001069</bioguideId>
+        <firstName>Heidi</firstName>
+        <identifiers>
+          <lisID>2174</lisID>
+          <bioguideId>H001069</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>ND</state>
+        <sponsorshipDate>2013-03-11</sponsorshipDate>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <lastName>Heitkamp</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>U000039</bioguideId>
+        <firstName>TOM</firstName>
+        <identifiers>
+          <bioguideId>U000039</bioguideId>
+          <lisID>1567</lisID>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <state>NM</state>
+        <sponsorshipDate>2013-04-08</sponsorshipDate>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <lastName>UDALL</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>J000177</bioguideId>
+        <firstName>TIM</firstName>
+        <identifiers>
+          <lisID>604</lisID>
+          <gpoId>8319</gpoId>
+          <bioguideId>J000177</bioguideId>
+        </identifiers>
+        <state>SD</state>
+        <sponsorshipDate>2013-04-17</sponsorshipDate>
+        <fullName>Sen. Johnson, Tim [D-SD]</fullName>
+        <lastName>JOHNSON</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000779</bioguideId>
+        <firstName>RON</firstName>
+        <identifiers>
+          <gpoId>8265</gpoId>
+          <lisID>1247</lisID>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <state>OR</state>
+        <sponsorshipDate>2013-05-09</sponsorshipDate>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <lastName>WYDEN</lastName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>A bill to make supplemental agricultural disaster assistance available for fiscal years 2012 and 2013, and for other purposes.</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to make supplemental agricultural disaster assistance available for fiscal years 2012 and 2013, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to make supplemental agricultural disaster assistance available for fiscal years 2012 and 2013, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2013-03-19T20:07:40Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Makes livestock indemnity payments (at 65% of an animal's market value) through FY2013 to eligible producers on farms that have incurred excess livestock death losses due to: (1) attacks by animals reintroduced into the wild by the federal government or protected by federal law, including wolves; or (2) adverse weather, including hurricanes, floods, blizzards, disease, wildfires, extreme heat, and extreme cold. </p> <p>Establishes a livestock forage disaster program to provide one source for livestock forage disaster assistance for weather-related forage losses by combining: (1) the livestock forage assistance functions of the non insured crop disaster assistance program and the emergency assistance for livestock, honey bees, and farm-raised fish program; and (2) the livestock forage disaster program. </p> <p>Provides assistance through FY2013 for forage losses: (1) due to drought on land that is native or improved pasture land with permanent vegetative cover or is planted to a crop planted specifically for the purpose of providing grazing for covered livestock; (2) on federally-managed rangeland due to a fire; and (3) due to weather-related conditions other than drought or fire on land that is native or improved pasture land with permanent vegetative cover, or is planted to a crop planted specifically for the purpose of providing grazing for covered livestock.</p> <p>Provides funds through FY2013 for: (1) emergency assistance to eligible producers of livestock, honey bees, and farm-raised fish to aid in the reduction of losses due to disease, adverse weather, or other conditions, such as blizzards and wildfires; and (2) assistance to eligible orchardists and nursery tree growers that planted trees for commercial purposes but lost the trees as a result of a natural disaster, and to eligible orchardists and nursery tree growers that have a production history for commercial purposes on planted or existing trees but lost the trees as a result of a natural disaster (requires tree mortality to exceed 15%). </p> <p>Amends the Federal Agriculture Improvement and Reform Act of 1996 to provide coverages based on individual yields (other than for value-loss crops) under the non insured crop disaster assistance program equivalent to: (1) catastrophic risk protection, or (2) specified additional coverage.</p> <p>Makes additional program coverage available at 50% to 65% of established yield and 100% of average market price. Reduces the premium for additional coverage by 50% for limited resource, beginning, and socially disadvantaged farmers. </p> <p>Makes assistance available as soon as practicable to producers with 2012 losses of certain fruit crops in counties declared a disaster due to freeze or frost.</p>]]></text>
+          <updateDate>2013-01-24T05:00:00Z</updateDate>
+          <actionDate>2013-01-24</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestTitle>Agriculture Reform, Food, and Jobs Act of 2013</latestTitle>
+        <congress>113</congress>
+        <latestAction>
+          <text>By Senator Stabenow from Committee on Agriculture, Nutrition, and Forestry filed written report under authority of the order of the Senate of 08/01/2013. Report No. 113-88. Additional views filed.</text>
+          <actionDate>2013-09-04</actionDate>
+        </latestAction>
+        <number>954</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HR</type>
+        <latestTitle>To make supplemental agricultural disaster assistance available for fiscal years 2012 and 2013, and for other purposes.</latestTitle>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Agriculture.</text>
+          <actionDate>2013-04-10</actionDate>
+        </latestAction>
+        <number>1454</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>S</type>
+        <latestTitle>Agriculture Reform, Food, and Jobs Act of 2013</latestTitle>
+        <congress>113</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. (text of measure as introduced: CR S48-156)</text>
+          <actionDate>2013-01-22</actionDate>
+        </latestAction>
+        <number>10</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <type>HR</type>
+        <latestTitle>Agriculture Reform, Food, and Jobs Act of 2013</latestTitle>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to the House Committee on Agriculture.</text>
+          <actionDate>2013-06-25</actionDate>
+        </latestAction>
+        <number>2498</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural prices, subsidies, credit</name>
+          </item>
+          <item>
+            <name>Aquaculture</name>
+          </item>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Insects</name>
+          </item>
+          <item>
+            <name>Livestock</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+      <actionDate>2013-01-24</actionDate>
+    </latestAction>
+    <billNumber>141</billNumber>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>MAX</firstName>
+        <party>D</party>
+        <fullName>Sen. Baucus, Max [D-MT]</fullName>
+        <bioguideId>B000243</bioguideId>
+        <identifiers>
+          <lisID>66</lisID>
+          <bioguideId>B000243</bioguideId>
+          <gpoId>8298</gpoId>
+        </identifiers>
+        <lastName>BAUCUS</lastName>
+        <middleName>SIEBEN</middleName>
+        <state>MT</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

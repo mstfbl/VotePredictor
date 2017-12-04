@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2014-07-17T05:04:56Z</createDate>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <state>OH</state>
+        <bioguideId>B000944</bioguideId>
+        <sponsorshipDate>2014-07-16</sponsorshipDate>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <firstName>SHERROD</firstName>
+        <lastName>BROWN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <title>A bill to amend certain provisions of the FAA Modernization and Reform Act of 2012.</title>
+    <actions>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H15000</actionCode>
+        <type>Floor</type>
+        <actionTime>20:55:29</actionTime>
+        <text>Held at the desk.</text>
+        <committee />
+        <links />
+        <actionDate>2014-12-10</actionDate>
+      </item>
+      <item>
+        <actionDate>2014-12-10</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H14000</actionCode>
+        <type>Floor</type>
+        <actionTime>19:06:04</actionTime>
+        <text>Received in the House.</text>
+        <committee />
+        <links />
+        <actionDate>2014-12-10</actionDate>
+      </item>
+      <item>
+        <actionDate>2014-12-10</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S6518</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S6518</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (text: CR S6518)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>17000</actionCode>
+        <type>Floor</type>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(text: CR S6518)</text>
+        <links>
+          <link>
+            <name>S6518</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S6518</url>
+          </link>
+        </links>
+        <actionDate>2014-12-10</actionDate>
+      </item>
+      <item>
+        <actionDate>2014-12-10</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S6517-6518</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S6517-6518</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S6517-6518)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <actionCode>14500</actionCode>
+        <type>Committee</type>
+        <text>Senate Committee on Finance discharged by Unanimous Consent.(consideration: CR S6517-6518)</text>
+        <links>
+          <link>
+            <name>S6517-6518</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S6517-6518</url>
+          </link>
+        </links>
+        <actionDate>2014-12-10</actionDate>
+      </item>
+      <item>
+        <actionDate>2014-07-16</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2014-07-16</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>7</senate>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <referredToCommittee>1</referredToCommittee>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <committeeDischarged>1</committeeDischarged>
+        <sentToHouse>1</sentToHouse>
+        <passedSenate>1</passedSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+      </actionTypeCounts>
+    </actions>
+    <amendments />
+    <committeeReports />
+    <updateDate>2016-10-25T16:31:30Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Bankruptcy</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Income tax deferral</name>
+          </item>
+          <item>
+            <name>Transportation employees</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes>
+      <item>
+        <text><![CDATA[For further action, see H.R.2591, which became Public Law 113-243 on 12/18/2014.]]></text>
+        <links>
+          <link>
+            <name>H.R.2591</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/2591</url>
+          </link>
+        </links>
+      </item>
+    </notes>
+    <latestAction>
+      <actionTime>20:55:29</actionTime>
+      <text>Held at the desk.</text>
+      <actionDate>2014-12-10</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>I000024</bioguideId>
+        <state>OK</state>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <firstName>JIM</firstName>
+        <party>R</party>
+        <lastName>INHOFE</lastName>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <lisID>583</lisID>
+          <gpoId>8322</gpoId>
+          <bioguideId>I000024</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2014-12-18</actionDate>
+          <text>Became Public Law No: 113-243.</text>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To amend certain provisions of the FAA Modernization and Reform Act of 2012.</latestTitle>
+        <number>2591</number>
+      </item>
+    </relatedBills>
+    <laws />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2014-12-10T22:20:16Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2014-07-16T19:10:02Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2014-08-26T14:01:32Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2014-07-16T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <actionDate>2014-07-16</actionDate>
+          <text><![CDATA[<p>Amends the FAA Modernization and Reform Act of 2012, with respect to rollovers to a traditional or Roth individual retirement account (IRA) of payments to qualified airline employees in commercial airline carrier bankruptcy cases, to: (1) extend the period for filing a claim for refund of an overpayment of tax resulting from the receipt of such payments (i.e., by the later of April 15, 2015, or the expiration of the limitation period for filing refund claims); (2) modify the definition of "airline payment amount" to include payments in an airline carrier bankruptcy case filed after September 11, 2001, and before January 1, 2007, or on November 29, 2011; and (3) modify the definition of "qualified airline employee" to include an employee who was a participant in a defined benefit plan maintained by an airline carrier that was frozen effective November 1, 2012. </p>]]></text>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2014-12-17T19:14:19Z</lastSummaryUpdateDate>
+          <versionCode>82</versionCode>
+          <updateDate>2014-12-10T17:52:49Z</updateDate>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <name>Passed Senate without amendment</name>
+          <actionDate>2014-12-10</actionDate>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Amends the FAA Modernization and Reform Act of 2012, with respect to rollovers to a traditional or Roth individual retirement account (IRA) of payments to qualified airline employees in commercial airline carrier bankruptcy cases, to: (1) extend the period for filing a claim for refund of an overpayment of tax resulting from the receipt of such payments (i.e., by the later of April 15, 2015, or the expiration of the limitation period for filing refund claims); (2) modify the definition of "airline payment amount" to include payments in an airline carrier bankruptcy case filed after September 11, 2001, and before January 1, 2007, or on November 29, 2011; and (3) modify the definition of "qualified airline employee" to include an employee who was a participant in a defined benefit plan maintained by an airline carrier that was frozen effective November 1, 2012. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <introducedDate>2014-07-16</introducedDate>
+    <billType>S</billType>
+    <congress>113</congress>
+    <billNumber>2614</billNumber>
+    <titles>
+      <item>
+        <title>A bill to amend certain provisions of the FAA Modernization and Reform Act of 2012.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A bill to amend certain provisions of the FAA Modernization and Reform Act of 2012.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

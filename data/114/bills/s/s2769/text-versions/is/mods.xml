@@ -1,0 +1,255 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18f27de44">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To require the Federal Aviation Administration to establish minimum standards for space for passengers on passenger aircraft.;
+   		S. 2769 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-04-08</dateIngested>
+</extension>
+<titleInfo>
+ <title>To require the Federal Aviation Administration to establish minimum standards for space for passengers on passenger aircraft.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 2769 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-04-07</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>3 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18f27de44</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s2769is</identifier>
+<identifier type="preferred citation">S. 2769</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s2769_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s2769is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2769is/html/BILLS-114s2769is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2769is/pdf/BILLS-114s2769is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s2769is/xml/BILLS-114s2769is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-04-08</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-04-09</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s2769is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Charles E. Schumer</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Richard Blumenthal</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Edward J. Markey</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robert Menendez</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kirsten E. Gillibrand</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dianne Feinstein</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Barbara Boxer</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Cory A. Booker</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Brian Schatz</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Elizabeth Warren</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Commerce, Science, and Transportation</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 49 Section 40102</partNumber>
+</titleInfo>
+ <identifier type="USC citation">49 U.S.C. 40102</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s2769is</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>2769</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <action date="2016-04-07">Mr. Schumer (for himself, Mr. Blumenthal, Mr. Markey, Mr. Menendez, Mrs. Gillibrand, Mrs. Feinstein, Mrs. Boxer, Mr. Booker, Mr. Schatz, and Ms. Warren) introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation</action>
+ <congCommittee authorityId="sscm00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Commerce, Science, and Transportation</name>
+                      <name type="authority-short">Commerce</name>
+                </congCommittee>
+ <congMember authorityId="1036" bioGuideId="S000148" chamber="S" congress="114" gpoId="8279" party="D" role="SPONSOR" state="NY">
+                      <name type="parsed">Mr. Schumer</name>
+                      <name type="authority-fnf">Charles E. Schumer</name>
+                      <name type="authority-lnf">Schumer, Charles E.</name>
+                      <name type="authority-other">Charles Schumer</name>
+                </congMember>
+ <congMember authorityId="2076" bioGuideId="B001277" chamber="S" congress="114" gpoId="8332" party="D" role="COSPONSOR" state="CT">
+                      <name type="parsed">Mr. Blumenthal</name>
+                      <name type="authority-fnf">Richard Blumenthal</name>
+                      <name type="authority-lnf">Blumenthal, Richard</name>
+                </congMember>
+ <congMember authorityId="735" bioGuideId="M000133" chamber="S" congress="114" gpoId="7972" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Mr. Markey</name>
+                      <name type="authority-fnf">Edward J. Markey</name>
+                      <name type="authority-lnf">Markey, Edward J.</name>
+                      <name type="authority-other">Edward Markey</name>
+                </congMember>
+ <congMember authorityId="791" bioGuideId="M000639" chamber="S" congress="114" gpoId="8239" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Menendez</name>
+                      <name type="authority-fnf">Robert Menendez</name>
+                      <name type="authority-lnf">Menendez, Robert</name>
+                </congMember>
+ <congMember authorityId="1866" bioGuideId="G000555" chamber="S" congress="114" gpoId="8336" party="D" role="COSPONSOR" state="NY">
+                      <name type="parsed">Mrs. Gillibrand</name>
+                      <name type="authority-fnf">Kirsten E. Gillibrand</name>
+                      <name type="authority-lnf">Gillibrand, Kirsten E.</name>
+                      <name type="authority-other">Mrs. Kirsten Gillibrand</name>
+                </congMember>
+ <congMember authorityId="1332" bioGuideId="F000062" chamber="S" congress="114" gpoId="8338" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mrs. Feinstein</name>
+                      <name type="authority-fnf">Dianne Feinstein</name>
+                      <name type="authority-lnf">Feinstein, Dianne</name>
+                </congMember>
+ <congMember authorityId="116" bioGuideId="B000711" chamber="S" congress="114" gpoId="8306" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mrs. Boxer</name>
+                      <name type="authority-fnf">Barbara Boxer</name>
+                      <name type="authority-lnf">Boxer, Barbara</name>
+                </congMember>
+ <congMember authorityId="2194" bioGuideId="B001288" chamber="S" congress="114" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Booker</name>
+                      <name type="authority-fnf">Cory A. Booker</name>
+                      <name type="authority-lnf">Booker, Cory A.</name>
+                      <name type="authority-other">Mr. Cory Booker</name>
+                </congMember>
+ <congMember authorityId="2173" bioGuideId="S001194" chamber="S" congress="114" party="D" role="COSPONSOR" state="HI">
+                      <name type="parsed">Mr. Schatz</name>
+                      <name type="authority-fnf">Brian Schatz</name>
+                      <name type="authority-lnf">Schatz, Brian</name>
+                </congMember>
+ <congMember authorityId="2182" bioGuideId="W000817" chamber="S" congress="114" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Ms. Warren</name>
+                      <name type="authority-fnf">Elizabeth Warren</name>
+                      <name type="authority-lnf">Warren, Elizabeth</name>
+                      <name type="authority-other">Ms. Elizabeth A. Warren</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="49">
+                      <section number="40102"></section>
+                </USCode>
+</extension>
+</mods>

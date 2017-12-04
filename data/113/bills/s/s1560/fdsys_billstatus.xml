@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2013-09-30</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <bioguideId>B001267</bioguideId>
+        <state>CO</state>
+        <sponsorshipDate>2013-09-30</sponsorshipDate>
+        <middleName>F.</middleName>
+        <firstName>Michael</firstName>
+        <party>D</party>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <lastName>Bennet</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1965</lisID>
+          <gpoId>8302</gpoId>
+          <bioguideId>B001267</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <actionTime>17:47:58</actionTime>
+      <text>Held at the desk.</text>
+      <links />
+      <actionDate>2013-09-30</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <latestTitle>To authorize the Secretary of Transportation to obligate funds for emergency relief projects arising from damage caused by severe weather events in 2013, and for other purposes.</latestTitle>
+        <number>3174</number>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+          <actionDate>2013-12-20</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Text similarities</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <updateDate>2016-10-25T16:27:05Z</updateDate>
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <actions>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>17:47:58</actionTime>
+        <type>Floor</type>
+        <text>Held at the desk.</text>
+        <actionCode>H15000</actionCode>
+        <committee />
+        <actionDate>2013-09-30</actionDate>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionTime>17:20:02</actionTime>
+        <type>Floor</type>
+        <text>Received in the House.</text>
+        <actionCode>H14000</actionCode>
+        <committee />
+        <actionDate>2013-09-30</actionDate>
+        <links />
+      </item>
+      <item>
+        <actionDate>2013-09-30</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2013-09-30</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S7014</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S7014</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S7014; text as passed Senate: CR S7014)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S7014; text as passed Senate: CR S7014)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <committee />
+        <actionDate>2013-09-30</actionDate>
+        <links>
+          <link>
+            <name>S7014</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S7014</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+        <actionDate>2013-09-30</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <introducedInSenate>1</introducedInSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <sentToHouse>1</sentToHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>4</senate>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2013-10-08T13:49:32Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Deficit Neutral Disaster Relief Act - Authorizes the Secretary of Transportation (DOT) to obligate up to $450 million of the amounts made available to carry out federal-aid highways emergency relief under the Disaster Relief Appropriations Act, 2013 (division A, title X, chapter 9 of P.L. 113-2) under the heading &quot;Federal Highway Administration--Federal-Aid Highways--Emergency Relief Program&quot; for emergency relief projects in Colorado arising from damage caused by flooding events in 2013.</p>]]></text>
+          <updateDate>2013-09-30T04:00:00Z</updateDate>
+          <actionDate>2013-09-30</actionDate>
+        </item>
+        <item>
+          <versionCode>82</versionCode>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <name>Passed Senate without amendment</name>
+          <lastSummaryUpdateDate>2013-10-08T13:49:52Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Deficit Neutral Disaster Relief Act - Authorizes the Secretary of Transportation (DOT) to obligate up to $450 million of the amounts made available to carry out federal-aid highways emergency relief under the Disaster Relief Appropriations Act, 2013 (division A, title X, chapter 9 of P.L. 113-2) under the heading &quot;Federal Highway Administration--Federal-Aid Highways--Emergency Relief Program&quot; for emergency relief projects in Colorado arising from damage caused by flooding events in 2013.</p>]]></text>
+          <updateDate>2013-09-30T11:42:26Z</updateDate>
+          <actionDate>2013-09-30</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Colorado</name>
+          </item>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>Floods and storm protection</name>
+          </item>
+          <item>
+            <name>Roads and highways</name>
+          </item>
+          <item>
+            <name>Transportation programs funding</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Deficit Neutral Disaster Relief Act</title>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <lastName>UDALL</lastName>
+        <bioguideId>U000038</bioguideId>
+        <fullName>Sen. Udall, Mark [D-CO]</fullName>
+        <identifiers>
+          <lisID>1595</lisID>
+          <gpoId>8259</gpoId>
+          <bioguideId>U000038</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>MARK</firstName>
+        <middleName />
+        <state>CO</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2013-10-01T07:26:18Z</createDate>
+    <billNumber>1560</billNumber>
+    <committees>
+      <billCommittees />
+    </committees>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <title>Deficit Neutral Disaster Relief Act</title>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Deficit Neutral Disaster Relief Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to allow certain emergency relief amounts to be made available to the Federal Highway Administration to use for disasters occurring in calendar year 2013.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Deficit Neutral Disaster Relief Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2014-04-07</actionDate>
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssas00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Armed Services Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-04-07T21:45:11Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2014-04-08T07:13:59Z</createDate>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2014-04-07</actionDate>
+        <committee>
+          <systemCode>ssas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2014-04-07</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2014-04-07</introducedDate>
+    <billNumber>2217</billNumber>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Military Mental Health Review Board Improvement Act - Requires any medical advisory opinion issued to a civilian board for the correction of a military record, with respect to a current or former member of the Armed Forces diagnosed while serving in the Armed Forces as experiencing a mental health disorder, to include the opinion of a clinical psychologist or psychiatrist if the request for the correction of the records concerned relates to a mental health disorder. </p> <p>Requires any physician on a board for review of a discharge or dismissal of certain former members of the Armed Forces, who after deployment were diagnosed as experiencing post-traumatic stress disorder (PTSD) or traumatic brain injury, or as having a mental health disorder, to have training on mental health issues connected with PTSD or traumatic brain injury (as applicable), or special training on mental health disorders.</p>]]></text>
+          <lastSummaryUpdateDate>2014-05-23T16:47:16Z</lastSummaryUpdateDate>
+          <updateDate>2014-04-07T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2014-04-07</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Medical tests and diagnostic methods</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Neurological disorders</name>
+          </item>
+          <item>
+            <name>Personnel records</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Military Mental Health Review Board Improvement Act</title>
+    <updateDate>2016-10-25T16:29:38Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Military Mental Health Review Board Improvement Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend title 10, United States Code, to enhance the participation of mental health professionals in boards for the correction of military records and boards for the review of the discharge or dismissal of members of the Armed Forces.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Military Mental Health Review Board Improvement Act</title>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>MT</state>
+        <firstName>Jon</firstName>
+        <byRequestType />
+        <bioguideId>T000464</bioguideId>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <lastName>Tester</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <number>2410</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Carl Levin National Defense Authorization Act for Fiscal Year 2015</latestTitle>
+        <type>S</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 402.</text>
+          <actionDate>2014-06-02</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <number>3979</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015</latestTitle>
+        <type>HR</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>Became Public Law No: 113-291.</text>
+          <actionDate>2014-12-19</actionDate>
+        </latestAction>
+      </item>
+      <item>
+        <number>4435</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015</latestTitle>
+        <type>HR</type>
+        <congress>113</congress>
+        <latestAction>
+          <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 425.</text>
+          <actionDate>2014-06-05</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <state>NY</state>
+        <bioguideId>G000555</bioguideId>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <firstName>Kirsten</firstName>
+        <lastName>Gillibrand</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>CT</state>
+        <bioguideId>B001277</bioguideId>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MT</state>
+        <bioguideId>W000818</bioguideId>
+        <sponsorshipDate>2014-04-07</sponsorshipDate>
+        <identifiers>
+          <lisID>2198</lisID>
+          <gpoId />
+          <bioguideId>W000818</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Walsh, John E. [D-MT]</fullName>
+        <firstName>John</firstName>
+        <lastName>Walsh</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <notes>
+      <item>
+        <text><![CDATA[For further action, see H.R.3979, which became Public Law 113-291 on 12/19/2014.]]></text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/3979</url>
+            <name>H.R.3979</name>
+          </link>
+        </links>
+      </item>
+    </notes>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

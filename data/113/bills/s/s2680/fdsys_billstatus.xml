@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-07-29</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2014-07-29</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-07-29</introducedDate>
+    <updateDate>2016-10-25T16:31:46Z</updateDate>
+    <createDate>2014-07-30T05:13:58Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssfi00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2014-07-29T21:53:47Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>W000818</bioguideId>
+        <state>MT</state>
+        <sponsorshipDate>2014-07-29</sponsorshipDate>
+        <middleName>E.</middleName>
+        <firstName>John</firstName>
+        <party>D</party>
+        <fullName>Sen. Walsh, John E. [D-MT]</fullName>
+        <lastName>Walsh</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000818</bioguideId>
+          <gpoId />
+          <lisID>2198</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Buy it in America Act</title>
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Buy it in America Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to direct the Secretary of Commerce to establish a voluntary program under which manufacturers may have products certified as meeting the standards of labels that indicate to consumers the extent to which the products are manufactured in the United States, to amend the Internal Revenue Code of 1986 to allow a credit against income tax for equity investments in small business concerns, to establish small business savings accounts, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Buy it in America Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Buy it in America Act - Directs the Secretary of Commerce to establish the America Star Program as a voluntary program under which manufacturers may have products certified&nbsp;as meeting the standards of a&nbsp;label (i.e., America Star label) that indicates to consumers the extent to which such products are manufactured in the United States.</p> <p>Amends the Internal Revenue Code to: (1) allow a new tax credit (angel investment tax credit) for up to 25% of equity investment in a&nbsp;small business entity that is located in the United States and engages in a qualified high technology trade or business; (2) make permanent the 100% exclusion from gross income of gain from the sale or exchange of qualified small business stock; and (3) establish tax-exempt small business startup savings accounts to&nbsp;make distributions for small business operating capital, the purchase of equipment or facilities, marketing, training, incorporation, and accounting fees. </p>]]></text>
+          <lastSummaryUpdateDate>2014-09-26T18:14:10Z</lastSummaryUpdateDate>
+          <updateDate>2014-07-29T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2014-07-29</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>4931</number>
+        <type>HR</type>
+        <latestTitle>Angel Tax Credit Act</latestTitle>
+        <latestAction>
+          <actionDate>2014-06-20</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>2497</number>
+        <type>S</type>
+        <latestTitle>Angel Tax Credit Act</latestTitle>
+        <latestAction>
+          <actionDate>2014-06-19</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advanced technology and technological innovations</name>
+          </item>
+          <item>
+            <name>Business investment and capital</name>
+          </item>
+          <item>
+            <name>Buy American requirements</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Manufacturing</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2014-07-29</actionDate>
+    </latestAction>
+    <billNumber>2680</billNumber>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Mark</firstName>
+        <party>D</party>
+        <fullName>Sen. Pryor, Mark L. [D-AR]</fullName>
+        <bioguideId>P000590</bioguideId>
+        <identifiers>
+          <lisID>1701</lisID>
+          <bioguideId>P000590</bioguideId>
+          <gpoId>8241</gpoId>
+        </identifiers>
+        <lastName>Pryor</lastName>
+        <middleName>Lunsford</middleName>
+        <state>AR</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

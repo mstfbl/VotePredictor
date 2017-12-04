@@ -1,0 +1,247 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18ed313f5">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To reauthorize the programs and activities of the Federal Emergency Management Agency.;
+   		H.R. 1471 (RFS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-03-03</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To reauthorize the programs and activities of the Federal Emergency Management Agency.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 1471 (RFS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-03-01</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>41 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18ed313f5</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1471rfs</identifier>
+<identifier type="preferred citation">H.R. 1471</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h1471_rfs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1471rfs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1471rfs/html/BILLS-114hr1471rfs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1471rfs/pdf/BILLS-114hr1471rfs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1471rfs/xml/BILLS-114hr1471rfs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-03-03</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-03-03</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr1471rfs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Homeland Security and Governmental Affairs</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 8101(1)</partNumber>
+  <partNumber>Title 5 Chapter 81</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 8101(1)</identifier>
+ <identifier type="USC citation">5 U.S.C. Chapter 81</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 6 Section 811</partNumber>
+</titleInfo>
+ <identifier type="USC citation">6 U.S.C. 811</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 28 Section 1346(b)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">28 U.S.C. 1346(b)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 1552(b)</partNumber>
+  <partNumber>Title 31 Section 3716(e)</partNumber>
+  <partNumber>Title 31 Section 3716(g)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 1552(b)</identifier>
+ <identifier type="USC citation">31 U.S.C. 3716(e)</identifier>
+ <identifier type="USC citation">31 U.S.C. 3716(g)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 38 Section 4303</partNumber>
+  <partNumber>Title 38 Section 4312(b)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">38 U.S.C. 4303</identifier>
+ <identifier type="USC citation">38 U.S.C. 4312(b)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 3796b</partNumber>
+  <partNumber>Title 42 Section 5121</partNumber>
+  <partNumber>Title 42 Section 5121et seq.</partNumber>
+  <partNumber>Title 42 Section 5141et seq.</partNumber>
+  <partNumber>Title 42 Section 5165b</partNumber>
+  <partNumber>Title 42 Section 5165(e)(1)</partNumber>
+  <partNumber>Title 42 Section 5170c</partNumber>
+  <partNumber>Title 42 Section 5170c(a)</partNumber>
+  <partNumber>Title 42 Section 5170</partNumber>
+  <partNumber>Title 42 Section 5174</partNumber>
+  <partNumber>Title 42 Section 5187</partNumber>
+  <partNumber>Title 42 Section 5189</partNumber>
+  <partNumber>Title 42 Section 5191</partNumber>
+  <partNumber>Title 42 Section 5205</partNumber>
+  <partNumber>Title 42 Section 5205(a)(1)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 3796b</identifier>
+ <identifier type="USC citation">42 U.S.C. 5121</identifier>
+ <identifier type="USC citation">42 U.S.C. 5121et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 5141et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 5165b</identifier>
+ <identifier type="USC citation">42 U.S.C. 5165(e)(1)</identifier>
+ <identifier type="USC citation">42 U.S.C. 5170c</identifier>
+ <identifier type="USC citation">42 U.S.C. 5170c(a)</identifier>
+ <identifier type="USC citation">42 U.S.C. 5170</identifier>
+ <identifier type="USC citation">42 U.S.C. 5174</identifier>
+ <identifier type="USC citation">42 U.S.C. 5187</identifier>
+ <identifier type="USC citation">42 U.S.C. 5189</identifier>
+ <identifier type="USC citation">42 U.S.C. 5191</identifier>
+ <identifier type="USC citation">42 U.S.C. 5205</identifier>
+ <identifier type="USC citation">42 U.S.C. 5205(a)(1)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 109-295</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 109-295</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 113-2</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 113-2</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr1471rfs</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>1471</billNumber>
+ <billVersion reprint="false">rfs</billVersion>
+ <fileSuffix>rfs</fileSuffix>
+ <action date="2016-03-01">Received; read twice and referred to the Committee on Homeland Security and Governmental Affairs</action>
+ <congCommittee authorityId="ssga00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Homeland Security and Governmental Affairs</name>
+                      <name type="authority-short">Homeland and Governmental Affairs</name>
+                </congCommittee>
+ <law congress="109" isPrivate="false" number="295"></law>
+ <law congress="113" isPrivate="false" number="2"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section detail="(1)" number="8101"></section>
+                      <chapter number="81"></chapter>
+                </USCode>
+ <USCode title="6">
+                      <section number="811"></section>
+                </USCode>
+ <USCode title="28">
+                      <section detail="(b)" number="1346"></section>
+                </USCode>
+ <USCode title="31">
+                      <section detail="(b)" number="1552"></section>
+                      <section detail="(e)" number="3716"></section>
+                      <section detail="(g)" number="3716"></section>
+                </USCode>
+ <USCode title="38">
+                      <section number="4303"></section>
+                      <section detail="(b)" number="4312"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="3796b"></section>
+                      <section number="5121"></section>
+                      <section detail="et seq." number="5121"></section>
+                      <section detail="et seq." number="5141"></section>
+                      <section number="5165b"></section>
+                      <section detail="(e)(1)" number="5165"></section>
+                      <section number="5170c"></section>
+                      <section detail="(a)" number="5170c"></section>
+                      <section number="5170"></section>
+                      <section number="5174"></section>
+                      <section number="5187"></section>
+                      <section number="5189"></section>
+                      <section number="5191"></section>
+                      <section number="5205"></section>
+                      <section detail="(a)(1)" number="5205"></section>
+                </USCode>
+</extension>
+</mods>

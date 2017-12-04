@@ -1,0 +1,302 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18f7afa70">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act to authorize the Attorney General to award grants to address the national epidemics of prescription opioid abuse and heroin use.;
+   		S. 524 (EAH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-05-17</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act to authorize the Attorney General to award grants to address the national epidemics of prescription opioid abuse and heroin use.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 524 (EAH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-05-13</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>128 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18f7afa70</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s524eah</identifier>
+<identifier type="preferred citation">S. 524</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s524eah.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s524eah/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s524eah/html/BILLS-114s524eah.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s524eah/pdf/BILLS-114s524eah.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s524eah/xml/BILLS-114s524eah.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-05-17</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-05-18</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s524eah</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 552(b)(3)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 552(b)(3)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 21 Section 1903</partNumber>
+  <partNumber>Title 21 Section 321</partNumber>
+  <partNumber>Title 21 Section 350bbb-8</partNumber>
+  <partNumber>Title 21 Section 355-1</partNumber>
+  <partNumber>Title 21 Section 355</partNumber>
+  <partNumber>Title 21 Section 801et seq.</partNumber>
+  <partNumber>Title 21 Section 802</partNumber>
+  <partNumber>Title 21 Section 802(18)</partNumber>
+  <partNumber>Title 21 Section 812(c)</partNumber>
+  <partNumber>Title 21 Section 823(f)</partNumber>
+  <partNumber>Title 21 Section 823(g)</partNumber>
+  <partNumber>Title 21 Section 823(g)(2)</partNumber>
+  <partNumber>Title 21 Section 829</partNumber>
+</titleInfo>
+ <identifier type="USC citation">21 U.S.C. 1903</identifier>
+ <identifier type="USC citation">21 U.S.C. 321</identifier>
+ <identifier type="USC citation">21 U.S.C. 350bbb-8</identifier>
+ <identifier type="USC citation">21 U.S.C. 355-1</identifier>
+ <identifier type="USC citation">21 U.S.C. 355</identifier>
+ <identifier type="USC citation">21 U.S.C. 801et seq.</identifier>
+ <identifier type="USC citation">21 U.S.C. 802</identifier>
+ <identifier type="USC citation">21 U.S.C. 802(18)</identifier>
+ <identifier type="USC citation">21 U.S.C. 812(c)</identifier>
+ <identifier type="USC citation">21 U.S.C. 823(f)</identifier>
+ <identifier type="USC citation">21 U.S.C. 823(g)</identifier>
+ <identifier type="USC citation">21 U.S.C. 823(g)(2)</identifier>
+ <identifier type="USC citation">21 U.S.C. 829</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 1603</partNumber>
+  <partNumber>Title 25 Section 450b</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 1603</identifier>
+ <identifier type="USC citation">25 U.S.C. 450b</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 38 Section 320</partNumber>
+  <partNumber>Title 38 Section 5701(l)</partNumber>
+  <partNumber>Title 38 Section 703note</partNumber>
+</titleInfo>
+ <identifier type="USC citation">38 U.S.C. 320</identifier>
+ <identifier type="USC citation">38 U.S.C. 5701(l)</identifier>
+ <identifier type="USC citation">38 U.S.C. 703note</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 10513</partNumber>
+  <partNumber>Title 42 Section 10513(a)</partNumber>
+  <partNumber>Title 42 Section 1320a-7k</partNumber>
+  <partNumber>Title 42 Section 1320a-7m</partNumber>
+  <partNumber>Title 42 Section 1320a-7m(a)</partNumber>
+  <partNumber>Title 42 Section 1395x(aa)</partNumber>
+  <partNumber>Title 42 Section 1396a(a)</partNumber>
+  <partNumber>Title 42 Section 1396r-8(c)(2)(C)</partNumber>
+  <partNumber>Title 42 Section 1396w</partNumber>
+  <partNumber>Title 42 Section 1397bb(a)(7)</partNumber>
+  <partNumber>Title 42 Section 243et seq.</partNumber>
+  <partNumber>Title 42 Section 247d-4</partNumber>
+  <partNumber>Title 42 Section 254b</partNumber>
+  <partNumber>Title 42 Section 280g-3</partNumber>
+  <partNumber>Title 42 Section 290bb-1</partNumber>
+  <partNumber>Title 42 Section 3711et seq.</partNumber>
+  <partNumber>Title 42 Section 3793(a)</partNumber>
+  <partNumber>Title 42 Section 3797aa</partNumber>
+  <partNumber>Title 42 Section 3797set seq.</partNumber>
+  <partNumber>Title 42 Section 5101et seq.</partNumber>
+  <partNumber>Title 42 Section 5101note</partNumber>
+  <partNumber>Title 42 Section 5104(b)</partNumber>
+  <partNumber>Title 42 Section 5106a(b)</partNumber>
+  <partNumber>Title 42 Section 5106a(b)(2)(B)(iii)</partNumber>
+  <partNumber>Title 42 Section 5106a(d)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 10513</identifier>
+ <identifier type="USC citation">42 U.S.C. 10513(a)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1320a-7k</identifier>
+ <identifier type="USC citation">42 U.S.C. 1320a-7m</identifier>
+ <identifier type="USC citation">42 U.S.C. 1320a-7m(a)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1395x(aa)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1396a(a)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1396r-8(c)(2)(C)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1396w</identifier>
+ <identifier type="USC citation">42 U.S.C. 1397bb(a)(7)</identifier>
+ <identifier type="USC citation">42 U.S.C. 243et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 247d-4</identifier>
+ <identifier type="USC citation">42 U.S.C. 254b</identifier>
+ <identifier type="USC citation">42 U.S.C. 280g-3</identifier>
+ <identifier type="USC citation">42 U.S.C. 290bb-1</identifier>
+ <identifier type="USC citation">42 U.S.C. 3711et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 3793(a)</identifier>
+ <identifier type="USC citation">42 U.S.C. 3797aa</identifier>
+ <identifier type="USC citation">42 U.S.C. 3797set seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 5101et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 5101note</identifier>
+ <identifier type="USC citation">42 U.S.C. 5104(b)</identifier>
+ <identifier type="USC citation">42 U.S.C. 5106a(b)</identifier>
+ <identifier type="USC citation">42 U.S.C. 5106a(b)(2)(B)(iii)</identifier>
+ <identifier type="USC citation">42 U.S.C. 5106a(d)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 114 Page 1221</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">114 Stat. 1221</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 106-310</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 106-310</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 109-60</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 109-60</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 113-146</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 113-146</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s524eah</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>524</billNumber>
+ <billVersion reprint="false">eah</billVersion>
+ <fileSuffix>eah</fileSuffix>
+ <law congress="106" isPrivate="false" number="310"></law>
+ <law congress="109" isPrivate="false" number="60"></law>
+ <law congress="113" isPrivate="false" number="146"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section detail="(b)(3)" number="552"></section>
+                </USCode>
+ <USCode title="21">
+                      <section number="1903"></section>
+                      <section number="321"></section>
+                      <section number="350bbb-8"></section>
+                      <section number="355-1"></section>
+                      <section number="355"></section>
+                      <section detail="et seq." number="801"></section>
+                      <section number="802"></section>
+                      <section detail="(18)" number="802"></section>
+                      <section detail="(c)" number="812"></section>
+                      <section detail="(f)" number="823"></section>
+                      <section detail="(g)" number="823"></section>
+                      <section detail="(g)(2)" number="823"></section>
+                      <section number="829"></section>
+                </USCode>
+ <USCode title="25">
+                      <section number="1603"></section>
+                      <section number="450b"></section>
+                </USCode>
+ <USCode title="38">
+                      <section number="320"></section>
+                      <section detail="(l)" number="5701"></section>
+                      <section detail="note" number="703"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="10513"></section>
+                      <section detail="(a)" number="10513"></section>
+                      <section number="1320a-7k"></section>
+                      <section number="1320a-7m"></section>
+                      <section detail="(a)" number="1320a-7m"></section>
+                      <section detail="(aa)" number="1395x"></section>
+                      <section detail="(a)" number="1396a"></section>
+                      <section detail="(c)(2)(C)" number="1396r-8"></section>
+                      <section number="1396w"></section>
+                      <section detail="(a)(7)" number="1397bb"></section>
+                      <section detail="et seq." number="243"></section>
+                      <section number="247d-4"></section>
+                      <section number="254b"></section>
+                      <section number="280g-3"></section>
+                      <section number="290bb-1"></section>
+                      <section detail="et seq." number="3711"></section>
+                      <section detail="(a)" number="3793"></section>
+                      <section number="3797aa"></section>
+                      <section detail="et seq." number="3797s"></section>
+                      <section detail="et seq." number="5101"></section>
+                      <section detail="note" number="5101"></section>
+                      <section detail="(b)" number="5104"></section>
+                      <section detail="(b)" number="5106a"></section>
+                      <section detail="(b)(2)(B)(iii)" number="5106a"></section>
+                      <section detail="(d)" number="5106a"></section>
+                </USCode>
+ <statuteAtLarge volume="114">
+                      <pages pages="1221"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

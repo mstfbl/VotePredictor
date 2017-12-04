@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <latestAction>
+      <actionDate>2013-03-14</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+    </latestAction>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-03-14T15:20:43Z</date>
+            </item>
+          </activities>
+          <name>Finance Committee</name>
+          <type>Standing</type>
+          <systemCode>ssfi00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <createDate>2013-03-15T14:31:16Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-03-14</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2013-03-14</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2013-03-14</introducedDate>
+    <billNumber>561</billNumber>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Offshoring Prevention Act - Amends the Internal Revenue Code to include in foreign base company income, for purposes of determining the foreign trade income of controlled foreign corporations, imported property income. Defines "imported property income" as, with certain exceptions, income attributable to property manufactured outside of the United States and imported for sale into the United States. Provides for a separate application of limitations on the foreign tax credit for imported property income.</p>]]></text>
+          <lastSummaryUpdateDate>2013-04-03T21:38:36Z</lastSummaryUpdateDate>
+          <updateDate>2013-03-14T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2013-03-14</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>113</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Foreign and international corporations</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Taxation of foreign income</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Offshoring Prevention Act</title>
+    <updateDate>2016-10-25T16:21:48Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Offshoring Prevention Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend the Internal Revenue Code of 1986 to provide for the taxation of income controlled foreign corporations attributable to imported property.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Offshoring Prevention Act</title>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <state>RI</state>
+        <firstName>Sheldon</firstName>
+        <byRequestType />
+        <bioguideId>W000802</bioguideId>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <lastName>Whitehouse</lastName>
+        <party>D</party>
+        <middleName />
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+          <lisID>1823</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <calendarNumbers />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2013-03-12</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Offshoring Prevention Act</latestTitle>
+        <number>1086</number>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2013-02-11</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Job Preservation and Economic Certainty Act of 2013</latestTitle>
+        <number>277</number>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2013-02-11</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <type>S</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Job Preservation and Sequester Replacement Act of 2013</latestTitle>
+        <number>278</number>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <state>IL</state>
+        <bioguideId>D000563</bioguideId>
+        <sponsorshipDate>2013-03-14</sponsorshipDate>
+        <identifiers>
+          <gpoId>8326</gpoId>
+          <lisID>326</lisID>
+          <bioguideId>D000563</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Durbin, Richard [D-IL]</fullName>
+        <firstName>RICHARD</firstName>
+        <lastName>DURBIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>VT</state>
+        <bioguideId>L000174</bioguideId>
+        <sponsorshipDate>2013-03-14</sponsorshipDate>
+        <identifiers>
+          <lisID>1383</lisID>
+          <gpoId>8244</gpoId>
+          <bioguideId>L000174</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <firstName>PATRICK</firstName>
+        <lastName>LEAHY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>JOSEPH</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>IA</state>
+        <bioguideId>H000206</bioguideId>
+        <sponsorshipDate>2013-03-14</sponsorshipDate>
+        <identifiers>
+          <lisID>501</lisID>
+          <gpoId>8317</gpoId>
+          <bioguideId>H000206</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Harkin, Tom [D-IA]</fullName>
+        <firstName>THOMAS</firstName>
+        <lastName>HARKIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>RICHARD</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MI</state>
+        <bioguideId>L000261</bioguideId>
+        <sponsorshipDate>2013-03-14</sponsorshipDate>
+        <identifiers>
+          <lisID>1384</lisID>
+          <gpoId>8243</gpoId>
+          <bioguideId>L000261</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Levin, Carl [D-MI]</fullName>
+        <firstName>CARL</firstName>
+        <lastName>LEVIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>MILTON</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>CA</state>
+        <bioguideId>B000711</bioguideId>
+        <sponsorshipDate>2013-03-14</sponsorshipDate>
+        <identifiers>
+          <lisID>116</lisID>
+          <gpoId>8306</gpoId>
+          <bioguideId>B000711</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Boxer, Barbara [D-CA]</fullName>
+        <firstName>BARBARA</firstName>
+        <lastName>BOXER</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>SD</state>
+        <bioguideId>J000177</bioguideId>
+        <sponsorshipDate>2014-07-07</sponsorshipDate>
+        <identifiers>
+          <gpoId>8319</gpoId>
+          <lisID>604</lisID>
+          <bioguideId>J000177</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Johnson, Tim [D-SD]</fullName>
+        <firstName>TIM</firstName>
+        <lastName>JOHNSON</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <billType>S</billType>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

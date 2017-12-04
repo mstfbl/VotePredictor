@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2013-02-04</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <sponsorshipDate>2013-02-04</sponsorshipDate>
+        <bioguideId>F000062</bioguideId>
+        <firstName>DIANNE</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <party>D</party>
+        <lastName>FEINSTEIN</lastName>
+        <identifiers>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <sponsorshipDate>2013-02-04</sponsorshipDate>
+        <bioguideId>B000711</bioguideId>
+        <firstName>BARBARA</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Boxer, Barbara [D-CA]</fullName>
+        <party>D</party>
+        <lastName>BOXER</lastName>
+        <identifiers>
+          <lisID>116</lisID>
+          <gpoId>8306</gpoId>
+          <bioguideId>B000711</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <links />
+      <actionDate>2013-02-04</actionDate>
+    </latestAction>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <type>HR</type>
+        <number>853</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on Horticulture, Research, Biotechnology, and Foreign Agriculture.</text>
+          <actionDate>2013-03-13</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Citrus Disease Research and Development Trust Fund Act of 2013</latestTitle>
+      </item>
+    </relatedBills>
+    <updateDate>2016-10-25T16:20:31Z</updateDate>
+    <policyArea>
+      <name>Foreign Trade and International Finance</name>
+    </policyArea>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-02-04</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-02-04</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Citrus Disease Research and Development Trust Fund Act of 2013 - Amends the Trade Act of 1974 to establish the Citrus Disease Research and Development Trust Fund, consisting of revenues from duties paid on imported citrus or citrus products, to support scientific research, technical assistance, and development activities to combat both domestic and invasive citrus diseases and pests harming the United States.</p> <p> Establishes the Citrus Disease Research and Development Trust Fund Advisory Board.</p> <p>Makes Fund amounts available to the Secretary of Agriculture to develop a coordinated program of research and product development relating to: (1) scientific research of both domestic and invasive diseases and pests afflicting the citrus industry; and (2) support for the dissemination and commercialization of relevant information, techniques, and technologies discovered through Fund research or other research projects intended to solve problems caused by citrus production diseases and invasive pests.</p> <p>Requires the President to notify certain congressional committees before entering into a trade agreement that could result in a decrease in the amount of: (1) duties paid on imported citrus or citrus products, and (2) funds transferred into the Fund.</p> <p>Prescribes a formula for required estimated tax payments otherwise due in each of the quarters of 2018 from corporations with assets of at least $1 billion. </p> <p>Amends the Consolidated Omnibus Budget Reconciliation Act of 1985 (COBRA) to extend certain customs users fees for the processing of merchandise entered into the United States between October 23, 2021, and November 6, 2021, and other specified customs users fees for merchandise entered between October 30, 2021, and November 13, 2021.</p>]]></text>
+          <lastSummaryUpdateDate>2013-03-19T16:20:46Z</lastSummaryUpdateDate>
+          <updateDate>2013-02-04T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2013-02-04</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Agricultural research</name>
+          </item>
+          <item>
+            <name>Agricultural trade</name>
+          </item>
+          <item>
+            <name>Animal and plant health</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Customs enforcement</name>
+          </item>
+          <item>
+            <name>Fruit and vegetables</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Pest management</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Research and development</name>
+          </item>
+          <item>
+            <name>Tariffs</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+          <item>
+            <name>Trade agreements and negotiations</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Foreign Trade and International Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <title>Citrus Disease Research and Development Trust Fund Act of 2013</title>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <lastName>NELSON</lastName>
+        <bioguideId>N000032</bioguideId>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <identifiers>
+          <lisID>859</lisID>
+          <gpoId>8236</gpoId>
+          <bioguideId>N000032</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>CLARENCE</firstName>
+        <middleName>WILLIAM</middleName>
+        <state>FL</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2013-02-05T07:00:56Z</createDate>
+    <billNumber>220</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-02-04T21:23:54Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Finance Committee</name>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Citrus Disease Research and Development Trust Fund Act of 2013</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to create a Citrus Disease Research and Developing Trust Fund to support research on diseases impacting the citrus industry, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Citrus Disease Research and Development Trust Fund Act of 2013</title>
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

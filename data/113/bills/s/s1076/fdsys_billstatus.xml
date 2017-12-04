@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <cosponsors>
+      <item>
+        <firstName>Kirsten</firstName>
+        <party>D</party>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000555</bioguideId>
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <lastName>Gillibrand</lastName>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <middleName>E.</middleName>
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <updateDate>2016-10-25T16:24:56Z</updateDate>
+    <recordedVotes />
+    <calendarNumbers />
+    <createDate>2013-05-24T07:01:35Z</createDate>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p> Disabled Military Child Protection Act of 2013 - Authorizes monthly annuity payments under the Survivor Benefit Plan (SBP) to a supplemental or special needs trust established for the sole benefit of a disabled dependent child who is incapable of self-support because of mental or physical incapacity.</p>]]></text>
+          <updateDate>2013-05-23T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2013-08-27T20:52:36Z</lastSummaryUpdateDate>
+          <actionDate>2013-05-23</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Disability assistance</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Veterans' pensions and compensation</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes>
+      <item>
+        <text><![CDATA[For further action, see H.R.3979, which became Public Law 113-291 on 12/19/2014.]]></text>
+        <links>
+          <link>
+            <name>H.R.3979</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/3979</url>
+          </link>
+        </links>
+      </item>
+    </notes>
+    <actions>
+      <item>
+        <actionDate>2013-05-23</actionDate>
+        <committee>
+          <systemCode>ssas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+        <actionDate>2013-05-23</actionDate>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <congress>113</congress>
+    <relatedBills>
+      <item>
+        <number>1197</number>
+        <latestAction>
+          <actionDate>2013-12-09</actionDate>
+          <text>Considered by Senate. (consideration: CR S8548-8552)</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>S</type>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2014</latestTitle>
+      </item>
+      <item>
+        <number>2249</number>
+        <latestAction>
+          <actionDate>2013-08-29</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>Disabled Military Child Protection Act of 2013</latestTitle>
+      </item>
+      <item>
+        <number>2410</number>
+        <latestAction>
+          <actionDate>2014-06-02</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 402.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>S</type>
+        <latestTitle>Carl Levin National Defense Authorization Act for Fiscal Year 2015</latestTitle>
+      </item>
+      <item>
+        <number>3979</number>
+        <latestAction>
+          <actionDate>2014-12-19</actionDate>
+          <text>Became Public Law No: 113-291.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015</latestTitle>
+      </item>
+    </relatedBills>
+    <title>Disabled Military Child Protection Act of 2013</title>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <billNumber>1076</billNumber>
+    <billType>S</billType>
+    <introducedDate>2013-05-23</introducedDate>
+    <latestAction>
+      <actionDate>2013-05-23</actionDate>
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Armed Services Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-05-23T21:30:00Z</date>
+            </item>
+          </activities>
+          <systemCode>ssas00</systemCode>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <sponsors>
+      <item>
+        <state>NC</state>
+        <bioguideId>H001049</bioguideId>
+        <identifiers>
+          <lisID>1902</lisID>
+          <bioguideId>H001049</bioguideId>
+          <gpoId>8318</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Hagan, Kay [D-NC]</fullName>
+        <firstName>Kay</firstName>
+        <lastName>Hagan</lastName>
+        <middleName>R.</middleName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Disabled Military Child Protection Act of 2013</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title 10, United States Code, to provide for the payment of monthly annuities under the Survivor Benefit Plan to a supplemental or special needs trust established for the sole benefit of a disabled dependent child of a participant in the Survivor Benefit Plan.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Disabled Military Child Protection Act of 2013</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

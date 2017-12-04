@@ -1,0 +1,298 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee19174b7d7">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act to amend the Communications Act of 1934 to consolidate the reporting obligations of the Federal Communications Commission in order to improve congressional oversight and reduce reporting burdens.;Communications Act Update Act of 2016;Kari’s Law Act of 2016;S. 253 (EAH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-09-28</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act to amend the Communications Act of 1934 to consolidate the reporting obligations of the Federal Communications Commission in order to improve congressional oversight and reduce reporting burdens.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Communications Act Update Act of 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Kari’s Law Act of 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 253 (EAH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-09-27</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>56 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee19174b7d7</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s253eah</identifier>
+<identifier type="preferred citation">S. 253</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s253_eah.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s253eah/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s253eah/html/BILLS-114s253eah.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s253eah/pdf/BILLS-114s253eah.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s253eah/xml/BILLS-114s253eah.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-09-28</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-09-29</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s253eah</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 551</partNumber>
+  <partNumber>Title 5 Section 552b</partNumber>
+  <partNumber>Title 5 Section 552b(c)</partNumber>
+  <partNumber>Title 5 Section 552</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 551</identifier>
+ <identifier type="USC citation">5 U.S.C. 552b</identifier>
+ <identifier type="USC citation">5 U.S.C. 552b(c)</identifier>
+ <identifier type="USC citation">5 U.S.C. 552</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 7701et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 7701et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 5304</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 5304</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 1115</partNumber>
+  <partNumber>Title 31 Section 1115(b)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 1115</identifier>
+ <identifier type="USC citation">31 U.S.C. 1115(b)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 5122</partNumber>
+  <partNumber>Title 42 Section 5189e(a)(1)(A)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 5122</identifier>
+ <identifier type="USC citation">42 U.S.C. 5189e(a)(1)(A)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 47 Section 1302</partNumber>
+  <partNumber>Title 47 Section 1303</partNumber>
+  <partNumber>Title 47 Section 1401</partNumber>
+  <partNumber>Title 47 Section 1471</partNumber>
+  <partNumber>Title 47 Section 151et seq.</partNumber>
+  <partNumber>Title 47 Section 154</partNumber>
+  <partNumber>Title 47 Section 227</partNumber>
+  <partNumber>Title 47 Section 227(e)</partNumber>
+  <partNumber>Title 47 Section 227(e)(1)</partNumber>
+  <partNumber>Title 47 Section 227(e)(3)(A)</partNumber>
+  <partNumber>Title 47 Section 227(e)(8)</partNumber>
+  <partNumber>Title 47 Section 251et seq.</partNumber>
+  <partNumber>Title 47 Section 257</partNumber>
+  <partNumber>Title 47 Section 332</partNumber>
+  <partNumber>Title 47 Section 332(c)(1)(C)</partNumber>
+  <partNumber>Title 47 Section 533(a)(3)</partNumber>
+  <partNumber>Title 47 Section 543</partNumber>
+  <partNumber>Title 47 Section 548</partNumber>
+  <partNumber>Title 47 Section 601et seq.</partNumber>
+  <partNumber>Title 47 Section 703</partNumber>
+  <partNumber>Title 47 Section 765e</partNumber>
+</titleInfo>
+ <identifier type="USC citation">47 U.S.C. 1302</identifier>
+ <identifier type="USC citation">47 U.S.C. 1303</identifier>
+ <identifier type="USC citation">47 U.S.C. 1401</identifier>
+ <identifier type="USC citation">47 U.S.C. 1471</identifier>
+ <identifier type="USC citation">47 U.S.C. 151et seq.</identifier>
+ <identifier type="USC citation">47 U.S.C. 154</identifier>
+ <identifier type="USC citation">47 U.S.C. 227</identifier>
+ <identifier type="USC citation">47 U.S.C. 227(e)</identifier>
+ <identifier type="USC citation">47 U.S.C. 227(e)(1)</identifier>
+ <identifier type="USC citation">47 U.S.C. 227(e)(3)(A)</identifier>
+ <identifier type="USC citation">47 U.S.C. 227(e)(8)</identifier>
+ <identifier type="USC citation">47 U.S.C. 251et seq.</identifier>
+ <identifier type="USC citation">47 U.S.C. 257</identifier>
+ <identifier type="USC citation">47 U.S.C. 332</identifier>
+ <identifier type="USC citation">47 U.S.C. 332(c)(1)(C)</identifier>
+ <identifier type="USC citation">47 U.S.C. 533(a)(3)</identifier>
+ <identifier type="USC citation">47 U.S.C. 543</identifier>
+ <identifier type="USC citation">47 U.S.C. 548</identifier>
+ <identifier type="USC citation">47 U.S.C. 601et seq.</identifier>
+ <identifier type="USC citation">47 U.S.C. 703</identifier>
+ <identifier type="USC citation">47 U.S.C. 765e</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 105 Page 2394</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">105 Stat. 2394</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 114 Page 57</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">114 Stat. 57</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 118 Page 3998</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">118 Stat. 3998</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 102-243</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 102-243</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 108-494</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 108-494</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 109-34</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 109-34</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s253eah</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>253</billNumber>
+ <billVersion reprint="false">eah</billVersion>
+ <fileSuffix>eah</fileSuffix>
+ <shortTitle type="measure">Communications Act Update Act of 2016</shortTitle>
+ <shortTitle level="title" type="level">Kari’s Law Act of 2016</shortTitle>
+ <officialTitle>An Act to amend the Communications Act of 1934 to consolidate the reporting obligations of the Federal Communications Commission in order to improve congressional oversight and reduce reporting burdens.</officialTitle>
+ <law congress="102" isPrivate="false" number="243"></law>
+ <law congress="108" isPrivate="false" number="494"></law>
+ <law congress="109" isPrivate="false" number="34"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section number="551"></section>
+                      <section number="552b"></section>
+                      <section detail="(c)" number="552b"></section>
+                      <section number="552"></section>
+                </USCode>
+ <USCode title="15">
+                      <section detail="et seq." number="7701"></section>
+                </USCode>
+ <USCode title="25">
+                      <section number="5304"></section>
+                </USCode>
+ <USCode title="31">
+                      <section number="1115"></section>
+                      <section detail="(b)" number="1115"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="5122"></section>
+                      <section detail="(a)(1)(A)" number="5189e"></section>
+                </USCode>
+ <USCode title="47">
+                      <section number="1302"></section>
+                      <section number="1303"></section>
+                      <section number="1401"></section>
+                      <section number="1471"></section>
+                      <section detail="et seq." number="151"></section>
+                      <section number="154"></section>
+                      <section number="227"></section>
+                      <section detail="(e)" number="227"></section>
+                      <section detail="(e)(1)" number="227"></section>
+                      <section detail="(e)(3)(A)" number="227"></section>
+                      <section detail="(e)(8)" number="227"></section>
+                      <section detail="et seq." number="251"></section>
+                      <section number="257"></section>
+                      <section number="332"></section>
+                      <section detail="(c)(1)(C)" number="332"></section>
+                      <section detail="(a)(3)" number="533"></section>
+                      <section number="543"></section>
+                      <section number="548"></section>
+                      <section detail="et seq." number="601"></section>
+                      <section number="703"></section>
+                      <section number="765e"></section>
+                </USCode>
+ <statuteAtLarge volume="105">
+                      <pages pages="2394"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="114">
+                      <pages pages="57"></pages>
+                </statuteAtLarge>
+ <statuteAtLarge volume="118">
+                      <pages pages="3998"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2013-04-25T07:02:12Z</createDate>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <lastName>Vitter</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Vitter, David [R-LA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1609</lisID>
+          <gpoId>8267</gpoId>
+          <bioguideId>V000127</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>David</firstName>
+        <sponsorshipDate>2013-04-24</sponsorshipDate>
+        <middleName />
+        <bioguideId>V000127</bioguideId>
+        <state>LA</state>
+      </item>
+      <item>
+        <lastName>KIRK</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Kirk, Mark Steven [R-IL]</fullName>
+        <sponsorshipWithdrawnDate>2013-05-07</sponsorshipWithdrawnDate>
+        <identifiers>
+          <bioguideId>K000360</bioguideId>
+          <lisID>1647</lisID>
+          <gpoId>8285</gpoId>
+        </identifiers>
+        <party>R</party>
+        <firstName>MARK</firstName>
+        <sponsorshipDate>2013-04-24</sponsorshipDate>
+        <middleName>STEVEN</middleName>
+        <bioguideId>K000360</bioguideId>
+        <state>IL</state>
+      </item>
+      <item>
+        <lastName>Sessions</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Sessions, Jeff [R-AL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1548</lisID>
+          <gpoId>8281</gpoId>
+          <bioguideId>S001141</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <firstName>Jeff</firstName>
+        <sponsorshipDate>2013-04-24</sponsorshipDate>
+        <middleName />
+        <bioguideId>S001141</bioguideId>
+        <state>AL</state>
+      </item>
+      <item>
+        <lastName>DURBIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Durbin, Richard [D-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>326</lisID>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>RICHARD</firstName>
+        <sponsorshipDate>2013-04-25</sponsorshipDate>
+        <middleName>J.</middleName>
+        <bioguideId>D000563</bioguideId>
+        <state>IL</state>
+      </item>
+      <item>
+        <lastName>UDALL</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1567</lisID>
+          <gpoId>8260</gpoId>
+          <bioguideId>U000039</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>TOM</firstName>
+        <sponsorshipDate>2013-08-01</sponsorshipDate>
+        <middleName />
+        <bioguideId>U000039</bioguideId>
+        <state>NM</state>
+      </item>
+      <item>
+        <lastName>SANDERS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1010</lisID>
+          <gpoId>8270</gpoId>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+        <party>I</party>
+        <firstName>BERNARD</firstName>
+        <sponsorshipDate>2013-08-01</sponsorshipDate>
+        <middleName />
+        <bioguideId>S000033</bioguideId>
+        <state>VT</state>
+      </item>
+      <item>
+        <lastName>HARKIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Harkin, Tom [D-IA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>501</lisID>
+          <bioguideId>H000206</bioguideId>
+          <gpoId>8317</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>THOMAS</firstName>
+        <sponsorshipDate>2013-09-19</sponsorshipDate>
+        <middleName>RICHARD</middleName>
+        <bioguideId>H000206</bioguideId>
+        <state>IA</state>
+      </item>
+    </cosponsors>
+    <title>TBTF Act</title>
+    <actions>
+      <item>
+        <actionDate>2014-01-08</actionDate>
+        <committee>
+          <name>Financial Institutions Subcommittee</name>
+          <systemCode>ssbk08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Banking, Housing, and Urban Affairs Subcommittee on Financial Institutions and Consumer Protection. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-04-24</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2013-04-24</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <amendments />
+    <committeeReports />
+    <updateDate>2016-10-25T16:23:45Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Bank accounts, deposits, capital</name>
+          </item>
+          <item>
+            <name>Banking and financial institutions regulation</name>
+          </item>
+          <item>
+            <name>Business records</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Credit and credit markets</name>
+          </item>
+          <item>
+            <name>Department of the Treasury</name>
+          </item>
+          <item>
+            <name>Federal Deposit Insurance Corporation (FDIC)</name>
+          </item>
+          <item>
+            <name>Federal Reserve System</name>
+          </item>
+          <item>
+            <name>Financial crises and stabilization</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+          <item>
+            <name>Minority and disadvantaged businesses</name>
+          </item>
+          <item>
+            <name>Right of privacy</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+          <item>
+            <name>Women in business</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <latestAction>
+      <text>Committee on Banking, Housing, and Urban Affairs Subcommittee on Financial Institutions and Consumer Protection. Hearings held.</text>
+      <actionDate>2014-01-08</actionDate>
+      <links />
+    </latestAction>
+    <sponsors>
+      <item>
+        <bioguideId>B000944</bioguideId>
+        <state>OH</state>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <firstName>SHERROD</firstName>
+        <party>D</party>
+        <lastName>BROWN</lastName>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+          <bioguideId>B000944</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <type>S</type>
+        <latestTitle>Holding Company Registration Threshold Equalization Act of 2013</latestTitle>
+        <congress>113</congress>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+          <actionDate>2013-05-07</actionDate>
+        </latestAction>
+        <number>872</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <laws />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssbk00</systemCode>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2013-04-24T17:36:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2014-01-08T15:00:00Z</date>
+                  <name>Hearings by</name>
+                </item>
+              </activities>
+              <systemCode>ssbk08</systemCode>
+              <name>Financial Institutions Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Terminating Bailouts for Taxpayer Fairness Act of 2013 or TBTF Act - Requires federal banking agencies to establish capital requirements for the ratio of equity capital to total consolidated assets for all financial institutions.</p> <p>Prohibits such requirements from requiring a financial institution with more than $50 billion in total consolidated assets to have a ratio of less than 8% of equity capital to total consolidated assets.</p> <p>Requires the equity capital requirement for a financial institution with $50 billion or less in total consolidated assets to be comparable to federal banking requirements established under specified regulations for prompt corrective actions and for capital adequacy in effect as of May 1, 2013.</p> <p>Directs the Federal Deposit Insurance Corporation (FDIC) to: (1) study historical equity capital ratios chosen by large depository institutions before the advent of the Federal Reserve System, federal deposit insurance, and the federal income tax (policies) encouraged depositories to favor more highly leveraged deposit and debt funding; and (2) structure the capital surcharge for financial institutions with at least $500 billion in total consolidated assets so that it fully accounts for and offsets any distortion of capital levels by such policies.</p> <p>Directs the federal banking agencies to establish equity capital surcharges for each financial institution having at least $500 billion in total consolidated assets.</p> <p>Authorizes capital requirements to increase continuously as a percentage of total consolidated assets as such assets increase.</p> <p>Prescribes anti-evasion and implementation measures.</p> <p>Directs the Board of Governors of the Federal Reserve System (Board), the FDIC, and the Comptroller of the Currency to establish capital requirements for each affiliate and subsidiary of a financial institution that are no less stringent than those established under this Act. Exempts from such requirements any financial institution with less than $50 billion in total consolidated assets.</p> <p>Amends the Home Owner's Loan Act to prohibit the Board from prescribing or imposing capital or capital adequacy rules, guidelines, standards, or requirements on any functionally regulated subsidiary of a savings and loan holding company or functionally regulated affiliate of certain savings associations.</p> <p>Permits federal banking agencies, in order to measure the relative risk of certain assets and prevent investment in excessive amounts of riskier assets, to establish supplemental risk-based capital requirements for any financial institution with more than $20 billion in total consolidated assets (or any affiliate or subsidiary). Prohibits a federal banking agency from implementing such requirements for such a financial institution unless all federal banking agencies agree that bank supervision is insufficient to prevent excessive concentration of riskier assets.</p> <p>Prohibits the Board, the FDIC, and the Comptroller of the Currency from any further implementation of federal banking agencies rules regarding &quot;Basel III: A Global Regulatory Framework for More Resilient Banks and Banking Systems.&quot;</p> <p>Amends the Federal Reserve Act to permit only an insured depository institution that is a member bank with less than $50 billion of total consolidated assets (or affiliate or subsidiary) to engage in a covered transaction with another affiliate or subsidiary that is not an insured depository institution, with certain exceptions. </p> <p>Prohibits the affiliate or subsidiary of a financial institution, insured depository institution, or nonbank financial institution, except in connection with its resolution or receivership, from receiving certain federal assistance, including asset purchases, loans, investments in debt or equity, or capital injections, or through the Exchange Stabilization Fund, the Deposit Insurance Fund, or through the Board. Excludes from this prohibition transactions or operations implementing monetary policy matters under the direction of either the Board or the Federal Open Market Committee.</p>   <p>Amends the Securities Exchange Act of 1934 to require an issuer that is a savings and loan holding company to register with the Securities and Exchange Commission (SEC) if: (1) its assets exceed $10 million, and (2) it has a class of equity security held of record by 2,000 or more persons.</p> <p>Amends the Federal Financial Institutions Examination Council Act of 1978 to establish an Office of Examination Ombudsman.</p> <p>Amends the Gramm-Leach-Bliley Act to exempt certain financial institutions from mandatory annual written disclosures. </p> <p>Amends the Equal Credit Opportunity Act to exempt an entity with less than $10 billion in total consolidated assets from the requirement to collect certain data from women-owned, minority-owned, or small business credit applicants. </p>]]></text>
+          <updateDate>2013-04-24T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2013-06-17T18:11:06Z</lastSummaryUpdateDate>
+          <actionDate>2013-04-24</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <introducedDate>2013-04-24</introducedDate>
+    <billType>S</billType>
+    <congress>113</congress>
+    <billNumber>798</billNumber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>TBTF Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Terminating Bailouts for Taxpayer Fairness Act of 2013</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to address equity capital requirements for financial institutions, bank holding companies, subsidiaries, and affiliates, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>TBTF Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

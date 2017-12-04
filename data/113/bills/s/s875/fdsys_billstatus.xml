@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>Department of Veterans Affairs Disease Reporting and Oversight Act of 2013</title>
+    <createDate>2013-05-08T07:02:14Z</createDate>
+    <billNumber>875</billNumber>
+    <billType>S</billType>
+    <sponsors>
+      <item>
+        <bioguideId>C001070</bioguideId>
+        <middleName />
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <firstName>Bob</firstName>
+        <byRequestType />
+        <identifiers>
+          <lisID>1828</lisID>
+          <gpoId>8282</gpoId>
+          <bioguideId>C001070</bioguideId>
+        </identifiers>
+        <lastName>Casey</lastName>
+        <party>D</party>
+        <state>PA</state>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <middleName>E.</middleName>
+        <firstName>CHARLES</firstName>
+        <identifiers>
+          <lisID>1036</lisID>
+          <gpoId>8279</gpoId>
+          <bioguideId>S000148</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>SCHUMER</lastName>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S000148</bioguideId>
+        <sponsorshipDate>2013-10-28</sponsorshipDate>
+        <state>NY</state>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Pat</firstName>
+        <identifiers>
+          <lisID>1594</lisID>
+          <bioguideId>T000461</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Toomey</lastName>
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000461</bioguideId>
+        <sponsorshipDate>2014-05-05</sponsorshipDate>
+        <state>PA</state>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>2153</number>
+        <type>HR</type>
+        <latestTitle>Department of Veterans Affairs Disease Reporting and Oversight Act of 2013</latestTitle>
+        <latestAction>
+          <actionDate>2013-06-11</actionDate>
+          <text>Referred to the Subcommittee on Oversight and Investigations.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <congress>113</congress>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Department of Veterans Affairs Disease Reporting and Oversight Act of 2013</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title 38, United States Code, to require the reporting of cases of infectious diseases at facilities of the Veterans Health Administration, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Department of Veterans Affairs Disease Reporting and Oversight Act of 2013</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <introducedDate>2013-05-07</introducedDate>
+    <latestAction>
+      <text>Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 113-280.</text>
+      <actionDate>2013-10-30</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <amendments />
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Infectious and parasitic diseases</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <notes />
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-10-30</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 113-280.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-05-07</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-05-07</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-05-16T16:53:44Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2013-05-07T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <actionDate>2013-05-07</actionDate>
+          <text><![CDATA[<p>Department of Veterans Affairs Disease Reporting and Oversight Act of 2013 - Requires the director of a Veterans Integrated Service Network, within 24 hours after confirming the presence of a notifiable infectious disease (any infectious disease that is either on a specified published list of nationally notifiable diseases or that is covered by a provision of law of a state that requires the reporting of infectious diseases) at a Department of Veterans Affairs (VA) facility under that director's jurisdiction, to notify: (1) the Central Office of the VA; (2) the Director of the Centers for Disease Control and Prevention; (3) the state and county in which the facility is located; (4) each individual at the facility who has contracted the disease or is at risk of doing so, as well as the individual's next of kin, the individual's primary health care provider, and the county in which the individual resides; and (5) each VA employee of such facility. Requires such director to comply with any earlier notification required by the state concerned.</p> <p>Requires such director to: (1) confirm receipt of such notification, (2) develop and implement an action plan to manage and control the potential spread of the disease, and (3) keep records of any such notifications for at least 10 years. Requires an annual report from the VA Inspector General to Congress on directors' compliance with the requirements of this Act. Provides for Inspector General enforcement and appropriate director disciplinary action with respect to such requirements.</p> <p>Directs the Under Secretary for Health of the Veterans Health Administration (VHA) to issue a directive to the VHA's pathology team, infection prevention team, facilities management team, and other appropriate VHA groups on the actions to be taken when a notifiable infectious disease is discovered in a VHA facility.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2016-10-25T16:24:04Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssva00</systemCode>
+          <activities>
+            <item>
+              <date>2013-10-30T18:00:00Z</date>
+              <name>Hearings by</name>
+            </item>
+            <item>
+              <date>2013-05-07T18:43:11Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Veterans' Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

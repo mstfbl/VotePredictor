@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-09-17</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 187.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2013-09-17</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 113-108</name>
+            <url>https://www.congress.gov/congressional-report/113th-congress/senate-report/108</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. With written report No. 113-108.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>14000</actionCode>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Rockefeller with an amendment in the nature of a substitute. With written report No. 113-108.</text>
+        <links>
+          <link>
+            <name>report No. 113-108</name>
+            <url>https://www.congress.gov/congressional-report/113th-congress/senate-report/108</url>
+          </link>
+        </links>
+        <actionDate>2013-09-17</actionDate>
+      </item>
+      <item>
+        <actionDate>2013-07-30</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-05-23</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-05-23</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-05-23</introducedDate>
+    <updateDate>2016-10-25T16:24:55Z</updateDate>
+    <createDate>2013-05-24T07:01:35Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <activities>
+            <item>
+              <date>2013-09-17T19:56:29Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2013-07-30T21:32:36Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2013-05-23T21:29:42Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <state>AK</state>
+        <bioguideId>M001153</bioguideId>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <identifiers>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <firstName>Lisa</firstName>
+        <lastName>Murkowski</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>KS</state>
+        <bioguideId>M000934</bioguideId>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <identifiers>
+          <lisID>1507</lisID>
+          <gpoId>8307</gpoId>
+          <bioguideId>M000934</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <firstName>JERRY</firstName>
+        <lastName>MORAN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>KS</state>
+        <bioguideId>R000307</bioguideId>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <identifiers>
+          <gpoId>8275</gpoId>
+          <lisID>968</lisID>
+          <bioguideId>R000307</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <firstName>PAT</firstName>
+        <lastName>ROBERTS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NE</state>
+        <bioguideId>J000291</bioguideId>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <identifiers>
+          <lisID>1899</lisID>
+          <gpoId>8325</gpoId>
+          <bioguideId>J000291</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Johanns, Mike [R-NE]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Johanns</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>AK</state>
+        <bioguideId>B001265</bioguideId>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <identifiers>
+          <lisID>1898</lisID>
+          <gpoId>8301</gpoId>
+          <bioguideId>B001265</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Begich, Mark [D-AK]</fullName>
+        <firstName>Mark</firstName>
+        <lastName>Begich</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>ID</state>
+        <bioguideId>R000584</bioguideId>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <identifiers>
+          <lisID>1896</lisID>
+          <bioguideId>R000584</bioguideId>
+          <gpoId>8274</gpoId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <firstName>James</firstName>
+        <lastName>Risch</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NM</state>
+        <bioguideId>U000039</bioguideId>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <identifiers>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+          <lisID>1567</lisID>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <firstName>TOM</firstName>
+        <lastName>UDALL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MT</state>
+        <bioguideId>T000464</bioguideId>
+        <sponsorshipDate>2013-05-23</sponsorshipDate>
+        <identifiers>
+          <gpoId>8258</gpoId>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <firstName>Jon</firstName>
+        <lastName>Tester</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>OK</state>
+        <bioguideId>I000024</bioguideId>
+        <sponsorshipDate>2013-06-17</sponsorshipDate>
+        <identifiers>
+          <bioguideId>I000024</bioguideId>
+          <gpoId>8322</gpoId>
+          <lisID>583</lisID>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <firstName>JIM</firstName>
+        <lastName>INHOFE</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>ND</state>
+        <bioguideId>H001069</bioguideId>
+        <sponsorshipDate>2013-06-27</sponsorshipDate>
+        <identifiers>
+          <lisID>2174</lisID>
+          <gpoId />
+          <bioguideId>H001069</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <firstName>Heidi</firstName>
+        <lastName>Heitkamp</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NH</state>
+        <bioguideId>A000368</bioguideId>
+        <sponsorshipDate>2013-07-09</sponsorshipDate>
+        <identifiers>
+          <bioguideId>A000368</bioguideId>
+          <gpoId>8315</gpoId>
+          <lisID>2075</lisID>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Ayotte, Kelly [R-NH]</fullName>
+        <firstName>Kelly</firstName>
+        <lastName>Ayotte</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>AR</state>
+        <bioguideId>B001236</bioguideId>
+        <sponsorshipDate>2013-07-18</sponsorshipDate>
+        <identifiers>
+          <lisID>1687</lisID>
+          <gpoId>8247</gpoId>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <firstName>John</firstName>
+        <lastName>Boozman</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MN</state>
+        <bioguideId>F000457</bioguideId>
+        <sponsorshipDate>2013-07-23</sponsorshipDate>
+        <identifiers>
+          <gpoId>8339</gpoId>
+          <lisID>1969</lisID>
+          <bioguideId>F000457</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <firstName>Al</firstName>
+        <lastName>Franken</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>AR</state>
+        <bioguideId>P000590</bioguideId>
+        <sponsorshipDate>2013-07-24</sponsorshipDate>
+        <identifiers>
+          <bioguideId>P000590</bioguideId>
+          <lisID>1701</lisID>
+          <gpoId>8241</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Pryor, Mark L. [D-AR]</fullName>
+        <firstName>Mark</firstName>
+        <lastName>Pryor</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>Lunsford</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>FL</state>
+        <bioguideId>N000032</bioguideId>
+        <sponsorshipDate>2013-07-29</sponsorshipDate>
+        <identifiers>
+          <lisID>859</lisID>
+          <gpoId>8236</gpoId>
+          <bioguideId>N000032</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <firstName>CLARENCE</firstName>
+        <lastName>NELSON</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>WILLIAM</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Small Airplane Revitalization Act of 2013</title>
+    <titles>
+      <item>
+        <chamberCode>S</chamberCode>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberName>Senate</chamberName>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <title>Small Airplane Revitalization Act of 2013</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Small Airplane Revitalization Act of 2013</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to ensure that the Federal Aviation Administration advances the safety of small airplanes and the continued development of the general aviation industry, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Small Airplane Revitalization Act of 2013</title>
+      </item>
+    </titles>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 113-108</citation>
+      </committeeReport>
+    </committeeReports>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2013-06-21T20:13:08Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Small Airplane Revitalization Act of 2013 - Directs the Administrator of the Federal Aviation Administration (FAA) to issue a final rule to advance the safety and continued development of small airplanes by reorganizing the certification requirements to streamline the approval of safety advancements. </p> <p>Requires the final rule to meet certain consensus-based standards and FAA Part 23 Reorganization Aviation Rulemaking Committee objectives, including: (1) establishment of a regulatory regime for small airplane safety; (2) the establishment of broad, outcome-driven objectives that will spur small plane innovation and technology adoption; (3) the replacement of current, prescriptive requirements under Part 23 with performance-based regulations; and (4) the use of FAA-accepted consensus standards to clarify how Part 23 safety objectives may be met using specific small plane safety designs and technologies.</p>]]></text>
+          <updateDate>2013-05-23T04:00:00Z</updateDate>
+          <actionDate>2013-05-23</actionDate>
+        </item>
+        <item>
+          <versionCode>01</versionCode>
+          <actionDesc>Reported to Senate amended</actionDesc>
+          <name>Reported to Senate amended</name>
+          <lastSummaryUpdateDate>2013-10-28T20:36:31Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Small Airplane Revitalization Act of 2013 - Directs the Administrator of the Federal Aviation Administration (FAA) to issue a final rule to advance the safety and continued development of small airplanes by reorganizing the certification requirements to streamline the approval of safety advancements. </p> <p>Requires the final rule to meet certain consensus-based standards and FAA Part 23 Reorganization Aviation Rulemaking Committee objectives, including: (1) establishment of a regulatory regime for small airplane safety; (2) the establishment of broad, outcome-driven objectives that will spur small plane innovation and technology adoption; (3) the replacement of current, prescriptive requirements under Part 23 with performance-based regulations; and (4) the use of FAA-accepted consensus standards to clarify how Part 23 safety objectives may be met using specific small plane safety designs and technologies.</p>]]></text>
+          <updateDate>2013-09-17T16:51:50Z</updateDate>
+          <actionDate>2013-09-17</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes>
+      <item>
+        <links>
+          <link>
+            <name>H.R.1848</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/1848</url>
+          </link>
+        </links>
+        <text><![CDATA[For further action, see H.R.1848, which became Public Law 113-53 on 11/27/2013.]]></text>
+      </item>
+    </notes>
+    <cboCostEstimates>
+      <item>
+        <title>S. 1072, Small Airplane Revitalization Act of 2013</title>
+        <url>http://www.cbo.gov/publication/44515</url>
+        <pubDate>2013-08-22T18:21:00Z</pubDate>
+      </item>
+      <item>
+        <title>S. 1072, Small Airplane Revitalization Act of 2013</title>
+        <url>https://www.cbo.gov/publication/44515</url>
+        <pubDate>2013-08-22T18:21:00Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <latestTitle>Small Airplane Revitalization Act of 2013</latestTitle>
+        <number>1848</number>
+        <latestAction>
+          <text>Became Public Law No: 113-53.</text>
+          <actionDate>2013-11-27</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Small Airplane Revitalization Act of 2013</latestTitle>
+        <number>3363</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on Aviation.</text>
+          <actionDate>2013-10-30</actionDate>
+        </latestAction>
+        <type>HR</type>
+        <congress>113</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Text similarities</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Advanced technology and technological innovations</name>
+          </item>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Department of Transportation</name>
+          </item>
+          <item>
+            <name>Intellectual property</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Technology transfer and commercialization</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 187.</text>
+      <actionDate>2013-09-17</actionDate>
+    </latestAction>
+    <billNumber>1072</billNumber>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Amy</firstName>
+        <party>D</party>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <bioguideId>K000367</bioguideId>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <lastName>Klobuchar</lastName>
+        <middleName />
+        <state>MN</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers>
+      <item>
+        <number>0187</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

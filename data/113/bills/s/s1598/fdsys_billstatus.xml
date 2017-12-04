@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <title>Pay Our Bills Act</title>
+    <createDate>2013-10-30T11:03:37Z</createDate>
+    <billNumber>1598</billNumber>
+    <billType>S</billType>
+    <sponsors>
+      <item>
+        <bioguideId>B000711</bioguideId>
+        <middleName />
+        <fullName>Sen. Boxer, Barbara [D-CA]</fullName>
+        <firstName>BARBARA</firstName>
+        <byRequestType />
+        <identifiers>
+          <lisID>116</lisID>
+          <bioguideId>B000711</bioguideId>
+          <gpoId>8306</gpoId>
+        </identifiers>
+        <lastName>BOXER</lastName>
+        <party>D</party>
+        <state>CA</state>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000148</bioguideId>
+        <firstName>CHARLES</firstName>
+        <identifiers>
+          <lisID>1036</lisID>
+          <bioguideId>S000148</bioguideId>
+          <gpoId>8279</gpoId>
+        </identifiers>
+        <state>NY</state>
+        <sponsorshipDate>2013-10-29</sponsorshipDate>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <lastName>SCHUMER</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>K.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001042</bioguideId>
+        <firstName>Mazie</firstName>
+        <identifiers>
+          <lisID>1844</lisID>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+        </identifiers>
+        <state>HI</state>
+        <sponsorshipDate>2013-10-29</sponsorshipDate>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <lastName>Hirono</lastName>
+      </item>
+    </cosponsors>
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <latestAction>
+          <text>Referred to House Rules</text>
+          <actionDate>2013-10-29</actionDate>
+        </latestAction>
+        <latestTitle>Pay Our Bills Act</latestTitle>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>3372</number>
+      </item>
+    </relatedBills>
+    <congress>113</congress>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Pay Our Bills Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to provide a process for ensuring the United States does not default on its obligations.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Pay Our Bills Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <introducedDate>2013-10-29</introducedDate>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2013-10-29</actionDate>
+      <links />
+    </latestAction>
+    <cboCostEstimates />
+    <amendments />
+    <committeeReports />
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <notes />
+    <actions>
+      <item>
+        <actionDate>2013-10-29</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2013-10-29</actionDate>
+        <actionCode>10000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2013-11-21T20:34:35Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Pay Our Bills Act - Authorizes an extension of the presidential authority to modify the public debt ceiling (subject to enactment of a congressional joint resolution of disapproval).</p> <p>Authorizes the Secretary of the Treasury to borrow an additional amount required to meet existing commitments if the President certifies to Congress that the public debt is within $100 billion of the current limit and that further borrowing is required. (The debt limit was $16.699 trillion before its suspension in the Continuing Appropriations Act, FY2014 [P.L. 113-46].)</p> <p>Authorizes Congress to use current requirements for expedited consideration of the joint resolution. Increases the debt limit by the certified amount if the time for disaproval has lapsed without enactment of the joint resolution.</p> <p>Suspends the debt limit for the period beginning on the date on which the President submits such a certification to Congress and ending on the earlier of:</p> <ul> <li>15 calendar days after Congress receives the certification, or</li> <li>enactment of a joint resolution disapproving the President's exercise of authority for the debt limit under that certification.</li> </ul> <p>Increases the debt limit, effective on the day after the certification is submitted, to the extent that:</p> <ol> <li> the face amount of public debt obligations and those whose principal and interest are guaranteed by the U.S. government (except guaranteed obligations held by the Secretary) outstanding on the day after such date exceeds</li> <li> the face amount of such obligations outstanding on the date the President certifies Congress.</li> </ol> <p> Excludes from such formula any obligation whose issuance was not necessary to fund a commitment that required payment before the day after the certification is submitted to Congress.</p> <p>Prohibits the debt limit from being increased if a joint resolution of disapproval is enacted within 15 days after receipt by Congress (in session or not) of a presidential certification that the public debt is within $100 billion of the current limit.</p> <p>Provides for expedited consideration of such a joint resolution in the House and Senate.</p>]]></text>
+          <updateDate>2013-10-29T04:00:00Z</updateDate>
+          <actionDate>2013-10-29</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <updateDate>2016-10-25T16:27:13Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfi00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Finance Committee</name>
+          <activities>
+            <item>
+              <date>2013-10-29T17:56:44Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

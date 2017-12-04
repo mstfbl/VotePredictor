@@ -1,0 +1,303 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18ff2c444">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To help individuals receiving assistance under means-tested welfare programs obtain self-sufficiency, to provide information on total spending on means-tested welfare programs, to provide an overall spending limit on means-tested welfare programs, and for other purposes.;
+   		Welfare Reform and Upward Mobility Act;S. 3047 (IS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-06-15</dateIngested>
+</extension>
+<titleInfo>
+ <title>To help individuals receiving assistance under means-tested welfare programs obtain self-sufficiency, to provide information on total spending on means-tested welfare programs, to provide an overall spending limit on means-tested welfare programs, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Welfare Reform and Upward Mobility Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 3047 (IS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-06-09</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>62 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18ff2c444</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s3047is</identifier>
+<identifier type="preferred citation">S. 3047</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s3047_is.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s3047is/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s3047is/html/BILLS-114s3047is.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s3047is/pdf/BILLS-114s3047is.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s3047is/xml/BILLS-114s3047is.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-06-15</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-06-16</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s3047is</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Mike Lee</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ted Cruz</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>James M. Inhofe</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David Vitter</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Finance</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 2 Section 622</partNumber>
+</titleInfo>
+ <identifier type="USC citation">2 U.S.C. 622</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 7 Section 2011</partNumber>
+  <partNumber>Title 7 Section 2011et seq.</partNumber>
+  <partNumber>Title 7 Section 2012</partNumber>
+  <partNumber>Title 7 Section 2012(k)</partNumber>
+  <partNumber>Title 7 Section 2015(o)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">7 U.S.C. 2011</identifier>
+ <identifier type="USC citation">7 U.S.C. 2011et seq.</identifier>
+ <identifier type="USC citation">7 U.S.C. 2012</identifier>
+ <identifier type="USC citation">7 U.S.C. 2012(k)</identifier>
+ <identifier type="USC citation">7 U.S.C. 2015(o)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 12 Section 1701q</partNumber>
+  <partNumber>Title 12 Section 1701s</partNumber>
+  <partNumber>Title 12 Section 1715z</partNumber>
+</titleInfo>
+ <identifier type="USC citation">12 U.S.C. 1701q</identifier>
+ <identifier type="USC citation">12 U.S.C. 1701s</identifier>
+ <identifier type="USC citation">12 U.S.C. 1715z</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 4111et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 4111et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 29 Section 2801</partNumber>
+</titleInfo>
+ <identifier type="USC citation">29 U.S.C. 2801</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 1105(a)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 1105(a)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 11360</partNumber>
+  <partNumber>Title 42 Section 12721et seq.</partNumber>
+  <partNumber>Title 42 Section 1437a</partNumber>
+  <partNumber>Title 42 Section 1437a(b)(6)</partNumber>
+  <partNumber>Title 42 Section 1437et seq.</partNumber>
+  <partNumber>Title 42 Section 1437f</partNumber>
+  <partNumber>Title 42 Section 1487</partNumber>
+  <partNumber>Title 42 Section 601</partNumber>
+  <partNumber>Title 42 Section 601et seq.</partNumber>
+  <partNumber>Title 42 Section 607</partNumber>
+  <partNumber>Title 42 Section 607(b)(4)</partNumber>
+  <partNumber>Title 42 Section 607(c)(2)(B)</partNumber>
+  <partNumber>Title 42 Section 609(a)(3)</partNumber>
+  <partNumber>Title 42 Section 609(a)(7)</partNumber>
+  <partNumber>Title 42 Section 609(a)(7)(B)</partNumber>
+  <partNumber>Title 42 Section 609(a)(7)(B)(i)</partNumber>
+  <partNumber>Title 42 Section 8013(d)(2)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 11360</identifier>
+ <identifier type="USC citation">42 U.S.C. 12721et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 1437a</identifier>
+ <identifier type="USC citation">42 U.S.C. 1437a(b)(6)</identifier>
+ <identifier type="USC citation">42 U.S.C. 1437et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 1437f</identifier>
+ <identifier type="USC citation">42 U.S.C. 1487</identifier>
+ <identifier type="USC citation">42 U.S.C. 601</identifier>
+ <identifier type="USC citation">42 U.S.C. 601et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 607</identifier>
+ <identifier type="USC citation">42 U.S.C. 607(b)(4)</identifier>
+ <identifier type="USC citation">42 U.S.C. 607(c)(2)(B)</identifier>
+ <identifier type="USC citation">42 U.S.C. 609(a)(3)</identifier>
+ <identifier type="USC citation">42 U.S.C. 609(a)(7)</identifier>
+ <identifier type="USC citation">42 U.S.C. 609(a)(7)(B)</identifier>
+ <identifier type="USC citation">42 U.S.C. 609(a)(7)(B)(i)</identifier>
+ <identifier type="USC citation">42 U.S.C. 8013(d)(2)</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s3047is</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>3047</billNumber>
+ <billVersion reprint="false">is</billVersion>
+ <fileSuffix>is</fileSuffix>
+ <shortTitle>Welfare Reform and Upward Mobility Act</shortTitle>
+ <action date="2016-06-09">Mr. Lee (for himself, Mr. Cruz, Mr. Inhofe, and Mr. Vitter) introduced the following bill; which was read twice and referred to the Committee on Finance</action>
+ <congCommittee authorityId="ssfi00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Finance</name>
+                      <name type="authority-short">Finance</name>
+                </congCommittee>
+ <congMember authorityId="2080" bioGuideId="L000577" chamber="S" congress="114" gpoId="8303" party="R" role="SPONSOR" state="UT">
+                      <name type="parsed">Mr. Lee</name>
+                      <name type="authority-fnf">Mike Lee</name>
+                      <name type="authority-lnf">Lee, Mike</name>
+                </congMember>
+ <congMember authorityId="2175" bioGuideId="C001098" chamber="S" congress="114" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Cruz</name>
+                      <name type="authority-fnf">Ted Cruz</name>
+                      <name type="authority-lnf">Cruz, Ted</name>
+                </congMember>
+ <congMember authorityId="583" bioGuideId="I000024" chamber="S" congress="114" gpoId="8322" party="R" role="COSPONSOR" state="OK">
+                      <name type="parsed">Mr. Inhofe</name>
+                      <name type="authority-fnf">James M. Inhofe</name>
+                      <name type="authority-lnf">Inhofe, James M.</name>
+                      <name type="authority-other">Jim Inhofe</name>
+                </congMember>
+ <congMember authorityId="1609" bioGuideId="V000127" chamber="S" congress="114" gpoId="8267" party="R" role="COSPONSOR" state="LA">
+                      <name type="parsed">Mr. Vitter</name>
+                      <name type="authority-fnf">David Vitter</name>
+                      <name type="authority-lnf">Vitter, David</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="2">
+                      <section number="622"></section>
+                </USCode>
+ <USCode title="7">
+                      <section number="2011"></section>
+                      <section detail="et seq." number="2011"></section>
+                      <section number="2012"></section>
+                      <section detail="(k)" number="2012"></section>
+                      <section detail="(o)" number="2015"></section>
+                </USCode>
+ <USCode title="12">
+                      <section number="1701q"></section>
+                      <section number="1701s"></section>
+                      <section number="1715z"></section>
+                </USCode>
+ <USCode title="25">
+                      <section detail="et seq." number="4111"></section>
+                </USCode>
+ <USCode title="29">
+                      <section number="2801"></section>
+                </USCode>
+ <USCode title="31">
+                      <section detail="(a)" number="1105"></section>
+                </USCode>
+ <USCode title="42">
+                      <section number="11360"></section>
+                      <section detail="et seq." number="12721"></section>
+                      <section number="1437a"></section>
+                      <section detail="(b)(6)" number="1437a"></section>
+                      <section detail="et seq." number="1437"></section>
+                      <section number="1437f"></section>
+                      <section number="1487"></section>
+                      <section number="601"></section>
+                      <section detail="et seq." number="601"></section>
+                      <section number="607"></section>
+                      <section detail="(b)(4)" number="607"></section>
+                      <section detail="(c)(2)(B)" number="607"></section>
+                      <section detail="(a)(3)" number="609"></section>
+                      <section detail="(a)(7)" number="609"></section>
+                      <section detail="(a)(7)(B)" number="609"></section>
+                      <section detail="(a)(7)(B)(i)" number="609"></section>
+                      <section detail="(d)(2)" number="8013"></section>
+                </USCode>
+</extension>
+</mods>

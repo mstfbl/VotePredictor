@@ -1,0 +1,232 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee19300e8d8">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To improve the Governmentwide management of unnecessarily duplicative Government programs and for other purposes.;Getting Results through Enhanced Accountability and Transparency Act of 2016;H.R. 5033 (RH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-12-09</dateIngested>
+</extension>
+<titleInfo>
+ <title>To improve the Governmentwide management of unnecessarily duplicative Government programs and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Getting Results through Enhanced Accountability and Transparency Act of 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 5033 (RH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-12-08</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>14 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee19300e8d8</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5033rh</identifier>
+<identifier type="preferred citation">H.R. 5033</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h5033_rh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5033rh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5033rh/html/BILLS-114hr5033rh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5033rh/pdf/BILLS-114hr5033rh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr5033rh/xml/BILLS-114hr5033rh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-12-09</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-12-09</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr5033rh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Tammy Duckworth</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Steve Russell</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robin L. Kelly</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gerald E. Connolly</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark DeSaulnier</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Oversight and Government Reform</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 305(c)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 305(c)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 1115</partNumber>
+  <partNumber>Title 31 Section 1120</partNumber>
+  <partNumber>Title 31 Section 1123(b)</partNumber>
+  <partNumber>Title 31 Section 1124</partNumber>
+  <partNumber>Title 31 Section 1125(a)(1)</partNumber>
+  <partNumber>Title 31 Section 712note</partNumber>
+  <partNumber>Title 31 Section 720(b)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 1115</identifier>
+ <identifier type="USC citation">31 U.S.C. 1120</identifier>
+ <identifier type="USC citation">31 U.S.C. 1123(b)</identifier>
+ <identifier type="USC citation">31 U.S.C. 1124</identifier>
+ <identifier type="USC citation">31 U.S.C. 1125(a)(1)</identifier>
+ <identifier type="USC citation">31 U.S.C. 712note</identifier>
+ <identifier type="USC citation">31 U.S.C. 720(b)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 111-139</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 111-139</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Union Calendar No. 666</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr5033rh</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>5033</billNumber>
+ <billVersion reprint="false">rh</billVersion>
+ <fileSuffix>rh</fileSuffix>
+ <shortTitle type="measure">Getting Results through Enhanced Accountability and Transparency Act of 2016</shortTitle>
+ <officialTitle>To improve the Governmentwide management of unnecessarily duplicative Government programs and for other purposes.</officialTitle>
+ <action date="2016-04-21">Ms. Duckworth (for herself and Mr. Russell) introduced the following bill; which was referred to the Committee on Oversight and Government Reform</action>
+ <action date="2016-12-08">Additional sponsors: Ms. Kelly of Illinois, Mr. Connolly, and Mr. DeSaulnier</action>
+ <action date="2016-12-08">Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action>
+ <congCommittee authorityId="hsgo00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Oversight and Government Reform</name>
+                      <name type="authority-short">Oversight and Government Reform</name>
+                </congCommittee>
+ <congMember authorityId="2123" bioGuideId="D000622" chamber="H" congress="114" party="D" role="SPONSOR" state="IL">
+                      <name type="parsed">Ms. Duckworth</name>
+                      <name type="authority-fnf">Tammy Duckworth</name>
+                      <name type="authority-lnf">Duckworth, Tammy</name>
+                </congMember>
+ <congMember authorityId="2265" bioGuideId="R000604" chamber="H" congress="114" party="R" role="COSPONSOR" state="OK">
+                      <name type="parsed">Mr. Russell</name>
+                      <name type="authority-fnf">Steve Russell</name>
+                      <name type="authority-lnf">Russell, Steve</name>
+                </congMember>
+ <congMember authorityId="2190" bioGuideId="K000385" chamber="H" congress="114" party="D" role="COSPONSOR" state="IL">
+                      <name type="parsed">Ms. Kelly of Illinois</name>
+                      <name type="authority-fnf">Robin L. Kelly</name>
+                      <name type="authority-lnf">Kelly, Robin L.</name>
+                      <name type="authority-other">Ms. Robin Kelly</name>
+                </congMember>
+ <congMember authorityId="1959" bioGuideId="C001078" chamber="H" congress="114" gpoId="8202" party="D" role="COSPONSOR" state="VA">
+                      <name type="parsed">Mr. Connolly</name>
+                      <name type="authority-fnf">Gerald E. Connolly</name>
+                      <name type="authority-lnf">Connolly, Gerald E.</name>
+                      <name type="authority-other">Mr. Gerald Connolly</name>
+                </congMember>
+ <congMember authorityId="2227" bioGuideId="D000623" chamber="H" congress="114" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. DeSaulnier</name>
+                      <name type="authority-fnf">Mark DeSaulnier</name>
+                      <name type="authority-lnf">DeSaulnier, Mark</name>
+                </congMember>
+ <law congress="111" isPrivate="false" number="139"></law>
+ <congCalendar congress="114" number="666" type="UNION"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section detail="(c)" number="305"></section>
+                </USCode>
+ <USCode title="31">
+                      <section number="1115"></section>
+                      <section number="1120"></section>
+                      <section detail="(b)" number="1123"></section>
+                      <section number="1124"></section>
+                      <section detail="(a)(1)" number="1125"></section>
+                      <section detail="note" number="712"></section>
+                      <section detail="(b)" number="720"></section>
+                </USCode>
+</extension>
+</mods>

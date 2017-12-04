@@ -1,0 +1,168 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee1930c6e97">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To ensure that members of the uniformed services will have access to information to make informed choices regarding the retirement options to be made available to members.;Service Members Financial Planning Assistance Act of 2016;H.R. 6493 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-12-15</dateIngested>
+</extension>
+<titleInfo>
+ <title>To ensure that members of the uniformed services will have access to information to make informed choices regarding the retirement options to be made available to members.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Service Members Financial Planning Assistance Act of 2016</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 6493 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-12-08</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>3 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee1930c6e97</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6493ih</identifier>
+<identifier type="preferred citation">H.R. 6493</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h6493_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6493ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6493ih/html/BILLS-114hr6493ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6493ih/pdf/BILLS-114hr6493ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr6493ih/xml/BILLS-114hr6493ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-12-15</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-12-15</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr6493ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Marc A. Veasey</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Armed Services</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 1415</partNumber>
+  <partNumber>Title 10 Section 1415(b)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 1415</identifier>
+ <identifier type="USC citation">10 U.S.C. 1415(b)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 37 Section 101(5)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">37 U.S.C. 101(5)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 129 Page 847</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">129 Stat. 847</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 114-92</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 114-92</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr6493ih</accessId>
+ <congress>114</congress>
+ <session>2</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>6493</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">Service Members Financial Planning Assistance Act of 2016</shortTitle>
+ <officialTitle>To ensure that members of the uniformed services will have access to information to make informed choices regarding the retirement options to be made available to members.</officialTitle>
+ <action date="2016-12-08">Mr. Veasey introduced the following bill; which was referred to the Committee on Armed Services</action>
+ <congCommittee authorityId="hsas00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Armed Services</name>
+                      <name type="authority-short">Armed Services</name>
+                </congCommittee>
+ <congMember authorityId="2166" bioGuideId="V000131" chamber="H" congress="114" party="D" role="SPONSOR" state="TX">
+                      <name type="parsed">Mr. Veasey</name>
+                      <name type="authority-fnf">Marc A. Veasey</name>
+                      <name type="authority-lnf">Veasey, Marc A.</name>
+                      <name type="authority-other">Mr. Marc Veasey</name>
+                </congMember>
+ <law congress="114" isPrivate="false" number="92"></law>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="10">
+                      <section number="1415"></section>
+                      <section detail="(b)" number="1415"></section>
+                </USCode>
+ <USCode title="37">
+                      <section detail="(5)" number="101"></section>
+                </USCode>
+ <statuteAtLarge volume="129">
+                      <pages pages="847"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

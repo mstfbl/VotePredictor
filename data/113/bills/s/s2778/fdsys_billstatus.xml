@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <links />
+        <actionDate>2014-09-19</actionDate>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Received in the House.</text>
+        <actionTime>12:03:29</actionTime>
+        <actionCode>H14000</actionCode>
+        <links />
+        <actionDate>2014-09-19</actionDate>
+      </item>
+      <item>
+        <actionDate>2014-09-19</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2014-09-18</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S5876</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S5876</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S5876; text as passed Senate: CR S5876)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>17000</actionCode>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S5876; text as passed Senate: CR S5876)</text>
+        <links>
+          <link>
+            <name>S5876</name>
+            <url>https://www.congress.gov/congressional-record/volume-160/senate-section/page/S5876</url>
+          </link>
+        </links>
+        <actionDate>2014-09-18</actionDate>
+      </item>
+      <item>
+        <actionDate>2014-09-18</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 574.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2014-09-18</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>14000</actionCode>
+        <text>Committee on Foreign Relations. Reported by Senator Menendez without amendment. Without written report.</text>
+        <links />
+        <actionDate>2014-09-18</actionDate>
+      </item>
+      <item>
+        <actionDate>2014-09-18</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-09-08</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2014-09-08</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+        <senate>9</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <passedSenate>1</passedSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <sentToHouse>1</sentToHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <reportedToSenate>2</reportedToSenate>
+        <billReferrals>1</billReferrals>
+        <orderedReported>1</orderedReported>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2014-09-08</introducedDate>
+    <updateDate>2016-10-25T16:32:08Z</updateDate>
+    <createDate>2014-09-09T05:08:51Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsfa00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <name>Foreign Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2014-09-19T18:26:48Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>ssfr00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Foreign Relations Committee</name>
+          <activities>
+            <item>
+              <date>2014-09-18T23:54:39Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2014-09-18T18:00:00Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2014-09-08T19:23:03Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>NH</state>
+        <sponsorshipDate>2014-09-08</sponsorshipDate>
+        <bioguideId>S001181</bioguideId>
+        <firstName>Jeanne</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <party>D</party>
+        <lastName>Shaheen</lastName>
+        <identifiers>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>NH</state>
+        <sponsorshipDate>2014-09-08</sponsorshipDate>
+        <bioguideId>A000368</bioguideId>
+        <firstName>Kelly</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Ayotte, Kelly [R-NH]</fullName>
+        <party>R</party>
+        <lastName>Ayotte</lastName>
+        <identifiers>
+          <gpoId>8315</gpoId>
+          <lisID>2075</lisID>
+          <bioguideId>A000368</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <sponsorshipDate>2014-09-08</sponsorshipDate>
+        <bioguideId>C001098</bioguideId>
+        <firstName>Ted</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <party>R</party>
+        <lastName>Cruz</lastName>
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+          <gpoId />
+          <lisID>2175</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <sponsorshipDate>2014-09-08</sponsorshipDate>
+        <bioguideId>N000032</bioguideId>
+        <firstName>CLARENCE</firstName>
+        <middleName>WILLIAM</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <party>D</party>
+        <lastName>NELSON</lastName>
+        <identifiers>
+          <bioguideId>N000032</bioguideId>
+          <lisID>859</lisID>
+          <gpoId>8236</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>A bill to require the Secretary of State to offer rewards totaling up to $10,000,000 for information on the kidnapping and murder of James Foley and Steven Sotloff.</title>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to require the Secretary of State to offer rewards totaling up to $10,000,000 for information on the kidnapping and murder of James Foley and Steven Sotloff.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A bill to require the Secretary of State to offer rewards totaling up to $10,000,000 for information on the kidnapping and murder of James Foley and Steven Sotloff.</title>
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Directs the Secretary of State, in accordance with the Rewards for Justice program authorized under the State Department Basic Authorities Act of 1956, to offer a reward to any individual who furnishes information leading to the arrest or conviction in any country of any individual for committing, conspiring or attempting to commit, or aiding or abetting in the commission of the kidnapping and murder of James Foley or Steven Sotloff.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2014-09-08</actionDate>
+          <updateDate>2014-09-08T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2014-09-24T19:20:07Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Directs the Secretary of State, in accordance with the Rewards for Justice program authorized under the State Department Basic Authorities Act of 1956, to offer a reward to any individual who furnishes information leading to the arrest or conviction in any country of any individual for committing, conspiring or attempting to commit, or aiding or abetting in the commission of the kidnapping and murder of James Foley or Steven Sotloff.</p>]]></text>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <actionDate>2014-09-18</actionDate>
+          <updateDate>2014-09-18T18:52:25Z</updateDate>
+          <lastSummaryUpdateDate>2014-09-24T19:20:37Z</lastSummaryUpdateDate>
+          <name>Passed Senate without amendment</name>
+          <versionCode>82</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates>
+      <item>
+        <title>S. 2778, an act to require the Secretary of State to offer rewards totaling up to $10,000,000 for information on the kidnapping and murder of James Foley and Steven Sotloff</title>
+        <url>http://www.cbo.gov/publication/45751</url>
+        <pubDate>2014-09-25T14:41:00Z</pubDate>
+      </item>
+      <item>
+        <title>S. 2778, an act to require the Secretary of State to offer rewards totaling up to $10,000,000 for information on the kidnapping and murder of James Foley and Steven Sotloff</title>
+        <url>https://www.cbo.gov/publication/45751</url>
+        <pubDate>2014-09-25T14:41:00Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>5752</number>
+        <type>HR</type>
+        <latestTitle>To require the Secretary of State to offer rewards for information on the kidnapping and murder of James Foley, Peter Kassig, Steven Sotloff, or the kidnapping and murder of any other citizen of the United States by a foreign terrorist organization.</latestTitle>
+        <latestAction>
+          <actionDate>2014-11-20</actionDate>
+          <text>Referred to the House Committee on Foreign Affairs.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>News media and reporting</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <actionDate>2014-09-19</actionDate>
+    </latestAction>
+    <billNumber>2778</billNumber>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Marco</firstName>
+        <party>R</party>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <bioguideId>R000595</bioguideId>
+        <identifiers>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <lastName>Rubio</lastName>
+        <middleName />
+        <state>FL</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers>
+      <item>
+        <number>0574</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

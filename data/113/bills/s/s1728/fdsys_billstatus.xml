@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2014-04-10</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 355.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2014-04-10</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Rules and Administration. Reported by Senator Schumer with an amendment in the nature of a substitute. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>14000</actionCode>
+        <text>Committee on Rules and Administration. Reported by Senator Schumer with an amendment in the nature of a substitute. Without written report.</text>
+        <links />
+        <actionDate>2014-04-10</actionDate>
+      </item>
+      <item>
+        <actionDate>2014-04-09</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Rules and Administration. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2014-01-29</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Rules and Administration. Hearings held. Hearings printed: S.Hrg. 113-610.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2013-11-19</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S8190-8192</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S8190-8192</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Rules and Administration. (text of measure as introduced: CR S8190-8192)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <actionDate>2013-11-19</actionDate>
+      </item>
+      <actionByCounts>
+        <senate>7</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <orderedReported>1</orderedReported>
+        <reportedToSenate>2</reportedToSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <hearingsHeld>1</hearingsHeld>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-11-19</introducedDate>
+    <updateDate>2016-10-25T16:27:41Z</updateDate>
+    <createDate>2013-11-20T07:01:07Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssra00</systemCode>
+          <activities>
+            <item>
+              <date>2014-04-10T18:20:30Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2014-04-09T14:00:00Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2014-01-29T19:58:51Z</date>
+              <name>Hearings by</name>
+            </item>
+            <item>
+              <date>2013-11-19T17:49:11Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Rules and Administration Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S000148</bioguideId>
+        <firstName>CHARLES</firstName>
+        <identifiers>
+          <lisID>1036</lisID>
+          <gpoId>8279</gpoId>
+          <bioguideId>S000148</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <sponsorshipDate>2013-11-19</sponsorshipDate>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <lastName>SCHUMER</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000575</bioguideId>
+        <firstName>Roy</firstName>
+        <identifiers>
+          <lisID>1464</lisID>
+          <gpoId>8313</gpoId>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+        <state>MO</state>
+        <sponsorshipDate>2013-11-19</sponsorshipDate>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <lastName>Blunt</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>R.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000805</bioguideId>
+        <firstName>Mark</firstName>
+        <identifiers>
+          <lisID>1897</lisID>
+          <gpoId>8269</gpoId>
+          <bioguideId>W000805</bioguideId>
+        </identifiers>
+        <state>VA</state>
+        <sponsorshipDate>2013-11-19</sponsorshipDate>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <lastName>Warner</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName>F.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000437</bioguideId>
+        <firstName>ROGER</firstName>
+        <identifiers>
+          <lisID>1226</lisID>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <state>MS</state>
+        <sponsorshipDate>2013-11-19</sponsorshipDate>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <lastName>WICKER</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B000944</bioguideId>
+        <firstName>SHERROD</firstName>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <lisID>136</lisID>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <state>OH</state>
+        <sponsorshipDate>2013-11-19</sponsorshipDate>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <lastName>BROWN</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000595</bioguideId>
+        <firstName>Marco</firstName>
+        <identifiers>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <state>FL</state>
+        <sponsorshipDate>2013-11-20</sponsorshipDate>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <lastName>Rubio</lastName>
+      </item>
+      <item>
+        <party>I</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000383</bioguideId>
+        <firstName>Angus</firstName>
+        <identifiers>
+          <lisID>2185</lisID>
+          <gpoId />
+          <bioguideId>K000383</bioguideId>
+        </identifiers>
+        <state>ME</state>
+        <sponsorshipDate>2013-12-09</sponsorshipDate>
+        <fullName>Sen. King, Angus S. Jr. [I-ME]</fullName>
+        <lastName>King</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000567</bioguideId>
+        <firstName>Thad</firstName>
+        <identifiers>
+          <lisID>213</lisID>
+          <gpoId>8292</gpoId>
+          <bioguideId>C000567</bioguideId>
+        </identifiers>
+        <state>MS</state>
+        <sponsorshipDate>2013-12-12</sponsorshipDate>
+        <fullName>Sen. Cochran, Thad [R-MS]</fullName>
+        <lastName>Cochran</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000449</bioguideId>
+        <firstName>ROB</firstName>
+        <identifiers>
+          <gpoId>8266</gpoId>
+          <lisID>924</lisID>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+        <state>OH</state>
+        <sponsorshipDate>2013-12-17</sponsorshipDate>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <lastName>PORTMAN</lastName>
+      </item>
+      <item>
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001098</bioguideId>
+        <firstName>Ted</firstName>
+        <identifiers>
+          <lisID>2175</lisID>
+          <bioguideId>C001098</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>TX</state>
+        <sponsorshipDate>2013-12-17</sponsorshipDate>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <lastName>Cruz</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000818</bioguideId>
+        <firstName>John</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2198</lisID>
+          <bioguideId>W000818</bioguideId>
+        </identifiers>
+        <state>MT</state>
+        <sponsorshipDate>2014-04-08</sponsorshipDate>
+        <fullName>Sen. Walsh, John E. [D-MT]</fullName>
+        <lastName>Walsh</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>K000367</bioguideId>
+        <firstName>Amy</firstName>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <state>MN</state>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <lastName>Klobuchar</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName>Lunsford</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000590</bioguideId>
+        <firstName>Mark</firstName>
+        <identifiers>
+          <lisID>1701</lisID>
+          <bioguideId>P000590</bioguideId>
+          <gpoId>8241</gpoId>
+        </identifiers>
+        <state>AR</state>
+        <sponsorshipDate>2014-04-10</sponsorshipDate>
+        <fullName>Sen. Pryor, Mark L. [D-AR]</fullName>
+        <lastName>Pryor</lastName>
+      </item>
+      <item>
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000464</bioguideId>
+        <firstName>Jon</firstName>
+        <identifiers>
+          <bioguideId>T000464</bioguideId>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <state>MT</state>
+        <sponsorshipDate>2014-05-06</sponsorshipDate>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <lastName>Tester</lastName>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Safeguarding Elections for our Nation's Troops through Reforms and Improvements (SENTRI) Act</title>
+    <titles>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberName>Senate</chamberName>
+        <title>Safeguarding Elections for our Nation's Troops through Reforms and Improvements (SENTRI) Act</title>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Safeguarding Elections for our Nation's Troops through Reforms and Improvements (SENTRI) Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to amend the Uniformed and Overseas Citizens Absentee Voting Act to improve ballot accessibility to uniformed services voters and overseas voters, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Safeguarding Elections for our Nation's Troops through Reforms and Improvements (SENTRI) Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2013-11-19</actionDate>
+          <updateDate>2013-11-19T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2014-02-03T19:34:37Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Safeguarding Elections for our Nation's Troops through Reforms and Improvements (SENTRI) Act - Amends the Uniformed and Overseas Citizens Absentee Voting Act, with respect to&nbsp;the regularly scheduled general election for federal office held in November 2014 and thereafter, to: </p> <ul> <li>require the chief election official of a state to&nbsp;report, not later than 43 days before any federal election held in the state, on the number of absentee ballots validly requested by absent uniformed services and overseas voters whose requests were received by the 46th day before the election, and whether such ballots were timely transmitted;</li> <li>eliminate the hardship waiver allowed for states from the requirement to provide absent members of the uniformed services and overseas voters abstentee ballots 45 days prior to an election;</li> <li>require express delivery of an absentee ballot that is not timely transmitted;</li> <li>allow an absentee voter to use a single abstentee ballot application for subsequent elections; </li> <li>make such Act applicable to the Commonwealth of the Northern Mariana Islands; </li> <li>modify reporting requirements to require a biennial report on the effectiveness of the federal voting assistance program; and </li> <li>require the Comptroller General (GAO) to review and report on such biennial reports for elections occurring in calendar years 2014 through 2020.</li></ul> <p>Directs the Secretary of Defense (DOD), in coordination with the Secretary of each military department, to: (1) affirmatively offer, on an annual basis, each member of the Armed Forces on active duty (other than active duty for training) the opportunity, through an&nbsp;online system, to register to vote in a federal election, update voter registration information, or request an absentee ballot; (2) implement an online system for such purpose; and (3) implement a system to track a change of address or duty status of a member of the Armed Forces on active duty to provide an automatic notice to such member of voter registration requirements. </p> <p>Repeals the demonstration project allowing absent members of the uniformed services to vote in the regularly scheduled general election for federal office for November 2002 through an electronic voting system. </p> <p>Amends the Servicemembers Civil Relief Act to permit dependents of an absent&nbsp;member of the Armed Forces to retain residency status in their state for voting purposes. </p>]]></text>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <actionDate>2014-04-10</actionDate>
+          <updateDate>2014-04-10T11:24:28Z</updateDate>
+          <versionCode>01</versionCode>
+          <actionDesc>Reported to Senate amended</actionDesc>
+          <lastSummaryUpdateDate>2014-05-01T15:04:30Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Safeguarding Elections for our Nation's Troops through Reforms and Improvements (SENTRI) Act - Makes amendments to the Uniformed and Overseas Citizens Absentee Voting Act to expand access to voting in federal elections for members of the uniformed services and U.S. citizens residing abroad (overseas voters).</p> <p><strong>Title I: Amendments Related to the Uniformed and Overseas Citizens Absentee Voting Act </strong>- (Sec. 101) Requires the chief election official of a state to report, not later than 43 days before any federal election held in the state, on the total number of absentee ballots validly requested by absent uniformed services voters and overseas voters whose requests were received by the 47th day before the election.</p> <p>(Sec. 102) Eliminates the hardship waiver allowed for states from the requirement to provide absentee voters ballots 46 days prior to an election. Requires express delivery of an absentee ballot that is not timely transmitted, unless a state permits transmission and return of an absentee ballot by electronic means.</p> <p>Requires a state to notify the Attorney General as soon as practicable and take all actions necessary, including seeking necessary judicial review, to ensure that affected absent uniformed services voters and overseas voters are provided a reasonable opportunity to receive and return their absentee ballots in time to be counted. </p> <p>(Sec. 104) Prohibits a state from disqualifying any voter who has registered to vote using the official post card form prescribed by the National Voter Registration Act of 1993.</p> <p>(Sec. 105) Prohibits a state from rejecting a voter registration or absentee ballot application from an overseas voter because of early submission. Allows an absentee voter to use a single absentee ballot application for subsequent elections. Requires the presidential designee to ensure that the official postcard form prescribed under the Uniformed and Overseas Citizens Absentee Voting Act enables a voter using the form to request: (1) an absentee ballot for each election for federal office held in a state through the next regularly scheduled general election, including any runoff elections; or (2) an absentee ballot for a specific election or elections for federal office. </p> <p>(Sec. 106) Makes the Uniformed and Overseas Citizens Absentee Voting Act applicable to the Commonwealth of the Northern Mariana Islands. </p> <p>(Sec. 107) Revises reporting requirements for voting assistance programs for members of the uniformed services and overseas voters to require a biennial report by the presidential designee on June 30 of each odd-numbered year (currently, March 31 of each year) on the effectiveness of such programs. Requires the Comptroller General (GAO) to review such biennial reports for elections held in calendar years 2014 through 2020 and report to Congress on such review.</p> <p>(Sec. 108) Makes the amendments made by this title effective on January 1, 2015.</p> <p><strong>Title II: Provision of Voter Assistance to Members of the Armed Forces</strong> - Directs the Secretary of Defense (DOD), in coordination with the Secretary of each military department, to: (1) affirmatively offer, on an annual basis, each member of the Armed Forces on active duty (other than active duty for training) the opportunity, through an online system, to register to vote in a federal election, update voter registration information, or request an absentee ballot; (2) implement an online system for such purposes; and (3) implement a system to track a change of address or duty status of a member of the Armed Forces on active duty to provide an automatic notice to such member of voter registration requirements. Requires the Secretary to prescribe regulations to implement such voter assistance measures and report to the House Committees on Appropriations, Armed Services, and Administration and the Senate Committees on Appropriations, Armed Services, and Rules and Administration on such implementation. </p> <p><strong>Title III: Electronic Voting Systems</strong> - Amends the National Defense Authorization Act for Fiscal Year 2002 to repeal the demonstration project allowing absent members of the uniformed services to vote in the regularly scheduled general election for federal office for November 2002 through an electronic voting system. </p>]]></text>
+          <name>Reported to Senate amended</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates>
+      <item>
+        <title>S. 1728, Safeguarding Elections through Reforms and Improvements Act</title>
+        <url>http://www.cbo.gov/publication/45399</url>
+        <pubDate>2014-05-29T21:42:58Z</pubDate>
+      </item>
+      <item>
+        <title>S. 1728, Safeguarding Elections through Reforms and Improvements Act</title>
+        <url>https://www.cbo.gov/publication/45399</url>
+        <pubDate>2014-05-29T21:42:58Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <number>3576</number>
+        <latestAction>
+          <actionDate>2014-01-24</actionDate>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <type>HR</type>
+        <latestTitle>SENTRI Act</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Northern Mariana Islands</name>
+          </item>
+          <item>
+            <name>Personnel records</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 355.</text>
+      <actionDate>2014-04-10</actionDate>
+    </latestAction>
+    <billNumber>1728</billNumber>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>John</firstName>
+        <party>R</party>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <bioguideId>C001056</bioguideId>
+        <identifiers>
+          <gpoId>8295</gpoId>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <lastName>Cornyn</lastName>
+        <middleName />
+        <state>TX</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers>
+      <item>
+        <number>0355</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

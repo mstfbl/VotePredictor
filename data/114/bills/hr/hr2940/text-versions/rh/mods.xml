@@ -1,0 +1,453 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18dcb5108">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend the Internal Revenue Code of 1986 to improve and make permanent the above-the-line deduction for certain expenses of elementary and secondary school teachers.;Educator Tax Relief Act of 2015;H.R. 2940 (RH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-10-24</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend the Internal Revenue Code of 1986 to improve and make permanent the above-the-line deduction for certain expenses of elementary and secondary school teachers.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Educator Tax Relief Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2940 (RH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-10-23</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>6 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18dcb5108</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2940rh</identifier>
+<identifier type="preferred citation">H.R. 2940</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2940_rh.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2940rh/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2940rh/html/BILLS-114hr2940rh.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2940rh/pdf/BILLS-114hr2940rh.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2940rh/xml/BILLS-114hr2940rh.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-10-24</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr2940rh</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>David G. Reichert</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jim McDermott</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robert J. Dold</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bill Pascrell, Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Rodney Davis</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David G. Valadao</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jeff Denham</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ron Kind</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dan Benishek</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mike Bost</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Janice Hahn</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Peter A. DeFazio</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Bruce Poliquin</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Greg Walden</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael G. Fitzpatrick</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Patrick Meehan</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Derek Kilmer</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Zoe Lofgren</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Martha McSally</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Tim Murphy</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Ryan A. Costello</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mike Kelly</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lynn Jenkins</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Brian Babin</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Richard B. Nugent</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Ways and Means</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Union Calendar No. 236</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr2940rh</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>2940</billNumber>
+ <billVersion reprint="false">rh</billVersion>
+ <fileSuffix>rh</fileSuffix>
+ <shortTitle type="measure">Educator Tax Relief Act of 2015</shortTitle>
+ <officialTitle>To amend the Internal Revenue Code of 1986 to improve and make permanent the above-the-line deduction for certain expenses of elementary and secondary school teachers.</officialTitle>
+ <action date="2015-06-25">Mr. Reichert (for himself, Mr. McDermott, Mr. Dold, Mr. Pascrell, Mr. Rodney Davis of Illinois, and Mr. Valadao) introduced the following bill; which was referred to the Committee on Ways and Means</action>
+ <action date="2015-10-23">Additional sponsors: Mr. Denham, Mr. Kind, Mr. Benishek, Mr. Bost, Ms. Hahn, Mr. DeFazio, Mr. Poliquin, Mr. Walden, Mr. Fitzpatrick, Mr. Meehan, Mr. Kilmer, Ms. Lofgren, Ms. McSally, Mr. Murphy of Pennsylvania, Mr. Costello of Pennsylvania, Mr. Kelly of Pennsylvania, Ms. Jenkins of Kansas, Mr. Babin, and Mr. Nugent</action>
+ <action date="2015-10-23">Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed</action>
+ <congCommittee authorityId="hswm00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Ways and Means</name>
+                      <name type="authority-short">Ways and Means</name>
+                </congCommittee>
+ <congMember authorityId="1810" bioGuideId="R000578" chamber="H" congress="114" gpoId="8212" party="R" role="SPONSOR" state="WA">
+                      <name type="parsed">Mr. Reichert</name>
+                      <name type="authority-fnf">David G. Reichert</name>
+                      <name type="authority-lnf">Reichert, David G.</name>
+                      <name type="authority-other">Mr. David Reichert</name>
+                </congMember>
+ <congMember authorityId="766" bioGuideId="M000404" chamber="H" congress="114" gpoId="8211" party="D" role="COSPONSOR" state="WA">
+                      <name type="parsed">Mr. McDermott</name>
+                      <name type="authority-fnf">Jim McDermott</name>
+                      <name type="authority-lnf">McDermott, Jim</name>
+                </congMember>
+ <congMember authorityId="2013" bioGuideId="D000613" chamber="H" congress="114" gpoId="7930" party="R" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Dold</name>
+                      <name type="authority-fnf">Robert J. Dold</name>
+                      <name type="authority-lnf">Dold, Robert J.</name>
+                      <name type="authority-other">Mr. Robert Dold</name>
+                </congMember>
+ <congMember authorityId="1510" bioGuideId="P000096" chamber="H" congress="114" gpoId="8050" party="D" role="COSPONSOR" state="NJ">
+                      <name type="parsed">Mr. Pascrell</name>
+                      <name type="authority-fnf">Bill Pascrell, Jr.</name>
+                      <name type="authority-lnf">Pascrell, Bill, Jr.</name>
+                      <name type="authority-other">William Pascrell Jr.</name>
+                </congMember>
+ <congMember authorityId="2126" bioGuideId="D000619" chamber="H" congress="114" party="R" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Rodney Davis of Illinois</name>
+                      <name type="authority-fnf">Rodney Davis</name>
+                      <name type="authority-lnf">Davis, Rodney</name>
+                </congMember>
+ <congMember authorityId="2105" bioGuideId="V000129" chamber="H" congress="114" party="R" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Valadao</name>
+                      <name type="authority-fnf">David G. Valadao</name>
+                      <name type="authority-lnf">Valadao, David G.</name>
+                      <name type="authority-other">Mr. David Valadao</name>
+                </congMember>
+ <congMember authorityId="1995" bioGuideId="D000612" chamber="H" congress="114" gpoId="7824" party="R" role="COSPONSOR" state="CA">
+                      <name type="parsed">Mr. Denham</name>
+                      <name type="authority-fnf">Jeff Denham</name>
+                      <name type="authority-lnf">Denham, Jeff</name>
+                </congMember>
+ <congMember authorityId="1498" bioGuideId="K000188" chamber="H" congress="114" gpoId="8216" party="D" role="COSPONSOR" state="WI">
+                      <name type="parsed">Mr. Kind</name>
+                      <name type="authority-fnf">Ron Kind</name>
+                      <name type="authority-lnf">Kind, Ron</name>
+                </congMember>
+ <congMember authorityId="2027" bioGuideId="B001271" chamber="H" congress="114" gpoId="7986" party="R" role="COSPONSOR" state="MI">
+                      <name type="parsed">Mr. Benishek</name>
+                      <name type="authority-fnf">Dan Benishek</name>
+                      <name type="authority-lnf">Benishek, Dan</name>
+                </congMember>
+ <congMember authorityId="2243" bioGuideId="B001295" chamber="H" congress="114" party="R" role="COSPONSOR" state="IL">
+                      <name type="parsed">Mr. Bost</name>
+                      <name type="authority-fnf">Mike Bost</name>
+                      <name type="authority-lnf">Bost, Mike</name>
+                </congMember>
+ <congMember authorityId="2089" bioGuideId="H001063" chamber="H" congress="114" gpoId="8360" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Hahn</name>
+                      <name type="authority-fnf">Janice Hahn</name>
+                      <name type="authority-lnf">Hahn, Janice</name>
+                </congMember>
+ <congMember authorityId="279" bioGuideId="D000191" chamber="H" congress="114" gpoId="8117" party="D" role="COSPONSOR" state="OR">
+                      <name type="parsed">Mr. DeFazio</name>
+                      <name type="authority-fnf">Peter A. DeFazio</name>
+                      <name type="authority-lnf">DeFazio, Peter A.</name>
+                      <name type="authority-other">Peter Defazio</name>
+                </congMember>
+ <congMember authorityId="2247" bioGuideId="P000611" chamber="H" congress="114" party="R" role="COSPONSOR" state="ME">
+                      <name type="parsed">Mr. Poliquin</name>
+                      <name type="authority-fnf">Bruce Poliquin</name>
+                      <name type="authority-lnf">Poliquin, Bruce</name>
+                </congMember>
+ <congMember authorityId="1596" bioGuideId="W000791" chamber="H" congress="114" gpoId="8115" party="R" role="COSPONSOR" state="OR">
+                      <name type="parsed">Mr. Walden</name>
+                      <name type="authority-fnf">Greg Walden</name>
+                      <name type="authority-lnf">Walden, Greg</name>
+                </congMember>
+ <congMember authorityId="1797" bioGuideId="F000451" chamber="H" congress="114" gpoId="8126" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Fitzpatrick</name>
+                      <name type="authority-fnf">Michael G. Fitzpatrick</name>
+                      <name type="authority-lnf">Fitzpatrick, Michael G.</name>
+                      <name type="authority-other">Mr. Michael Fitzpatrick</name>
+                </congMember>
+ <congMember authorityId="2052" bioGuideId="M001181" chamber="H" congress="114" gpoId="8125" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Meehan</name>
+                      <name type="authority-fnf">Patrick Meehan</name>
+                      <name type="authority-lnf">Meehan, Patrick</name>
+                </congMember>
+ <congMember authorityId="2169" bioGuideId="K000381" chamber="H" congress="114" party="D" role="COSPONSOR" state="WA">
+                      <name type="parsed">Mr. Kilmer</name>
+                      <name type="authority-fnf">Derek Kilmer</name>
+                      <name type="authority-lnf">Kilmer, Derek</name>
+                </congMember>
+ <congMember authorityId="701" bioGuideId="L000397" chamber="H" congress="114" gpoId="7821" party="D" role="COSPONSOR" state="CA">
+                      <name type="parsed">Ms. Lofgren</name>
+                      <name type="authority-fnf">Zoe Lofgren</name>
+                      <name type="authority-lnf">Lofgren, Zoe</name>
+                </congMember>
+ <congMember authorityId="2225" bioGuideId="M001197" chamber="H" congress="114" party="R" role="COSPONSOR" state="AZ">
+                      <name type="parsed">Ms. McSally</name>
+                      <name type="authority-fnf">Martha McSally</name>
+                      <name type="authority-lnf">McSally, Martha</name>
+                </congMember>
+ <congMember authorityId="1744" bioGuideId="M001151" chamber="H" congress="114" gpoId="8723" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Murphy of Pennsylvania</name>
+                      <name type="authority-fnf">Tim Murphy</name>
+                      <name type="authority-lnf">Murphy, Tim</name>
+                </congMember>
+ <congMember authorityId="2266" bioGuideId="C001106" chamber="H" congress="114" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Costello of Pennsylvania</name>
+                      <name type="authority-fnf">Ryan A. Costello</name>
+                      <name type="authority-lnf">Costello, Ryan A.</name>
+                      <name type="authority-other">Mr. Ryan Costello</name>
+                </congMember>
+ <congMember authorityId="2051" bioGuideId="K000376" chamber="H" congress="114" gpoId="8708" party="R" role="COSPONSOR" state="PA">
+                      <name type="parsed">Mr. Kelly of Pennsylvania</name>
+                      <name type="authority-fnf">Mike Kelly</name>
+                      <name type="authority-lnf">Kelly, Mike</name>
+                </congMember>
+ <congMember authorityId="1921" bioGuideId="J000290" chamber="H" congress="114" gpoId="7950" party="R" role="COSPONSOR" state="KS">
+                      <name type="parsed">Ms. Jenkins of Kansas</name>
+                      <name type="authority-fnf">Lynn Jenkins</name>
+                      <name type="authority-lnf">Jenkins, Lynn</name>
+                </congMember>
+ <congMember authorityId="2270" bioGuideId="B001291" chamber="H" congress="114" party="R" role="COSPONSOR" state="TX">
+                      <name type="parsed">Mr. Babin</name>
+                      <name type="authority-fnf">Brian Babin</name>
+                      <name type="authority-lnf">Babin, Brian</name>
+                </congMember>
+ <congMember authorityId="2001" bioGuideId="N000185" chamber="H" congress="114" gpoId="7877" party="R" role="COSPONSOR" state="FL">
+                      <name type="parsed">Mr. Nugent</name>
+                      <name type="authority-fnf">Richard B. Nugent</name>
+                      <name type="authority-lnf">Nugent, Richard B.</name>
+                      <name type="authority-other">Richard Nugent</name>
+                </congMember>
+ <congCalendar congress="114" number="236" type="UNION"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

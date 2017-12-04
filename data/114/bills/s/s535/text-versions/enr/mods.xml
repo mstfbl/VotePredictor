@@ -1,0 +1,130 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18c1b7918">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>An Act To promote energy efficiency.;Energy Efficiency Improvement Act of 2015;Better Buildings Act of 2015;S. 535 (ENR)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-04-22</dateIngested>
+</extension>
+<titleInfo>
+ <title>An Act To promote energy efficiency.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Energy Efficiency Improvement Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Better Buildings Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 535 (ENR)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-10-12</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>10 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18c1b7918</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s535enr</identifier>
+<identifier type="preferred citation">S. 535</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s535_enr.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s535enr/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s535enr/html/BILLS-114s535enr.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s535enr/pdf/BILLS-114s535enr.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s535enr/xml/BILLS-114s535enr.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-04-22</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-12</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s535enr</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 17081et seq.</partNumber>
+  <partNumber>Title 42 Section 17091(b)(2)</partNumber>
+  <partNumber>Title 42 Section 6294a</partNumber>
+  <partNumber>Title 42 Section 6295(e)</partNumber>
+  <partNumber>Title 42 Section 6302(a)</partNumber>
+  <partNumber>Title 42 Section 6303(a)</partNumber>
+  <partNumber>Title 42 Section 6304</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 17081et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 17091(b)(2)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6294a</identifier>
+ <identifier type="USC citation">42 U.S.C. 6295(e)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6302(a)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6303(a)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6304</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s535enr</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>535</billNumber>
+ <billVersion reprint="false">enr</billVersion>
+ <fileSuffix>enr</fileSuffix>
+ <shortTitle type="measure">Energy Efficiency Improvement Act of 2015</shortTitle>
+ <shortTitle level="title" type="level">Better Buildings Act of 2015</shortTitle>
+ <officialTitle>To promote energy efficiency.</officialTitle>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="42">
+                      <section detail="et seq." number="17081"></section>
+                      <section detail="(b)(2)" number="17091"></section>
+                      <section number="6294a"></section>
+                      <section detail="(e)" number="6295"></section>
+                      <section detail="(a)" number="6302"></section>
+                      <section detail="(a)" number="6303"></section>
+                      <section number="6304"></section>
+                </USCode>
+</extension>
+</mods>

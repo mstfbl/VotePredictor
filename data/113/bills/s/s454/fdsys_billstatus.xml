@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <introducedDate>2013-03-05</introducedDate>
+    <committeeReports />
+    <congress>113</congress>
+    <cosponsors>
+      <item>
+        <state>MO</state>
+        <bioguideId>B000575</bioguideId>
+        <sponsorshipDate>2013-03-05</sponsorshipDate>
+        <identifiers>
+          <lisID>1464</lisID>
+          <bioguideId>B000575</bioguideId>
+          <gpoId>8313</gpoId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <firstName>Roy</firstName>
+        <lastName>Blunt</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <links />
+      <actionDate>2013-03-05</actionDate>
+    </latestAction>
+    <relatedBills />
+    <updateDate>2016-10-25T16:21:25Z</updateDate>
+    <policyArea>
+      <name>Housing and Community Development</name>
+    </policyArea>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-03-05</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>B00100</actionCode>
+        <actionDate>2013-03-05</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S1129</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S1129</url>
+          </link>
+        </links>
+        <text>Sponsor introductory remarks on measure. (CR S1129)</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2013-03-05</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <calendarNumbers />
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2013-03-05T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <text><![CDATA[<p>Family Self-Sufficiency Act - Amends the United States Housing Act of 1937 to revise the purpose of the Family-Self-Sufficiency (FSS) program to include the use of both low-income housing assistance under Section 8 of such Act (as in current law) and public housing capital and operating funds under Section 9 in order to enable eligible families to achieve economic independence and self-sufficiency.</p> <p>Eliminates the budget allocation reserved for public housing agency (PHA) incentive awards.</p> <p>Prescribes and/or revises eligibility requirements for families to participate in local FSS programs and for the eligible entities to administer them.</p> <p>Makes the owner or sponsor of a multifamily property receiving rental assistance under Section 8, as well as a PHA, an eligible entity for administering a local FSS program.</p> <p>Revises the scope of supportive services provided through a local FSS program under a contract of participation between an eligible entity and a leaseholder receiving assistance under Sections 8 or 9 to include: (1) education for attainment of a GED, (2) education in pursuit of a post-secondary degree or certification, (3) health and mental health services as needed, (4) homeownership education and assistance, and (5) financial literacy. Removes training in homemaking and parenting skills from the list of authorized supportive services.</p> <p>Revises requirements for and limitations on rent increases. Requires an eligible entity to place in an interest-bearing escrow account, for each participating family, an amount equal to any increase in rent the family pays. Requires payment of the escrow account funds to the family after the end of the contract of participation, unless the family fails to qualify to receive it.</p> <p>Modifies requirements for the establishment of fees for costs incurred by eligible entities administering FSS programs.</p> <p>Authorizes owners of privately-owned properties, under specified conditions, voluntarily to make local FSS programs available to their tenants by entering into cooperative agreements with local PHAs administering FSS programs.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2013-03-05</actionDate>
+          <lastSummaryUpdateDate>2013-04-26T16:48:35Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Housing and Community Development</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Bank accounts, deposits, capital</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Financial literacy</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Housing and community development funding</name>
+          </item>
+          <item>
+            <name>Housing finance and home ownership</name>
+          </item>
+          <item>
+            <name>Low- and moderate-income housing</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Public housing</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <title>Family Self-Sufficiency Act</title>
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <lastName>REED</lastName>
+        <bioguideId>R000122</bioguideId>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <identifiers>
+          <bioguideId>R000122</bioguideId>
+          <gpoId>8272</gpoId>
+          <lisID>949</lisID>
+        </identifiers>
+        <party>D</party>
+        <firstName>JOHN</firstName>
+        <middleName>F.</middleName>
+        <state>RI</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <laws />
+    <notes />
+    <createDate>2013-03-06T07:01:11Z</createDate>
+    <billNumber>454</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssbk00</systemCode>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-03-05T19:56:19Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Family Self-Sufficiency Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>A bill to promote the development of local strategies to coordinate use of assistance under sections 8 and 9 of the United States Housing Act of 1937 with public and private resources, to enable eligible families to achieve economic independence and self-sufficiency, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Family Self-Sufficiency Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

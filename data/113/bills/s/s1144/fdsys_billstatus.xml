@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2013-06-12</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S4408-4409</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S4408-4409</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S4408-4409)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>B00100</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2013-06-12</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S4407-4408</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S4407-4408</url>
+          </link>
+        </links>
+        <text>Sponsor introductory remarks on measure. (CR S4407-4408)</text>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2013-06-12</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-06-12</introducedDate>
+    <updateDate>2016-10-25T16:25:12Z</updateDate>
+    <createDate>2013-06-13T07:01:20Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>sscm00</systemCode>
+          <activities>
+            <item>
+              <date>2013-06-12T16:13:23Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Commerce, Science, and Transportation Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <identifiers>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-06-12</sponsorshipDate>
+        <lastName>Klobuchar</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>MN</state>
+      </item>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2013-06-12</sponsorshipDate>
+        <lastName>Blumenthal</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <state>CT</state>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Fair Telephone Billing Act of 2013</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Fair Telephone Billing Act of 2013</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to prohibit unauthorized third-party charges on wireline telephone bills, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>Fair Telephone Billing Act of 2013</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2013-08-28T17:31:33Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>Fair Telephone Billing Act of 2013 - Amends the Communications Act of 1934 to prohibit local exchange carriers or providers of interconnected VoIP (Voice over Internet Protocol) service from placing, or causing to be placed, a third-party charge that is not directly related to the provision of telephone services on the bill of a customer, unless: (1) the third-party charge is from a contracted third-party vendor and for a product or service that the carrier or provider markets or sells jointly with its own service, (2) the customer provided affirmative consent for the charge, (3) the customer was provided with a disclosure of material terms and conditions prior to such consent, and (4) the charge is implemented with reasonable procedures to ensure that the customer has requested the product or service. </p> <p>Defines: (1) a &quot;third-party charge&quot; as a charge for a product or service not provided by a local exchange carrier or a provider of interconnected VoIP service, and (2) a &quot;contracted third-party vendor&quot; as a person with a contractual right to receive billing and collection services from such a carrier or provider for a product or service the person provides directly to a customer.</p> <p>Subjects violators to civil forfeiture and specified penalties and refund requirements.</p> <p>Directs the Federal Communications Commission (FCC) to promulgate rules to: (1) define how local exchange carriers and providers of interconnected VoIP service will obtain affirmative consent from a consumer for a third-party charge, (2) ensure that consumers are fully aware of the charges to which they are consenting, and (3) impose recordkeeping requirements on such carriers and providers related to any grants of affirmative consent by consumers.</p>]]></text>
+          <updateDate>2013-06-12T04:00:00Z</updateDate>
+          <actionDate>2013-06-12</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Consumer affairs</name>
+          </item>
+          <item>
+            <name>Federal Communications Commission (FCC)</name>
+          </item>
+          <item>
+            <name>Internet and video services</name>
+          </item>
+          <item>
+            <name>Telecommunication rates and fees</name>
+          </item>
+          <item>
+            <name>Telephone and wireless communication</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S4408-4409)</text>
+      <actionDate>2013-06-12</actionDate>
+    </latestAction>
+    <billNumber>1144</billNumber>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>JAY</firstName>
+        <party>D</party>
+        <fullName>Sen. Rockefeller, John D., IV [D-WV]</fullName>
+        <bioguideId>R000361</bioguideId>
+        <identifiers>
+          <lisID>1424</lisID>
+          <bioguideId>R000361</bioguideId>
+          <gpoId>8273</gpoId>
+        </identifiers>
+        <lastName>ROCKEFELLER</lastName>
+        <middleName />
+        <state>WV</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

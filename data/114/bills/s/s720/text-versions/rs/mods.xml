@@ -1,0 +1,594 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18d83fa27">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To promote energy savings in residential buildings and industry, and for other purposes.;Energy Savings and Industrial Competitiveness Act of 2015;S. 720 (RS)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-09-11</dateIngested>
+</extension>
+<titleInfo>
+ <title>To promote energy savings in residential buildings and industry, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>Energy Savings and Industrial Competitiveness Act of 2015</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>S. 720 (RS)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-09-09</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>150 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/1:</classification>
+<identifier type="local">P0b002ee18d83fa27</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114s720rs</identifier>
+<identifier type="preferred citation">S. 720</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325576</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">Senate bills</identifier>
+<identifier type="former package identifier">f:s720_rs.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114s720rs/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s720rs/html/BILLS-114s720rs.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s720rs/pdf/BILLS-114s720rs.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114s720rs/xml/BILLS-114s720rs.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-09-11</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-06</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114s720rs</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Rob Portman</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Jeanne Shaheen</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Kelly Ayotte</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Michael F. Bennet</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Maria Cantwell</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Susan M. Collins</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Christopher A. Coons</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Al Franken</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John Hoeven</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Joe Manchin III</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Lisa Murkowski</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Mark R. Warner</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Roger F. Wicker</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Dean Heller</namePart>
+ <affiliation>United States Senate</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>Senate</namePart>
+ <namePart>Committee on Energy and Natural Resources</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 5 Section 552(b)(4)</partNumber>
+  <partNumber>Title 5 Section 553</partNumber>
+  <partNumber>Title 5 Section 553(b)</partNumber>
+  <partNumber>Title 5 Section 553(b)(3)(B)</partNumber>
+  <partNumber>Title 5 Section 601note</partNumber>
+  <partNumber>Title 5 Chapter 5</partNumber>
+</titleInfo>
+ <identifier type="USC citation">5 U.S.C. 552(b)(4)</identifier>
+ <identifier type="USC citation">5 U.S.C. 553</identifier>
+ <identifier type="USC citation">5 U.S.C. 553(b)</identifier>
+ <identifier type="USC citation">5 U.S.C. 553(b)(3)(B)</identifier>
+ <identifier type="USC citation">5 U.S.C. 601note</identifier>
+ <identifier type="USC citation">5 U.S.C. Chapter 5</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 10 Section 2164</partNumber>
+</titleInfo>
+ <identifier type="USC citation">10 U.S.C. 2164</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 12 Section 1701q</partNumber>
+  <partNumber>Title 12 Section 2605(i)</partNumber>
+  <partNumber>Title 12 Section 3339</partNumber>
+  <partNumber>Title 12 Section 3342</partNumber>
+  <partNumber>Title 12 Section 4502</partNumber>
+</titleInfo>
+ <identifier type="USC citation">12 U.S.C. 1701q</identifier>
+ <identifier type="USC citation">12 U.S.C. 2605(i)</identifier>
+ <identifier type="USC citation">12 U.S.C. 3339</identifier>
+ <identifier type="USC citation">12 U.S.C. 3342</identifier>
+ <identifier type="USC citation">12 U.S.C. 4502</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 15 Section 631et seq.</partNumber>
+  <partNumber>Title 15 Section 6801</partNumber>
+</titleInfo>
+ <identifier type="USC citation">15 U.S.C. 631et seq.</identifier>
+ <identifier type="USC citation">15 U.S.C. 6801</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 20 Section 1001</partNumber>
+  <partNumber>Title 20 Section 1002(a)</partNumber>
+  <partNumber>Title 20 Section 1059c(b)</partNumber>
+  <partNumber>Title 20 Section 7801</partNumber>
+  <partNumber>Title 20 Section 921et seq.</partNumber>
+</titleInfo>
+ <identifier type="USC citation">20 U.S.C. 1001</identifier>
+ <identifier type="USC citation">20 U.S.C. 1002(a)</identifier>
+ <identifier type="USC citation">20 U.S.C. 1059c(b)</identifier>
+ <identifier type="USC citation">20 U.S.C. 7801</identifier>
+ <identifier type="USC citation">20 U.S.C. 921et seq.</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 25 Section 2511</partNumber>
+  <partNumber>Title 25 Section 4103</partNumber>
+</titleInfo>
+ <identifier type="USC citation">25 U.S.C. 2511</identifier>
+ <identifier type="USC citation">25 U.S.C. 4103</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 29 Section 2916(e)(2)(B)(ii)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">29 U.S.C. 2916(e)(2)(B)(ii)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 31 Section 102</partNumber>
+</titleInfo>
+ <identifier type="USC citation">31 U.S.C. 102</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 40 Section 11101</partNumber>
+  <partNumber>Title 40 Section 3307</partNumber>
+</titleInfo>
+ <identifier type="USC citation">40 U.S.C. 11101</identifier>
+ <identifier type="USC citation">40 U.S.C. 3307</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 42 Section 13451(a)</partNumber>
+  <partNumber>Title 42 Section 13453</partNumber>
+  <partNumber>Title 42 Section 13456</partNumber>
+  <partNumber>Title 42 Section 1437f</partNumber>
+  <partNumber>Title 42 Section 15801</partNumber>
+  <partNumber>Title 42 Section 15811</partNumber>
+  <partNumber>Title 42 Section 17061</partNumber>
+  <partNumber>Title 42 Section 17081et seq.</partNumber>
+  <partNumber>Title 42 Section 17091(b)(2)</partNumber>
+  <partNumber>Title 42 Section 17092(h)</partNumber>
+  <partNumber>Title 42 Section 17111</partNumber>
+  <partNumber>Title 42 Section 17111(a)</partNumber>
+  <partNumber>Title 42 Section 17111(e)</partNumber>
+  <partNumber>Title 42 Section 17112</partNumber>
+  <partNumber>Title 42 Section 17143</partNumber>
+  <partNumber>Title 42 Section 17144</partNumber>
+  <partNumber>Title 42 Section 6291et seq.</partNumber>
+  <partNumber>Title 42 Section 6294a</partNumber>
+  <partNumber>Title 42 Section 6295(e)</partNumber>
+  <partNumber>Title 42 Section 6296(b)</partNumber>
+  <partNumber>Title 42 Section 6302(a)</partNumber>
+  <partNumber>Title 42 Section 6303(a)</partNumber>
+  <partNumber>Title 42 Section 6304</partNumber>
+  <partNumber>Title 42 Section 6341</partNumber>
+  <partNumber>Title 42 Section 6348</partNumber>
+  <partNumber>Title 42 Section 6349</partNumber>
+  <partNumber>Title 42 Section 6350</partNumber>
+  <partNumber>Title 42 Section 6832</partNumber>
+  <partNumber>Title 42 Section 6833</partNumber>
+  <partNumber>Title 42 Section 6834</partNumber>
+  <partNumber>Title 42 Section 6834(a)(3)(D)</partNumber>
+  <partNumber>Title 42 Section 6836</partNumber>
+  <partNumber>Title 42 Section 6836(b)(3)</partNumber>
+  <partNumber>Title 42 Section 8013(d)(2)</partNumber>
+  <partNumber>Title 42 Section 8253</partNumber>
+  <partNumber>Title 42 Section 8254</partNumber>
+</titleInfo>
+ <identifier type="USC citation">42 U.S.C. 13451(a)</identifier>
+ <identifier type="USC citation">42 U.S.C. 13453</identifier>
+ <identifier type="USC citation">42 U.S.C. 13456</identifier>
+ <identifier type="USC citation">42 U.S.C. 1437f</identifier>
+ <identifier type="USC citation">42 U.S.C. 15801</identifier>
+ <identifier type="USC citation">42 U.S.C. 15811</identifier>
+ <identifier type="USC citation">42 U.S.C. 17061</identifier>
+ <identifier type="USC citation">42 U.S.C. 17081et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 17091(b)(2)</identifier>
+ <identifier type="USC citation">42 U.S.C. 17092(h)</identifier>
+ <identifier type="USC citation">42 U.S.C. 17111</identifier>
+ <identifier type="USC citation">42 U.S.C. 17111(a)</identifier>
+ <identifier type="USC citation">42 U.S.C. 17111(e)</identifier>
+ <identifier type="USC citation">42 U.S.C. 17112</identifier>
+ <identifier type="USC citation">42 U.S.C. 17143</identifier>
+ <identifier type="USC citation">42 U.S.C. 17144</identifier>
+ <identifier type="USC citation">42 U.S.C. 6291et seq.</identifier>
+ <identifier type="USC citation">42 U.S.C. 6294a</identifier>
+ <identifier type="USC citation">42 U.S.C. 6295(e)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6296(b)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6302(a)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6303(a)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6304</identifier>
+ <identifier type="USC citation">42 U.S.C. 6341</identifier>
+ <identifier type="USC citation">42 U.S.C. 6348</identifier>
+ <identifier type="USC citation">42 U.S.C. 6349</identifier>
+ <identifier type="USC citation">42 U.S.C. 6350</identifier>
+ <identifier type="USC citation">42 U.S.C. 6832</identifier>
+ <identifier type="USC citation">42 U.S.C. 6833</identifier>
+ <identifier type="USC citation">42 U.S.C. 6834</identifier>
+ <identifier type="USC citation">42 U.S.C. 6834(a)(3)(D)</identifier>
+ <identifier type="USC citation">42 U.S.C. 6836</identifier>
+ <identifier type="USC citation">42 U.S.C. 6836(b)(3)</identifier>
+ <identifier type="USC citation">42 U.S.C. 8013(d)(2)</identifier>
+ <identifier type="USC citation">42 U.S.C. 8253</identifier>
+ <identifier type="USC citation">42 U.S.C. 8254</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 44 Section 3603</partNumber>
+</titleInfo>
+ <identifier type="USC citation">44 U.S.C. 3603</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Statutes at Large</title>
+  <partNumber>Volume 120 Page 2920</partNumber>
+</titleInfo>
+ <identifier type="Statute citation">120 Stat. 2920</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 104-121</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 104-121</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common">
+ <titleInfo>
+  <title>United States Public Law 109-431</title>
+</titleInfo>
+ <identifier type="public law citation">Public Law 109-431</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <identifier type="congressional calendar citation">Senate Calendar No. 210</identifier>
+</relatedItem>
+<extension>
+ <docClass>s</docClass>
+ <accessId>BILLS-114s720rs</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>SENATE</originChamber>
+ <currentChamber>SENATE</currentChamber>
+ <billNumber>720</billNumber>
+ <billVersion reprint="false">rs</billVersion>
+ <fileSuffix>rs</fileSuffix>
+ <shortTitle type="measure">Energy Savings and Industrial Competitiveness Act of 2015</shortTitle>
+ <officialTitle>To promote energy savings in residential buildings and industry, and for other purposes.</officialTitle>
+ <action date="2015-03-11">Mr. Portman (for himself, Mrs. Shaheen, Ms. Ayotte, Mr. Bennet, Ms. Cantwell, Ms. Collins, Mr. Coons, Mr. Franken, Mr. Hoeven, Mr. Manchin, Ms. Murkowski, Mr. Warner, Mr. Wicker, and Mr. Heller) introduced the following bill; which was read twice and referred to the Committee on Energy and Natural Resources</action>
+ <action date="2015-09-09">Reported by Ms. Murkowski, with amendments</action>
+ <congCommittee authorityId="sseg00" chamber="S" congress="114" type="S">
+                      <name type="authority-standard">Committee on Energy and Natural Resources</name>
+                      <name type="authority-short">Energy and Natural Resources</name>
+                </congCommittee>
+ <congMember authorityId="924" bioGuideId="P000449" chamber="S" congress="114" gpoId="8266" party="R" role="SPONSOR" state="OH">
+                      <name type="parsed">Mr. Portman</name>
+                      <name type="authority-fnf">Rob Portman</name>
+                      <name type="authority-lnf">Portman, Rob</name>
+                </congMember>
+ <congMember authorityId="1901" bioGuideId="S001181" chamber="S" congress="114" gpoId="8276" party="D" role="COSPONSOR" state="NH">
+                      <name type="parsed">Mrs. Shaheen</name>
+                      <name type="authority-fnf">Jeanne Shaheen</name>
+                      <name type="authority-lnf">Shaheen, Jeanne</name>
+                </congMember>
+ <congMember authorityId="2075" bioGuideId="A000368" chamber="S" congress="114" gpoId="8315" party="R" role="COSPONSOR" state="NH">
+                      <name type="parsed">Ms. Ayotte</name>
+                      <name type="authority-fnf">Kelly Ayotte</name>
+                      <name type="authority-lnf">Ayotte, Kelly</name>
+                </congMember>
+ <congMember authorityId="1965" bioGuideId="B001267" chamber="S" congress="114" gpoId="8302" party="D" role="COSPONSOR" state="CO">
+                      <name type="parsed">Mr. Bennet</name>
+                      <name type="authority-fnf">Michael F. Bennet</name>
+                      <name type="authority-lnf">Bennet, Michael F.</name>
+                      <name type="authority-other">Mr. Michael Bennet</name>
+                </congMember>
+ <congMember authorityId="172" bioGuideId="C000127" chamber="S" congress="114" gpoId="8288" party="D" role="COSPONSOR" state="WA">
+                      <name type="parsed">Ms. Cantwell</name>
+                      <name type="authority-fnf">Maria Cantwell</name>
+                      <name type="authority-lnf">Cantwell, Maria</name>
+                </congMember>
+ <congMember authorityId="1541" bioGuideId="C001035" chamber="S" congress="114" gpoId="8291" party="R" role="COSPONSOR" state="ME">
+                      <name type="parsed">Ms. Collins</name>
+                      <name type="authority-fnf">Susan M. Collins</name>
+                      <name type="authority-lnf">Collins, Susan M.</name>
+                      <name type="authority-other">Susan Margaret Collins</name>
+                </congMember>
+ <congMember authorityId="1984" bioGuideId="C001088" chamber="S" congress="114" gpoId="8297" party="D" role="COSPONSOR" state="DE">
+                      <name type="parsed">Mr. Coons</name>
+                      <name type="authority-fnf">Christopher A. Coons</name>
+                      <name type="authority-lnf">Coons, Christopher A.</name>
+                      <name type="authority-other">Mr. Christopher Coons</name>
+                </congMember>
+ <congMember authorityId="1969" bioGuideId="F000457" chamber="S" congress="114" gpoId="8339" party="D" role="COSPONSOR" state="MN">
+                      <name type="parsed">Mr. Franken</name>
+                      <name type="authority-fnf">Al Franken</name>
+                      <name type="authority-lnf">Franken, Al</name>
+                </congMember>
+ <congMember authorityId="2079" bioGuideId="H001061" chamber="S" congress="114" gpoId="8331" party="R" role="COSPONSOR" state="ND">
+                      <name type="parsed">Mr. Hoeven</name>
+                      <name type="authority-fnf">John Hoeven</name>
+                      <name type="authority-lnf">Hoeven, John</name>
+                </congMember>
+ <congMember authorityId="1983" bioGuideId="M001183" chamber="S" congress="114" gpoId="8256" party="D" role="COSPONSOR" state="WV">
+                      <name type="parsed">Mr. Manchin</name>
+                      <name type="authority-fnf">Joe Manchin III</name>
+                      <name type="authority-lnf">Manchin, Joe, III</name>
+                      <name type="authority-other">Mr. Joe Manchin III</name>
+                </congMember>
+ <congMember authorityId="1694" bioGuideId="M001153" chamber="S" congress="114" gpoId="8234" party="R" role="COSPONSOR" state="AK">
+                      <name type="parsed">Ms. Murkowski</name>
+                      <name type="authority-fnf">Lisa Murkowski</name>
+                      <name type="authority-lnf">Murkowski, Lisa</name>
+                </congMember>
+ <congMember authorityId="1897" bioGuideId="W000805" chamber="S" congress="114" gpoId="8269" party="D" role="COSPONSOR" state="VA">
+                      <name type="parsed">Mr. Warner</name>
+                      <name type="authority-fnf">Mark R. Warner</name>
+                      <name type="authority-lnf">Warner, Mark R.</name>
+                      <name type="authority-other">Mr. Mark Warner</name>
+                </congMember>
+ <congMember authorityId="1226" bioGuideId="W000437" chamber="S" congress="114" gpoId="8263" party="R" role="COSPONSOR" state="MS">
+                      <name type="parsed">Mr. Wicker</name>
+                      <name type="authority-fnf">Roger F. Wicker</name>
+                      <name type="authority-lnf">Wicker, Roger F.</name>
+                      <name type="authority-other">Roger Wicker</name>
+                </congMember>
+ <congMember authorityId="1863" bioGuideId="H001041" chamber="S" congress="114" gpoId="8060" party="R" role="COSPONSOR" state="NV">
+                      <name type="parsed">Mr. Heller</name>
+                      <name type="authority-fnf">Dean Heller</name>
+                      <name type="authority-lnf">Heller, Dean</name>
+                </congMember>
+ <law congress="104" isPrivate="false" number="121"></law>
+ <law congress="109" isPrivate="false" number="431"></law>
+ <congCalendar congress="114" number="210" type="SENATE"></congCalendar>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="5">
+                      <section detail="(b)(4)" number="552"></section>
+                      <section number="553"></section>
+                      <section detail="(b)" number="553"></section>
+                      <section detail="(b)(3)(B)" number="553"></section>
+                      <section detail="note" number="601"></section>
+                      <chapter number="5"></chapter>
+                </USCode>
+ <USCode title="10">
+                      <section number="2164"></section>
+                </USCode>
+ <USCode title="12">
+                      <section number="1701q"></section>
+                      <section detail="(i)" number="2605"></section>
+                      <section number="3339"></section>
+                      <section number="3342"></section>
+                      <section number="4502"></section>
+                </USCode>
+ <USCode title="15">
+                      <section detail="et seq." number="631"></section>
+                      <section number="6801"></section>
+                </USCode>
+ <USCode title="20">
+                      <section number="1001"></section>
+                      <section detail="(a)" number="1002"></section>
+                      <section detail="(b)" number="1059c"></section>
+                      <section number="7801"></section>
+                      <section detail="et seq." number="921"></section>
+                </USCode>
+ <USCode title="25">
+                      <section number="2511"></section>
+                      <section number="4103"></section>
+                </USCode>
+ <USCode title="29">
+                      <section detail="(e)(2)(B)(ii)" number="2916"></section>
+                </USCode>
+ <USCode title="31">
+                      <section number="102"></section>
+                </USCode>
+ <USCode title="40">
+                      <section number="11101"></section>
+                      <section number="3307"></section>
+                </USCode>
+ <USCode title="42">
+                      <section detail="(a)" number="13451"></section>
+                      <section number="13453"></section>
+                      <section number="13456"></section>
+                      <section number="1437f"></section>
+                      <section number="15801"></section>
+                      <section number="15811"></section>
+                      <section number="17061"></section>
+                      <section detail="et seq." number="17081"></section>
+                      <section detail="(b)(2)" number="17091"></section>
+                      <section detail="(h)" number="17092"></section>
+                      <section number="17111"></section>
+                      <section detail="(a)" number="17111"></section>
+                      <section detail="(e)" number="17111"></section>
+                      <section number="17112"></section>
+                      <section number="17143"></section>
+                      <section number="17144"></section>
+                      <section detail="et seq." number="6291"></section>
+                      <section number="6294a"></section>
+                      <section detail="(e)" number="6295"></section>
+                      <section detail="(b)" number="6296"></section>
+                      <section detail="(a)" number="6302"></section>
+                      <section detail="(a)" number="6303"></section>
+                      <section number="6304"></section>
+                      <section number="6341"></section>
+                      <section number="6348"></section>
+                      <section number="6349"></section>
+                      <section number="6350"></section>
+                      <section number="6832"></section>
+                      <section number="6833"></section>
+                      <section number="6834"></section>
+                      <section detail="(a)(3)(D)" number="6834"></section>
+                      <section number="6836"></section>
+                      <section detail="(b)(3)" number="6836"></section>
+                      <section detail="(d)(2)" number="8013"></section>
+                      <section number="8253"></section>
+                      <section number="8254"></section>
+                </USCode>
+ <USCode title="44">
+                      <section number="3603"></section>
+                </USCode>
+ <statuteAtLarge volume="120">
+                      <pages pages="2920"></pages>
+                </statuteAtLarge>
+</extension>
+</mods>

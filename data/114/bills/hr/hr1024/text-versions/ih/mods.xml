@@ -1,0 +1,279 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18b6bb6dd">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To provide for the compensation of furloughed Department of Homeland Security employees in the event of a lapse in Department of Homeland Security appropriations, and for other purposes.;DHS Employee Retroactive Pay Fairness Act;H.R. 1024 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-03-03</dateIngested>
+</extension>
+<titleInfo>
+ <title>To provide for the compensation of furloughed Department of Homeland Security employees in the event of a lapse in Department of Homeland Security appropriations, and for other purposes.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>DHS Employee Retroactive Pay Fairness Act</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 1024 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-02-24</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>2 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18b6bb6dd</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1024ih</identifier>
+<identifier type="preferred citation">H.R. 1024</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h1024_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1024ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1024ih/html/BILLS-114hr1024ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1024ih/pdf/BILLS-114hr1024ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr1024ih/xml/BILLS-114hr1024ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-03-03</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-13</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr1024ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Donald S. Beyer, Jr.</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Robert J. Wittman</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>David E. Price</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Eleanor Holmes Norton</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Gerald E. Connolly</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>E. Scott Rigell</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>John K. Delaney</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Barbara Comstock</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Chris Van Hollen</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Steny H. Hoyer</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Stephen F. Lynch</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="personal">
+ <namePart>Donna F. Edwards</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text">cosponsor</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Oversight and Government Reform</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr1024ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>1024</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <shortTitle type="measure">DHS Employee Retroactive Pay Fairness Act</shortTitle>
+ <officialTitle>To provide for the compensation of furloughed Department of Homeland Security employees in the event of a lapse in Department of Homeland Security appropriations, and for other purposes.</officialTitle>
+ <action date="2015-02-24">Mr. Beyer (for himself, Mr. Wittman, Mr. Price of North Carolina, Ms. Norton, Mr. Connolly, Mr. Rigell, Mr. Delaney, Mrs. Comstock, Mr. Van Hollen, Mr. Hoyer, Mr. Lynch, and Ms. Edwards) introduced the following bill; which was referred to the Committee on Oversight and Government Reform</action>
+ <congCommittee authorityId="hsgo00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Oversight and Government Reform</name>
+                      <name type="authority-short">Oversight and Government Reform</name>
+                </congCommittee>
+ <congMember authorityId="2272" bioGuideId="B001292" chamber="H" congress="114" party="D" role="SPONSOR" state="VA">
+                      <name type="parsed">Mr. Beyer</name>
+                      <name type="authority-fnf">Donald S. Beyer, Jr.</name>
+                      <name type="authority-lnf">Beyer, Donald S., Jr.</name>
+                      <name type="authority-other">Mr. Donald Beyer Jr.</name>
+                </congMember>
+ <congMember authorityId="1886" bioGuideId="W000804" chamber="H" congress="114" gpoId="8192" party="R" role="COSPONSOR" state="VA">
+                      <name type="parsed">Mr. Wittman</name>
+                      <name type="authority-fnf">Robert J. Wittman</name>
+                      <name type="authority-lnf">Wittman, Robert J.</name>
+                      <name type="authority-other">Mr. Robert Wittman</name>
+                </congMember>
+ <congMember authorityId="930" bioGuideId="P000523" chamber="H" congress="114" gpoId="8027" party="D" role="COSPONSOR" state="NC">
+                      <name type="parsed">Mr. Price of North Carolina</name>
+                      <name type="authority-fnf">David E. Price</name>
+                      <name type="authority-lnf">Price, David E.</name>
+                      <name type="authority-other">David Price</name>
+                </congMember>
+ <congMember authorityId="868" bioGuideId="N000147" chamber="H" congress="114" gpoId="7871" party="D" role="COSPONSOR" state="DC">
+                      <name type="parsed">Ms. Norton</name>
+                      <name type="authority-fnf">Eleanor Holmes Norton</name>
+                      <name type="authority-lnf">Norton, Eleanor Holmes</name>
+                      <name type="authority-other">Eleanor Norton</name>
+                </congMember>
+ <congMember authorityId="1959" bioGuideId="C001078" chamber="H" congress="114" gpoId="8202" party="D" role="COSPONSOR" state="VA">
+                      <name type="parsed">Mr. Connolly</name>
+                      <name type="authority-fnf">Gerald E. Connolly</name>
+                      <name type="authority-lnf">Connolly, Gerald E.</name>
+                      <name type="authority-other">Mr. Gerald Connolly</name>
+                </congMember>
+ <congMember authorityId="2068" bioGuideId="R000589" chamber="H" congress="114" gpoId="8193" party="R" role="COSPONSOR" state="VA">
+                      <name type="parsed">Mr. Rigell</name>
+                      <name type="authority-fnf">E. Scott Rigell</name>
+                      <name type="authority-lnf">Rigell, E. Scott</name>
+                </congMember>
+ <congMember authorityId="2133" bioGuideId="D000620" chamber="H" congress="114" party="D" role="COSPONSOR" state="MD">
+                      <name type="parsed">Mr. Delaney</name>
+                      <name type="authority-fnf">John K. Delaney</name>
+                      <name type="authority-lnf">Delaney, John K.</name>
+                      <name type="authority-other">Mr. John Delaney</name>
+                </congMember>
+ <congMember authorityId="2273" bioGuideId="C001105" chamber="H" congress="114" party="R" role="COSPONSOR" state="VA">
+                      <name type="parsed">Mrs. Comstock</name>
+                      <name type="authority-fnf">Barbara Comstock</name>
+                      <name type="authority-lnf">Comstock, Barbara</name>
+                </congMember>
+ <congMember authorityId="1729" bioGuideId="V000128" chamber="H" congress="114" gpoId="7983" party="D" role="COSPONSOR" state="MD">
+                      <name type="parsed">Mr. Van Hollen</name>
+                      <name type="authority-fnf">Chris Van Hollen</name>
+                      <name type="authority-lnf">Van Hollen, Chris</name>
+                </congMember>
+ <congMember authorityId="566" bioGuideId="H000874" chamber="H" congress="114" gpoId="7980" party="D" role="COSPONSOR" state="MD">
+                      <name type="parsed">Mr. Hoyer</name>
+                      <name type="authority-fnf">Steny H. Hoyer</name>
+                      <name type="authority-lnf">Hoyer, Steny H.</name>
+                      <name type="authority-other">Steny Hoyer</name>
+                </congMember>
+ <congMember authorityId="1686" bioGuideId="L000562" chamber="H" congress="114" gpoId="7974" party="D" role="COSPONSOR" state="MA">
+                      <name type="parsed">Mr. Lynch</name>
+                      <name type="authority-fnf">Stephen F. Lynch</name>
+                      <name type="authority-lnf">Lynch, Stephen F.</name>
+                      <name type="authority-other">Mr. Stephen Lynch</name>
+                </congMember>
+ <congMember authorityId="1894" bioGuideId="E000290" chamber="H" congress="114" gpoId="7979" party="D" role="COSPONSOR" state="MD">
+                      <name type="parsed">Ms. Edwards</name>
+                      <name type="authority-fnf">Donna F. Edwards</name>
+                      <name type="authority-lnf">Edwards, Donna F.</name>
+                      <name type="authority-other">Ms. Donna Edwards</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+</extension>
+</mods>

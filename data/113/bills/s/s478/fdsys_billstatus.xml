@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <introducedDate>2013-03-06</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2013-03-28T15:08:23Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2013-03-06T05:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <actionDate>2013-03-06</actionDate>
+          <text><![CDATA[<p>Amends the Immigration and Nationality Act to prohibit judicial review of, or the hearing of any claim arising from, visa or document revocation. (Judicial review is currently permitted in a deportation proceeding if such revocation is the sole ground for deportation.) </p> <p> States that this Act shall: (1) take effect on the date of its enactment; (2) apply to all visas issued before, on, or after such date; and (3) apply to any claim pending on, or filed after, such date.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-03-06T20:03:31Z</date>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <systemCode>ssju00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <updateDate>2016-10-25T16:21:30Z</updateDate>
+    <amendments />
+    <title>A bill to clarify that the revocation of an alien's visa or other documentation is not subject to judicial review.</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Judicial review and appeals</name>
+          </item>
+          <item>
+            <name>Jurisdiction and venue</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+      <actionDate>2013-03-06</actionDate>
+    </latestAction>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <congress>113</congress>
+    <createDate>2013-03-07T07:01:12Z</createDate>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <relatedBills />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2013-03-06</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>B00100</actionCode>
+        <actionDate>2013-03-06</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S1233-1234</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S1233-1234</url>
+          </link>
+        </links>
+        <text>Sponsor introductory remarks on measure. (CR S1233-1234)</text>
+        <committee />
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2013-03-06</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <billNumber>478</billNumber>
+    <cosponsors>
+      <item>
+        <fullName>Sen. Chambliss, Saxby [R-GA]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000286</bioguideId>
+        <identifiers>
+          <lisID>188</lisID>
+          <gpoId>8284</gpoId>
+          <bioguideId>C000286</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-03-06</sponsorshipDate>
+        <lastName>CHAMBLISS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>GA</state>
+        <firstName>SAXBY</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000307</bioguideId>
+        <identifiers>
+          <gpoId>8275</gpoId>
+          <lisID>968</lisID>
+          <bioguideId>R000307</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2013-03-06</sponsorshipDate>
+        <lastName>ROBERTS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>R</party>
+        <state>KS</state>
+        <firstName>PAT</firstName>
+      </item>
+      <item>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <middleName>GRANT</middleName>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H000338</bioguideId>
+        <identifiers>
+          <bioguideId>H000338</bioguideId>
+          <gpoId>8314</gpoId>
+          <lisID>1351</lisID>
+        </identifiers>
+        <sponsorshipDate>2013-03-11</sponsorshipDate>
+        <lastName>HATCH</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <state>UT</state>
+        <firstName>ORRIN</firstName>
+      </item>
+    </cosponsors>
+    <notes />
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <billType>S</billType>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to clarify that the revocation of an alien's visa or other documentation is not subject to judicial review.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A bill to clarify that the revocation of an alien's visa or other documentation is not subject to judicial review.</title>
+      </item>
+    </titles>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <middleName>ERNEST</middleName>
+        <bioguideId>G000386</bioguideId>
+        <state>IA</state>
+        <byRequestType />
+        <firstName>CHARLES</firstName>
+        <identifiers>
+          <bioguideId>G000386</bioguideId>
+          <gpoId>8316</gpoId>
+          <lisID>457</lisID>
+        </identifiers>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <lastName>GRASSLEY</lastName>
+      </item>
+    </sponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

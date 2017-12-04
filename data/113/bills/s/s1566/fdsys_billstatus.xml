@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionTime>00:09:34</actionTime>
+        <actionCode>H15000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2013-10-01</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Held at the desk.</text>
+      </item>
+      <item>
+        <actionDate>2013-10-01</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionTime>23:55:21</actionTime>
+        <actionCode>H14000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2013-09-30</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Received in the House.</text>
+      </item>
+      <item>
+        <actionDate>2013-09-30</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S7049-7050</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S7049-7050</url>
+          </link>
+          <link>
+            <name>S7050</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S7050</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S7049-7050; text as passed Senate: CR S7050)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <type>Floor</type>
+        <committee />
+        <actionDate>2013-09-30</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>S7049-7050</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S7049-7050</url>
+          </link>
+          <link>
+            <name>S7050</name>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S7050</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.(consideration: CR S7049-7050; text as passed Senate: CR S7050)</text>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2013-09-30</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionByCounts>
+        <senate>4</senate>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <sentToHouse>1</sentToHouse>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-09-30</introducedDate>
+    <updateDate>2016-10-25T16:27:06Z</updateDate>
+    <createDate>2013-10-01T07:26:18Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees />
+    </committees>
+    <cosponsors>
+      <item>
+        <middleName>SIDNEY</middleName>
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <lisID>754</lisID>
+          <bioguideId>M000303</bioguideId>
+          <gpoId>8253</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>MCCAIN</lastName>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M000303</bioguideId>
+        <sponsorshipDate>2013-09-30</sponsorshipDate>
+        <state>AZ</state>
+      </item>
+      <item>
+        <middleName>JOSEPH</middleName>
+        <firstName>PATRICK</firstName>
+        <identifiers>
+          <lisID>1383</lisID>
+          <gpoId>8244</gpoId>
+          <bioguideId>L000174</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>LEAHY</lastName>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000174</bioguideId>
+        <sponsorshipDate>2013-09-30</sponsorshipDate>
+        <state>VT</state>
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <firstName>RICHARD</firstName>
+        <identifiers>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+          <bioguideId>D000563</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>DURBIN</lastName>
+        <fullName>Sen. Durbin, Richard [D-IL]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000563</bioguideId>
+        <sponsorshipDate>2013-09-30</sponsorshipDate>
+        <state>IL</state>
+      </item>
+      <item>
+        <middleName>O.</middleName>
+        <firstName>LINDSEY</firstName>
+        <identifiers>
+          <lisID>452</lisID>
+          <gpoId>8335</gpoId>
+          <bioguideId>G000359</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>GRAHAM</lastName>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000359</bioguideId>
+        <sponsorshipDate>2013-09-30</sponsorshipDate>
+        <state>SC</state>
+      </item>
+      <item>
+        <middleName />
+        <firstName>Timothy</firstName>
+        <identifiers>
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kaine</lastName>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000384</bioguideId>
+        <sponsorshipDate>2013-09-30</sponsorshipDate>
+        <state>VA</state>
+      </item>
+      <item>
+        <middleName>L.</middleName>
+        <firstName>BENJAMIN</firstName>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>CARDIN</lastName>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C000141</bioguideId>
+        <sponsorshipDate>2013-09-30</sponsorshipDate>
+        <state>MD</state>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>A bill to extend the period during which Iraqis who were employed by the United States Government in Iraq may be granted special immigrant status and to temporarily increase the fee or surcharge for processing machine-readable nonimmigrant visas.</title>
+    <titles>
+      <item>
+        <title>A bill to extend the period during which Iraqis who were employed by the United States Government in Iraq may be granted special immigrant status and to temporarily increase the fee or surcharge for processing machine-readable nonimmigrant visas.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A bill to extend the period during which Iraqis who were employed by the United States Government in Iraq may be granted special immigrant status and to temporarily increase the fee or surcharge for processing machine-readable nonimmigrant visas.</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Amends the National Defense Authorization Act for Fiscal Year 2008 to provide that the total number of aliens eligible for special immigrant status (Iraqis who were employed by or on behalf of the U.S. government in Iraq) during the first three months of FY2014 shall be the sum of: (1) the number of such aliens whose applications were pending on September 30, 2013, and (2) 2000. Imposes a deadline of December 15, 2013, for applications for special immigrant status. </p> <p>Directs the Secretary of State to increase the fee or surcharge authorized under the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 by $1 for processing machine-readable nonimmigrant visas and machine-readable combined border crossing identification cards and nonimmigrant visas. Requires amounts collected as a result of the fee increase to be deposited in the general fund of the Treasury. </p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2013-09-30</actionDate>
+          <updateDate>2013-09-30T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-10-08T13:44:20Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <text><![CDATA[<p><b>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</b></p> <p>Amends the National Defense Authorization Act for Fiscal Year 2008 to provide that the total number of aliens eligible for special immigrant status (Iraqis who were employed by or on behalf of the U.S. government in Iraq) during the first three months of FY2014 shall be the sum of: (1) the number of such aliens whose applications were pending on September 30, 2013, and (2) 2000. Imposes a deadline of December 15, 2013, for applications for special immigrant status. </p> <p>Directs the Secretary of State to increase the fee or surcharge authorized under the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 by $1 for processing machine-readable nonimmigrant visas and machine-readable combined border crossing identification cards and nonimmigrant visas. Requires amounts collected as a result of the fee increase to be deposited in the general fund of the Treasury. </p>]]></text>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <actionDate>2013-09-30</actionDate>
+          <updateDate>2013-09-30T11:43:45Z</updateDate>
+          <lastSummaryUpdateDate>2013-10-08T16:33:33Z</lastSummaryUpdateDate>
+          <name>Passed Senate without amendment</name>
+          <versionCode>82</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes>
+      <item>
+        <links>
+          <link>
+            <name>H.R.3233</name>
+            <url>https://www.congress.gov/bill/113th-congress/house-bill/3233</url>
+          </link>
+        </links>
+        <text><![CDATA[For further action, see H.R.3233, which became Public Law 113-42 on 10/4/2013.]]></text>
+      </item>
+    </notes>
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>113</congress>
+        <type>HR</type>
+        <number>3233</number>
+        <latestAction>
+          <text>Became Public Law No: 113-42.</text>
+          <actionDate>2013-10-04</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To extend the period during which Iraqis who were employed by the United States Government in Iraq may be granted special immigrant status and to temporarily increase the fee or surcharge for processing machine-readable nonimmigrant visas.</latestTitle>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Foreign labor</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Iraq</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Held at the desk.</text>
+      <actionTime>00:09:34</actionTime>
+      <actionDate>2013-10-01</actionDate>
+    </latestAction>
+    <billNumber>1566</billNumber>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>Jeanne</firstName>
+        <party>D</party>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <bioguideId>S001181</bioguideId>
+        <identifiers>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+          <lisID>1901</lisID>
+        </identifiers>
+        <lastName>Shaheen</lastName>
+        <middleName />
+        <state>NH</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

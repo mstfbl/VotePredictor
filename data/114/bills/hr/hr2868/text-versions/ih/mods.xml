@@ -1,0 +1,186 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" version="3.3" ID="P0b002ee18cc39f92">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">publisher</roleTerm>
+  <roleTerm type="code" authority="marcrelator">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm type="text" authority="marcrelator">distributor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">author</roleTerm>
+  <roleTerm type="code" authority="marcrelator">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>BILLS</collectionCode>
+ <searchTitle>To amend title I of the Employee Retirement Income Security Act of 1974 to improve access and choice for entrepreneurs with small businesses with respect to medical care for their employees.;H.R. 2868 (IH)</searchTitle>
+ <category>Bills and Statutes</category>
+ <waisDatabaseName>114_cong_bills</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2015-06-30</dateIngested>
+</extension>
+<titleInfo>
+ <title>To amend title I of the Employee Retirement Income Security Act of 1974 to improve access and choice for entrepreneurs with small businesses with respect to medical care for their employees.</title>
+</titleInfo>
+<titleInfo type="alternative">
+ <title>H.R. 2868 (IH)</title>
+</titleInfo>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2015-06-24</dateIssued>
+ <issuance>monographic</issuance>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>63 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">Y 1.6:</classification>
+<classification authority="sudocs">Y 1.4/6:</classification>
+<identifier type="local">P0b002ee18cc39f92</identifier>
+<identifier type="uri">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2868ih</identifier>
+<identifier type="preferred citation">H.R. 2868</identifier>
+<identifier type="stock number">021-610-00252-9</identifier>
+<identifier type="Parent ILS system id">000501532</identifier>
+<identifier type="Child ILS system id">000325573</identifier>
+<identifier type="Parent ILS title">Congressional bills</identifier>
+<identifier type="Child ILS title">House bills</identifier>
+<identifier type="former package identifier">f:h2868_ih.txt</identifier>
+<location xmlns:exslt="http://exslt.org/common">
+ <url access="object in context" displayLabel="Content Detail">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2868ih/content-detail.html</url>
+ <url access="raw object" displayLabel="HTML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2868ih/html/BILLS-114hr2868ih.htm</url>
+ <url access="raw object" displayLabel="PDF rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2868ih/pdf/BILLS-114hr2868ih.pdf</url>
+ <url access="raw object" displayLabel="XML rendition">https://www.gpo.gov/fdsys/pkg/BILLS-114hr2868ih/xml/BILLS-114hr2868ih.xml</url>
+</location>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2015-06-30</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2016-10-11</recordChangeDate>
+ <recordIdentifier source="DGPO">BILLS-114hr2868ih</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<name type="personal">
+ <namePart>Sam Johnson</namePart>
+ <affiliation>United States House of Representatives</affiliation>
+ <role>
+  <roleTerm type="text" authority="marcrelator">sponsor</roleTerm>
+  <roleTerm type="code" authority="marcrelator">spn</roleTerm>
+</role>
+ <description>United States Congress Member</description>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <namePart>House of Representatives</namePart>
+ <namePart>Committee on Education and the Workforce</namePart>
+ <role>
+  <roleTerm type="text" authority="marcrelator">associated name</roleTerm>
+  <roleTerm type="code" authority="marcrelator">asn</roleTerm>
+</role>
+</name>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 11 Section 704</partNumber>
+</titleInfo>
+ <identifier type="USC citation">11 U.S.C. 704</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 29 Section 1002(40)(B)</partNumber>
+  <partNumber>Title 29 Section 102(16)(B)</partNumber>
+  <partNumber>Title 29 Section 102(b)</partNumber>
+  <partNumber>Title 29 Section 1131</partNumber>
+  <partNumber>Title 29 Section 1132</partNumber>
+  <partNumber>Title 29 Section 1133</partNumber>
+  <partNumber>Title 29 Section 1136</partNumber>
+  <partNumber>Title 29 Section 1144</partNumber>
+  <partNumber>Title 29 Section 1144(b)(6)</partNumber>
+  <partNumber>Title 29 Section 1144(b)(6)(A)</partNumber>
+  <partNumber>Title 29 Section 1144(d)</partNumber>
+  <partNumber>Title 29 Section 158(d)</partNumber>
+</titleInfo>
+ <identifier type="USC citation">29 U.S.C. 1002(40)(B)</identifier>
+ <identifier type="USC citation">29 U.S.C. 102(16)(B)</identifier>
+ <identifier type="USC citation">29 U.S.C. 102(b)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1131</identifier>
+ <identifier type="USC citation">29 U.S.C. 1132</identifier>
+ <identifier type="USC citation">29 U.S.C. 1133</identifier>
+ <identifier type="USC citation">29 U.S.C. 1136</identifier>
+ <identifier type="USC citation">29 U.S.C. 1144</identifier>
+ <identifier type="USC citation">29 U.S.C. 1144(b)(6)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1144(b)(6)(A)</identifier>
+ <identifier type="USC citation">29 U.S.C. 1144(d)</identifier>
+ <identifier type="USC citation">29 U.S.C. 158(d)</identifier>
+</relatedItem>
+<relatedItem xmlns:exslt="http://exslt.org/common" type="isReferencedBy">
+ <titleInfo>
+  <title>United States Code</title>
+  <partNumber>Title 45 Section 152</partNumber>
+</titleInfo>
+ <identifier type="USC citation">45 U.S.C. 152</identifier>
+</relatedItem>
+<extension>
+ <docClass>hr</docClass>
+ <accessId>BILLS-114hr2868ih</accessId>
+ <congress>114</congress>
+ <session>1</session>
+ <originChamber>HOUSE</originChamber>
+ <currentChamber>HOUSE</currentChamber>
+ <billNumber>2868</billNumber>
+ <billVersion reprint="false">ih</billVersion>
+ <fileSuffix>ih</fileSuffix>
+ <officialTitle>To amend title I of the Employee Retirement Income Security Act of 1974 to improve access and choice for entrepreneurs with small businesses with respect to medical care for their employees.</officialTitle>
+ <action date="2015-06-24">Mr. Sam Johnson of Texas introduced the following bill; which was referred to the Committee on Education and the Workforce</action>
+ <congCommittee authorityId="hsed00" chamber="H" congress="114" type="S">
+                      <name type="authority-standard">Committee on Education and the Workforce</name>
+                      <name type="authority-short">Education and the Workforce</name>
+                </congCommittee>
+ <congMember authorityId="603" bioGuideId="J000174" chamber="H" congress="114" gpoId="8159" party="R" role="SPONSOR" state="TX">
+                      <name type="parsed">Mr. Sam Johnson of Texas</name>
+                      <name type="authority-fnf">Sam Johnson</name>
+                      <name type="authority-lnf">Johnson, Sam</name>
+                </congMember>
+ <isPrivate>false</isPrivate>
+ <isAppropriation>false</isAppropriation>
+ <USCode title="11">
+                      <section number="704"></section>
+                </USCode>
+ <USCode title="29">
+                      <section detail="(40)(B)" number="1002"></section>
+                      <section detail="(16)(B)" number="102"></section>
+                      <section detail="(b)" number="102"></section>
+                      <section number="1131"></section>
+                      <section number="1132"></section>
+                      <section number="1133"></section>
+                      <section number="1136"></section>
+                      <section number="1144"></section>
+                      <section detail="(b)(6)" number="1144"></section>
+                      <section detail="(b)(6)(A)" number="1144"></section>
+                      <section detail="(d)" number="1144"></section>
+                      <section detail="(d)" number="158"></section>
+                </USCode>
+ <USCode title="45">
+                      <section number="152"></section>
+                </USCode>
+</extension>
+</mods>

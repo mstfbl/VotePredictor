@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2013-03-20</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S2030-2035</url>
+            <name>S2030-2035</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S2030-2035)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2013-03-20</actionDate>
+        <actionCode>B00100</actionCode>
+        <text>Sponsor introductory remarks on measure. (CR S2029-2030)</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-159/senate-section/page/S2029-2030</url>
+            <name>S2029-2030</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2013-03-20</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <placeholderTextForB>1</placeholderTextForB>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2013-03-20</introducedDate>
+    <updateDate>2016-10-25T16:22:13Z</updateDate>
+    <createDate>2013-03-21T08:01:14Z</createDate>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <type>Standing</type>
+          <systemCode>sshr00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2013-03-20T22:21:04Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cosponsors>
+      <item>
+        <lastName>MIKULSKI</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Mikulski, Barbara A. [D-MD]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M000702</bioguideId>
+          <lisID>802</lisID>
+          <gpoId>8240</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>BARBARA</firstName>
+        <sponsorshipDate>2013-03-20</sponsorshipDate>
+        <middleName>ANN</middleName>
+        <bioguideId>M000702</bioguideId>
+        <state>MD</state>
+      </item>
+      <item>
+        <lastName>MURRAY</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>M001111</bioguideId>
+          <gpoId>8237</gpoId>
+          <lisID>1409</lisID>
+        </identifiers>
+        <party>D</party>
+        <firstName>PATTY</firstName>
+        <sponsorshipDate>2013-03-20</sponsorshipDate>
+        <middleName />
+        <bioguideId>M001111</bioguideId>
+        <state>WA</state>
+      </item>
+      <item>
+        <lastName>Casey</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1828</lisID>
+          <bioguideId>C001070</bioguideId>
+          <gpoId>8282</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Bob</firstName>
+        <sponsorshipDate>2013-03-20</sponsorshipDate>
+        <middleName />
+        <bioguideId>C001070</bioguideId>
+        <state>PA</state>
+      </item>
+      <item>
+        <lastName>Franken</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>8339</gpoId>
+          <lisID>1969</lisID>
+          <bioguideId>F000457</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Al</firstName>
+        <sponsorshipDate>2013-03-20</sponsorshipDate>
+        <middleName />
+        <bioguideId>F000457</bioguideId>
+        <state>MN</state>
+      </item>
+      <item>
+        <lastName>Whitehouse</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+          <lisID>1823</lisID>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Sheldon</firstName>
+        <sponsorshipDate>2013-03-20</sponsorshipDate>
+        <middleName />
+        <bioguideId>W000802</bioguideId>
+        <state>RI</state>
+      </item>
+      <item>
+        <lastName>Murphy</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Murphy, Christopher S. [D-CT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1837</lisID>
+          <bioguideId>M001169</bioguideId>
+          <gpoId>7870</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Christopher</firstName>
+        <sponsorshipDate>2013-03-20</sponsorshipDate>
+        <middleName />
+        <bioguideId>M001169</bioguideId>
+        <state>CT</state>
+      </item>
+      <item>
+        <lastName>Warren</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2182</lisID>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Elizabeth</firstName>
+        <sponsorshipDate>2013-03-20</sponsorshipDate>
+        <middleName>A.</middleName>
+        <bioguideId>W000817</bioguideId>
+        <state>MA</state>
+      </item>
+      <item>
+        <lastName>LEVIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Levin, Carl [D-MI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>L000261</bioguideId>
+          <lisID>1384</lisID>
+          <gpoId>8243</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>CARL</firstName>
+        <sponsorshipDate>2013-03-20</sponsorshipDate>
+        <middleName>MILTON</middleName>
+        <bioguideId>L000261</bioguideId>
+        <state>MI</state>
+      </item>
+      <item>
+        <lastName>DURBIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Durbin, Richard [D-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+          <lisID>326</lisID>
+        </identifiers>
+        <party>D</party>
+        <firstName>RICHARD</firstName>
+        <sponsorshipDate>2013-03-20</sponsorshipDate>
+        <middleName>J.</middleName>
+        <bioguideId>D000563</bioguideId>
+        <state>IL</state>
+      </item>
+      <item>
+        <lastName>SCHUMER</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1036</lisID>
+          <gpoId>8279</gpoId>
+          <bioguideId>S000148</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>CHARLES</firstName>
+        <sponsorshipDate>2013-03-20</sponsorshipDate>
+        <middleName>E.</middleName>
+        <bioguideId>S000148</bioguideId>
+        <state>NY</state>
+      </item>
+      <item>
+        <lastName>LAUTENBERG</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Lautenberg, Frank R. [D-NJ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1381</lisID>
+          <gpoId>8245</gpoId>
+          <bioguideId>L000123</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>FRANK</firstName>
+        <sponsorshipDate>2013-03-20</sponsorshipDate>
+        <middleName>R.</middleName>
+        <bioguideId>L000123</bioguideId>
+        <state>NJ</state>
+      </item>
+      <item>
+        <lastName>BROWN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>SHERROD</firstName>
+        <sponsorshipDate>2013-03-20</sponsorshipDate>
+        <middleName />
+        <bioguideId>B000944</bioguideId>
+        <state>OH</state>
+      </item>
+      <item>
+        <lastName>Merkley</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Jeff</firstName>
+        <sponsorshipDate>2013-03-20</sponsorshipDate>
+        <middleName />
+        <bioguideId>M001176</bioguideId>
+        <state>OR</state>
+      </item>
+      <item>
+        <lastName>Gillibrand</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Kirsten</firstName>
+        <sponsorshipDate>2013-03-20</sponsorshipDate>
+        <middleName>E.</middleName>
+        <bioguideId>G000555</bioguideId>
+        <state>NY</state>
+      </item>
+      <item>
+        <lastName>Blumenthal</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Richard</firstName>
+        <sponsorshipDate>2013-03-20</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001277</bioguideId>
+        <state>CT</state>
+      </item>
+      <item>
+        <lastName>Hirono</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <gpoId>7913</gpoId>
+          <lisID>1844</lisID>
+          <bioguideId>H001042</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Mazie</firstName>
+        <sponsorshipDate>2013-03-20</sponsorshipDate>
+        <middleName>K.</middleName>
+        <bioguideId>H001042</bioguideId>
+        <state>HI</state>
+      </item>
+      <item>
+        <lastName>Cowan</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Cowan, William M. [D-MA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2189</lisID>
+          <gpoId />
+          <bioguideId>C001099</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>William "Mo"</firstName>
+        <sponsorshipDate>2013-03-20</sponsorshipDate>
+        <middleName />
+        <bioguideId>C001099</bioguideId>
+        <state>MA</state>
+      </item>
+      <item>
+        <lastName>SANDERS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1010</lisID>
+          <gpoId>8270</gpoId>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+        <party>I</party>
+        <firstName>BERNARD</firstName>
+        <sponsorshipDate>2013-04-08</sponsorshipDate>
+        <middleName />
+        <bioguideId>S000033</bioguideId>
+        <state>VT</state>
+      </item>
+      <item>
+        <lastName>BALDWIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>TAMMY</firstName>
+        <sponsorshipDate>2013-05-13</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001230</bioguideId>
+        <state>WI</state>
+      </item>
+      <item>
+        <lastName>MARKEY</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>735</lisID>
+          <gpoId>7972</gpoId>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>EDWARD</firstName>
+        <sponsorshipDate>2013-09-11</sponsorshipDate>
+        <middleName>J.</middleName>
+        <bioguideId>M000133</bioguideId>
+        <state>MA</state>
+      </item>
+      <item>
+        <lastName>Coons</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Christopher</firstName>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <middleName>A.</middleName>
+        <bioguideId>C001088</bioguideId>
+        <state>DE</state>
+      </item>
+      <item>
+        <lastName>Booker</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>2194</lisID>
+          <gpoId />
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>Cory</firstName>
+        <sponsorshipDate>2014-09-18</sponsorshipDate>
+        <middleName>A.</middleName>
+        <bioguideId>B001288</bioguideId>
+        <state>NJ</state>
+      </item>
+      <item>
+        <lastName>MENENDEZ</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <firstName>ROBERT</firstName>
+        <sponsorshipDate>2014-12-09</sponsorshipDate>
+        <middleName />
+        <bioguideId>M000639</bioguideId>
+        <state>NJ</state>
+      </item>
+    </cosponsors>
+    <congress>113</congress>
+    <billType>S</billType>
+    <title>Healthy Families Act</title>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Healthy Families Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to allow Americans to earn paid sick time so that they can address their own health needs and the health needs of their families.</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Healthy Families Act</title>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Healthy Families Act - Requires certain employers, who employ 15 or more employees for each working day during 20 or more workweeks a year, to permit each employee to earn at least 1 hour of paid sick time for every 30 hours worked.</p> <p>Declares that an employer shall not be required to permit an employee to earn more than 56 hours of paid sick time in a calendar year, unless the employer chooses to set a higher limit.</p> <p>Allows employees to use such time to: (1) meet their own medical needs; (2) care for the medical needs of certain family members (including a domestic partner or the domestic partner's parent or child); or (3) seek medical attention, assist a related person, take legal action, or engage in other specified activities relating to domestic violence, sexual assault, or stalking.</p> <p>Prohibits an employer from interfering with an employee's exercise of such rights.</p> <p>Directs the Secretary of Labor to exercise certain investigative and enforcement authority for employees covered by the Family and Medical Leave Act of 1993 or the Government Employee Rights Act of 1991. Grants the same authority, for employees under their jurisdiction, to the Librarian of Congress, the Comptroller General (GAO), the Board of Directors of the congressional Office of Compliance, and the Merit Systems Protection Board.</p> <p>Authorizes civil actions by employees, individuals, or their representatives for damages or equitable relief against employers who violate this Act.</p> <p>Waives a state's sovereign immunity with respect to a suit brought by an employee of a federally-assisted state program or activity for relief authorized under this Act.</p> <p>Requires the Commissioner of Labor Statistics to annually compile information on paid sick time and the Comptroller General to study related matters.</p> <p>Declares that nothing in this Act shall be construed to discourage employers from adopting or retaining more generous leave policies.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2013-03-20</actionDate>
+          <updateDate>2013-03-20T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2013-04-02T15:53:18Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <cboCostEstimates />
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>1286</number>
+        <type>HR</type>
+        <latestTitle>Healthy Families Act</latestTitle>
+        <latestAction>
+          <actionDate>2013-04-23</actionDate>
+          <text>Referred to the Subcommittee on Workforce Protections.</text>
+        </latestAction>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>113</congress>
+        <number>5849</number>
+        <type>HR</type>
+        <latestTitle>Paid Sick Leave Act</latestTitle>
+        <latestAction>
+          <actionDate>2014-12-11</actionDate>
+          <text>Referred to House Judiciary</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Assault and harassment offenses</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Congressional agencies</name>
+          </item>
+          <item>
+            <name>Congressional officers and employees</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Domestic violence and child abuse</name>
+          </item>
+          <item>
+            <name>Employee leave</name>
+          </item>
+          <item>
+            <name>Employment discrimination and employee rights</name>
+          </item>
+          <item>
+            <name>Government Accountability Office (GAO)</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government liability</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Library of Congress</name>
+          </item>
+          <item>
+            <name>Marriage and family status</name>
+          </item>
+          <item>
+            <name>Merit Systems Protection Board</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S2030-2035)</text>
+      <actionDate>2013-03-20</actionDate>
+    </latestAction>
+    <billNumber>631</billNumber>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <amendments />
+    <sponsors>
+      <item>
+        <firstName>THOMAS</firstName>
+        <party>D</party>
+        <fullName>Sen. Harkin, Tom [D-IA]</fullName>
+        <bioguideId>H000206</bioguideId>
+        <identifiers>
+          <lisID>501</lisID>
+          <gpoId>8317</gpoId>
+          <bioguideId>H000206</bioguideId>
+        </identifiers>
+        <lastName>HARKIN</lastName>
+        <middleName>RICHARD</middleName>
+        <state>IA</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+
