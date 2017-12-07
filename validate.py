@@ -71,7 +71,7 @@ def validate(validation_set, model):
           legislator_results[legislator["id"]]["total"] = legislator_results[legislator["id"]].get("total", 0) + 1
  
 
-    #Validating Nay votes predicted
+    #Validating votes predicted
     validateXVotes("Nay",0)
     validateXVotes("No",0)
     validateXVotes("Yea",1)
