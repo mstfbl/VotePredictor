@@ -85,7 +85,6 @@ def validate(validation_set, model, c):
             legislator_results[legislator["id"]]["success"] = legislator_results[legislator["id"]].get("success", 0) + 1
           legislator_results[legislator["id"]]["total"] = legislator_results[legislator["id"]].get("total", 0) + 1
  
-
     #Validating votes predicted
     validateXVotes("Nay",0)
     validateXVotes("No",0)
@@ -98,7 +97,7 @@ def validate(validation_set, model, c):
       vote_results[vote] = True
     else:
       vote_results[vote] = False
-
+      
   return [legislator_results, vote_results]
 
 #Generate predictions for bills given the legislator(Congressman)
