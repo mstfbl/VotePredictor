@@ -3,10 +3,14 @@ import json
 import nltk
 import time
 import random
+import argparse
+
+def dprint(explanation,msg):
+  if args.debug == 1:
+    print(explanation + ": " + str(msg))
 
 def main():
   with open('complete.json') as json_data:
-    startTime = time.time()
     data = json.load(json_data)
     validation_set_size = round(len(data) / 10)
     training_set_size = len(data) - validation_set_size
@@ -25,8 +29,9 @@ def main():
     with open('validation_set.json', 'w') as f:
       json.dump(validation_set, f)
 
+    startTime = time.time()
     model = train(training_set)
-    print (time.time() - startTime)
+    dprint("Time for model to train",time.time() - startTime)
     with open('model.json', 'w') as f:
       json.dump(model, f)
 
@@ -39,24 +44,24 @@ def train(training_set):
   nayfails = 0
   yeafails = 0
   not_votingfails = 0
-  print (textfails, nayfails, yeafails, not_votingfails)
+  dprint("Value of textfails",textfails)
+  dprint("Value of nayfails",nayfails)
+  dprint("Value of yeafails",yeafails)
+  dprint("Value of not_votingfails",not_votingfails)
   for vote in training_set:
     flag = 0
     if "text" not in training_set[vote]["bill"]:
       textfails += 1
-      flag = 1
+      dprint("Text not in training set votes for billcode",training_set[vote]["bill"]["type"] + str(training_set[vote]["bill"]["number"]))
     if "Nay" not in training_set[vote]["votes"]:
       nayfails += 1
-      flag = 1
+      dprint("Nay not in training set votes for billcode",training_set[vote]["bill"]["type"] + str(training_set[vote]["bill"]["number"]))
     if "Not Voting" not in training_set[vote]["votes"]:
       not_votingfails += 1
-      flag = 1
+      dprint("Not voting not in training set votes for billcode",training_set[vote]["bill"]["type"] + str(training_set[vote]["bill"]["number"]))
     if "Yea" not in training_set[vote]["votes"]:
       yeafails += 1
-      flag = 1
-    if flag == 1:
-      print(training_set[vote]["bill"]["type"] + str(training_set[vote]["bill"]["number"]))
-      continue
+      dprint("Yea not in training set votes for billcode",training_set[vote]["bill"]["type"] + str(training_set[vote]["bill"]["number"]))
     full_text = nltk.word_tokenize(training_set[vote]["bill"]["text"])
     words = set(full_text)
     for word in words:
@@ -65,7 +70,7 @@ def train(training_set):
       word = word.lower()
       thing += 1
       if (thing % 10000 == 0):
-        print (thing)
+        dprint("Iterator",thing)
       if "Nay" in training_set[vote]["votes"]:
         for legislator in training_set[vote]["votes"]["Nay"]:
           if legislator["id"] not in model:
@@ -105,7 +110,7 @@ def train(training_set):
           model[legislator["id"]]["Not Voting"] = {}
         model[legislator["id"]]["Not Voting"][word] = model[legislator["id"]]["Not Voting"].get(word, 0) + 1
         model[legislator["id"]]["Not Voting"]["total_wc !@#"] = model[legislator["id"]]["Not Voting"].get(1, 0) + 1
-  print (textfails, nayfails, yeafails, not_votingfails)
+  dprint("TextFails,NayFails,YeaFails,NotVotingFails",(textfails, nayfails, yeafails, not_votingfails))
   idf["total_wc !@#"] = len(training_set)
   with open('idf.json', 'w') as f:
     json.dump(idf, f)
@@ -115,10 +120,9 @@ def validate(validation_set, model):
   results = {}
 
   count = 0
-  print (len(validation_set))
+  dprint("Length of validation sets",len(validation_set))
   for vote in validation_set:
     count += 1
-    print (count)
     if "Nay" in validation_set[vote]["votes"]:
       for legislator in validation_set[vote]["votes"]["Nay"]:
         if legislator["id"] not in model:
@@ -198,6 +202,9 @@ def generate_label(legislator, billText):
   else:
     return 2
 
+parser = argparse.ArgumentParser()
+parser.add_argument("debug")
+parser.parse_args()
 
 if __name__ == "__main__":
   main()
