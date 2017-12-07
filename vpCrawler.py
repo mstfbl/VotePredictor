@@ -34,8 +34,13 @@ def main():
                     mergedData[billCode] = {}
                     mergedData[billCode]["bill"] = data["bill"]
                     mergedData[billCode]["votes"] = data["votes"]
+                    result = data["result_text"]
+                    mergedData[billCode]["result"] = "Agreed" in result or "Passed" in result or "Overridden" in result 
+                    fraction = data["requires"].split("/")
+                    mergedData[billCode]["requires"] = float(fraction[0]) / float(fraction[1])
                     mergedData[billCode]["vote_id"] = data["vote_id"]
-            
+                # if count > 50:
+                #     break
     with open('mergedData.json', 'w') as f:
      json.dump(mergedData, f, sort_keys=True, indent=4, separators=(',', ': '))
 if __name__ == "__main__":
