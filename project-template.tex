@@ -156,7 +156,7 @@ your paper.
 
 \section{Experiments}
 
-We tested our algorithm over many different values of $k$ for the tf-idf hyperparameter as well as $k=\infty$ which is equivalent to ignoring tf-idf and simply using naive Bayes over all words, and compared it to several baselines. Our 3 baselines were predicting every congressman as yes, predicting every congressman as no, and predicting every congressman using a weighted coinflip based on the total number of yes/no/abstains in the entire training set. There were two relevant test statistics we calculated for each approach: mean congressman success probability, and overall bill prediction success rates. 
+We tested our algorithm over many different values of $k$ for the tf-idf hyperparameter as well as $k=\infty$ which is equivalent to ignoring tf-idf and simply using naive Bayes over all words. We also compared it to several baselines. Our 3 baselines were predicting every congressman as yes, predicting every congressman as no, and predicting every congressman using a weighted coinflip based on the total number of yes/no/abstains in the entire training set. There were two relevant test statistics we calculated for each approach: mean congressman success probability, and overall bill prediction success rates. Although mean congressman success probability is correlated with overall bill prediction success rates, it is not completely indicative of the overall success rate. Both statistics are useful, and so we use both to summarize the effectiveness of our algorithm.
 
 \iffalse
 Analysis, evaluation, and critique of the algorithm and your
@@ -187,7 +187,11 @@ evaluation. Discuss what you learned from the implementation.
 
 \section{Discussion}
 
+One flaw to our approach was the underlying naive Bayes assumption that each feature is independent of all others. This is a general simplifying assumption that allowed us to actually implement an algorithm and get results, but in general could be reevaluated for better performance. When dealing with bills, it is likely that looking at longer pieces of text, like pairs of words or sentences, would provide better results. Interactions between words are key to their meaning, so expanding our model to incorporate those would be an improvement to consider if we were to expand our project to a larger scope. Given more time, we could also test several more hyperparameters for our model. We could have implemented a td-idf based document keyword algorithm as part of our training set, for example. Although we are unsure what the effect of such a change would be, it is possible that it could improve our classifier.
+
+\iffalse
 Summary of approach and results. Major takeaways? Things you could improve in future work?
+\fi
 
 \appendix
 
