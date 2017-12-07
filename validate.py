@@ -7,11 +7,13 @@ import random
 import argparse
 from heapq import heappush, heappop, heappushpop, nsmallest
 from math import log
+DEBUG = 1
 
 def main():
   # Usage 
-  # python validate.py c numIter 
-  # python validate.py c
+  # python validate.py start numIter step
+  # python validate.py start numIter 
+  # python validate.py start
   # python validate.py
 
   with open('model.json') as d:
@@ -21,17 +23,21 @@ def main():
 
   c = 12
   numIter = 1
+  step = 1
   if len(sys.argv) >= 2:
     c = int(sys.argv[1])
-  if len (sys.argv) == 3:
+  if len(sys.argv) >= 3:
     numIter = int(sys.argv[2])
+  if len(sys.argv) == 4:
+    step = int(sys.argv[3])
   for i in range(numIter):
     startTime = time.time()
-    results = validate(validation_set, model, i + c)
+    results = validate(validation_set, model, i * step + c)
     endTime = time.time()
     temp = list()
     for legislator in results[0]:
       temp.append(results[0][legislator].get("success", 0) / float(results[0][legislator].get("total", 1)))
+    dprint("Words Considered: ",  str(step * i + c))
     dprint("Success rate on average for predicting votes of Congressmen",sum(temp)/ len(temp))
     dprint("Time to validate",str((endTime-startTime)//60) + " minutes " + str((endTime-startTime)%60) + " seconds")
     correct = 0
@@ -39,7 +45,7 @@ def main():
       if results[1][vote]:
         correct += 1
     dprint("Correct votes: ",str(float(correct) / len(results[1])))
-    with open('results' + '.txt', 'w') as f:
+    with open('results' + str(i * step + c) + '.txt', 'w') as f:
       for p in temp:
         f.write("%s\n" % str(p))
       f.write("%s\n" % ("Legislator Avg: " + str(sum(temp)/ len(temp))))
@@ -146,12 +152,8 @@ def tfidf(billText, idf, c):
   return [(word, word_count[word]) for (_, word) in heap]
 
 def dprint(explanation,msg):
-  if args.debug == 1:
+  if DEBUG == 1:
     print(explanation + ": " + str(msg))
-
-parser = argparse.ArgumentParser()
-parser.add_argument("debug")
-args = parser.parse_args()
 
 if __name__ == "__main__":
   main()
