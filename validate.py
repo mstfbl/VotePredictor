@@ -4,34 +4,49 @@ import json
 import nltk
 import time
 import random
+import argparse
 from heapq import heappush, heappop, heappushpop, nsmallest
 from math import log
 
 def main():
+  # Usage 
+  # python validate.py c numIter 
+  # python validate.py c
+  # python validate.py
+
   with open('model.json') as d:
     model = json.load(d)
   with open('validation_set.json') as d:
     validation_set = json.load(d)
 
-  startTime = time.time()
-  results = validate(validation_set, model)
-  endTime = time.time()
-  temp = list()
-  for legislator in results[0]:
-    temp.append(results[0][legislator].get("success", 0) / float(results[0][legislator].get("total", 1)))
-  dprint("Success rate on average for predicting votes of Congressmen",sum(temp)/ len(temp))
-  dprint("Time to validate",str((endTime-startTime)//60) + " minutes " + str((endTime-startTime)%60) + " seconds")
-  correct = 0
-  for vote in results[1]:
-    if results[1][vote]:
-      correct += 1
-  dprint("Correct votes: ",str(float(correct) / len(results[1])))
-  with open('results.txt', 'w') as f:
-    for p in temp:
-      f.write("%s\n" % str(p))
+  c = 12
+  numIter = 1
+  if len(sys.argv) >= 2:
+    c = int(sys.argv[1])
+  if len (sys.argv) == 3:
+    numIter = int(sys.argv[2])
+  for i in range(numIter):
+    startTime = time.time()
+    results = validate(validation_set, model, i + c)
+    endTime = time.time()
+    temp = list()
+    for legislator in results[0]:
+      temp.append(results[0][legislator].get("success", 0) / float(results[0][legislator].get("total", 1)))
+    dprint("Success rate on average for predicting votes of Congressmen",sum(temp)/ len(temp))
+    dprint("Time to validate",str((endTime-startTime)//60) + " minutes " + str((endTime-startTime)%60) + " seconds")
+    correct = 0
+    for vote in results[1]:
+      if results[1][vote]:
+        correct += 1
+    dprint("Correct votes: ",str(float(correct) / len(results[1])))
+    with open('results' + '.txt', 'w') as f:
+      for p in temp:
+        f.write("%s\n" % str(p))
+      f.write("%s\n" % ("Legislator Avg: " + str(sum(temp)/ len(temp))))
+      f.write("%s\n" % ("Bills Correct: " + str(float(correct) / len(results[1]))))
 
 #Validate predicted votes with actual votes
-def validate(validation_set, model):
+def validate(validation_set, model, c):
   legislator_results = {}
   vote_results = {}
   count = 0
@@ -44,10 +59,10 @@ def validate(validation_set, model):
 
     #Restricted TF-IDF version of bill texts, cmd line arg for TF-IDF hyperparameter
     if len(sys.argv) >= 2:
-      billText = tfidf(nltk.word_tokenize(validation_set[vote]["bill"]["text"]), idf)
-    #Unrestricted TF-IDF version of bill texts   
+      billText = tfidf(nltk.word_tokenize(validation_set[vote]["bill"]["text"]), idf, c)
     else:
       billText = nltk.word_tokenize(validation_set[vote]["bill"]["text"])
+      billText = [(1, word) for word in billText]
 
     #Background info: In Congress, due to small legislature differences, some
     #bills are votes as Nay or No and Aye or Yea. For these purposes, we count
@@ -56,7 +71,7 @@ def validate(validation_set, model):
     #Label = 0 means Nay/No
     #Label = 1 means Yea/Aye
 
-    def validateXVotes(givenVote,label):
+    def validateXVotes(givenVote,givenLabel):
       if givenVote in validation_set[vote]["votes"]:
         for legislator in validation_set[vote]["votes"][givenVote]:
           if legislator["id"] not in model:
@@ -66,7 +81,7 @@ def validate(validation_set, model):
           if legislator["id"] not in legislator_results:
             legislator_results[legislator["id"]] = {}
           #If predicted correctly
-          if label == 0:
+          if label == givenLabel:
             legislator_results[legislator["id"]]["success"] = legislator_results[legislator["id"]].get("success", 0) + 1
           legislator_results[legislator["id"]]["total"] = legislator_results[legislator["id"]].get("total", 0) + 1
  
@@ -93,15 +108,15 @@ def generate_label(legislator, billText, vote_count):
   p_yea = 0.
   p_not_voting = 0.
   k = 1
+  for (word, count) in billText:
   #Modifying Nay vs Yeah probabilities given each word
-  for word in billText:
     word = word.lower()
     if "Nay" in legislator:
-      p_nay += log(legislator["Nay"].get(word, 0) + k / float(legislator["Nay"].get("total_wc !@#", 0) + k))
+      p_nay += count * log(legislator["Nay"].get(word, 0) + k / float(legislator["Nay"].get("total_wc !@#", 0) + k))
     if "Yea" in legislator:
-      p_yea += log(legislator["Yea"].get(word, 0) + k / float(legislator["Yea"].get("total_wc !@#", 0) + k))
+      p_yea += count * log(legislator["Yea"].get(word, 0) + k / float(legislator["Yea"].get("total_wc !@#", 0) + k))
     if "Not Voting" in legislator:
-      p_not_voting += log(legislator["Not Voting"].get(word, 0) + k / float(legislator["Not Voting"].get("total_wc !@#", 0) + k))
+      p_not_voting += count * log(legislator["Not Voting"].get(word, 0) + k / float(legislator["Not Voting"].get("total_wc !@#", 0) + k))
   #Choose the highest probable label
   p_max = max(p_nay,p_yea,p_not_voting)
   if p_max == p_nay:
@@ -115,9 +130,8 @@ def generate_label(legislator, billText, vote_count):
     return 2
 
 #The TF-IDF algorithm with hyperparameters
-def tfidf(billText, idf):
+def tfidf(billText, idf, c):
   word_count = {}
-  c = 25
   for word in billText:
     word = word.lower()
     word_count[word] = word_count.get(word, 0) + 1
@@ -130,7 +144,7 @@ def tfidf(billText, idf):
       heappush(heap, (tfidf_val, word))
     elif heap[0][0] < tfidf_val:
       heappushpop(heap, (tfidf_val, word))
-  return [word for (_, word) in heap]
+  return [(word, word_count[word]) for (_, word) in heap]
 
 def dprint(explanation,msg):
   if args.debug == 1:
@@ -138,7 +152,7 @@ def dprint(explanation,msg):
 
 parser = argparse.ArgumentParser()
 parser.add_argument("debug")
-parser.parse_args()
+args = parser.parse_args()
 
 if __name__ == "__main__":
   main()
