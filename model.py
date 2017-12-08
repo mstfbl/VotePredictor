@@ -4,9 +4,10 @@ import nltk
 import time
 import random
 import argparse
+DEBUG = 1
 
 def dprint(explanation,msg):
-  if args.debug == 1:
+  if DEBUG == 1:
     print(explanation + ": " + str(msg))
 
 def main():
@@ -76,10 +77,6 @@ def train(training_set):
   with open('idf.json', 'w') as f:
     json.dump(idf, f)
   return model
-
-parser = argparse.ArgumentParser()
-parser.add_argument("debug")
-parser.parse_args()
 
 if __name__ == "__main__":
   main()

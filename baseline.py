@@ -6,37 +6,29 @@ import random
 import matplotlib.pyplot
 
 def main():
-  with open('complete.json') as json_data:
-    startTime = time.time()
-    data = json.load(json_data)
-    validation_set_size = len(data) / 10
-    training_set = {}
-    validation_set = {}
-    for key in data:
-      if validation_set_size > 0 and random.random() < .1:
-        validation_set[key] = data[key]
-        validation_set_size -= 1
-      else:
-        training_set[key] = data[key]
-    
-    model = train_weighted_flip(training_set)
-    results = validate_weighted_flip(validation_set, model)
-    temp = list()
-    for legislator in results[0]:
-      temp.append(results[0][legislator].get("success", 0) / float(results[0][legislator]["total"]))
-      # print (results[legislator].get("success", 0) / float(results[legislator]["total"]))
-    # print (time.time() - startTime)
 
-    print(sum(temp)/ len(temp))
-    correct = 0
-    for vote in results[1]:
-      if results[1][vote]:
-        correct += 1
-    print ("Correct: " + str(float(correct) / len(results[1])))
-    with open('results.txt', 'w') as f:
-      for p in temp:
-        f.write("%s\n" % str(p))
+  with open('training_set.json') as d:
+    training_set = json.load(d)
 
+  with open('validation_set.json') as d:
+    validation_set = json.load(d)
+  model = train_weighted_flip(training_set)
+  results = validate_weighted_flip(validation_set, model)
+  temp = list()
+  for legislator in results[0]:
+    temp.append(results[0][legislator].get("success", 0) / float(results[0][legislator]["total"]))
+    # print (results[legislator].get("success", 0) / float(results[legislator]["total"]))
+  # print (time.time() - startTime)
+
+  print(sum(temp)/ len(temp))
+  correct = 0
+  for vote in results[1]:
+    if results[1][vote]:
+      correct += 1
+  print ("Correct: " + str(float(correct) / len(results[1])))
+  with open('results.txt', 'w') as f:
+    for p in temp:
+      f.write("%s\n" % str(p))
           
     # matplotlib.pyplot.hist(temp, bins = 10)
     # matplotlib.pyplot.show()
