@@ -26,10 +26,12 @@ def main():
     if results[1][vote]:
       correct += 1
   print ("Correct: " + str(float(correct) / len(results[1])))
-  with open('results.txt', 'w') as f:
+  with open('baseline.txt', 'w') as f:
     for p in temp:
       f.write("%s\n" % str(p))
-          
+    f.write("%s\n" % ("Legislator Avg: " + str(sum(temp)/ len(temp))))
+    f.write("%s\n" % ("Bills Correct: " + str(float(correct) / len(results[1]))))
+
     # matplotlib.pyplot.hist(temp, bins = 10)
     # matplotlib.pyplot.show()
 
@@ -144,8 +146,6 @@ def generate_label(legislator, vote_count):
   p_yea = legislator.get("Yea", 0) / float(legislator.get("Nay", 0) + legislator.get("Yea", 0) + legislator.get("Not Voting", 0)) 
   r = random.random()
 
-  p_yea = 1.
-  p_nay = 0.
   if r < p_nay:
     vote_count[0] += 1
     return 0

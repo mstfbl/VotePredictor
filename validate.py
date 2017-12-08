@@ -112,7 +112,7 @@ def generate_label(legislator, billText, vote_count):
   p_nay = 0.
   p_yea = 0.
   p_not_voting = 0.
-  k = 3
+  k = 10
   for (word, count) in billText:
   #Modifying Nay vs Yeah probabilities given each word
     word = word.lower()
