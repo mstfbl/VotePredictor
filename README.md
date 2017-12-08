@@ -2,7 +2,7 @@
 Using Naive Bayes to Predict Votes of Congressmen from Bill Texts. By David Gibson, Thomas Chang, Mustafa Bal.
 
 # System Description
-All code is written for python 3.6 and is assumed to be executed in the top level directory of the git repository. Additionally, nltk and matplotlib.pylplot are dependencies for this project. These two libraries can be found  at the following two links: [nltk]{http://www.nltk.org/install.html and [matplotlib]{http://matplotlib.org/users/installing.html}. Generated plots will vary slightly from displayed plots because of randomization in the training and validation sets.
+All code is written for python 3.6 and is assumed to be executed in the top level directory of the git repository. Additionally, nltk and matplotlib.pylplot are dependencies for this project. These two libraries can be found  at the following two links: [nltk](http://www.nltk.org/install.html) and [matplotlib](http://matplotlib.org/users/installing.html). Generated plots will vary slightly from displayed plots because of randomization in the training and validation sets.
 
 1. Clone the [git repo](https://github.com/mstfbl/VotePredictor)
 2. Unzip **complete.zip** and keep **complete.json** in the same directory as **model.py**
