@@ -113,15 +113,16 @@ def generate_label(legislator, billText, vote_count):
   p_yea = 0.
   p_not_voting = 0.
   k = 3
+  unique_words = len(set([word for (word, _) in billText]))
   for (word, count) in billText:
   #Modifying Nay vs Yeah probabilities given each word
     word = word.lower()
     if "Nay" in legislator:
-      p_nay += log(legislator["Nay"].get(word, 0) + k / float(legislator["Nay"].get("total_wc !@#", 0) + k))
+      p_nay += log((legislator["Nay"].get(word, 0) + k) / (float(legislator["Nay"].get("total_wc !@#", 0) + k * unique_words)))
     if "Yea" in legislator:
-      p_yea += log(legislator["Yea"].get(word, 0) + k / float(legislator["Yea"].get("total_wc !@#", 0) + k))
+      p_yea += log((legislator["Yea"].get(word, 0) + k) / (float(legislator["Yea"].get("total_wc !@#", 0) + k * unique_words)))
     if "Not Voting" in legislator:
-      p_not_voting += log(legislator["Not Voting"].get(word, 0) + k / float(legislator["Not Voting"].get("total_wc !@#", 0) + k))
+      p_not_voting += log((legislator["Not Voting"].get(word, 0) + k) / (float(legislator["Not Voting"].get("total_wc !@#", 0) + k * unique_words)))
   #Choose the highest probable label
   p_max = max(p_nay,p_yea,p_not_voting)
   if p_max == p_nay:
