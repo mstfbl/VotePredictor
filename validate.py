@@ -4,7 +4,6 @@ import json
 import nltk
 import time
 import random
-import argparse
 from heapq import heappush, heappop, heappushpop, nsmallest
 from math import log
 DEBUG = 1

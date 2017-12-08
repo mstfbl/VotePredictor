@@ -10,6 +10,7 @@ def main():
     startingYear = 2015
     mergedData = {}
     billIDCounter = {} #Counts the different versions of bills with the same bill code
+    names = {}
     count = 0
     for year in range(startingYear,2017):
         currentParentPath = parentPath+str(year)+"/"
@@ -39,9 +40,14 @@ def main():
                     fraction = data["requires"].split("/")
                     mergedData[billCode]["requires"] = float(fraction[0]) / float(fraction[1])
                     mergedData[billCode]["vote_id"] = data["vote_id"]
+                    for vote_type in data["votes"]:
+                        for legislator in data["votes"][vote_type]:
+                            names[legislator["id"]] = legislator["party"] + "-" + legislator["state"] + "-" + legislator["display_name"] 
                 # if count > 50:
                 #     break
     with open('mergedData.json', 'w') as f:
-     json.dump(mergedData, f, sort_keys=True, indent=4, separators=(',', ': '))
+        json.dump(mergedData, f, sort_keys=True, indent=4, separators=(',', ': '))
+    with open('names.json','w') as f:
+        json.dump(names, f)
 if __name__ == "__main__":
     main()
